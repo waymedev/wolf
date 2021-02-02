@@ -1,0 +1,857 @@
+[{
+  "StartTime": 1.13,
+  "EndTime": 2.79,
+  "Value": "College English Test"
+}, {
+  "StartTime": 2.79,
+  "EndTime": 13.82,
+  "Value": "Band Four Part Ⅱ  Listening Comprehension Section A Directions: In this section, you will hear three news reports."
+}, {
+  "StartTime": 13.82,
+  "EndTime": 19.27,
+  "Value": "At the end of each news report, you will hear two or three questions."
+}, {
+  "StartTime": 19.27,
+  "EndTime": 24.37,
+  "Value": "Both the news report and the questions will be spoken only once."
+}, {
+  "StartTime": 24.37,
+  "EndTime": 32.98,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 32.98,
+  "EndTime": 39.81,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 39.81,
+  "EndTime": 47.79,
+  "Value": "News Report One New York State plans to shut off the thundering waters of Niagara Falls—gain."
+}, {
+  "StartTime": 47.79,
+  "EndTime": 51.33,
+  "Value": "At least, the American side of the falls."
+}, {
+  "StartTime": 51.33,
+  "EndTime": 57.8,
+  "Value": "This \"once in a lifetime\" event actually may take place twice in some folks' lives."
+}, {
+  "StartTime": 57.8,
+  "EndTime": 78.58,
+  "Value": "The New York State parks system wants to turn off the falls on the American side sometime in the next two to three years to replace two 115-year-old stone bridges that allow pedestrians, park vehicles and utilities access to Goat Island."
+}, {
+  "StartTime": 78.58,
+  "EndTime": 88.45,
+  "Value": "The American side of the falls were shut off in 1969 to study the buildup of rock at the base of the falls."
+}, {
+  "StartTime": 88.45,
+  "EndTime": 95.24,
+  "Value": "When that happened, people came from all over the world to see the falls turned off."
+}, {
+  "StartTime": 95.24,
+  "EndTime": 97.82,
+  "Value": "People are curious by nature."
+}, {
+  "StartTime": 97.82,
+  "EndTime": 100.28,
+  "Value": "They want to see what's underneath."
+}, {
+  "StartTime": 100.28,
+  "EndTime": 105.98,
+  "Value": "In fact, those who first came to have a look did see something."
+}, {
+  "StartTime": 105.98,
+  "EndTime": 109.62,
+  "Value": "They found millions of coins on the bottom."
+}, {
+  "StartTime": 109.62,
+  "EndTime": 111.29,
+  "Value": "Questions 1 and 2"
+}, {
+  "StartTime": 111.29,
+  "EndTime": 114.93,
+  "Value": "are based on the news report you have just heard."
+}, {
+  "StartTime": 114.93,
+  "EndTime": 135.57,
+  "Value": "1. Why does New York State want to turn off Niagara Falls?"
+}, {
+  "StartTime": 135.57,
+  "EndTime": 156.94,
+  "Value": "2. What did people find when Niagara Falls were shut off in 1969?"
+}, {
+  "StartTime": 156.94,
+  "EndTime": 167.92,
+  "Value": "News Report Two The Tunisian government said Monday that 45 people have been killed after gunmen attacked a town near the border with Libya."
+}, {
+  "StartTime": 167.92,
+  "EndTime": 177.58,
+  "Value": "The Interior and Defense ministries said that the Tunisian government has closed its two border crossings with Libya because of the attack."
+}, {
+  "StartTime": 177.58,
+  "EndTime": 188.21,
+  "Value": "The Tunisian military has sent reinforcements and helicopters to the area, and authorities have been hunting several attackers who were still at large."
+}, {
+  "StartTime": 188.21,
+  "EndTime": 195.72,
+  "Value": "The violence came amid increasing international concern about Islamic State extremists in Libya."
+}, {
+  "StartTime": 195.72,
+  "EndTime": 204.34,
+  "Value": "Officials of the Tunisian government are especially worried after dozens of tourists were killed in the attacks in Tunisia last year."
+}, {
+  "StartTime": 204.34,
+  "EndTime": 219.2,
+  "Value": "Defense Minister Farhat Horchani said last week that German and American security experts were expected to come to help Tunisia devise a new electronic video supervision system on its border with Libya."
+}, {
+  "StartTime": 219.2,
+  "EndTime": 228.23,
+  "Value": "Tunisia was targeted last year by three attacks that left 70 people dead and were claimed by Islamic State."
+}, {
+  "StartTime": 228.23,
+  "EndTime": 230.31,
+  "Value": "Questions 3 and 4"
+}, {
+  "StartTime": 230.31,
+  "EndTime": 234.76,
+  "Value": "are based on the news report you have just heard."
+}, {
+  "StartTime": 234.76,
+  "EndTime": 256.22,
+  "Value": "3. What did the Tunisian government do after the gunmen's attack?"
+}, {
+  "StartTime": 256.22,
+  "EndTime": 278,
+  "Value": "4. What were German and American security experts expected to do in Tunisia?"
+}, {
+  "StartTime": 278,
+  "EndTime": 289.4,
+  "Value": "News Report Three Three university students in Santiago, Chile, have developed a plant-powered device to charge their mobile phones."
+}, {
+  "StartTime": 289.4,
+  "EndTime": 296.92,
+  "Value": "The three engineering students got the idea for the device while sitting in their school's courtyard."
+}, {
+  "StartTime": 296.92,
+  "EndTime": 302.76,
+  "Value": "Their invention is a small biological circuit they call E-Kaia."
+}, {
+  "StartTime": 302.76,
+  "EndTime": 311.83,
+  "Value": "It captures the energy which plants produce during photosynthesis— a process of converting sunlight into energy."
+}, {
+  "StartTime": 311.83,
+  "EndTime": 318.03,
+  "Value": "A plant uses only a small part of the energy produced by that process."
+}, {
+  "StartTime": 318.03,
+  "EndTime": 320.7,
+  "Value": "The rest goes into the soil."
+}, {
+  "StartTime": 320.7,
+  "EndTime": 323.66,
+  "Value": "E-Kaia collects that energy."
+}, {
+  "StartTime": 323.66,
+  "EndTime": 329.73,
+  "Value": "The device plugs into the ground and then into a mobile phone."
+}, {
+  "StartTime": 329.73,
+  "EndTime": 334.62,
+  "Value": "The E-Kaia solved two problems for the engineering students."
+}, {
+  "StartTime": 334.62,
+  "EndTime": 338.01,
+  "Value": "They needed an idea for a class project."
+}, {
+  "StartTime": 338.01,
+  "EndTime": 342.51,
+  "Value": "They also needed an outlet to plug in their phones."
+}, {
+  "StartTime": 342.51,
+  "EndTime": 354.12,
+  "Value": "One of the student inventors, Camila Rupcich, says the device changes the energy released from the plant into low-level power to charge phones."
+}, {
+  "StartTime": 354.12,
+  "EndTime": 361.77,
+  "Value": "The E-Kaia is able to fully recharge a mobile phone in less than two hours."
+}, {
+  "StartTime": 361.77,
+  "EndTime": 363.13,
+  "Value": "Questions 5 to 7"
+}, {
+  "StartTime": 363.13,
+  "EndTime": 366.65,
+  "Value": "are based on the news report you have just heard."
+}, {
+  "StartTime": 366.65,
+  "EndTime": 386.48,
+  "Value": "5. What did the three university students invent?"
+}, {
+  "StartTime": 386.48,
+  "EndTime": 405.64,
+  "Value": "6. When did they get the idea for the invention?"
+}, {
+  "StartTime": 405.64,
+  "EndTime": 425.31,
+  "Value": "7. What does the speaker say about the invention?"
+}, {
+  "StartTime": 425.31,
+  "EndTime": 426.66,
+  "Value": "Section B"
+}, {
+  "StartTime": 426.66,
+  "EndTime": 433.09,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 433.09,
+  "EndTime": 438.61,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 438.61,
+  "EndTime": 443.62,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 443.62,
+  "EndTime": 453.31,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 453.31,
+  "EndTime": 460.78,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 460.78,
+  "EndTime": 462.45,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 462.45,
+  "EndTime": 463.22,
+  "Value": "M: Good morning."
+}, {
+  "StartTime": 463.22,
+  "EndTime": 464.45,
+  "Value": "What can I do for you?"
+}, {
+  "StartTime": 464.45,
+  "EndTime": 465.55,
+  "Value": "W: Good morning."
+}, {
+  "StartTime": 465.55,
+  "EndTime": 468.08,
+  "Value": "Could I talk to Jeffry Harding please?"
+}, {
+  "StartTime": 468.08,
+  "EndTime": 468.93,
+  "Value": "M: Speaking."
+}, {
+  "StartTime": 468.93,
+  "EndTime": 469.75,
+  "Value": "W: Hello, Jeff."
+}, {
+  "StartTime": 469.75,
+  "EndTime": 470.8,
+  "Value": "It's Helen."
+}, {
+  "StartTime": 470.8,
+  "EndTime": 473.3,
+  "Value": "I got your message on the answering machine."
+}, {
+  "StartTime": 473.3,
+  "EndTime": 474.36,
+  "Value": "What's the problem?"
+}, {
+  "StartTime": 474.36,
+  "EndTime": 475.75,
+  "Value": "M: Oh, Helen."
+}, {
+  "StartTime": 475.75,
+  "EndTime": 478.9,
+  "Value": "Well, it's the Grimsby plant again, I'm afraid."
+}, {
+  "StartTime": 478.9,
+  "EndTime": 481.19,
+  "Value": "The robots on Line 3 have gone wrong."
+}, {
+  "StartTime": 481.19,
+  "EndTime": 483.13,
+  "Value": "And the line is at a standstill."
+}, {
+  "StartTime": 483.13,
+  "EndTime": 485.45,
+  "Value": "W: Can't you replace them with the stand-ins?"
+}, {
+  "StartTime": 485.45,
+  "EndTime": 486.47,
+  "Value": "M: I'm afraid not."
+}, {
+  "StartTime": 486.47,
+  "EndTime": 489.59,
+  "Value": "The stand-ins are already in use on Line 6."
+}, {
+  "StartTime": 489.59,
+  "EndTime": 492.13,
+  "Value": "And the ones from Line 6 are being serviced."
+}, {
+  "StartTime": 492.13,
+  "EndTime": 493.87,
+  "Value": "W: When did this happen, Jeff?"
+}, {
+  "StartTime": 493.87,
+  "EndTime": 497.78,
+  "Value": "M: Well, they've been making a low continuous sound for a day or two."
+}, {
+  "StartTime": 497.78,
+  "EndTime": 500.8,
+  "Value": "But they finally went dead at 2:30 this afternoon."
+}, {
+  "StartTime": 500.8,
+  "EndTime": 501.91,
+  "Value": "W: I see."
+}, {
+  "StartTime": 501.91,
+  "EndTime": 503.38,
+  "Value": "What did you do?"
+}, {
+  "StartTime": 503.38,
+  "EndTime": 505.15,
+  "Value": "Have you tried the whole plant?"
+}, {
+  "StartTime": 505.15,
+  "EndTime": 506.31,
+  "Value": "M: Not yet, Helen."
+}, {
+  "StartTime": 506.31,
+  "EndTime": 508.81,
+  "Value": "I thought I'd better get your OK first."
+}, {
+  "StartTime": 508.81,
+  "EndTime": 509.94,
+  "Value": "W: OK."
+}, {
+  "StartTime": 509.94,
+  "EndTime": 514.89,
+  "Value": "Get on the phone to Tom, and try to get their stand-ins over tonight."
+}, {
+  "StartTime": 514.89,
+  "EndTime": 518.44,
+  "Value": "We have to be back at full capacity tomorrow morning."
+}, {
+  "StartTime": 518.44,
+  "EndTime": 521.42,
+  "Value": "Is it a major job to repair our robots?"
+}, {
+  "StartTime": 521.42,
+  "EndTime": 522.44,
+  "Value": "M: About a week."
+}, {
+  "StartTime": 522.44,
+  "EndTime": 524.64,
+  "Value": "That's what the maintenance engineer says."
+}, {
+  "StartTime": 524.64,
+  "EndTime": 525.4,
+  "Value": "W: Right."
+}, {
+  "StartTime": 525.4,
+  "EndTime": 535.8,
+  "Value": "Well, if you can get the ones from Tom, please ask Tom to inform Sheffield that he may need their stand-ins in case of emergency during the next week."
+}, {
+  "StartTime": 535.8,
+  "EndTime": 536.61,
+  "Value": "M: OK."
+}, {
+  "StartTime": 536.61,
+  "EndTime": 537.91,
+  "Value": "Thank you very much, Helen."
+}, {
+  "StartTime": 537.91,
+  "EndTime": 539.14,
+  "Value": "W: You are most welcome."
+}, {
+  "StartTime": 539.14,
+  "EndTime": 540.83,
+  "Value": "M: Sorry to spoil your day off."
+}, {
+  "StartTime": 540.83,
+  "EndTime": 543.06,
+  "Value": "W: It doesn't matter."
+}, {
+  "StartTime": 543.06,
+  "EndTime": 544.28,
+  "Value": "Questions 8 to 11"
+}, {
+  "StartTime": 544.28,
+  "EndTime": 547.78,
+  "Value": "are based on the conversation you have just heard."
+}, {
+  "StartTime": 547.78,
+  "EndTime": 567.76,
+  "Value": "8. What did the man do before the telephone conversation?"
+}, {
+  "StartTime": 567.76,
+  "EndTime": 588.08,
+  "Value": "9. What does the man say about line 3 in the Grimsby plant?"
+}, {
+  "StartTime": 588.08,
+  "EndTime": 607.53,
+  "Value": "10. What is the man's purpose in calling the woman?"
+}, {
+  "StartTime": 607.53,
+  "EndTime": 627.07,
+  "Value": "11. Where is the woman at the time of the conversation?"
+}, {
+  "StartTime": 627.07,
+  "EndTime": 628.74,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 628.74,
+  "EndTime": 632.58,
+  "Value": "W: This is Kerry Burke from New York Daily News."
+}, {
+  "StartTime": 632.58,
+  "EndTime": 650.92,
+  "Value": "I'm speaking to Delroy Simmonds, an unemployed Brooklyn man who missed a job interview Tuesday for the best of reasons: He was saving the life of a 9-month-old boy who was blown into the path of an oncoming subway train by a high wind."
+}, {
+  "StartTime": 650.92,
+  "EndTime": 654.29,
+  "Value": "M: Everybody is making me out to be some sort of superhero."
+}, {
+  "StartTime": 654.29,
+  "EndTime": 657.89,
+  "Value": "I'm just an ordinary person, and a father of two."
+}, {
+  "StartTime": 657.89,
+  "EndTime": 661.4,
+  "Value": "Anybody in that situation would have done what I did."
+}, {
+  "StartTime": 661.4,
+  "EndTime": 665,
+  "Value": "W: You were going to an interview when the incident occurred, right?"
+}, {
+  "StartTime": 665,
+  "EndTime": 669.06,
+  "Value": "M: Yes, I was on my way to apply for a maintenance position."
+}, {
+  "StartTime": 669.06,
+  "EndTime": 672.13,
+  "Value": "I've been looking for a job for a year and more."
+}, {
+  "StartTime": 672.13,
+  "EndTime": 674.56,
+  "Value": "I'm looking for something to support my family."
+}, {
+  "StartTime": 674.56,
+  "EndTime": 677.22,
+  "Value": "W: Tell us what happened at the station."
+}, {
+  "StartTime": 677.22,
+  "EndTime": 678.77,
+  "Value": "M: There was a strong wind."
+}, {
+  "StartTime": 678.77,
+  "EndTime": 681.64,
+  "Value": "It had to be 30 to 40 miles an hour."
+}, {
+  "StartTime": 681.64,
+  "EndTime": 683.64,
+  "Value": "There was a woman with four kids."
+}, {
+  "StartTime": 683.64,
+  "EndTime": 685.45,
+  "Value": "One was in a pushchair."
+}, {
+  "StartTime": 685.45,
+  "EndTime": 688.37,
+  "Value": "The wind blew the baby onto the tracks."
+}, {
+  "StartTime": 688.37,
+  "EndTime": 698.93,
+  "Value": "W: Witnesses said people were looking on in horror as the child's mother, identified by sources as Maria Zamara, stood frozen in shock."
+}, {
+  "StartTime": 698.93,
+  "EndTime": 704.55,
+  "Value": "In the distance, people could see the train rounding a bend, headed into the station."
+}, {
+  "StartTime": 704.55,
+  "EndTime": 707.87,
+  "Value": "I guess you were not aware of any of these, right?"
+}, {
+  "StartTime": 707.87,
+  "EndTime": 708.76,
+  "Value": "M: No."
+}, {
+  "StartTime": 708.76,
+  "EndTime": 711.09,
+  "Value": "I just jumped down and grabbed the baby."
+}, {
+  "StartTime": 711.09,
+  "EndTime": 714.89,
+  "Value": "The train was coming around the corner as I lifted the baby from the tracks."
+}, {
+  "StartTime": 714.89,
+  "EndTime": 716.26,
+  "Value": "I really wasn't thinking."
+}, {
+  "StartTime": 716.26,
+  "EndTime": 718.37,
+  "Value": "W: What an amazing story."
+}, {
+  "StartTime": 718.37,
+  "EndTime": 720.39,
+  "Value": "Thank you very much."
+}, {
+  "StartTime": 720.39,
+  "EndTime": 721.83,
+  "Value": "Questions 12 to 15"
+}, {
+  "StartTime": 721.83,
+  "EndTime": 725.3,
+  "Value": "are based on the conversation you have just heard."
+}, {
+  "StartTime": 725.3,
+  "EndTime": 746.91,
+  "Value": "12. What did Kerry Burke from New York Daily News say about the man?"
+}, {
+  "StartTime": 746.91,
+  "EndTime": 767.03,
+  "Value": "13. What do we learn about the man from the conversation?"
+}, {
+  "StartTime": 767.03,
+  "EndTime": 786.34,
+  "Value": "14. What caused the incident?"
+}, {
+  "StartTime": 786.34,
+  "EndTime": 806.75,
+  "Value": "15. How did the mother react when the incident occurred?"
+}, {
+  "StartTime": 806.75,
+  "EndTime": 808.22,
+  "Value": "Section C"
+}, {
+  "StartTime": 808.22,
+  "EndTime": 813.49,
+  "Value": "Directions: In this section, you will hear three passages."
+}, {
+  "StartTime": 813.49,
+  "EndTime": 818.75,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 818.75,
+  "EndTime": 823.93,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 823.93,
+  "EndTime": 833.8,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 833.8,
+  "EndTime": 841.01,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 841.01,
+  "EndTime": 842.72,
+  "Value": "Passage One"
+}, {
+  "StartTime": 842.72,
+  "EndTime": 850.05,
+  "Value": "There's one sound that gets a big reaction from kids on a hot day, the sound of an ice-cream truck."
+}, {
+  "StartTime": 850.05,
+  "EndTime": 856.11,
+  "Value": "Maria McCartney has been in the mobile ice-cream business since 2005."
+}, {
+  "StartTime": 856.11,
+  "EndTime": 863.31,
+  "Value": "\"When I was a little girl, I saw an ice-cream truck and knew I wanted to have one someday,\" McCartney said."
+}, {
+  "StartTime": 863.31,
+  "EndTime": 871.78,
+  "Value": "During the hot days of summer, Maria and her daughter drive an ice-cream truck through neighborhoods and parks in Billings."
+}, {
+  "StartTime": 871.78,
+  "EndTime": 875.94,
+  "Value": "It's not about making money for this former elementary school teacher."
+}, {
+  "StartTime": 875.94,
+  "EndTime": 881.21,
+  "Value": "Rather, she wants to preserve the tradition of the neighborhood ice-cream truck."
+}, {
+  "StartTime": 881.21,
+  "EndTime": 887.92,
+  "Value": "\"Truly my favorite part is to see the kids jumping up and down and they just get so excited."
+}, {
+  "StartTime": 887.92,
+  "EndTime": 890.6,
+  "Value": "It's great to build a memory for them too."
+}, {
+  "StartTime": 890.6,
+  "EndTime": 894.12,
+  "Value": "There's not a lot of these ice-cream trucks around anymore."
+}, {
+  "StartTime": 894.12,
+  "EndTime": 903.09,
+  "Value": "The parents come out barefoot and screaming, ready to buy ice-cream; they remember when they were kids and they saw a truck,\" she said."
+}, {
+  "StartTime": 903.09,
+  "EndTime": 908.81,
+  "Value": "While the treats may be ice cold, Maria has a warm heart for little faces."
+}, {
+  "StartTime": 908.81,
+  "EndTime": 914.47,
+  "Value": "Her truck features a donation bucket for kids who don't have money for ice-cream."
+}, {
+  "StartTime": 914.47,
+  "EndTime": 926.7,
+  "Value": "\"When there are three kids and only two of them have money, I always make sure the third one gets something because I can't drive away and have that third one not have something,\" she said."
+}, {
+  "StartTime": 926.7,
+  "EndTime": 929.29,
+  "Value": "Questions 16 to 18"
+}, {
+  "StartTime": 929.29,
+  "EndTime": 932.99,
+  "Value": "are based on the passage you have just heard."
+}, {
+  "StartTime": 932.99,
+  "EndTime": 953.53,
+  "Value": "16. What does the speaker say about Maria McCartney?"
+}, {
+  "StartTime": 953.53,
+  "EndTime": 974.73,
+  "Value": "17. Why does Maria go into the mobile ice-cream business?"
+}, {
+  "StartTime": 974.73,
+  "EndTime": 994.97,
+  "Value": "18. Why does Maria put a donation bucket in her truck?"
+}, {
+  "StartTime": 994.97,
+  "EndTime": 997.13,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 997.13,
+  "EndTime": 1000,
+  "Value": "We know we have to pay for what we get."
+}, {
+  "StartTime": 1000,
+  "EndTime": 1003,
+  "Value": "If we buy food, we have to pay for it."
+}, {
+  "StartTime": 1003,
+  "EndTime": 1007.55,
+  "Value": "If a doctor treats us, we know there will be a bill to pay."
+}, {
+  "StartTime": 1007.55,
+  "EndTime": 1009.35,
+  "Value": "These are private bills."
+}, {
+  "StartTime": 1009.35,
+  "EndTime": 1012.79,
+  "Value": "But there are also public bills to be paid."
+}, {
+  "StartTime": 1012.79,
+  "EndTime": 1014.69,
+  "Value": "They are paid by the government."
+}, {
+  "StartTime": 1014.69,
+  "EndTime": 1017.26,
+  "Value": "In turn we get the needed services."
+}, {
+  "StartTime": 1017.26,
+  "EndTime": 1020.59,
+  "Value": "We pay for these services through taxes."
+}, {
+  "StartTime": 1020.59,
+  "EndTime": 1024.56,
+  "Value": "What would happen if everyone stopped paying taxes?"
+}, {
+  "StartTime": 1024.56,
+  "EndTime": 1031.49,
+  "Value": "The water supply would stop; the streets might not be cleaned; schools would be closed."
+}, {
+  "StartTime": 1031.49,
+  "EndTime": 1034.84,
+  "Value": "We would not want to live in such a city."
+}, {
+  "StartTime": 1034.84,
+  "EndTime": 1040.03,
+  "Value": "The chief duty of every government is to protect persons and property."
+}, {
+  "StartTime": 1040.03,
+  "EndTime": 1045.64,
+  "Value": "More than three-fourths of government expenses are used for this purpose."
+}, {
+  "StartTime": 1045.64,
+  "EndTime": 1051.33,
+  "Value": "The next largest amount of public money goes to teach and train our citizens."
+}, {
+  "StartTime": 1051.33,
+  "EndTime": 1056.32,
+  "Value": "Billions of dollars each year are spent on schools and libraries."
+}, {
+  "StartTime": 1056.32,
+  "EndTime": 1061.08,
+  "Value": "Also, a large amount of public funds is spent on roads."
+}, {
+  "StartTime": 1061.08,
+  "EndTime": 1064.7,
+  "Value": "Most of the needed funds is raised by taxes."
+}, {
+  "StartTime": 1064.7,
+  "EndTime": 1067.35,
+  "Value": "The law orders us to pay taxes."
+}, {
+  "StartTime": 1067.35,
+  "EndTime": 1070.08,
+  "Value": "We have no choice in the matter."
+}, {
+  "StartTime": 1070.08,
+  "EndTime": 1074.82,
+  "Value": "Years ago the government made money by selling public lands."
+}, {
+  "StartTime": 1074.82,
+  "EndTime": 1078.79,
+  "Value": "But most of the best public lands have now been sold."
+}, {
+  "StartTime": 1078.79,
+  "EndTime": 1085.16,
+  "Value": "There are still some public lands that contain oil, coal and other natural resources."
+}, {
+  "StartTime": 1085.16,
+  "EndTime": 1089.9,
+  "Value": "They could be sold, but we want to save them for future years."
+}, {
+  "StartTime": 1089.9,
+  "EndTime": 1095.6,
+  "Value": "So, we all must pay our share for the services that make our lives comfortable."
+}, {
+  "StartTime": 1095.6,
+  "EndTime": 1097.56,
+  "Value": "Questions 19 to 21"
+}, {
+  "StartTime": 1097.56,
+  "EndTime": 1100.88,
+  "Value": "are based on the passage you have just heard."
+}, {
+  "StartTime": 1100.88,
+  "EndTime": 1120.49,
+  "Value": "19. What does the speaker mainly talk about?"
+}, {
+  "StartTime": 1120.49,
+  "EndTime": 1140.58,
+  "Value": "20. What is most of the government money used for?"
+}, {
+  "StartTime": 1140.58,
+  "EndTime": 1161.39,
+  "Value": "21. How did the government raise money to pay public bills in the past?"
+}, {
+  "StartTime": 1161.39,
+  "EndTime": 1163.44,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1163.44,
+  "EndTime": 1170.46,
+  "Value": "Did you know that, besides larger places like France and Germany, Europe is home to several extremely tiny countries?"
+}, {
+  "StartTime": 1170.46,
+  "EndTime": 1174.43,
+  "Value": "One of these countries contains less than a square mile of land."
+}, {
+  "StartTime": 1174.43,
+  "EndTime": 1177.97,
+  "Value": "Another is surrounded on all sides by Italy."
+}, {
+  "StartTime": 1177.97,
+  "EndTime": 1183.94,
+  "Value": "Yet each is an independent land, with its own government, trade, and customs."
+}, {
+  "StartTime": 1183.94,
+  "EndTime": 1187.7,
+  "Value": "One of the best known of these small countries is Monaco."
+}, {
+  "StartTime": 1187.7,
+  "EndTime": 1193.86,
+  "Value": "It is situated on the Mediterranean Sea and surrounded by France on three sides."
+}, {
+  "StartTime": 1193.86,
+  "EndTime": 1201.71,
+  "Value": "Monaco became familiar to Americans when its ruler, Prince Rainier, married the American actress Grace Kelly."
+}, {
+  "StartTime": 1201.71,
+  "EndTime": 1208.49,
+  "Value": "Rainier's family has ruled Monaco almost continuously since 1297."
+}, {
+  "StartTime": 1208.49,
+  "EndTime": 1212.88,
+  "Value": "The land has been independent for over three hundred years."
+}, {
+  "StartTime": 1212.88,
+  "EndTime": 1219.66,
+  "Value": "Andorra, with an area of some 200 square miles, is considerably larger than Monaco."
+}, {
+  "StartTime": 1219.66,
+  "EndTime": 1227.44,
+  "Value": "This country is located in the Pyrenees Mountains, with France on one side and Spain on the other."
+}, {
+  "StartTime": 1227.44,
+  "EndTime": 1232.91,
+  "Value": "Potatoes and tobacco are grown in Andorra's steep mountain valleys."
+}, {
+  "StartTime": 1232.91,
+  "EndTime": 1235.53,
+  "Value": "One of the products it exports is clothing."
+}, {
+  "StartTime": 1235.53,
+  "EndTime": 1240.35,
+  "Value": "Andorra is also known for its excellent skiing locations."
+}, {
+  "StartTime": 1240.35,
+  "EndTime": 1249.14,
+  "Value": "Within the Alps in Central Europe is Liechtenstein, a tiny country of about 30,000 people who speak mostly German."
+}, {
+  "StartTime": 1249.14,
+  "EndTime": 1257.75,
+  "Value": "Liechtenstein uses the same money as its neighbor Switzerland, but it has been an independent country since the 1860s."
+}, {
+  "StartTime": 1257.75,
+  "EndTime": 1262.35,
+  "Value": "Taxes are low, so many businesses have their headquarters here."
+}, {
+  "StartTime": 1262.35,
+  "EndTime": 1266.51,
+  "Value": "The country makes and exports a lot of machinery."
+}, {
+  "StartTime": 1266.51,
+  "EndTime": 1271.9,
+  "Value": "Other small, independent states in Europe are San Marino and Luxembourg."
+}, {
+  "StartTime": 1271.9,
+  "EndTime": 1276.03,
+  "Value": "Each of these has unique qualities as well."
+}, {
+  "StartTime": 1276.03,
+  "EndTime": 1278.68,
+  "Value": "Questions 22 to 25"
+}, {
+  "StartTime": 1278.68,
+  "EndTime": 1282.53,
+  "Value": "are based on the passage you have just heard."
+}, {
+  "StartTime": 1282.53,
+  "EndTime": 1302.97,
+  "Value": "22. What does the speaker say about Monaco?"
+}, {
+  "StartTime": 1302.97,
+  "EndTime": 1324.94,
+  "Value": "23. Why did Monaco become familiar to Americans according to the speaker?"
+}, {
+  "StartTime": 1324.94,
+  "EndTime": 1345.51,
+  "Value": "24. What is one of the products Andorra exports?"
+}, {
+  "StartTime": 1345.51,
+  "EndTime": 1364.94,
+  "Value": "25. What does the speaker mainly talk about?"
+}, {
+  "StartTime": 1364.94,
+  "EndTime": 4964.94,
+  "Value": "This is end of listening comprehension."
+}]

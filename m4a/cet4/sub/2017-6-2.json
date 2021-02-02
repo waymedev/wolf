@@ -1,0 +1,797 @@
+[{
+  "StartTime": 1.11,
+  "EndTime": 4.05,
+  "Value": "College English Test Band Four"
+}, {
+  "StartTime": 4.05,
+  "EndTime": 7.76,
+  "Value": "Part II Listening Comprehension"
+}, {
+  "StartTime": 7.76,
+  "EndTime": 9.7,
+  "Value": "Section A"
+}, {
+  "StartTime": 9.7,
+  "EndTime": 15.61,
+  "Value": "Directions: In this section, you will hear three news reports."
+}, {
+  "StartTime": 15.61,
+  "EndTime": 20.8,
+  "Value": "At the end of each news report, you will hear two or three questions."
+}, {
+  "StartTime": 20.8,
+  "EndTime": 26.56,
+  "Value": "Both the news report and the questions will be spoken only once."
+}, {
+  "StartTime": 26.56,
+  "EndTime": 35.4,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 35.4,
+  "EndTime": 43.48,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 43.48,
+  "EndTime": 52.48,
+  "Value": "News Report One Automakers and tech companies are working hard to offer the first true self-driving car."
+}, {
+  "StartTime": 52.48,
+  "EndTime": 58.36,
+  "Value": "But 75% of drivers say they wouldn't feel safe in such a vehicle."
+}, {
+  "StartTime": 58.36,
+  "EndTime": 71.41,
+  "Value": "Still, 60% of drivers would like to get some kind of self-driving feature, such as automatic braking or self-parking, the next time they buy a new car."
+}, {
+  "StartTime": 71.41,
+  "EndTime": 78.85,
+  "Value": "The attitudes are published in a new AAA survey of 1,800 drivers."
+}, {
+  "StartTime": 78.85,
+  "EndTime": 89.37,
+  "Value": "Advocates of self-driving cars argue they would be safer than in cars driven by humans because they wouldn't get distracted or drive when tired."
+}, {
+  "StartTime": 89.37,
+  "EndTime": 94.41,
+  "Value": "But those surveyed by AAA say they trust their own driving skills."
+}, {
+  "StartTime": 94.41,
+  "EndTime": 98.87,
+  "Value": "Many feel the technology is too new and unproven."
+}, {
+  "StartTime": 98.87,
+  "EndTime": 110.17,
+  "Value": "John Nielsen, AAA's managing director of automotive engineering and repair, said tests suggest drivers may be overestimating their own abilities."
+}, {
+  "StartTime": 110.17,
+  "EndTime": 121.37,
+  "Value": "He also believes they will be more likely to trust self-driving cars as they become more familiar with features such as automatic braking or parking."
+}, {
+  "StartTime": 121.37,
+  "EndTime": 128.73,
+  "Value": "He estimated that the \"comfort level\" will increase considerably in five to ten years."
+}, {
+  "StartTime": 128.73,
+  "EndTime": 132,
+  "Value": "Questions 1 and 2 are based on the news report"
+}, {
+  "StartTime": 132,
+  "EndTime": 133.79,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 133.79,
+  "EndTime": 153.55,
+  "Value": "1. What is the finding of the AAA survey?"
+}, {
+  "StartTime": 153.55,
+  "EndTime": 174.24,
+  "Value": "2. What does John Nielsen say about self-driving cars?"
+}, {
+  "StartTime": 174.24,
+  "EndTime": 192,
+  "Value": "News Report Two One dog has been killed and multiple dogs have been injured by a snowmobile driver in what appears to be an intentional attack on competitors in the Iditarod Race in Alaska."
+}, {
+  "StartTime": 192,
+  "EndTime": 195.76,
+  "Value": "Aliy Zirkle was the first to report an attack."
+}, {
+  "StartTime": 195.76,
+  "EndTime": 206.05,
+  "Value": "A snowmobile driver had repeatedly attempted to harm her and her team, and one of Zirkle's dogs had received a non-life-threatening injury."
+}, {
+  "StartTime": 206.05,
+  "EndTime": 212.78,
+  "Value": "Zirkle reported the attack when she arrived in Nulato, Alaska, in the early hours of the morning."
+}, {
+  "StartTime": 212.78,
+  "EndTime": 219.24,
+  "Value": "Then Jeff King, a four-time champion, reported a similar attack."
+}, {
+  "StartTime": 219.24,
+  "EndTime": 227.1,
+  "Value": "His team was hit by a snowmobile driver, injuring several dogs and killing a 3-year-old male dog."
+}, {
+  "StartTime": 227.1,
+  "EndTime": 233.02,
+  "Value": "Reporter Zachariah Hughes says that neither King nor Zirkle was injured."
+}, {
+  "StartTime": 233.02,
+  "EndTime": 243.7,
+  "Value": "Although this incident very much alters the race of the two participants competing for a win, both are going to continue on their way toward the finishing line."
+}, {
+  "StartTime": 243.7,
+  "EndTime": 250.78,
+  "Value": "Alaska State Troopers released a statement saying they've arrested Arnold Demoski, 26."
+}, {
+  "StartTime": 250.78,
+  "EndTime": 255.2,
+  "Value": "He faces trial on several charges."
+}, {
+  "StartTime": 255.2,
+  "EndTime": 258.87,
+  "Value": "Questions 3 and 4 are based on the news report"
+}, {
+  "StartTime": 258.87,
+  "EndTime": 260.96,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 260.96,
+  "EndTime": 280.94,
+  "Value": "3. What is the news report mainly about?"
+}, {
+  "StartTime": 280.94,
+  "EndTime": 300.5,
+  "Value": "4. What do we learn about Jeff King?"
+}, {
+  "StartTime": 300.5,
+  "EndTime": 312.05,
+  "Value": "News Report Three A tour boat turned over off the coast of Nicaragua, killing at least 13 people and leaving more passengers missing, official said."
+}, {
+  "StartTime": 312.05,
+  "EndTime": 320.45,
+  "Value": "The boat was carrying 32 people— 25 Costa Ricans, four Americans and three Nicaraguans."
+}, {
+  "StartTime": 320.45,
+  "EndTime": 325.26,
+  "Value": "The 13 dead were all Costa Rican, the Foreign Ministry said."
+}, {
+  "StartTime": 325.26,
+  "EndTime": 334.75,
+  "Value": "The boat, traveling between Nicaragua's Big Corn Island and Little Corn Island, turned over Saturday near the larger island."
+}, {
+  "StartTime": 334.75,
+  "EndTime": 342.24,
+  "Value": "Some passengers remain missing, the Costa Rican Foreign Ministry said, but did not specify how many."
+}, {
+  "StartTime": 342.24,
+  "EndTime": 351.33,
+  "Value": "A local radio said an unspecified number of people were rescued, including the tour boat's owner, Hilario Blandon."
+}, {
+  "StartTime": 351.33,
+  "EndTime": 361.59,
+  "Value": "Nicaraguan naval authorities had banned sea travel in the area because of bad weather and strong winds, but the tour boat proceeded anyway."
+}, {
+  "StartTime": 361.59,
+  "EndTime": 369.89,
+  "Value": "Blandon, the boat's owner, has been arrested by Nicaraguan authorities, the state-run news agency said."
+}, {
+  "StartTime": 369.89,
+  "EndTime": 380.28,
+  "Value": "Both he and a crew member are being investigated for unintentional murder and exposing people to danger, according to police."
+}, {
+  "StartTime": 380.28,
+  "EndTime": 383.75,
+  "Value": "Questions 5 to 7 are based on the news report"
+}, {
+  "StartTime": 383.75,
+  "EndTime": 385.38,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 385.38,
+  "EndTime": 406.5,
+  "Value": "5. What happened to the tour boat sailing off the Nicaraguan coast?"
+}, {
+  "StartTime": 406.5,
+  "EndTime": 425.66,
+  "Value": "6. How many people was the boat carrying?"
+}, {
+  "StartTime": 425.66,
+  "EndTime": 445.62,
+  "Value": "7. What do we know about the owner of the boat?"
+}, {
+  "StartTime": 445.62,
+  "EndTime": 447.01,
+  "Value": "Section B"
+}, {
+  "StartTime": 447.01,
+  "EndTime": 453.6,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 453.6,
+  "EndTime": 458.74,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 458.74,
+  "EndTime": 464.54,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 464.54,
+  "EndTime": 475.25,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 475.25,
+  "EndTime": 483.9,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 483.9,
+  "EndTime": 486.26,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 486.26,
+  "EndTime": 489.64,
+  "Value": "M: Hi, Susan, you're looking very smart today."
+}, {
+  "StartTime": 489.64,
+  "EndTime": 492.06,
+  "Value": "W: I always look smart, James."
+}, {
+  "StartTime": 492.06,
+  "EndTime": 496.07,
+  "Value": "Actually, I'm on my way to a job interview."
+}, {
+  "StartTime": 496.07,
+  "EndTime": 499.77,
+  "Value": "M: What job? Oh, you mean, for the summer holidays?"
+}, {
+  "StartTime": 499.77,
+  "EndTime": 502.72,
+  "Value": "W: Yeah. There's only two weeks to go."
+}, {
+  "StartTime": 502.72,
+  "EndTime": 508.36,
+  "Value": "I've got a second interview with that big foreign accountancy firm in the city center."
+}, {
+  "StartTime": 508.36,
+  "EndTime": 509.83,
+  "Value": "You know the one."
+}, {
+  "StartTime": 509.83,
+  "EndTime": 511.73,
+  "Value": "M: That's fantastic."
+}, {
+  "StartTime": 511.73,
+  "EndTime": 517.42,
+  "Value": "W: The work is just helping out with data input, you know, but the pay isn't too bad."
+}, {
+  "StartTime": 517.42,
+  "EndTime": 519.43,
+  "Value": "It might suit you too."
+}, {
+  "StartTime": 519.43,
+  "EndTime": 523.45,
+  "Value": "I know they have at least two temporary positions available."
+}, {
+  "StartTime": 523.45,
+  "EndTime": 527,
+  "Value": "And I don't think they have anyone else yet."
+}, {
+  "StartTime": 527,
+  "EndTime": 533.76,
+  "Value": "M: Hmm...If they take you on, tell them you know a friend who'd be really good too."
+}, {
+  "StartTime": 533.76,
+  "EndTime": 538.72,
+  "Value": "I really need the money and the experience would look good on my resume."
+}, {
+  "StartTime": 538.72,
+  "EndTime": 541.11,
+  "Value": "Maybe we'll be working together."
+}, {
+  "StartTime": 541.11,
+  "EndTime": 542.24,
+  "Value": "The dream team."
+}, {
+  "StartTime": 542.24,
+  "EndTime": 544.47,
+  "Value": "W: OK. We'll do."
+}, {
+  "StartTime": 544.47,
+  "EndTime": 547.52,
+  "Value": "If the boss likes me, I'll mention it."
+}, {
+  "StartTime": 547.52,
+  "EndTime": 551.41,
+  "Value": "It'll be good to have someone around who I know."
+}, {
+  "StartTime": 551.41,
+  "EndTime": 553.2,
+  "Value": "I'll phone you afterwards."
+}, {
+  "StartTime": 553.2,
+  "EndTime": 557.41,
+  "Value": "But perhaps you should put in an application anyway."
+}, {
+  "StartTime": 557.41,
+  "EndTime": 559.71,
+  "Value": "M: Thanks, Susan. That's great."
+}, {
+  "StartTime": 559.71,
+  "EndTime": 562.53,
+  "Value": "Listen, do you want a lift to the city?"
+}, {
+  "StartTime": 562.53,
+  "EndTime": 566.65,
+  "Value": "I have my dad's car today, and nothing else to do this morning."
+}, {
+  "StartTime": 566.65,
+  "EndTime": 568.89,
+  "Value": "W: Sure. Thanks, James."
+}, {
+  "StartTime": 568.89,
+  "EndTime": 571.44,
+  "Value": "M: Let's go then. The car's over there."
+}, {
+  "StartTime": 571.44,
+  "EndTime": 575.06,
+  "Value": "W: By the way, how's your knowledge of accountancy?"
+}, {
+  "StartTime": 575.06,
+  "EndTime": 577.76,
+  "Value": "The interviewer may ask you about it."
+}, {
+  "StartTime": 577.76,
+  "EndTime": 580.48,
+  "Value": "M: No problem. I think I can survive."
+}, {
+  "StartTime": 580.48,
+  "EndTime": 584.57,
+  "Value": "I might just have to review a few accountancy terms."
+}, {
+  "StartTime": 584.57,
+  "EndTime": 587.63,
+  "Value": "Maybe you can give me a practice interview first."
+}, {
+  "StartTime": 587.63,
+  "EndTime": 589.91,
+  "Value": "W: Of course. Let's go then."
+}, {
+  "StartTime": 589.91,
+  "EndTime": 591.41,
+  "Value": "Don't want to be late."
+}, {
+  "StartTime": 591.41,
+  "EndTime": 594.64,
+  "Value": "Questions 8 to 11 are based on the conversation"
+}, {
+  "StartTime": 594.64,
+  "EndTime": 596.67,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 596.67,
+  "EndTime": 616.29,
+  "Value": "8. Where will Susan probably get a job?"
+}, {
+  "StartTime": 616.29,
+  "EndTime": 635.47,
+  "Value": "9. What will Susan's future job involve?"
+}, {
+  "StartTime": 635.47,
+  "EndTime": 655.45,
+  "Value": "10. Why does James want the job in that company?"
+}, {
+  "StartTime": 655.45,
+  "EndTime": 676.92,
+  "Value": "11. What does James say he will have to do to prepare for the interview?"
+}, {
+  "StartTime": 676.92,
+  "EndTime": 678.56,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 678.56,
+  "EndTime": 692.51,
+  "Value": "W: There's new data out today that confirms that many Americans are not good at math, and when it comes to everyday technology skills, we are dead last when compared to other developed countries."
+}, {
+  "StartTime": 692.51,
+  "EndTime": 696.99,
+  "Value": "Here's Gabrielle Emanuel of National Public Radio."
+}, {
+  "StartTime": 696.99,
+  "EndTime": 711.56,
+  "Value": "M: Let's start with the bad news that Americans are terrible at technology skills, using email, naming a file on a computer, using a link on a webpage, or just texting someone."
+}, {
+  "StartTime": 711.56,
+  "EndTime": 714.76,
+  "Value": "W: No country scored below the U.S.?"
+}, {
+  "StartTime": 714.76,
+  "EndTime": 716.75,
+  "Value": "M: Only one country."
+}, {
+  "StartTime": 716.75,
+  "EndTime": 720.51,
+  "Value": "Poland performed as poorly as we did."
+}, {
+  "StartTime": 720.51,
+  "EndTime": 722.94,
+  "Value": "Who came out the first?"
+}, {
+  "StartTime": 722.94,
+  "EndTime": 726.52,
+  "Value": "Japan did the best and then Finland."
+}, {
+  "StartTime": 726.52,
+  "EndTime": 732.67,
+  "Value": "If you look at data about reading and math, you'll notice something interesting."
+}, {
+  "StartTime": 732.67,
+  "EndTime": 738.35,
+  "Value": "Younger adults who went to college or graduate school were doing pretty well."
+}, {
+  "StartTime": 738.35,
+  "EndTime": 744.39,
+  "Value": "In literacy, they were actually doing better than their peers in other countries."
+}, {
+  "StartTime": 744.39,
+  "EndTime": 746.87,
+  "Value": "W: So that's a bit of good news."
+}, {
+  "StartTime": 746.87,
+  "EndTime": 755.57,
+  "Value": "M: But when you look at Americans who have a high school diploma, they look a lot like other countries' high school dropouts."
+}, {
+  "StartTime": 755.57,
+  "EndTime": 757.8,
+  "Value": "We have a lot of work to do."
+}, {
+  "StartTime": 757.8,
+  "EndTime": 761.56,
+  "Value": "That is especially true when it comes to math."
+}, {
+  "StartTime": 761.56,
+  "EndTime": 764.51,
+  "Value": "You go to the store and there's a sale."
+}, {
+  "StartTime": 764.51,
+  "EndTime": 768.08,
+  "Value": "Buy one, get the second one half off."
+}, {
+  "StartTime": 768.08,
+  "EndTime": 769.98,
+  "Value": "You decide to buy two."
+}, {
+  "StartTime": 769.98,
+  "EndTime": 771.99,
+  "Value": "How much do you pay?"
+}, {
+  "StartTime": 771.99,
+  "EndTime": 776.43,
+  "Value": "W: You mean high school graduates can't do this task in general?"
+}, {
+  "StartTime": 776.43,
+  "EndTime": 777.62,
+  "Value": "M: You're right."
+}, {
+  "StartTime": 777.62,
+  "EndTime": 780.92,
+  "Value": "What does that tell us about our education system?"
+}, {
+  "StartTime": 780.92,
+  "EndTime": 788.94,
+  "Value": "Well, it tells us that we need to think about the preparedness of our students as they are leaving high school."
+}, {
+  "StartTime": 788.94,
+  "EndTime": 794.91,
+  "Value": "W: Right. And schools, employers, in fact we all need to do something about it."
+}, {
+  "StartTime": 794.91,
+  "EndTime": 796.76,
+  "Value": "Thank you, Gabrielle."
+}, {
+  "StartTime": 796.76,
+  "EndTime": 800.07,
+  "Value": "Questions 12 to 15 are based on the conversation"
+}, {
+  "StartTime": 800.07,
+  "EndTime": 801.79,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 801.79,
+  "EndTime": 820.84,
+  "Value": "12. What does the man say about Americans?"
+}, {
+  "StartTime": 820.84,
+  "EndTime": 842.71,
+  "Value": "13. Who performed the best in technology skills according to the man?"
+}, {
+  "StartTime": 842.71,
+  "EndTime": 864.42,
+  "Value": "14. In what aspect did American college students perform well?"
+}, {
+  "StartTime": 864.42,
+  "EndTime": 886.4,
+  "Value": "15. What do we learn from the conversation about American high school education?"
+}, {
+  "StartTime": 886.4,
+  "EndTime": 888.03,
+  "Value": "Section C"
+}, {
+  "StartTime": 888.03,
+  "EndTime": 892.58,
+  "Value": "Directions: In this section, you will hear three passages."
+}, {
+  "StartTime": 892.58,
+  "EndTime": 897.03,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 897.03,
+  "EndTime": 901.84,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 901.84,
+  "EndTime": 912.49,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 912.49,
+  "EndTime": 919.23,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 919.23,
+  "EndTime": 920.74,
+  "Value": "Passage One"
+}, {
+  "StartTime": 920.74,
+  "EndTime": 928.83,
+  "Value": "Wild carrots probably evolved with the other flowering plants about 360 million years ago."
+}, {
+  "StartTime": 928.83,
+  "EndTime": 933.39,
+  "Value": "Like apples, carrots are native to Central Asia."
+}, {
+  "StartTime": 933.39,
+  "EndTime": 941.59,
+  "Value": "That's why horses, which also come from Central Asia, like both apples and carrots so much."
+}, {
+  "StartTime": 941.59,
+  "EndTime": 950.91,
+  "Value": "With wild carrots, the roots are white, small and skinny, so you'd have to pick a lot of wild carrots to get enough to eat."
+}, {
+  "StartTime": 950.91,
+  "EndTime": 959.04,
+  "Value": "Doctors used carrot seeds and roots as medicine, on the theory that foods that taste bad must be good for you."
+}, {
+  "StartTime": 959.04,
+  "EndTime": 971.04,
+  "Value": "Around 800 AD, people in Central Asia managed to develop a new kind of carrot— a purple carrot—that attracted more interest from international traders."
+}, {
+  "StartTime": 971.04,
+  "EndTime": 983.08,
+  "Value": "Then, in the late 1500s, food scientists in the Netherlands cultivated large, straight, sweet, red carrots like the ones we eat today."
+}, {
+  "StartTime": 983.08,
+  "EndTime": 990.12,
+  "Value": "But people still mostly fed carrots to horses, donkeys and pigs, and didn't eat them themselves."
+}, {
+  "StartTime": 990.12,
+  "EndTime": 998.08,
+  "Value": "In the 1600s, people in China used carrots as medicine, but they also ate carrots boiled in soup."
+}, {
+  "StartTime": 998.08,
+  "EndTime": 1002.58,
+  "Value": "The red color was popular for Chinese New Year celebrations."
+}, {
+  "StartTime": 1002.58,
+  "EndTime": 1015.36,
+  "Value": "But carrots got their biggest boost during the two world wars, when food shortages forced people to eat them, and governments told everyone how healthy carrots were."
+}, {
+  "StartTime": 1015.36,
+  "EndTime": 1020.03,
+  "Value": "Today, cooler countries grow most of the world's carrots."
+}, {
+  "StartTime": 1020.03,
+  "EndTime": 1029.28,
+  "Value": "Machines do most of the planting and picking, and carrots are easy to store and ship, so they are cheap almost everywhere."
+}, {
+  "StartTime": 1029.28,
+  "EndTime": 1033.57,
+  "Value": "Questions 16 to 18 are based on the passage"
+}, {
+  "StartTime": 1033.57,
+  "EndTime": 1035.36,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 1035.36,
+  "EndTime": 1055.8,
+  "Value": "16. What do we learn from the talk about wild carrots?"
+}, {
+  "StartTime": 1055.8,
+  "EndTime": 1077.68,
+  "Value": "17. What does the speaker say about carrots in the late 1500s?"
+}, {
+  "StartTime": 1077.68,
+  "EndTime": 1099.79,
+  "Value": "18. Why did people turn to carrots for food during the two world wars?"
+}, {
+  "StartTime": 1099.79,
+  "EndTime": 1101.57,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 1101.57,
+  "EndTime": 1103.81,
+  "Value": "Katherine loved Facebook."
+}, {
+  "StartTime": 1103.81,
+  "EndTime": 1110.01,
+  "Value": "With Facebook, she could stay connected with her family no matter how far away they were."
+}, {
+  "StartTime": 1110.01,
+  "EndTime": 1114.05,
+  "Value": "She could see their photos and read their status updates."
+}, {
+  "StartTime": 1114.05,
+  "EndTime": 1119.73,
+  "Value": "With Facebook she could keep her relatives up-to-date on what she was doing."
+}, {
+  "StartTime": 1119.73,
+  "EndTime": 1127.65,
+  "Value": "Another thing Katherine loved about Facebook was that she didn't have to think about time zones when updating family."
+}, {
+  "StartTime": 1127.65,
+  "EndTime": 1139.5,
+  "Value": "Whenever she called her parents or other relatives, she always had to think about the time difference so that she wouldn't wake someone up or call when she knew they were at church."
+}, {
+  "StartTime": 1139.5,
+  "EndTime": 1141.87,
+  "Value": "Facebook was so convenient."
+}, {
+  "StartTime": 1141.87,
+  "EndTime": 1149.21,
+  "Value": "When Katherine joined Facebook, some of her classmates at high school started to add her as a friend."
+}, {
+  "StartTime": 1149.21,
+  "EndTime": 1151.87,
+  "Value": "At first, this didn't bother her."
+}, {
+  "StartTime": 1151.87,
+  "EndTime": 1157.89,
+  "Value": "She loved learning about the success of people she knew when she was just a teenager."
+}, {
+  "StartTime": 1157.89,
+  "EndTime": 1163.51,
+  "Value": "She loved finding out people were getting married, having babies, and traveling."
+}, {
+  "StartTime": 1163.51,
+  "EndTime": 1171.69,
+  "Value": "Soon, however, Katherine found herself comparing herself with the people she was reading about on Facebook."
+}, {
+  "StartTime": 1171.69,
+  "EndTime": 1178.51,
+  "Value": "It began to make her feel bad that some people seemed to be doing so much better than she was."
+}, {
+  "StartTime": 1178.51,
+  "EndTime": 1182.52,
+  "Value": "She was also spending a lot of time on Facebook."
+}, {
+  "StartTime": 1182.52,
+  "EndTime": 1188.69,
+  "Value": "It took a lot of time and energy to keep up with everyone's status updates."
+}, {
+  "StartTime": 1188.69,
+  "EndTime": 1191.07,
+  "Value": "Katherine started to think."
+}, {
+  "StartTime": 1191.07,
+  "EndTime": 1200.86,
+  "Value": "She looked at the list of over 500 friends she had on Facebook and realized some of them were not really friends at all."
+}, {
+  "StartTime": 1200.86,
+  "EndTime": 1204.36,
+  "Value": "Questions 19 to 21 are based on the passage"
+}, {
+  "StartTime": 1204.36,
+  "EndTime": 1206.16,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 1206.16,
+  "EndTime": 1228.45,
+  "Value": "19. What was one particular convenience Katherine loved about Facebook?"
+}, {
+  "StartTime": 1228.45,
+  "EndTime": 1250.66,
+  "Value": "20. How did Katherine feel when her classmates added her as a Facebook friend?"
+}, {
+  "StartTime": 1250.66,
+  "EndTime": 1272.01,
+  "Value": "21. What made Katherine feel bad about herself later on?"
+}, {
+  "StartTime": 1272.01,
+  "EndTime": 1274.02,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1274.02,
+  "EndTime": 1276.8,
+  "Value": "Do you know where a mule comes from?"
+}, {
+  "StartTime": 1276.8,
+  "EndTime": 1280.19,
+  "Value": "It is the child of a donkey and a horse."
+}, {
+  "StartTime": 1280.19,
+  "EndTime": 1289.55,
+  "Value": "Mules have strong muscles like horses, but they eat less, can work longer, and are gentler, like donkeys."
+}, {
+  "StartTime": 1289.55,
+  "EndTime": 1294.9,
+  "Value": "George Washington was the first person in the United States to own mules."
+}, {
+  "StartTime": 1294.9,
+  "EndTime": 1304.38,
+  "Value": "He had heard that mules made good farm animals and he contacted the U.S. ambassador in Spain to ask about them."
+}, {
+  "StartTime": 1304.38,
+  "EndTime": 1311.51,
+  "Value": "In 1785, King Charles Ⅲ of Spain sent Washington a male donkey as a gift."
+}, {
+  "StartTime": 1311.51,
+  "EndTime": 1317.75,
+  "Value": "That male donkey became the father of the mule industry in the U.S."
+}, {
+  "StartTime": 1317.75,
+  "EndTime": 1322.17,
+  "Value": "Every April, Maury County holds a Mule Day celebration."
+}, {
+  "StartTime": 1322.17,
+  "EndTime": 1330.42,
+  "Value": "Held in Columbia, Tennessee, Mule Day had its beginnings as \"Breeder's Day\" in the 1840s."
+}, {
+  "StartTime": 1330.42,
+  "EndTime": 1338.2,
+  "Value": "Farmers and farm animal breeders would bring their animals to market every April to show, buy, and trade."
+}, {
+  "StartTime": 1338.2,
+  "EndTime": 1348.24,
+  "Value": "This was an important business before the days of tractors, when many families made a living from farming and mules were used as work animals."
+}, {
+  "StartTime": 1348.24,
+  "EndTime": 1354.35,
+  "Value": "Eventually, tractors began to replace mules, making them less in demand."
+}, {
+  "StartTime": 1354.35,
+  "EndTime": 1360.37,
+  "Value": "A parade was added to Mule Day in 1934 to attract more people."
+}, {
+  "StartTime": 1360.37,
+  "EndTime": 1371.23,
+  "Value": "Over the years other activities have been added, and today more than 200,000 people show up each year to watch and participate."
+}, {
+  "StartTime": 1371.23,
+  "EndTime": 1384.74,
+  "Value": "If you visit during Mule Day celebrations, you might see mule-driving contests, square dances, horse shows or even tree-cutting competitions."
+}, {
+  "StartTime": 1384.74,
+  "EndTime": 1388.97,
+  "Value": "Questions 22 to 25 are based on the passage"
+}, {
+  "StartTime": 1388.97,
+  "EndTime": 1391.14,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 1391.14,
+  "EndTime": 1410.93,
+  "Value": "22. What does the speaker say about mules?"
+}, {
+  "StartTime": 1410.93,
+  "EndTime": 1434.57,
+  "Value": "23. What do we learn about the donkey which is said to be the father of the U.S. mule industry?"
+}, {
+  "StartTime": 1434.57,
+  "EndTime": 1456.94,
+  "Value": "24. What did farmers usually do on Mule Day in the 1840s?"
+}, {
+  "StartTime": 1456.94,
+  "EndTime": 1477.85,
+  "Value": "25. What made mules less in demand in America?"
+}, {
+  "StartTime": 1477.85,
+  "EndTime": 5077.85,
+  "Value": "This is the end of listening comprehension."
+}]

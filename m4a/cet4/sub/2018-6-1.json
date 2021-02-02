@@ -1,0 +1,773 @@
+[{
+  "StartTime": 0.44,
+  "EndTime": 2.82,
+  "Value": "College English Test Band Four"
+}, {
+  "StartTime": 2.82,
+  "EndTime": 5.67,
+  "Value": "Part Ⅱ Listening Comprehension"
+}, {
+  "StartTime": 5.67,
+  "EndTime": 7.17,
+  "Value": "Section A"
+}, {
+  "StartTime": 7.17,
+  "EndTime": 11.85,
+  "Value": "Directions: In this section, you will hear three news reports."
+}, {
+  "StartTime": 11.85,
+  "EndTime": 16.23,
+  "Value": "At the end of each news report, you will hear two or three questions."
+}, {
+  "StartTime": 16.23,
+  "EndTime": 21,
+  "Value": "Both the news report and the questions will be spoken only once."
+}, {
+  "StartTime": 21,
+  "EndTime": 29.9,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 29.9,
+  "EndTime": 36.89,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 36.89,
+  "EndTime": 52.13,
+  "Value": "News Report One A message in a bottle sent out to sea by a New Hampshire man more than five decades ago was found 1,500 miles away and has been returned to his daughter."
+}, {
+  "StartTime": 52.13,
+  "EndTime": 59.24,
+  "Value": "The long-lost message was discovered by Clint Buffington of Utah while he was vacationing."
+}, {
+  "StartTime": 59.24,
+  "EndTime": 89.42,
+  "Value": "Buffington says he found a soda bottle half buried in the sand that “looked like it had been there since the beginning of time.” The note inside the bottle said, “Return to 419 Ocean Street and receive a reward of $150 from Richard and Tina Pierce, owners of the Beachcomber Motel.” The motel was owned by the parents of Paula Pierce in 1960."
+}, {
+  "StartTime": 89.42,
+  "EndTime": 95.86,
+  "Value": "Her father had written the note as a joke and had thrown it into the Atlantic Ocean."
+}, {
+  "StartTime": 95.86,
+  "EndTime": 100.88,
+  "Value": "Buffington flew to New Hampshire to deliver the message to Paula Pierce."
+}, {
+  "StartTime": 100.88,
+  "EndTime": 106.15,
+  "Value": "She held up to her father's promise, giving Buffington that reward."
+}, {
+  "StartTime": 106.15,
+  "EndTime": 111.65,
+  "Value": "But the biggest reward is the message in a bottle finding its way back home."
+}, {
+  "StartTime": 111.65,
+  "EndTime": 115.18,
+  "Value": "Questions 1 and 2 are based"
+}, {
+  "StartTime": 115.18,
+  "EndTime": 118.66,
+  "Value": "on the news report you have just heard."
+}, {
+  "StartTime": 118.66,
+  "EndTime": 137.37,
+  "Value": "1. What is the news report mainly about?"
+}, {
+  "StartTime": 137.37,
+  "EndTime": 158.02,
+  "Value": "2. Why did Paula Pierce give Clint Buffington the reward?"
+}, {
+  "StartTime": 158.02,
+  "EndTime": 169.65,
+  "Value": "News Report Two Millions of bees have died in South Carolina during aerial insect-spraying operations that were carried out to combat the Zika virus."
+}, {
+  "StartTime": 169.65,
+  "EndTime": 184.34,
+  "Value": "The insect spraying over the weekend left more than 2 million bees dead on the spot in Dorchester County, South Carolina, where four travel-related cases of Zika disease have been confirmed in the area."
+}, {
+  "StartTime": 184.34,
+  "EndTime": 193.23,
+  "Value": "Most of the deaths came from Flowertown Bee Farm, a company in Summerville that sells bees and honey products."
+}, {
+  "StartTime": 193.23,
+  "EndTime": 204.26,
+  "Value": "Juanita Stanley who owns the company said the farm “looks like it's been destroyed.” The farm lost about 2.5 million bees."
+}, {
+  "StartTime": 204.26,
+  "EndTime": 210.44,
+  "Value": "Dorchester County officials apologized for the accidental mass killing of bees."
+}, {
+  "StartTime": 210.44,
+  "EndTime": 218.66,
+  "Value": "Dorchester County is aware that some beekeepers in the area that was sprayed on Sunday lost their bee colonies."
+}, {
+  "StartTime": 218.66,
+  "EndTime": 231.45,
+  "Value": "County manager Jason Ward said in a statement, “I'm not pleased that so many bees were killed.” Questions 3 and 4 are based on the news report you have just heard."
+}, {
+  "StartTime": 231.45,
+  "EndTime": 252.16,
+  "Value": "3. Why were spraying operations carried out in Dorchester County?"
+}, {
+  "StartTime": 252.16,
+  "EndTime": 272.41,
+  "Value": "4. What does the news report say about Flowertown Bee Farm?"
+}, {
+  "StartTime": 272.41,
+  "EndTime": 279.38,
+  "Value": "News Report Three The world's largest aircraft has taken to the skies for the first time."
+}, {
+  "StartTime": 279.38,
+  "EndTime": 288.71,
+  "Value": "The Airlander 10 spent nearly two hours in the air, having taken off from Cardington Airfield in Bedfordshire."
+}, {
+  "StartTime": 288.71,
+  "EndTime": 297.96,
+  "Value": "During its flight, it reached 3,000 feet and performed a series of gentle turns all over a safe area."
+}, {
+  "StartTime": 297.96,
+  "EndTime": 308.58,
+  "Value": "The aircraft is massive— as long as a football field and as tall as six double decker buses and capable of flying for up to five days."
+}, {
+  "StartTime": 308.58,
+  "EndTime": 318.7,
+  "Value": "It was first developed for the US government as a long-range spy aircraft, but was abandoned following budget cutbacks."
+}, {
+  "StartTime": 318.7,
+  "EndTime": 331.14,
+  "Value": "The aircraft cost 25 million pounds and can carry heavier loads than huge jet planes while also producing less noise and emitting less pollution."
+}, {
+  "StartTime": 331.14,
+  "EndTime": 339.29,
+  "Value": "The makers believe it's the future of aircraft and one day we'll be using them to go places."
+}, {
+  "StartTime": 339.29,
+  "EndTime": 342.42,
+  "Value": "But there's still a long way to go."
+}, {
+  "StartTime": 342.42,
+  "EndTime": 351.99,
+  "Value": "The Airlander will need to have 200 hours' flying time before being allowed to fly by the aviation administration."
+}, {
+  "StartTime": 351.99,
+  "EndTime": 357.94,
+  "Value": "If it passes though, we can hope we'll all get some extra leg room."
+}, {
+  "StartTime": 357.94,
+  "EndTime": 360.39,
+  "Value": "Questions 5 to 7 are based"
+}, {
+  "StartTime": 360.39,
+  "EndTime": 363.48,
+  "Value": "on the news report you have just heard."
+}, {
+  "StartTime": 363.48,
+  "EndTime": 383.96,
+  "Value": "5. What do we learn about the first flight of the Airlander 10?"
+}, {
+  "StartTime": 383.96,
+  "EndTime": 405.92,
+  "Value": "6. What cause the US government to abandon the Airlander 10 as a spy aircraft?"
+}, {
+  "StartTime": 405.92,
+  "EndTime": 427.19,
+  "Value": "7. What is the advantage of the Airlander 10 over huge jet planes?"
+}, {
+  "StartTime": 427.19,
+  "EndTime": 428.39,
+  "Value": "Section B"
+}, {
+  "StartTime": 428.39,
+  "EndTime": 433.81,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 433.81,
+  "EndTime": 438.55,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 438.55,
+  "EndTime": 443.82,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 443.82,
+  "EndTime": 453.55,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 453.55,
+  "EndTime": 461.19,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 461.19,
+  "EndTime": 463.44,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 463.44,
+  "EndTime": 467.59,
+  "Value": "M: Do you feel like going out tonight？ W: Yeah, why not?"
+}, {
+  "StartTime": 467.59,
+  "EndTime": 469.9,
+  "Value": "We haven't been out for ages."
+}, {
+  "StartTime": 469.9,
+  "EndTime": 470.8,
+  "Value": "What's on?"
+}, {
+  "StartTime": 470.8,
+  "EndTime": 473.56,
+  "Value": "M: Well, there's a film about climate change."
+}, {
+  "StartTime": 473.56,
+  "EndTime": 475.11,
+  "Value": "Does it sound good to you?"
+}, {
+  "StartTime": 475.11,
+  "EndTime": 476.62,
+  "Value": "W: Oh, not really."
+}, {
+  "StartTime": 476.62,
+  "EndTime": 478.94,
+  "Value": "It doesn't really appeal to me."
+}, {
+  "StartTime": 478.94,
+  "EndTime": 481.99,
+  "Value": "What's it about? Just climate change?"
+}, {
+  "StartTime": 481.99,
+  "EndTime": 485.99,
+  "Value": "M: I think it's about how climate change affects everyday life."
+}, {
+  "StartTime": 485.99,
+  "EndTime": 488.51,
+  "Value": "I wonder how they make it entertaining."
+}, {
+  "StartTime": 488.51,
+  "EndTime": 490.78,
+  "Value": "W: Well, it sounds really awful."
+}, {
+  "StartTime": 490.78,
+  "EndTime": 496.6,
+  "Value": "It's an important subject, I agree, but I'm not in the mood for anything depressing."
+}, {
+  "StartTime": 496.6,
+  "EndTime": 497.87,
+  "Value": "What else is on?"
+}, {
+  "StartTime": 497.87,
+  "EndTime": 500.4,
+  "Value": "M: There's a Spanish Dance Festival."
+}, {
+  "StartTime": 500.4,
+  "EndTime": 501.69,
+  "Value": "W: Oh, I love dance."
+}, {
+  "StartTime": 501.69,
+  "EndTime": 504.15,
+  "Value": "That sounds really interesting."
+}, {
+  "StartTime": 504.15,
+  "EndTime": 506.57,
+  "Value": "M: Apparen'tly, it's absolutely brilliant."
+}, {
+  "StartTime": 506.57,
+  "EndTime": 509.3,
+  "Value": "Let's see what it says in the paper."
+}, {
+  "StartTime": 509.3,
+  "EndTime": 518.3,
+  "Value": "“Anna Gomez leads in an exciting production of the great Spanish love story, Carmen.” W: OK, then, what time is it on?"
+}, {
+  "StartTime": 518.3,
+  "EndTime": 519.58,
+  "Value": "M: At 7:30."
+}, {
+  "StartTime": 519.58,
+  "EndTime": 521.36,
+  "Value": "W: Well, that's no good."
+}, {
+  "StartTime": 521.36,
+  "EndTime": 523.63,
+  "Value": "We haven't got enough time to get there."
+}, {
+  "StartTime": 523.63,
+  "EndTime": 525.32,
+  "Value": "Is there anything else?"
+}, {
+  "StartTime": 525.32,
+  "EndTime": 527.55,
+  "Value": "M: There's a comedy special on."
+}, {
+  "StartTime": 527.55,
+  "EndTime": 529.02,
+  "Value": "W: Where's it on?"
+}, {
+  "StartTime": 529.02,
+  "EndTime": 530.91,
+  "Value": "M: It's at the City Theatre."
+}, {
+  "StartTime": 530.91,
+  "EndTime": 534.32,
+  "Value": "It's a charity comedy night with lots of different acts."
+}, {
+  "StartTime": 534.32,
+  "EndTime": 535.82,
+  "Value": "It looks pretty good."
+}, {
+  "StartTime": 535.82,
+  "EndTime": 540.87,
+  "Value": "The critic in the local paper says it's the funniest thing he's ever seen."
+}, {
+  "StartTime": 540.87,
+  "EndTime": 549.97,
+  "Value": "It says here “Roger Whitehead is an amazing host to a night of fun performances.” W: Mm...I'm not keen on him."
+}, {
+  "StartTime": 549.97,
+  "EndTime": 551.69,
+  "Value": "He's not very funny."
+}, {
+  "StartTime": 551.69,
+  "EndTime": 554.53,
+  "Value": "M: Are you sure you fancy going out tonight?"
+}, {
+  "StartTime": 554.53,
+  "EndTime": 556.36,
+  "Value": "You are not very enthusiastic."
+}, {
+  "StartTime": 556.36,
+  "EndTime": 558.01,
+  "Value": "W: Perhaps you are right."
+}, {
+  "StartTime": 558.01,
+  "EndTime": 560.92,
+  "Value": "Okay, let's go see the dance."
+}, {
+  "StartTime": 560.92,
+  "EndTime": 563.27,
+  "Value": "But tomorrow, not tonight."
+}, {
+  "StartTime": 563.27,
+  "EndTime": 566.75,
+  "Value": "M: Great. I'll book the tickets online."
+}, {
+  "StartTime": 566.75,
+  "EndTime": 568.68,
+  "Value": "Questions 8 to 11 are based"
+}, {
+  "StartTime": 568.68,
+  "EndTime": 571.75,
+  "Value": "on the conversation you have just heard."
+}, {
+  "StartTime": 571.75,
+  "EndTime": 590.79,
+  "Value": "8. What does the woman think of climate change?"
+}, {
+  "StartTime": 590.79,
+  "EndTime": 611.9,
+  "Value": "9. Why do the speakers give up going to the Spanish Dance Festival tonight?"
+}, {
+  "StartTime": 611.9,
+  "EndTime": 632.53,
+  "Value": "10. What does the critic say about the comedy performed at the City Theatre?"
+}, {
+  "StartTime": 632.53,
+  "EndTime": 651.48,
+  "Value": "11. What does the woman decide to do tomorrow?"
+}, {
+  "StartTime": 651.48,
+  "EndTime": 653.27,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 653.27,
+  "EndTime": 654.73,
+  "Value": "W: Good morning, Mr. Lee."
+}, {
+  "StartTime": 654.73,
+  "EndTime": 657.37,
+  "Value": "May I have a minute of your time?"
+}, {
+  "StartTime": 657.37,
+  "EndTime": 658.97,
+  "Value": "M: Sure, Catherine."
+}, {
+  "StartTime": 658.97,
+  "EndTime": 660.32,
+  "Value": "What can I do for you?"
+}, {
+  "StartTime": 660.32,
+  "EndTime": 664.1,
+  "Value": "W: I'm quiet anxious about transferring over to your college."
+}, {
+  "StartTime": 664.1,
+  "EndTime": 666.42,
+  "Value": "I'm afraid I won't fit in."
+}, {
+  "StartTime": 666.42,
+  "EndTime": 667.87,
+  "Value": "M: Don't worry, Catherine."
+}, {
+  "StartTime": 667.87,
+  "EndTime": 671.76,
+  "Value": "It's completely normal for you to be nervous about transferring schools."
+}, {
+  "StartTime": 671.76,
+  "EndTime": 675.13,
+  "Value": "This happens to many transfer students."
+}, {
+  "StartTime": 675.13,
+  "EndTime": 679.66,
+  "Value": "W: Yes, I know, but I'm younger than most of the students in my year."
+}, {
+  "StartTime": 679.66,
+  "EndTime": 681.45,
+  "Value": "And that worries me a lot."
+}, {
+  "StartTime": 681.45,
+  "EndTime": 691.45,
+  "Value": "M: Well, you may be the only younger one in your year, but, you know, we have a lot of after-school activities you can join in."
+}, {
+  "StartTime": 691.45,
+  "EndTime": 696.72,
+  "Value": "And so, this way, you will be able to meet new friends of different age groups."
+}, {
+  "StartTime": 696.72,
+  "EndTime": 697.74,
+  "Value": "W: That's nice."
+}, {
+  "StartTime": 697.74,
+  "EndTime": 700.14,
+  "Value": "I love games and hobby groups."
+}, {
+  "StartTime": 700.14,
+  "EndTime": 701.36,
+  "Value": "M: I'm sure you do."
+}, {
+  "StartTime": 701.36,
+  "EndTime": 702.96,
+  "Value": "So you'll be just fine."
+}, {
+  "StartTime": 702.96,
+  "EndTime": 708.66,
+  "Value": "Don't worry so much and try to make the most of what we have on offer here."
+}, {
+  "StartTime": 708.66,
+  "EndTime": 714.71,
+  "Value": "Also, remember that you can come to me anytime of the day if you need help."
+}, {
+  "StartTime": 714.71,
+  "EndTime": 715.98,
+  "Value": "W: Thanks so much."
+}, {
+  "StartTime": 715.98,
+  "EndTime": 717.95,
+  "Value": "I definitely feel better now."
+}, {
+  "StartTime": 717.95,
+  "EndTime": 726.74,
+  "Value": "As a matter of fact, I've already contacted one of the girls who'd be living in the same house with me, and she seemed really nice."
+}, {
+  "StartTime": 726.74,
+  "EndTime": 734.78,
+  "Value": "I guess living on campus I'll have a chance to have a closer circle of friends, since we'll be living together."
+}, {
+  "StartTime": 734.78,
+  "EndTime": 738.13,
+  "Value": "M: All students are very friendly with new arrivals."
+}, {
+  "StartTime": 738.13,
+  "EndTime": 741.55,
+  "Value": "Let me check who would be living with you in your flat."
+}, {
+  "StartTime": 741.55,
+  "EndTime": 745.63,
+  "Value": "Okay, there are Hannah, Kelly, and Bree."
+}, {
+  "StartTime": 745.63,
+  "EndTime": 748.68,
+  "Value": "Bree is also a new student here, like you."
+}, {
+  "StartTime": 748.68,
+  "EndTime": 752.91,
+  "Value": "I'm sure you two will have more to share with each other."
+}, {
+  "StartTime": 752.91,
+  "EndTime": 755.18,
+  "Value": "Questions 12 to 15 are based"
+}, {
+  "StartTime": 755.18,
+  "EndTime": 758.32,
+  "Value": "on the conversation you have just heard."
+}, {
+  "StartTime": 758.32,
+  "EndTime": 777.5,
+  "Value": "12. Why does Catherine feel anxious?"
+}, {
+  "StartTime": 777.5,
+  "EndTime": 797.2,
+  "Value": "13. What does Mr. Lee encourage Catherine to do?"
+}, {
+  "StartTime": 797.2,
+  "EndTime": 816.76,
+  "Value": "14. What does Mr. Lee promise to do for Catherine?"
+}, {
+  "StartTime": 816.76,
+  "EndTime": 836.4,
+  "Value": "15. What do we learn about Catherine's schoolmate Bree?"
+}, {
+  "StartTime": 836.4,
+  "EndTime": 837.94,
+  "Value": "Section C"
+}, {
+  "StartTime": 837.94,
+  "EndTime": 842.76,
+  "Value": "Directions: In this section, you will hear three passages."
+}, {
+  "StartTime": 842.76,
+  "EndTime": 847.72,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 847.72,
+  "EndTime": 852.7,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 852.7,
+  "EndTime": 861.82,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 861.82,
+  "EndTime": 869.8,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 869.8,
+  "EndTime": 871.26,
+  "Value": "Passage One"
+}, {
+  "StartTime": 871.26,
+  "EndTime": 876.38,
+  "Value": "Have you ever felt like you would do just about anything to satisfy your hunger?"
+}, {
+  "StartTime": 876.38,
+  "EndTime": 884.69,
+  "Value": "A new study in mice may help to explain why hunger can feel like such a powerful motivating force."
+}, {
+  "StartTime": 884.69,
+  "EndTime": 894.54,
+  "Value": "In the study, researchers found that hunger outweighed other physical drives, including fear, thirst and social needs."
+}, {
+  "StartTime": 894.54,
+  "EndTime": 901.47,
+  "Value": "To determine which feeling won out, the researchers did a series of experiments."
+}, {
+  "StartTime": 901.47,
+  "EndTime": 905.63,
+  "Value": "In one experiment, the mice were both hungry and thirsty."
+}, {
+  "StartTime": 905.63,
+  "EndTime": 912.8,
+  "Value": "When given the choice of either eating food or drinking water, the mice went for the food, the researchers found."
+}, {
+  "StartTime": 912.8,
+  "EndTime": 920.67,
+  "Value": "However, when the mice were well-fed but thirsty, they opted to drink, according to the study."
+}, {
+  "StartTime": 920.67,
+  "EndTime": 940.55,
+  "Value": "In the second experiment meant to pit the mice's hunger against their fear, hungry mice were placed in a cage that had certain “fox-scented” areas and other places that smelled safer (in other words, not like an animal that could eat them) but also had food."
+}, {
+  "StartTime": 940.55,
+  "EndTime": 947.59,
+  "Value": "It turned out that, when the mice were hungry, they ventured into the unsafe areas for food."
+}, {
+  "StartTime": 947.59,
+  "EndTime": 959.87,
+  "Value": "But when the mice were well-fed, they stayed in areas of the cage that were considered “safe.” Hunger also outweighed the mice's social needs, the researchers found."
+}, {
+  "StartTime": 959.87,
+  "EndTime": 967.42,
+  "Value": "Mice are usually social animals and prefer to be in the company of other mice, according to the study."
+}, {
+  "StartTime": 967.42,
+  "EndTime": 974.3,
+  "Value": "When the mice were hungry, they opted to leave the company of other mice to go get food."
+}, {
+  "StartTime": 974.3,
+  "EndTime": 977.6,
+  "Value": "Questions 16 to 18 are based"
+}, {
+  "StartTime": 977.6,
+  "EndTime": 980.53,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 980.53,
+  "EndTime": 1003.12,
+  "Value": "16. What is the researchers' purpose in carrying out the series of experiments with mice?"
+}, {
+  "StartTime": 1003.12,
+  "EndTime": 1024.81,
+  "Value": "17. In what circumstances do mice venture into unsafe areas?"
+}, {
+  "StartTime": 1024.81,
+  "EndTime": 1045.34,
+  "Value": "18. What is said about mice at the end of the passage?"
+}, {
+  "StartTime": 1045.34,
+  "EndTime": 1046.82,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 1046.82,
+  "EndTime": 1051.99,
+  "Value": "The United States has one of the best highway systems in the world."
+}, {
+  "StartTime": 1051.99,
+  "EndTime": 1058.6,
+  "Value": "Interstate highways connect just about every large and mid-sized city in the country."
+}, {
+  "StartTime": 1058.6,
+  "EndTime": 1064.64,
+  "Value": "Did you ever wonder why such a complete system of excellent roads exists?"
+}, {
+  "StartTime": 1064.64,
+  "EndTime": 1069.78,
+  "Value": "For an answer, you would have to go back to the early 1920s."
+}, {
+  "StartTime": 1069.78,
+  "EndTime": 1079.26,
+  "Value": "In those years, just after World War Ⅰ, the military wanted to build an American highway system for national defense."
+}, {
+  "StartTime": 1079.26,
+  "EndTime": 1086.19,
+  "Value": "Such a system could, if necessary, move troops quickly from one area to another."
+}, {
+  "StartTime": 1086.19,
+  "EndTime": 1091.27,
+  "Value": "It could also get people out of cities in danger of being bombed."
+}, {
+  "StartTime": 1091.27,
+  "EndTime": 1099.53,
+  "Value": "So-called roads of national importance were designated, but they were mostly small country roads."
+}, {
+  "StartTime": 1099.53,
+  "EndTime": 1107.8,
+  "Value": "In 1944, Congress passed a bill to upgrade the system, but did not fund the plan right away."
+}, {
+  "StartTime": 1107.8,
+  "EndTime": 1112.88,
+  "Value": "In the 1950s, the plan began to become a reality."
+}, {
+  "StartTime": 1112.88,
+  "EndTime": 1123.88,
+  "Value": "Over $25 billion was appropriated by Congress, and construction began on about 40,000 miles of new roads."
+}, {
+  "StartTime": 1123.88,
+  "EndTime": 1129.79,
+  "Value": "The idea was to connect the new system to existing expressways and freeways."
+}, {
+  "StartTime": 1129.79,
+  "EndTime": 1137.09,
+  "Value": "And though the system was built mostly to make car travel easier, defense was not forgotten."
+}, {
+  "StartTime": 1137.09,
+  "EndTime": 1146.95,
+  "Value": "For instance, highway overpasses had to be high enough to allow trailers carrying military missiles to pass under them."
+}, {
+  "StartTime": 1146.95,
+  "EndTime": 1151.41,
+  "Value": "By 1974, this system was mostly completed."
+}, {
+  "StartTime": 1151.41,
+  "EndTime": 1154.72,
+  "Value": "A few additional roads would come later."
+}, {
+  "StartTime": 1154.72,
+  "EndTime": 1161.01,
+  "Value": "Quick and easy travel between all parts of the country was now possible."
+}, {
+  "StartTime": 1161.01,
+  "EndTime": 1164.02,
+  "Value": "Questions 19 to 21 are based"
+}, {
+  "StartTime": 1164.02,
+  "EndTime": 1166.58,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 1166.58,
+  "EndTime": 1188.4,
+  "Value": "19. What does the speaker say about the American highway system?"
+}, {
+  "StartTime": 1188.4,
+  "EndTime": 1209.04,
+  "Value": "20. What was the original purpose of building a highway system?"
+}, {
+  "StartTime": 1209.04,
+  "EndTime": 1229.44,
+  "Value": "21. When was the interstate highway system mostly completed?"
+}, {
+  "StartTime": 1229.44,
+  "EndTime": 1231.27,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1231.27,
+  "EndTime": 1239.69,
+  "Value": "Texting while driving was listed as a major cause of road deaths among young Americans back in 2013."
+}, {
+  "StartTime": 1239.69,
+  "EndTime": 1252.09,
+  "Value": "A recent study said that 40% of American teens claim to have been in a car when the driver used a cell phone in a way that put people in danger."
+}, {
+  "StartTime": 1252.09,
+  "EndTime": 1259.38,
+  "Value": "This sounds like a widespread disease, but it's one that technology may now help to cure."
+}, {
+  "StartTime": 1259.38,
+  "EndTime": 1270.17,
+  "Value": "T. J. Evarts, a 20-year-old inventor, has come up with a novel solution that could easily put texting drivers on notice."
+}, {
+  "StartTime": 1270.17,
+  "EndTime": 1283.18,
+  "Value": "It's called Smart Wheel, and it's designed to fit over the steering wheel of most standard vehicles to track whether or not the driver has two hands on the wheel at all times."
+}, {
+  "StartTime": 1283.18,
+  "EndTime": 1298.42,
+  "Value": "Evarts' invention warns the drivers with a light and a sound when they hold the wheel with one hand only, but as soon as they place the other hand back on the wheel, the light turns back to green and the sound stops."
+}, {
+  "StartTime": 1298.42,
+  "EndTime": 1312.35,
+  "Value": "It also watches for what's called “close-by hands,” where both hands are close together near the top of the wheel, so the driver can type with both thumbs and drive at the same time."
+}, {
+  "StartTime": 1312.35,
+  "EndTime": 1318.65,
+  "Value": "All the data Smart Wheel collects is also sent to a connected app."
+}, {
+  "StartTime": 1318.65,
+  "EndTime": 1324.98,
+  "Value": "So any parents who install Smart Wheel can keep track of the teen's driving habits."
+}, {
+  "StartTime": 1324.98,
+  "EndTime": 1332.03,
+  "Value": "If they try to remove or damage the cover, that's reported as well."
+}, {
+  "StartTime": 1332.03,
+  "EndTime": 1334.73,
+  "Value": "Questions 22 to 25 are based"
+}, {
+  "StartTime": 1334.73,
+  "EndTime": 1338,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 1338,
+  "EndTime": 1358.95,
+  "Value": "22. What is a major cause of road deaths among young Americans?"
+}, {
+  "StartTime": 1358.95,
+  "EndTime": 1377.49,
+  "Value": "23. What is Smart Wheel?"
+}, {
+  "StartTime": 1377.49,
+  "EndTime": 1397.73,
+  "Value": "24. What happens if the driver has one hand on the wheel?"
+}, {
+  "StartTime": 1397.73,
+  "EndTime": 1418.49,
+  "Value": "25. How do parents keep track of their teen's driving habits?"
+}, {
+  "StartTime": 1418.49,
+  "EndTime": 5018.49,
+  "Value": "This is the end of listening comprehension."
+}]

@@ -1,0 +1,713 @@
+[{
+  "StartTime": 1.23,
+  "EndTime": 4.25,
+  "Value": "College English Test Band Four"
+}, {
+  "StartTime": 4.25,
+  "EndTime": 8.03,
+  "Value": "Part Ⅱ Listening Comprehension"
+}, {
+  "StartTime": 8.03,
+  "EndTime": 9.72,
+  "Value": "Section A"
+}, {
+  "StartTime": 9.72,
+  "EndTime": 15.4,
+  "Value": "Directions: In this section, you will hear three news reports."
+}, {
+  "StartTime": 15.4,
+  "EndTime": 21.01,
+  "Value": "At the end of each news report, you will hear two or three questions."
+}, {
+  "StartTime": 21.01,
+  "EndTime": 26.01,
+  "Value": "Both the news report and the questions will be spoken only once."
+}, {
+  "StartTime": 26.01,
+  "EndTime": 34.79,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 34.79,
+  "EndTime": 42.46,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 42.46,
+  "EndTime": 54.32,
+  "Value": "News Report One France is facing potentially more than $1 billion in lost revenue this year due to huge declines in tourism."
+}, {
+  "StartTime": 54.32,
+  "EndTime": 66.97,
+  "Value": "Safety concerns have been one of the biggest reasons why the country has lost over half a billion in revenue already in the first six months of 2016."
+}, {
+  "StartTime": 66.97,
+  "EndTime": 74.08,
+  "Value": "The terror attacks in Paris last November were called Europe's worst in the past decade."
+}, {
+  "StartTime": 74.08,
+  "EndTime": 84.29,
+  "Value": "Besides violence, workers' strikes and heavy floods are said to have also been why international tourists have stayed away."
+}, {
+  "StartTime": 84.29,
+  "EndTime": 97.89,
+  "Value": "So far in the Paris region, there's been a 46% decline in Japanese visitors, 35% fewer Russians and 27% fewer Italians."
+}, {
+  "StartTime": 97.89,
+  "EndTime": 101.41,
+  "Value": "American travelers seem the least affected."
+}, {
+  "StartTime": 101.41,
+  "EndTime": 105.86,
+  "Value": "Their numbers have only dropped by roughly 5%."
+}, {
+  "StartTime": 105.86,
+  "EndTime": 117.37,
+  "Value": "According to the French government, the country is the No. 1 tourist destination in the world, and tourism is extremely important to the French economy."
+}, {
+  "StartTime": 117.37,
+  "EndTime": 122.16,
+  "Value": "The sector represents roughly 9% of its GDP."
+}, {
+  "StartTime": 122.16,
+  "EndTime": 137.55,
+  "Value": "The head of Paris' tourism board said, “It's time to realize that the tourism sector is going through an industrial disaster.” Questions 1 and 2 are based on the news report you have just heard."
+}, {
+  "StartTime": 137.55,
+  "EndTime": 157.51,
+  "Value": "1. What accounts most for the huge declines in tourism in France?"
+}, {
+  "StartTime": 157.51,
+  "EndTime": 176.74,
+  "Value": "2. What do we learn from the report about tourism in France?"
+}, {
+  "StartTime": 176.74,
+  "EndTime": 193.18,
+  "Value": "News Report Two A small plane with two sick US workers arrived safely in Chile late Wednesday after leaving Antarctica in a daring rescue mission from a remote South Pole research station."
+}, {
+  "StartTime": 193.18,
+  "EndTime": 205.52,
+  "Value": "After making a stop for a few hours at a British station on the edge of Antarctica, the two workers were flown to the southernmost Chilean city of Punta Arenas."
+}, {
+  "StartTime": 205.52,
+  "EndTime": 220.37,
+  "Value": "In a chaotic two days of flying, the rescue team flew 3,000 miles round-trip from the British station Rothera to pick up the workers at the US Amundsen-Scott station at the South Pole."
+}, {
+  "StartTime": 220.37,
+  "EndTime": 232.57,
+  "Value": "“The two patients aboard will be transported to a medical facility that can provide a level of care that is not available at Amundsen-Scott,” says a spokesperson."
+}, {
+  "StartTime": 232.57,
+  "EndTime": 242.4,
+  "Value": "Normally planes don't go to the polar post from February to October because of the dangers of flying in the pitch-dark and cold."
+}, {
+  "StartTime": 242.4,
+  "EndTime": 249.94,
+  "Value": "“Antarctica creates a hostile environment,” says the operations director for the British Antarctic Survey."
+}, {
+  "StartTime": 249.94,
+  "EndTime": 260.18,
+  "Value": "“If you're not careful, it'll come round and bite you.” Questions 3 and 4 are based on the news report you have just heard."
+}, {
+  "StartTime": 260.18,
+  "EndTime": 278.68,
+  "Value": "3. What was the small plane's mission to Antarctica?"
+}, {
+  "StartTime": 278.68,
+  "EndTime": 299.19,
+  "Value": "4. What makes flying to Antarctica dangerous from February to October?"
+}, {
+  "StartTime": 299.19,
+  "EndTime": 307.47,
+  "Value": "News Report Three A pilot from Virginia removed his son's loose tooth using a helicopter."
+}, {
+  "StartTime": 307.47,
+  "EndTime": 319.99,
+  "Value": "Rick Rahim, from Virginia, flies helicopters for a living, and when his seven-year-old son's tooth became loose, he did not waste time by tying it to a door handle."
+}, {
+  "StartTime": 319.99,
+  "EndTime": 330.31,
+  "Value": "Instead, Mr. Rahim tied one end of a string around his son's tooth and the other end to his full-sized commercial helicopter."
+}, {
+  "StartTime": 330.31,
+  "EndTime": 340.87,
+  "Value": "The father of four posted a video clip of his playful venture on Facebook, advising parents to do fun and creative stuff with their kids."
+}, {
+  "StartTime": 340.87,
+  "EndTime": 350.9,
+  "Value": "The video shows him launching the helicopter into the air and flying just far enough to successfully remove the loose tooth."
+}, {
+  "StartTime": 350.9,
+  "EndTime": 364.03,
+  "Value": "At the end of the video, Mr. Rahim assures watchers that the circumstances were safe, and that he has 13 years of helicopter flying experience behind him."
+}, {
+  "StartTime": 364.03,
+  "EndTime": 369.27,
+  "Value": "“You've got to do everything safe in life, and that's what I did today,” he said."
+}, {
+  "StartTime": 369.27,
+  "EndTime": 385.19,
+  "Value": "Mr. Rahim later said that although some parents have used remote control helicopters to pull teeth before, he might be the first to use a full-sized aircraft, as he can't find evidence that it has been done before."
+}, {
+  "StartTime": 385.19,
+  "EndTime": 388.55,
+  "Value": "Questions 5 to 7 are based on the news report"
+}, {
+  "StartTime": 388.55,
+  "EndTime": 390.99,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 390.99,
+  "EndTime": 410.11,
+  "Value": "5. How did Rick Rahim remove his son's loose tooth?"
+}, {
+  "StartTime": 410.11,
+  "EndTime": 429.19,
+  "Value": "6. What does the news report say about Rick Rahim?"
+}, {
+  "StartTime": 429.19,
+  "EndTime": 448.67,
+  "Value": "7. What did Rick Rahim advise parents to do with their kids?"
+}, {
+  "StartTime": 448.67,
+  "EndTime": 450.1,
+  "Value": "Section B"
+}, {
+  "StartTime": 450.1,
+  "EndTime": 455.99,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 455.99,
+  "EndTime": 460.73,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 460.73,
+  "EndTime": 466.2,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 466.2,
+  "EndTime": 475.59,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 475.59,
+  "EndTime": 483.13,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 483.13,
+  "EndTime": 485.09,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 485.09,
+  "EndTime": 488.45,
+  "Value": "W: Hi, Emma's speaking. Who's this?"
+}, {
+  "StartTime": 488.45,
+  "EndTime": 489.39,
+  "Value": "M: Hi, Emma."
+}, {
+  "StartTime": 489.39,
+  "EndTime": 492.29,
+  "Value": "I'm Paul from Hermes Delivery Service."
+}, {
+  "StartTime": 492.29,
+  "EndTime": 493.91,
+  "Value": "Here is a package for you."
+}, {
+  "StartTime": 493.91,
+  "EndTime": 495.49,
+  "Value": "Are you at home to collect it?"
+}, {
+  "StartTime": 495.49,
+  "EndTime": 497.19,
+  "Value": "W: Oh, sorry, Paul."
+}, {
+  "StartTime": 497.19,
+  "EndTime": 499.05,
+  "Value": "I'm out at the moment."
+}, {
+  "StartTime": 499.05,
+  "EndTime": 501.28,
+  "Value": "Can you put it in my mailbox?"
+}, {
+  "StartTime": 501.28,
+  "EndTime": 504.24,
+  "Value": "M: I'm afraid I can't do that. Sorry."
+}, {
+  "StartTime": 504.24,
+  "EndTime": 513.33,
+  "Value": "The package is too big and it needs a signature to confirm you have received it, so I would need to deliver it at a time when you are in."
+}, {
+  "StartTime": 513.33,
+  "EndTime": 520.68,
+  "Value": "W: Okay, well, I'm out all day today, but I should be in tomorrow morning before I go out for lunch."
+}, {
+  "StartTime": 520.68,
+  "EndTime": 524.83,
+  "Value": "And then I'll be at home again later in the afternoon."
+}, {
+  "StartTime": 524.83,
+  "EndTime": 528.66,
+  "Value": "Will either of those times be convenient for you?"
+}, {
+  "StartTime": 528.66,
+  "EndTime": 532.21,
+  "Value": "M: They're not, unfortunately. I'm sorry."
+}, {
+  "StartTime": 532.21,
+  "EndTime": 538.35,
+  "Value": "I won't be in the area tomorrow as I have some other deliveries to make on the other side of town."
+}, {
+  "StartTime": 538.35,
+  "EndTime": 541.58,
+  "Value": "I could come the day after if that suits you."
+}, {
+  "StartTime": 541.58,
+  "EndTime": 544.29,
+  "Value": "W: Okay. Yes, that should be fine."
+}, {
+  "StartTime": 544.29,
+  "EndTime": 548.88,
+  "Value": "I have a friend coming round in the afternoon, but I'll be at home."
+}, {
+  "StartTime": 548.88,
+  "EndTime": 551.8,
+  "Value": "So the day after tomorrow will be great."
+}, {
+  "StartTime": 551.8,
+  "EndTime": 554.09,
+  "Value": "Do I need to pay for the package?"
+}, {
+  "StartTime": 554.09,
+  "EndTime": 555.23,
+  "Value": "M: No, you don't."
+}, {
+  "StartTime": 555.23,
+  "EndTime": 558.83,
+  "Value": "It says here that you paid for it when you ordered it online."
+}, {
+  "StartTime": 558.83,
+  "EndTime": 560.52,
+  "Value": "W: Oh, yes, I did."
+}, {
+  "StartTime": 560.52,
+  "EndTime": 562.23,
+  "Value": "I got mixed up."
+}, {
+  "StartTime": 562.23,
+  "EndTime": 565.98,
+  "Value": "M: So you just need to sign the form to say you've received it."
+}, {
+  "StartTime": 565.98,
+  "EndTime": 567.44,
+  "Value": "W: Okay, great."
+}, {
+  "StartTime": 567.44,
+  "EndTime": 569.52,
+  "Value": "See you the day after tomorrow then."
+}, {
+  "StartTime": 569.52,
+  "EndTime": 571.54,
+  "Value": "M: Yes, see you then."
+}, {
+  "StartTime": 571.54,
+  "EndTime": 575.03,
+  "Value": "Questions 8 to 11 are based on the conversation"
+}, {
+  "StartTime": 575.03,
+  "EndTime": 577.85,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 577.85,
+  "EndTime": 595.46,
+  "Value": "8. Why is the man making the phone call?"
+}, {
+  "StartTime": 595.46,
+  "EndTime": 613.59,
+  "Value": "9. Why can't the woman meet the man today?"
+}, {
+  "StartTime": 613.59,
+  "EndTime": 632.46,
+  "Value": "10. Why is the man unable to see the woman tomorrow?"
+}, {
+  "StartTime": 632.46,
+  "EndTime": 651.16,
+  "Value": "11. What should the woman do to receive her purchase?"
+}, {
+  "StartTime": 651.16,
+  "EndTime": 653.78,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 653.78,
+  "EndTime": 657.19,
+  "Value": "M: Hi, Emily, I hear you are leaving for Italy soon."
+}, {
+  "StartTime": 657.19,
+  "EndTime": 661.67,
+  "Value": "Do you plan to have a going-away party before you disappear?"
+}, {
+  "StartTime": 661.67,
+  "EndTime": 665.77,
+  "Value": "It'd be really nice for us to hang out together before you go."
+}, {
+  "StartTime": 665.77,
+  "EndTime": 666.9,
+  "Value": "W: I'm not sure."
+}, {
+  "StartTime": 666.9,
+  "EndTime": 674.81,
+  "Value": "I'm leaving in just two more days, and I'm going to miss all my friends here and especially this place."
+}, {
+  "StartTime": 674.81,
+  "EndTime": 676.55,
+  "Value": "Why don't you come over?"
+}, {
+  "StartTime": 676.55,
+  "EndTime": 679.4,
+  "Value": "I'm feeling rather sad, actually."
+}, {
+  "StartTime": 679.4,
+  "EndTime": 688.2,
+  "Value": "I'm currently sitting alone at a table outside the Black Cat Cafe, listening to the rain and watching people passing by."
+}, {
+  "StartTime": 688.2,
+  "EndTime": 691.07,
+  "Value": "M: I'm sorry. I can't just now."
+}, {
+  "StartTime": 691.07,
+  "EndTime": 696.34,
+  "Value": "I need to get this assignment finished by Monday, and I'm way behind."
+}, {
+  "StartTime": 696.34,
+  "EndTime": 698.12,
+  "Value": "Anyhow, cheer up."
+}, {
+  "StartTime": 698.12,
+  "EndTime": 702.85,
+  "Value": "You're not leaving for good, and you'll absolutely love Italy."
+}, {
+  "StartTime": 702.85,
+  "EndTime": 704.55,
+  "Value": "W: Yeah, you're right."
+}, {
+  "StartTime": 704.55,
+  "EndTime": 707.84,
+  "Value": "But I just feel like I'm not quite ready to go."
+}, {
+  "StartTime": 707.84,
+  "EndTime": 712.69,
+  "Value": "And studying in a foreign country seems a bit overwhelming."
+}, {
+  "StartTime": 712.69,
+  "EndTime": 715.16,
+  "Value": "M: Just think of your life in Milan."
+}, {
+  "StartTime": 715.16,
+  "EndTime": 723.08,
+  "Value": "In the mornings, you can go down to a small local cafe, soaking up the sun's rays and drinking coffee."
+}, {
+  "StartTime": 723.08,
+  "EndTime": 725.03,
+  "Value": "I envy you."
+}, {
+  "StartTime": 725.03,
+  "EndTime": 728.41,
+  "Value": "You can buy lots of gorgeous Italian clothes."
+}, {
+  "StartTime": 728.41,
+  "EndTime": 729.84,
+  "Value": "W: That does sound nice."
+}, {
+  "StartTime": 729.84,
+  "EndTime": 734.36,
+  "Value": "And of course I can keep in touch with everyone through Facebook."
+}, {
+  "StartTime": 734.36,
+  "EndTime": 736.87,
+  "Value": "Maybe you can all come visit me."
+}, {
+  "StartTime": 736.87,
+  "EndTime": 738.66,
+  "Value": "M: Of course we will."
+}, {
+  "StartTime": 738.66,
+  "EndTime": 740.13,
+  "Value": "When is your flight?"
+}, {
+  "StartTime": 740.13,
+  "EndTime": 744.27,
+  "Value": "W: On Saturday, after lunch, at 1:45."
+}, {
+  "StartTime": 744.27,
+  "EndTime": 749.17,
+  "Value": "M: Okay, I'll try and come to the airport on Saturday to see you off."
+}, {
+  "StartTime": 749.17,
+  "EndTime": 753.2,
+  "Value": "I'll give you a call that morning no matter what."
+}, {
+  "StartTime": 753.2,
+  "EndTime": 756.77,
+  "Value": "Questions 12 to 15 are based on the conversation"
+}, {
+  "StartTime": 756.77,
+  "EndTime": 759.37,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 759.37,
+  "EndTime": 776.67,
+  "Value": "12. What is the woman going to do?"
+}, {
+  "StartTime": 776.67,
+  "EndTime": 794.75,
+  "Value": "13. How does the woman feel at the moment?"
+}, {
+  "StartTime": 794.75,
+  "EndTime": 812.73,
+  "Value": "14. Why can't the man meet the woman now?"
+}, {
+  "StartTime": 812.73,
+  "EndTime": 831.54,
+  "Value": "15. What will the man possibly do on Saturday?"
+}, {
+  "StartTime": 831.54,
+  "EndTime": 833.14,
+  "Value": "Section C"
+}, {
+  "StartTime": 833.14,
+  "EndTime": 838.46,
+  "Value": "Directions: In this section, you will hear three passages."
+}, {
+  "StartTime": 838.46,
+  "EndTime": 843.34,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 843.34,
+  "EndTime": 848.76,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 848.76,
+  "EndTime": 858.39,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 858.39,
+  "EndTime": 865.77,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 865.77,
+  "EndTime": 867.45,
+  "Value": "Passage One"
+}, {
+  "StartTime": 867.45,
+  "EndTime": 871.84,
+  "Value": "Mount Etna is one of the most active volcanoes on Earth."
+}, {
+  "StartTime": 871.84,
+  "EndTime": 878.58,
+  "Value": "The mountain has been in a state of near continuous eruption for half a million years."
+}, {
+  "StartTime": 878.58,
+  "EndTime": 885.02,
+  "Value": "Exploring the Etna geographical area reveals a history written in fire."
+}, {
+  "StartTime": 885.02,
+  "EndTime": 889.95,
+  "Value": "Before the eruptions, it was covered by forests of pine trees."
+}, {
+  "StartTime": 889.95,
+  "EndTime": 896.71,
+  "Value": "Located in southern Italy, Etna is the highest active volcano in Europe."
+}, {
+  "StartTime": 896.71,
+  "EndTime": 906.11,
+  "Value": "However, its height often changes when volcanic material accumulates during eruptions and subsequently collapses."
+}, {
+  "StartTime": 906.11,
+  "EndTime": 920.81,
+  "Value": "Few volcanoes in the world have an eruption history so thoroughly documented by historical records— Etna's eruption history dates back as far as 1500 BC."
+}, {
+  "StartTime": 920.81,
+  "EndTime": 935.32,
+  "Value": "Some 200 eruptions have been recorded down through the centuries, but compared with other volcanoes, most of its eruptions have so far been fairly light in terms of death and destruction."
+}, {
+  "StartTime": 935.32,
+  "EndTime": 940.68,
+  "Value": "Only about 100 deaths have been attributed to the volcano."
+}, {
+  "StartTime": 940.68,
+  "EndTime": 950.07,
+  "Value": "The mountain hasn't been entirely harmless, however; in 1928 it destroyed the town of Mascali."
+}, {
+  "StartTime": 950.07,
+  "EndTime": 962.01,
+  "Value": "Over the centuries, Etna's lower slopes have been shaped by human hands to take advantage of rich soils for growing grapes, apples and nuts."
+}, {
+  "StartTime": 962.01,
+  "EndTime": 974.3,
+  "Value": "Local people have also carved out over 200 caves in the soft rock and used them for everything from sacred burial places to food storage."
+}, {
+  "StartTime": 974.3,
+  "EndTime": 984.47,
+  "Value": "Large mammals once wandered the volcano's slopes, but today foxes, wild cats, rabbits and mice are more common."
+}, {
+  "StartTime": 984.47,
+  "EndTime": 991.27,
+  "Value": "Some of those small mammals help to sustain such big birds as golden eagles."
+}, {
+  "StartTime": 991.27,
+  "EndTime": 995.16,
+  "Value": "Questions 16 to 18 are based on the passage"
+}, {
+  "StartTime": 995.16,
+  "EndTime": 997.4,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 997.4,
+  "EndTime": 1015.87,
+  "Value": "16. What does the speaker say about Mount Etna?"
+}, {
+  "StartTime": 1015.87,
+  "EndTime": 1034.74,
+  "Value": "17. What do we learn about the lower slopes of Mount Etna?"
+}, {
+  "StartTime": 1034.74,
+  "EndTime": 1055.9,
+  "Value": "18. What does the speaker say about big birds like golden eagles at Mount Etna?"
+}, {
+  "StartTime": 1055.9,
+  "EndTime": 1058.52,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 1058.52,
+  "EndTime": 1066.65,
+  "Value": "My name is Brendan Leonard and I'm an author, magazine writer, filmmaker and public speaker."
+}, {
+  "StartTime": 1066.65,
+  "EndTime": 1072.97,
+  "Value": "I'm self-employed, which means I work for myself and I do what I love."
+}, {
+  "StartTime": 1072.97,
+  "EndTime": 1091.91,
+  "Value": "We have a popular saying in America which goes, “Do what you love and you'll never work a day in your life.” But I'm here to tell you that instead of focusing on doing what we love, I think we should focus on loving what we do."
+}, {
+  "StartTime": 1091.91,
+  "EndTime": 1102.1,
+  "Value": "In my line of work, you hear a lot about talent, which is an idea we've mostly invented to give ourselves an excuse to be lazy."
+}, {
+  "StartTime": 1102.1,
+  "EndTime": 1110.62,
+  "Value": "Here's why: If you see someone doing something really well, you would say it's because they're talented."
+}, {
+  "StartTime": 1110.62,
+  "EndTime": 1113.23,
+  "Value": "You think they're somehow special."
+}, {
+  "StartTime": 1113.23,
+  "EndTime": 1119.45,
+  "Value": "You discount the tremendous amount of work they've done to get to where they are."
+}, {
+  "StartTime": 1119.45,
+  "EndTime": 1124.91,
+  "Value": "Research has shown that talent is nothing without hard work."
+}, {
+  "StartTime": 1124.91,
+  "EndTime": 1130.65,
+  "Value": "I choose to believe in hard work, but not so much in talent."
+}, {
+  "StartTime": 1130.65,
+  "EndTime": 1138.91,
+  "Value": "There are no special people, just people who put in enough hard work until something special happens."
+}, {
+  "StartTime": 1138.91,
+  "EndTime": 1149.39,
+  "Value": "I can promise you one thing: whatever you choose to do for a career, if you work hard at it, eventually, special things will happen."
+}, {
+  "StartTime": 1149.39,
+  "EndTime": 1162.08,
+  "Value": "They may not happen as quickly as you'd like them to, and they may turn out to be completely different from the special things you imagined at the beginning, but they will happen."
+}, {
+  "StartTime": 1162.08,
+  "EndTime": 1165.66,
+  "Value": "Questions 19 to 21 are based on the passage"
+}, {
+  "StartTime": 1165.66,
+  "EndTime": 1167.75,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 1167.75,
+  "EndTime": 1185.29,
+  "Value": "19. What do we learn about the speaker?"
+}, {
+  "StartTime": 1185.29,
+  "EndTime": 1203.22,
+  "Value": "20. What is the speaker's advice to his audience?"
+}, {
+  "StartTime": 1203.22,
+  "EndTime": 1221.6,
+  "Value": "21. What does the speaker say about talent?"
+}, {
+  "StartTime": 1221.6,
+  "EndTime": 1223.9,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1223.9,
+  "EndTime": 1260.95,
+  "Value": "A question we often ask others and are also frequently asked by others is “What do you normally do after school or work?” Some commonplace answers are, “Well, I go to the gym.” “Um, I just go home and watch TV.” “I meet my friends for dinner.” or “I just go to bed because it's so late and I'm tired.” Unlike any of these typical responses, I'm proud to say that I love to dance salsa after a long and tiring day of work."
+}, {
+  "StartTime": 1260.95,
+  "EndTime": 1267.61,
+  "Value": "Salsa is a kind of dancing that evolved in the mid-1970s in New York."
+}, {
+  "StartTime": 1267.61,
+  "EndTime": 1278.23,
+  "Value": "My dancing life began not because I wanted to do it, but because my mother was sick and tired of seeing me running around after school doing nothing."
+}, {
+  "StartTime": 1278.23,
+  "EndTime": 1282.91,
+  "Value": "So she enrolled me into a ballet course when I was six."
+}, {
+  "StartTime": 1282.91,
+  "EndTime": 1289.7,
+  "Value": "I fell in love with it instantly and continued with ballet dancing for about 10 years."
+}, {
+  "StartTime": 1289.7,
+  "EndTime": 1300.47,
+  "Value": "Then I left my native country of New Zealand to start my career as an English teacher, which eventually brought my dancing life to a halt."
+}, {
+  "StartTime": 1300.47,
+  "EndTime": 1310.19,
+  "Value": "It wasn't until I rediscovered salsa in a lovely studio while working in Asia that I renewed my passion for dancing."
+}, {
+  "StartTime": 1310.19,
+  "EndTime": 1316.99,
+  "Value": "Since then I have been trying to attend dancing classes twice a week after work."
+}, {
+  "StartTime": 1316.99,
+  "EndTime": 1326.31,
+  "Value": "It's a great way for me to relieve stress and pressure, and dance my way towards feeling energetic and happy again."
+}, {
+  "StartTime": 1326.31,
+  "EndTime": 1330.3,
+  "Value": "Questions 22 to 25 are based on the passage"
+}, {
+  "StartTime": 1330.3,
+  "EndTime": 1332.53,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 1332.53,
+  "EndTime": 1351.5,
+  "Value": "22. What does the speaker say about the dance salsa?"
+}, {
+  "StartTime": 1351.5,
+  "EndTime": 1371.36,
+  "Value": "23. Why did the speaker's mother enroll her in a ballet course?"
+}, {
+  "StartTime": 1371.36,
+  "EndTime": 1390.76,
+  "Value": "24. When did the speaker's dancing life come to a halt?"
+}, {
+  "StartTime": 1390.76,
+  "EndTime": 1410.44,
+  "Value": "25. In what way has salsa dancing benefited the speaker?"
+}, {
+  "StartTime": 1410.44,
+  "EndTime": 5010.44,
+  "Value": "This is the end of Listening Comprehension"
+}]

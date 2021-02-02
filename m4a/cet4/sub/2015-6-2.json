@@ -1,0 +1,877 @@
+[{
+  "StartTime": 14.77,
+  "EndTime": 18.33,
+  "Value": "College English Test - Band 4"
+}, {
+  "StartTime": 18.33,
+  "EndTime": 21.68,
+  "Value": "Part II  Listening Comprehension"
+}, {
+  "StartTime": 21.68,
+  "EndTime": 23.84,
+  "Value": "Section A"
+}, {
+  "StartTime": 23.84,
+  "EndTime": 31.73,
+  "Value": "Directions: In this section, you will hear 8 short conversations and 2 long conversations."
+}, {
+  "StartTime": 31.73,
+  "EndTime": 38.7,
+  "Value": "At the end of each conversation, one or more questions will be asked about what was said."
+}, {
+  "StartTime": 38.7,
+  "EndTime": 44.07,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 44.07,
+  "EndTime": 47.47,
+  "Value": "After each question there will be a pause."
+}, {
+  "StartTime": 47.47,
+  "EndTime": 57.85,
+  "Value": "During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer."
+}, {
+  "StartTime": 57.85,
+  "EndTime": 65.94,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 65.94,
+  "EndTime": 70.95,
+  "Value": "Now let's begin with the eight short conversations."
+}, {
+  "StartTime": 70.95,
+  "EndTime": 79.48,
+  "Value": "1. W: Tom, would you be interested in serving on the membership committee this year?"
+}, {
+  "StartTime": 79.48,
+  "EndTime": 82.96,
+  "Value": "M: Can I get back to you on that in a few days?"
+}, {
+  "StartTime": 82.96,
+  "EndTime": 101.38,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 101.38,
+  "EndTime": 108.22,
+  "Value": "2. W: We should buy a good guide book and study it before our trip to Vancouver."
+}, {
+  "StartTime": 108.22,
+  "EndTime": 111.66,
+  "Value": "M: We could, but they are overpriced."
+}, {
+  "StartTime": 111.66,
+  "EndTime": 113.91,
+  "Value": "What about the library?"
+}, {
+  "StartTime": 113.91,
+  "EndTime": 132.19,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 132.19,
+  "EndTime": 137.09,
+  "Value": "3. W: You took a history course this term, didn't you?"
+}, {
+  "StartTime": 137.09,
+  "EndTime": 139.6,
+  "Value": "What can you say about it?"
+}, {
+  "StartTime": 139.6,
+  "EndTime": 149.53,
+  "Value": "M: Well, the trouble is that I never get through the weekly reading list though some books are quite interesting."
+}, {
+  "StartTime": 149.53,
+  "EndTime": 167.19,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 167.19,
+  "EndTime": 174.54,
+  "Value": "4. M: I'm taking my girlfriend to the fancy new restaurant for her birthday tonight."
+}, {
+  "StartTime": 174.54,
+  "EndTime": 176.42,
+  "Value": "W: I went there last weekend."
+}, {
+  "StartTime": 176.42,
+  "EndTime": 178.96,
+  "Value": "I found it rather disappointing."
+}, {
+  "StartTime": 178.96,
+  "EndTime": 196.69,
+  "Value": "Q: What does the woman mean?"
+}, {
+  "StartTime": 196.69,
+  "EndTime": 200.91,
+  "Value": "5. W: Winter is over at last."
+}, {
+  "StartTime": 200.91,
+  "EndTime": 203.88,
+  "Value": "Time to put away my gloves and boots."
+}, {
+  "StartTime": 203.88,
+  "EndTime": 207.81,
+  "Value": "M: I've been waiting for this for months."
+}, {
+  "StartTime": 207.81,
+  "EndTime": 226.03,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 226.03,
+  "EndTime": 234.52,
+  "Value": "6. M: Look, the curtain is going up slowly and all the lights over the stage are lit up."
+}, {
+  "StartTime": 234.52,
+  "EndTime": 236.51,
+  "Value": "W: Yeah, the play is starting."
+}, {
+  "StartTime": 236.51,
+  "EndTime": 239.35,
+  "Value": "Oh, something caught my sleeve."
+}, {
+  "StartTime": 239.35,
+  "EndTime": 242.24,
+  "Value": "Give me a hand please, Bob."
+}, {
+  "StartTime": 242.24,
+  "EndTime": 260,
+  "Value": "Q: Where are the speakers now?"
+}, {
+  "StartTime": 260,
+  "EndTime": 265.21,
+  "Value": "7. W: You only have water to serve your guests?"
+}, {
+  "StartTime": 265.21,
+  "EndTime": 267.81,
+  "Value": "M: This isn't just plain water."
+}, {
+  "StartTime": 267.81,
+  "EndTime": 270.47,
+  "Value": "This is mineral water from Tibet."
+}, {
+  "StartTime": 270.47,
+  "EndTime": 288.56,
+  "Value": "Q: What does the man imply?"
+}, {
+  "StartTime": 288.56,
+  "EndTime": 294.39,
+  "Value": "8. W: When do you have time to discuss our environmental report?"
+}, {
+  "StartTime": 294.39,
+  "EndTime": 297.2,
+  "Value": "I think we have to make some revisions."
+}, {
+  "StartTime": 297.2,
+  "EndTime": 300.2,
+  "Value": "M: I'm free at three o'clock this afternoon."
+}, {
+  "StartTime": 300.2,
+  "EndTime": 304.35,
+  "Value": "But what exactly needs to be changed?"
+}, {
+  "StartTime": 304.35,
+  "EndTime": 324.7,
+  "Value": "Q: What are the speakers going to do this afternoon?"
+}, {
+  "StartTime": 324.7,
+  "EndTime": 328.92,
+  "Value": "Now you'll hear the two long conversations."
+}, {
+  "StartTime": 328.92,
+  "EndTime": 331.43,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 331.43,
+  "EndTime": 334.98,
+  "Value": "W: Why is it important to recycle?"
+}, {
+  "StartTime": 334.98,
+  "EndTime": 336.96,
+  "Value": "M: There are many reasons."
+}, {
+  "StartTime": 336.96,
+  "EndTime": 341.13,
+  "Value": "Recycling is one way to keep waste out of landfills."
+}, {
+  "StartTime": 341.13,
+  "EndTime": 349.63,
+  "Value": "Landfills are places to dump waste, but they are unpopular because they can pollute the soil used to cover them."
+}, {
+  "StartTime": 349.63,
+  "EndTime": 355.1,
+  "Value": "And that's bad for people who may build new homes there."
+}, {
+  "StartTime": 355.1,
+  "EndTime": 361.97,
+  "Value": "Recycling also reuses valuable raw materials, such as aluminum and paper."
+}, {
+  "StartTime": 361.97,
+  "EndTime": 366.53,
+  "Value": "Finally, recycling can mean a lower garbage bill."
+}, {
+  "StartTime": 366.53,
+  "EndTime": 370.91,
+  "Value": "Recycling lowers the amount of waste put into landfills."
+}, {
+  "StartTime": 370.91,
+  "EndTime": 375.55,
+  "Value": "Therefore, less money is spent for garbage disposal."
+}, {
+  "StartTime": 375.55,
+  "EndTime": 378.29,
+  "Value": "W: How has recycling changed over the years?"
+}, {
+  "StartTime": 378.29,
+  "EndTime": 387.55,
+  "Value": "M: Ten or twenty years ago, you could buy milk in returnable, refillable, glass bottles, and many people recycled voluntarily."
+}, {
+  "StartTime": 387.55,
+  "EndTime": 393.26,
+  "Value": "Now you buy milk and other products in plastic bottles or paper containers."
+}, {
+  "StartTime": 393.26,
+  "EndTime": 401.86,
+  "Value": "Because of the high cost of disposing of these things in landfills, many city governments now have recycling programs."
+}, {
+  "StartTime": 401.86,
+  "EndTime": 405.29,
+  "Value": "W: How does recycling help the environment?"
+}, {
+  "StartTime": 405.29,
+  "EndTime": 409.51,
+  "Value": "M: Recycling helps the environment mainly by saving energy."
+}, {
+  "StartTime": 409.51,
+  "EndTime": 418.25,
+  "Value": "For example, it takes ninety-five percent less energy to produce recycled aluminum than to produce new aluminum."
+}, {
+  "StartTime": 418.25,
+  "EndTime": 422.04,
+  "Value": "W: Can one person really make a difference?"
+}, {
+  "StartTime": 422.04,
+  "EndTime": 426.26,
+  "Value": "If only a few people recycle, then what's the point?"
+}, {
+  "StartTime": 426.26,
+  "EndTime": 428.38,
+  "Value": "M: If not you, then who?"
+}, {
+  "StartTime": 428.38,
+  "EndTime": 432.55,
+  "Value": "If we combine our efforts, we can make a difference."
+}, {
+  "StartTime": 432.55,
+  "EndTime": 436.02,
+  "Value": "Each of us contributes to the waste problem."
+}, {
+  "StartTime": 436.02,
+  "EndTime": 450.4,
+  "Value": "All the millions of tons of waste that go into landfills started as an old pair of slippers, a broken TV set, or a used magazine that came from somebody's house —maybe yours!"
+}, {
+  "StartTime": 450.4,
+  "EndTime": 456.36,
+  "Value": "Questions 9 to 12 are based on the conversation you have just heard."
+}, {
+  "StartTime": 456.36,
+  "EndTime": 478.1,
+  "Value": "9. Why are landfills unpopular according to the man?"
+}, {
+  "StartTime": 478.1,
+  "EndTime": 502.05,
+  "Value": "10. What does the man say has contributed to the increasing amounts of waste over the years?"
+}, {
+  "StartTime": 502.05,
+  "EndTime": 524.72,
+  "Value": "11. According to the man, how does recycling help the environment?"
+}, {
+  "StartTime": 524.72,
+  "EndTime": 546.85,
+  "Value": "12. Why does the man say everybody should make an effort to recycle?"
+}, {
+  "StartTime": 546.85,
+  "EndTime": 548.99,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 548.99,
+  "EndTime": 554.28,
+  "Value": "W: Could you please give me information on airfares from Miami to Bellingham, Washington?"
+}, {
+  "StartTime": 554.28,
+  "EndTime": 558.85,
+  "Value": "We'd like advice on how to fly as cheaply as possible."
+}, {
+  "StartTime": 558.85,
+  "EndTime": 560.58,
+  "Value": "M: Let's see."
+}, {
+  "StartTime": 560.58,
+  "EndTime": 568.35,
+  "Value": "I wouldn't advise you to pay the normal one-way economy class fare of 555 dollars."
+}, {
+  "StartTime": 568.35,
+  "EndTime": 579.93,
+  "Value": "If you can fly on a Tuesday or Wednesday and buy your tickets at least 21 days in advance, I suggest you book a round-trip excursion flight."
+}, {
+  "StartTime": 579.93,
+  "EndTime": 582.46,
+  "Value": "W: But we may not need the return tickets."
+}, {
+  "StartTime": 582.46,
+  "EndTime": 584.06,
+  "Value": "M: That's all right."
+}, {
+  "StartTime": 584.06,
+  "EndTime": 590.77,
+  "Value": "Even if you don't use them, you should be able to save 89 dollars over the one-way fare."
+}, {
+  "StartTime": 590.77,
+  "EndTime": 593.98,
+  "Value": "Of course, I recommend early booking."
+}, {
+  "StartTime": 593.98,
+  "EndTime": 597.85,
+  "Value": "You ought to try to reserve the “Super Saver” seats."
+}, {
+  "StartTime": 597.85,
+  "EndTime": 603.13,
+  "Value": "There are only a few of them, and they are 15% cheaper than the others."
+}, {
+  "StartTime": 603.13,
+  "EndTime": 605.11,
+  "Value": "W: That sounds like a good idea."
+}, {
+  "StartTime": 605.11,
+  "EndTime": 612.5,
+  "Value": "M: Wait, to save another hundred dollars also, why don't you book a flight to Vancouver, Canada?"
+}, {
+  "StartTime": 612.5,
+  "EndTime": 615.1,
+  "Value": "W: But that's farther than we want to go."
+}, {
+  "StartTime": 615.1,
+  "EndTime": 622.65,
+  "Value": "M: I know, but you can take a bus from Vancouver back to Bellingham, and still save money."
+}, {
+  "StartTime": 622.65,
+  "EndTime": 631.85,
+  "Value": "And if you're traveling with children, you might be able to get a discount if you fly economy class, but they don't get any discount."
+}, {
+  "StartTime": 631.85,
+  "EndTime": 642.14,
+  "Value": "But to take advantage of the airline guarantee fare policy, you have to make reservations and pay for your tickets at least 6 weeks in advance."
+}, {
+  "StartTime": 642.14,
+  "EndTime": 645.23,
+  "Value": "Should I begin to search for available seats?"
+}, {
+  "StartTime": 645.23,
+  "EndTime": 646.76,
+  "Value": "W: No, thank you."
+}, {
+  "StartTime": 646.76,
+  "EndTime": 647.89,
+  "Value": "M: Excuse me?"
+}, {
+  "StartTime": 647.89,
+  "EndTime": 652.56,
+  "Value": "W: I may call you back if we don't decide to drive."
+}, {
+  "StartTime": 652.56,
+  "EndTime": 658.76,
+  "Value": "Questions 13 to 15 are based on the conversation you have just heard."
+}, {
+  "StartTime": 658.76,
+  "EndTime": 679.17,
+  "Value": "13. Where is the woman planning to go?"
+}, {
+  "StartTime": 679.17,
+  "EndTime": 699.54,
+  "Value": "14. What is the woman's purpose in calling the man?"
+}, {
+  "StartTime": 699.54,
+  "EndTime": 722.16,
+  "Value": "15. What does the man advise the woman to do?"
+}, {
+  "StartTime": 722.16,
+  "EndTime": 723.33,
+  "Value": "Section B"
+}, {
+  "StartTime": 723.33,
+  "EndTime": 728.81,
+  "Value": "Directions: In this section, you will hear 3 short passages."
+}, {
+  "StartTime": 728.81,
+  "EndTime": 732.86,
+  "Value": "At the end of each passage, you will hear some questions."
+}, {
+  "StartTime": 732.86,
+  "EndTime": 736.97,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 736.97,
+  "EndTime": 746.45,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 746.45,
+  "EndTime": 754.9,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 754.9,
+  "EndTime": 757.1,
+  "Value": "Passage One"
+}, {
+  "StartTime": 757.1,
+  "EndTime": 760.14,
+  "Value": "What makes a person famous?"
+}, {
+  "StartTime": 760.14,
+  "EndTime": 764.46,
+  "Value": "This is a mystery that many people have carefully thought about."
+}, {
+  "StartTime": 764.46,
+  "EndTime": 769.13,
+  "Value": "All kinds of myths surround the lives of well-known people."
+}, {
+  "StartTime": 769.13,
+  "EndTime": 777.74,
+  "Value": "Most people are familiar with the works of William Shakespeare, one of the greatest Eng1ish writers of the sixteenth and seventeenth centuries."
+}, {
+  "StartTime": 777.74,
+  "EndTime": 783.36,
+  "Value": "Yet how many know Shakespeare, the person, the man behind the works?"
+}, {
+  "StartTime": 783.36,
+  "EndTime": 790.16,
+  "Value": "After centuries of research, scholars are still trying to discover Shakespeare's personal history."
+}, {
+  "StartTime": 790.16,
+  "EndTime": 793.24,
+  "Value": "It is not easily found in his writings."
+}, {
+  "StartTime": 793.24,
+  "EndTime": 796.91,
+  "Value": "Authors of the time could not protect their works."
+}, {
+  "StartTime": 796.91,
+  "EndTime": 802.08,
+  "Value": "An acting company, for example, could change a play if they wanted to."
+}, {
+  "StartTime": 802.08,
+  "EndTime": 806.49,
+  "Value": "Nowadays writers have copyrights that protect their work."
+}, {
+  "StartTime": 806.49,
+  "EndTime": 810.1,
+  "Value": "Many myths arose about Shakespeare."
+}, {
+  "StartTime": 810.1,
+  "EndTime": 813.75,
+  "Value": "Some said he had no formal education."
+}, {
+  "StartTime": 813.75,
+  "EndTime": 819.66,
+  "Value": "Others believe that he began his career by tending the horses of wealthy men."
+}, {
+  "StartTime": 819.66,
+  "EndTime": 824.3,
+  "Value": "All of these myths are interesting, but are they true?"
+}, {
+  "StartTime": 824.3,
+  "EndTime": 825.85,
+  "Value": "Probably not."
+}, {
+  "StartTime": 825.85,
+  "EndTime": 832.4,
+  "Value": "Shakespeare's father was a respected man in Stratford-on-Avon, a member of the town council."
+}, {
+  "StartTime": 832.4,
+  "EndTime": 834.73,
+  "Value": "He sent young William to grammar school."
+}, {
+  "StartTime": 834.73,
+  "EndTime": 843.99,
+  "Value": "Most people of Elizabethan times did not continue beyond grammar school; so Shakespeare did have at least an average education."
+}, {
+  "StartTime": 843.99,
+  "EndTime": 849.26,
+  "Value": "Some parts of Shakespeare's life will always remain unknown."
+}, {
+  "StartTime": 849.26,
+  "EndTime": 858.18,
+  "Value": "The Great London Fire of 1666 burned many important documents that could have been a source of clues."
+}, {
+  "StartTime": 858.18,
+  "EndTime": 863.84,
+  "Value": "We will always be left with many questions and few facts."
+}, {
+  "StartTime": 863.84,
+  "EndTime": 870.09,
+  "Value": "Questions 16 to 18 are based on the passage you have just heard."
+}, {
+  "StartTime": 870.09,
+  "EndTime": 891.21,
+  "Value": "16. What does the speaker say about William Shakespeare?"
+}, {
+  "StartTime": 891.21,
+  "EndTime": 912.12,
+  "Value": "17. What do we learn about Shakespeare's father?"
+}, {
+  "StartTime": 912.12,
+  "EndTime": 935.53,
+  "Value": "18. Why does the speaker say parts of Shakespeare's life will remain a mystery?"
+}, {
+  "StartTime": 935.53,
+  "EndTime": 937.55,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 937.55,
+  "EndTime": 941.56,
+  "Value": "Almost everyone suffers from a headache occasionally."
+}, {
+  "StartTime": 941.56,
+  "EndTime": 946.13,
+  "Value": "But some people suffer from repeated, frequent headaches."
+}, {
+  "StartTime": 946.13,
+  "EndTime": 955.06,
+  "Value": "A headache is important because it can be the first warning of a serious condition that could probably be controlled if discovered early."
+}, {
+  "StartTime": 955.06,
+  "EndTime": 963.71,
+  "Value": "If a person removes the warning, day after day, with a painkiller, he or she may pass the point of easy control."
+}, {
+  "StartTime": 963.71,
+  "EndTime": 968.28,
+  "Value": "The professional name for covering up a symptom is “masking”."
+}, {
+  "StartTime": 968.28,
+  "EndTime": 975.01,
+  "Value": "A headache specialist once said, “Masking symptoms is not the best way of treatment."
+}, {
+  "StartTime": 975.01,
+  "EndTime": 981.6,
+  "Value": "Sometimes it is wiser to stand still than to advance in darkness."
+}, {
+  "StartTime": 981.6,
+  "EndTime": 986.78,
+  "Value": "A headache often interferes needlessly with normal, happy living."
+}, {
+  "StartTime": 986.78,
+  "EndTime": 989.77,
+  "Value": "The employee with a headache does less work."
+}, {
+  "StartTime": 989.77,
+  "EndTime": 999.2,
+  "Value": "In a flash of temper he or she may upset fellow workers or customers, causing a direct or indirect loss to the organization."
+}, {
+  "StartTime": 999.2,
+  "EndTime": 1003.57,
+  "Value": "The mother with a headache suffers and disturbs the family."
+}, {
+  "StartTime": 1003.57,
+  "EndTime": 1006.38,
+  "Value": "She upsets her husband and children."
+}, {
+  "StartTime": 1006.38,
+  "EndTime": 1011.25,
+  "Value": "Rest, quiet and fresh air stop many common headaches."
+}, {
+  "StartTime": 1011.25,
+  "EndTime": 1014.86,
+  "Value": "Lying down and possibly falling asleep may help."
+}, {
+  "StartTime": 1014.86,
+  "EndTime": 1020.93,
+  "Value": "One can often handle tension headaches by rubbing and pressing the neck muscles."
+}, {
+  "StartTime": 1020.93,
+  "EndTime": 1025.95,
+  "Value": "Heat from an electric pad or a warm bed can also help."
+}, {
+  "StartTime": 1025.95,
+  "EndTime": 1032.46,
+  "Value": "Because hunger may be overlooked as a headache source one must make a habit of regular meals."
+}, {
+  "StartTime": 1032.46,
+  "EndTime": 1041.02,
+  "Value": "If a meal must be postponed for more than an hour, a snack helps to avoid a hunger headache."
+}, {
+  "StartTime": 1041.02,
+  "EndTime": 1047.57,
+  "Value": "Questions 19 to 21 are based on the passage you have just heard."
+}, {
+  "StartTime": 1047.57,
+  "EndTime": 1070.12,
+  "Value": "19. Why does the speaker say a headache is important?"
+}, {
+  "StartTime": 1070.12,
+  "EndTime": 1092.34,
+  "Value": "20. What does specialist suggest we do with headaches?"
+}, {
+  "StartTime": 1092.34,
+  "EndTime": 1115.99,
+  "Value": "21. What does the speaker say helps relieve the symptoms of common headaches?"
+}, {
+  "StartTime": 1115.99,
+  "EndTime": 1117.88,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1117.88,
+  "EndTime": 1124.57,
+  "Value": "If your paycheck seems to be disappearing into thin air, you may be stuck in money traps."
+}, {
+  "StartTime": 1124.57,
+  "EndTime": 1130.84,
+  "Value": "But don't despair; most people can get unstuck without going bankrupt."
+}, {
+  "StartTime": 1130.84,
+  "EndTime": 1134.99,
+  "Value": "The biggest budget mistake is no budget at all."
+}, {
+  "StartTime": 1134.99,
+  "EndTime": 1149.21,
+  "Value": "As one reader put it, “We just put all the bills in a pile, then try to decide which to pay.” As she and others have learned, however, the money usually runs out before the bills do."
+}, {
+  "StartTime": 1149.21,
+  "EndTime": 1153.06,
+  "Value": "The same problem plagues many who do have a budget."
+}, {
+  "StartTime": 1153.06,
+  "EndTime": 1161.36,
+  "Value": "In letter after letter, we read, “It looks good on paper, but it never seems to work.” Why not?"
+}, {
+  "StartTime": 1161.36,
+  "EndTime": 1164.34,
+  "Value": "Often because the budgets are unrealistic."
+}, {
+  "StartTime": 1164.34,
+  "EndTime": 1172.9,
+  "Value": "The solution: Make a detailed record of where all your money goes now; then study it carefully."
+}, {
+  "StartTime": 1172.9,
+  "EndTime": 1176.28,
+  "Value": "Look for expenses that can be cut back."
+}, {
+  "StartTime": 1176.28,
+  "EndTime": 1180.28,
+  "Value": "And don't give up in the face of high “fixed” expenses."
+}, {
+  "StartTime": 1180.28,
+  "EndTime": 1182.89,
+  "Value": "Many of these can be reduced too."
+}, {
+  "StartTime": 1182.89,
+  "EndTime": 1188.73,
+  "Value": "In fact, it's often easier to save on essentials than on enjoyable extras."
+}, {
+  "StartTime": 1188.73,
+  "EndTime": 1198.15,
+  "Value": "If housing takes more than 25 percent of your income, for example, consider moving to a cheaper place, or renting out an extra room."
+}, {
+  "StartTime": 1198.15,
+  "EndTime": 1204.25,
+  "Value": "If utility bills are high, get the whole family involved in a conservation plan."
+}, {
+  "StartTime": 1204.25,
+  "EndTime": 1207.56,
+  "Value": "Some bills can be eliminated altogether."
+}, {
+  "StartTime": 1207.56,
+  "EndTime": 1217.87,
+  "Value": "When one mother realized that cable TV was costing her 500 dollars a year, she decided that network TV wasn't so bad."
+}, {
+  "StartTime": 1217.87,
+  "EndTime": 1224.15,
+  "Value": "If you question every expense, you can find a few that can be reduced."
+}, {
+  "StartTime": 1224.15,
+  "EndTime": 1231.81,
+  "Value": "Questions 22 to 25 are based on the passage you have just heard."
+}, {
+  "StartTime": 1231.81,
+  "EndTime": 1253.72,
+  "Value": "22. What does the speaker say is the biggest budget mistake?"
+}, {
+  "StartTime": 1253.72,
+  "EndTime": 1275.87,
+  "Value": "23. What does the speaker say about the so-called fixed expenses?"
+}, {
+  "StartTime": 1275.87,
+  "EndTime": 1298.78,
+  "Value": "24. What does the speaker suggest people do to save housing expenses?"
+}, {
+  "StartTime": 1298.78,
+  "EndTime": 1319.62,
+  "Value": "25. What is mainly discussed in the talk?"
+}, {
+  "StartTime": 1319.62,
+  "EndTime": 1321.19,
+  "Value": "Section C"
+}, {
+  "StartTime": 1321.19,
+  "EndTime": 1327.21,
+  "Value": "Directions: In this section, you will hear a passage three times."
+}, {
+  "StartTime": 1327.21,
+  "EndTime": 1333.52,
+  "Value": "When the passage is read for the first time, you should listen carefully for its general idea."
+}, {
+  "StartTime": 1333.52,
+  "EndTime": 1342.14,
+  "Value": "When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard."
+}, {
+  "StartTime": 1342.14,
+  "EndTime": 1349.32,
+  "Value": "Finally, when the passage is read for the third time, you should check what you have written."
+}, {
+  "StartTime": 1349.32,
+  "EndTime": 1354,
+  "Value": "Now listen to the passage."
+}, {
+  "StartTime": 1354,
+  "EndTime": 1363.09,
+  "Value": "Perhaps because going to college is so much a part of the American dream, many people go for no particular reason."
+}, {
+  "StartTime": 1363.09,
+  "EndTime": 1369.23,
+  "Value": "Some go because their parents expect it, others because it's what their friends are doing."
+}, {
+  "StartTime": 1369.23,
+  "EndTime": 1376.45,
+  "Value": "Then, there's the belief that a college degree will automatically ensure a good job and high pay."
+}, {
+  "StartTime": 1376.45,
+  "EndTime": 1394.11,
+  "Value": "Some students drift through four years, attending classes, or skipping them as the case may be, reading only what can't be avoided, looking for less demanding courses, and never being touched or changed in any important way."
+}, {
+  "StartTime": 1394.11,
+  "EndTime": 1403.65,
+  "Value": "For a few of these people, college provides no satisfaction, yet because of paren'tal or peer pressure, they cannot voluntarily leave."
+}, {
+  "StartTime": 1403.65,
+  "EndTime": 1410.45,
+  "Value": "They stop trying in the hope that their teachers will make the decision for them by failing them."
+}, {
+  "StartTime": 1410.45,
+  "EndTime": 1418.2,
+  "Value": "To put it bluntly, unless you're willing to make your college years count, you might be better off doing something else."
+}, {
+  "StartTime": 1418.2,
+  "EndTime": 1426.14,
+  "Value": "Not everyone should attend college, nor should everyone who does attend begin right after high school."
+}, {
+  "StartTime": 1426.14,
+  "EndTime": 1430.65,
+  "Value": "Many college students profit from taking a year or so off."
+}, {
+  "StartTime": 1430.65,
+  "EndTime": 1437.1,
+  "Value": "A year out in the world helps some people to sort out their priorities and goals."
+}, {
+  "StartTime": 1437.1,
+  "EndTime": 1455.62,
+  "Value": "If you're really going to get something out of going to college, you have to make it mean something, and to do that you must have some idea why you're there, what you hope to get out of it, and probably even what you hope to become."
+}, {
+  "StartTime": 1455.62,
+  "EndTime": 1460.79,
+  "Value": "Now the passage will be read again."
+}, {
+  "StartTime": 1460.79,
+  "EndTime": 1469.63,
+  "Value": "Perhaps because going to college is so much a part of the American dream, many people go for no particular reason."
+}, {
+  "StartTime": 1469.63,
+  "EndTime": 1476.18,
+  "Value": "Some go because their parents expect it, others because it's what their friends are doing."
+}, {
+  "StartTime": 1476.18,
+  "EndTime": 1484.19,
+  "Value": "Then, there's the belief that a college degree will automatically ensure a good job and high pay."
+}, {
+  "StartTime": 1484.19,
+  "EndTime": 1503.46,
+  "Value": "Some students drift through four years, attending classes, or skipping them as the case may be, reading only what can't be avoided, looking for less demanding courses, and never being touched or changed in any important way."
+}, {
+  "StartTime": 1503.46,
+  "EndTime": 1514.1,
+  "Value": "For a few of these people, college provides no satisfaction, yet because of paren'tal or peer pressure, they cannot voluntarily leave."
+}, {
+  "StartTime": 1514.1,
+  "EndTime": 1520.81,
+  "Value": "They stop trying in the hope that their teachers will make the decision for them by failing them."
+}, {
+  "StartTime": 1520.81,
+  "EndTime": 1529.32,
+  "Value": "To put it bluntly, unless you're willing to make your college years count, you might be better off doing something else."
+}, {
+  "StartTime": 1529.32,
+  "EndTime": 1536.01,
+  "Value": "Not everyone should attend college, nor should everyone who does attend begin right after high school."
+}, {
+  "StartTime": 1536.01,
+  "EndTime": 1540.72,
+  "Value": "Many college students profit from taking a year or so off."
+}, {
+  "StartTime": 1540.72,
+  "EndTime": 1545.74,
+  "Value": "A year out in the world helps some people to sort out their priorities and goals."
+}, {
+  "StartTime": 1545.74,
+  "EndTime": 1562.97,
+  "Value": "If you're really going to get something out of going to college, you have to make it mean something, and to do that you must have some idea why you're there, what you hope to get out of it, and probably even what you hope to become."
+}, {
+  "StartTime": 1562.97,
+  "EndTime": 1566.87,
+  "Value": "Now the passage will be read for the third time."
+}, {
+  "StartTime": 1566.87,
+  "EndTime": 1577.21,
+  "Value": "Perhaps because going to college is so much a part of the American dream, many people go for no particular reason."
+}, {
+  "StartTime": 1577.21,
+  "EndTime": 1583.55,
+  "Value": "Some go because their parents expect it, others because it's what their friends are doing."
+}, {
+  "StartTime": 1583.55,
+  "EndTime": 1591.1,
+  "Value": "Then, there's the belief that a college degree will automatically ensure a good job and high pay."
+}, {
+  "StartTime": 1591.1,
+  "EndTime": 1608.31,
+  "Value": "Some students drift through four years, attending classes, or skipping them as the case may be, reading only what can't be avoided, looking for less demanding courses, and never being touched or changed in any important way."
+}, {
+  "StartTime": 1608.31,
+  "EndTime": 1617.9,
+  "Value": "For a few of these people, college provides no satisfaction, yet because of paren'tal or peer pressure, they cannot voluntarily leave."
+}, {
+  "StartTime": 1617.9,
+  "EndTime": 1624.84,
+  "Value": "They stop trying in the hope that their teachers will make the decision for them by failing them."
+}, {
+  "StartTime": 1624.84,
+  "EndTime": 1633.37,
+  "Value": "To put it bluntly, unless you're willing to make your college years count, you might be better off doing something else."
+}, {
+  "StartTime": 1633.37,
+  "EndTime": 1641.09,
+  "Value": "Not everyone should attend college, nor should everyone who does attend begin right after high school."
+}, {
+  "StartTime": 1641.09,
+  "EndTime": 1645.85,
+  "Value": "Many college students profit from taking a year or so off."
+}, {
+  "StartTime": 1645.85,
+  "EndTime": 1651.93,
+  "Value": "A year out in the world helps some people to sort out their priorities and goals."
+}, {
+  "StartTime": 1651.93,
+  "EndTime": 1670.43,
+  "Value": "If you're really going to get something out of going to college, you have to make it mean something, and to do that you must have some idea why you're there, what you hope to get out of it, and probably even what you hope to become."
+}, {
+  "StartTime": 1670.43,
+  "EndTime": 1673.43,
+  "Value": "This is the end of Listening Comprehension."
+}, {
+  "StartTime": 1673.43,
+  "EndTime": 5273.43,
+  "Value": ""
+}]

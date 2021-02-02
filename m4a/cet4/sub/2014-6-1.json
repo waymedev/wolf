@@ -1,0 +1,1031 @@
+[{
+    "StartTime": 0.9,
+    "EndTime": 5.5,
+    "Value": "College English Test (Band 4)"
+  },
+  {
+    "StartTime": 5.5,
+    "EndTime": 9.39,
+    "Value": "Part ⅡListening Comprehension"
+  },
+  {
+    "StartTime": 9.39,
+    "EndTime": 12.11,
+    "Value": "Section A"
+  },
+  {
+    "StartTime": 12.11,
+    "EndTime": 21.16,
+    "Value": "Directions: In this section, you will hear 8 short conversations and 2 long conversations."
+  },
+  {
+    "StartTime": 21.16,
+    "EndTime": 27.76,
+    "Value": "At the end of each conversation, one or more questions will be asked about what was said."
+  },
+  {
+    "StartTime": 27.76,
+    "EndTime": 33.31,
+    "Value": "Both the conversation and the questions will be spoken only once."
+  },
+  {
+    "StartTime": 33.31,
+    "EndTime": 36.71,
+    "Value": "After each question there will be a pause."
+  },
+  {
+    "StartTime": 36.71,
+    "EndTime": 48.08,
+    "Value": "During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer."
+  },
+  {
+    "StartTime": 48.08,
+    "EndTime": 55.77,
+    "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+  },
+  {
+    "StartTime": 55.77,
+    "EndTime": 61.87,
+    "Value": "Now let's begin with the eight short conversations."
+  },
+  {
+    "StartTime": 61.87,
+    "EndTime": 67.81,
+    "Value": "1. W: I can't seem to reach the tea at the back of the cupboard."
+  },
+  {
+    "StartTime": 67.81,
+    "EndTime": 70.41,
+    "Value": "M: Oh. Why don't you use the ladder?"
+  },
+  {
+    "StartTime": 70.41,
+    "EndTime": 73.21,
+    "Value": "You might strain your shoulder."
+  },
+  {
+    "StartTime": 73.21,
+    "EndTime": 92.17,
+    "Value": "Q: What does the man suggest the woman do?"
+  },
+  {
+    "StartTime": 92.17,
+    "EndTime": 99.09,
+    "Value": "2. W: Since it's raining so hard, let's go and see the new exhibits."
+  },
+  {
+    "StartTime": 99.09,
+    "EndTime": 104.68,
+    "Value": "M: That's a good idea. Mary Johnson is one of my favorite painters."
+  },
+  {
+    "StartTime": 104.68,
+    "EndTime": 125.01,
+    "Value": "Q: Where does the conversation most probably take place?"
+  },
+  {
+    "StartTime": 125.01,
+    "EndTime": 131.91,
+    "Value": "3. M: I hear the students gave the new teacher an unfair evaluation."
+  },
+  {
+    "StartTime": 131.91,
+    "EndTime": 136.33,
+    "Value": "W: It depends on which students you are talking about."
+  },
+  {
+    "StartTime": 136.33,
+    "EndTime": 154.09,
+    "Value": "Q: What does the woman imply?"
+  },
+  {
+    "StartTime": 154.09,
+    "EndTime": 161.48,
+    "Value": "4. W: It must have taken you a long time to fix up all these book shelves."
+  },
+  {
+    "StartTime": 161.48,
+    "EndTime": 165.76,
+    "Value": "M: It wasn't too bad. I got Doris to do some of them."
+  },
+  {
+    "StartTime": 165.76,
+    "EndTime": 183.37,
+    "Value": "Q: What does the man mean?"
+  },
+  {
+    "StartTime": 183.37,
+    "EndTime": 189.16,
+    "Value": "5. W: Rod, I hear you'll be leaving at the end of this month."
+  },
+  {
+    "StartTime": 189.16,
+    "EndTime": 190.35,
+    "Value": "Is it true?"
+  },
+  {
+    "StartTime": 190.35,
+    "EndTime": 195.11,
+    "Value": "M: Yeah. I've been offered a much better position with another firm."
+  },
+  {
+    "StartTime": 195.11,
+    "EndTime": 198.62,
+    "Value": "I'd be a fool to turn it down."
+  },
+  {
+    "StartTime": 198.62,
+    "EndTime": 217.25,
+    "Value": "Q: Why is the man quitting his job?"
+  },
+  {
+    "StartTime": 217.25,
+    "EndTime": 223.52,
+    "Value": "6. W: I honestly don't want to continue the gardening tomorrow, Tony?"
+  },
+  {
+    "StartTime": 223.52,
+    "EndTime": 228.79,
+    "Value": "M: Neither do I. But I think we should get it over with this weekend."
+  },
+  {
+    "StartTime": 228.79,
+    "EndTime": 246.16,
+    "Value": "Q: What does the man mean?"
+  },
+  {
+    "StartTime": 246.16,
+    "EndTime": 250.63,
+    "Value": "7. W: You've already furnished your apartment?"
+  },
+  {
+    "StartTime": 250.63,
+    "EndTime": 254.48,
+    "Value": "M: I found some used furniture that was dirt cheap."
+  },
+  {
+    "StartTime": 254.48,
+    "EndTime": 273.31,
+    "Value": "Q: What do we learn from the conversation?"
+  },
+  {
+    "StartTime": 273.31,
+    "EndTime": 278.48,
+    "Value": "8. W: Has the mechanic called about the repairers?"
+  },
+  {
+    "StartTime": 278.48,
+    "EndTime": 282.41,
+    "Value": "M: Not yet. I'll let you know when he calls."
+  },
+  {
+    "StartTime": 282.41,
+    "EndTime": 300.63,
+    "Value": "Q: What do we learn from the conversation?"
+  },
+  {
+    "StartTime": 300.63,
+    "EndTime": 304.11,
+    "Value": "Now you'll hear the two long conversations."
+  },
+  {
+    "StartTime": 304.11,
+    "EndTime": 306.44,
+    "Value": "Conversation One"
+  },
+  {
+    "StartTime": 306.44,
+    "EndTime": 309.23,
+    "Value": "M: Hello， Matt Ellis speaking."
+  },
+  {
+    "StartTime": 309.23,
+    "EndTime": 312.79,
+    "Value": "W: Hello, Dr. Ellis. My name's Pan Johnson."
+  },
+  {
+    "StartTime": 312.79,
+    "EndTime": 317.17,
+    "Value": "My roommate, Janet Holmes, wanted me to call you."
+  },
+  {
+    "StartTime": 317.17,
+    "EndTime": 320.72,
+    "Value": "M: Janet Holmes? Oh, that's right."
+  },
+  {
+    "StartTime": 320.72,
+    "EndTime": 324.17,
+    "Value": "She's in my Shakespearean English class."
+  },
+  {
+    "StartTime": 324.17,
+    "EndTime": 326.67,
+    "Value": "Has anything happened to her?"
+  },
+  {
+    "StartTime": 326.67,
+    "EndTime": 327.74,
+    "Value": "W: Nothing."
+  },
+  {
+    "StartTime": 327.74,
+    "EndTime": 335.8,
+    "Value": "It's just that she submitted a job application yesterday and the company asked her in for an interview today."
+  },
+  {
+    "StartTime": 335.8,
+    "EndTime": 340.32,
+    "Value": "She's afraid she won't be able to attend your class this afternoon though."
+  },
+  {
+    "StartTime": 340.32,
+    "EndTime": 347.86,
+    "Value": "I'm calling to see whether it would be OK if I gave you her essay. Janet said it's due today."
+  },
+  {
+    "StartTime": 347.86,
+    "EndTime": 350.38,
+    "Value": "M: Certainly. That would be fine."
+  },
+  {
+    "StartTime": 350.38,
+    "EndTime": 356.41,
+    "Value": "Uh, you can either drop it off at my class or bring it to my office."
+  },
+  {
+    "StartTime": 356.41,
+    "EndTime": 361.01,
+    "Value": "W: Would it be all right to come by your office around 4:00?"
+  },
+  {
+    "StartTime": 361.01,
+    "EndTime": 366.76,
+    "Value": "I'm afraid I can't come any earlier, because I have three classes this afternoon."
+  },
+  {
+    "StartTime": 366.76,
+    "EndTime": 369.57,
+    "Value": "M: Uh, I won't be here when you come."
+  },
+  {
+    "StartTime": 369.57,
+    "EndTime": 376.01,
+    "Value": "I'm supposed to be at a meeting from 3:00 to 6:00, but how about leaving it with my secretary?"
+  },
+  {
+    "StartTime": 376.01,
+    "EndTime": 378.86,
+    "Value": "She usually stays until 5:00."
+  },
+  {
+    "StartTime": 378.86,
+    "EndTime": 383.18,
+    "Value": "W: Fine. Please tell her I'll be there at 4:00."
+  },
+  {
+    "StartTime": 383.18,
+    "EndTime": 388.55,
+    "Value": "And Dr. Ellis, one more thing, could you tell me where your office is?"
+  },
+  {
+    "StartTime": 388.55,
+    "EndTime": 394.54,
+    "Value": "Janet told me where your class is, but she didn't give me directions to your office."
+  },
+  {
+    "StartTime": 394.54,
+    "EndTime": 398.89,
+    "Value": "M: Well, I'm in Room 302 of the Gregory Building."
+  },
+  {
+    "StartTime": 398.89,
+    "EndTime": 404.18,
+    "Value": "I'll tell my secretary to put the paper in my mail box, and I'll get it when I return."
+  },
+  {
+    "StartTime": 404.18,
+    "EndTime": 407.15,
+    "Value": "W: I sure appreciate it. Goodbye, Dr. Ellis."
+  },
+  {
+    "StartTime": 407.15,
+    "EndTime": 409.73,
+    "Value": "M: Goodbye, Ms. Johnson."
+  },
+  {
+    "StartTime": 409.73,
+    "EndTime": 415.24,
+    "Value": "Questions 9 to 11 are based on the conversation you have just heard."
+  },
+  {
+    "StartTime": 415.24,
+    "EndTime": 438.1,
+    "Value": "9. Why couldn't the woman's roommate attend the Shakespearean English class that afternoon?"
+  },
+  {
+    "StartTime": 438.1,
+    "EndTime": 459.5,
+    "Value": "10. What favor is the woman going to do for her roommate?"
+  },
+  {
+    "StartTime": 459.5,
+    "EndTime": 481.65,
+    "Value": "11. What does the woman want to know at the end of the conversation?"
+  },
+  {
+    "StartTime": 481.65,
+    "EndTime": 484.23,
+    "Value": "Conversation Two"
+  },
+  {
+    "StartTime": 484.23,
+    "EndTime": 486.11,
+    "Value": "W: How are things going, Roald?"
+  },
+  {
+    "StartTime": 486.11,
+    "EndTime": 487.8,
+    "Value": "M: Not bad, Jane."
+  },
+  {
+    "StartTime": 487.8,
+    "EndTime": 492.25,
+    "Value": "I'm involved in several projects and it's a long working day."
+  },
+  {
+    "StartTime": 492.25,
+    "EndTime": 495.77,
+    "Value": "But I'm used to that, so it doesn't bother me too much."
+  },
+  {
+    "StartTime": 495.77,
+    "EndTime": 501.2,
+    "Value": "W: I heard you have moved to a new house in the suburb."
+  },
+  {
+    "StartTime": 501.2,
+    "EndTime": 504.2,
+    "Value": "How do you like commuting to London every day?"
+  },
+  {
+    "StartTime": 504.2,
+    "EndTime": 506.53,
+    "Value": "Don't you find it a strain?"
+  },
+  {
+    "StartTime": 506.53,
+    "EndTime": 513.54,
+    "Value": "M: It was terrible at first, especially getting up before dawn to catch that 6:30 train."
+  },
+  {
+    "StartTime": 513.54,
+    "EndTime": 516.82,
+    "Value": "But it's bearable now that I' m used to it."
+  },
+  {
+    "StartTime": 516.82,
+    "EndTime": 520.1,
+    "Value": "W: Don't you think it's an awful waste of time?"
+  },
+  {
+    "StartTime": 520.1,
+    "EndTime": 524.99,
+    "Value": "I couldn't bear to spend three hours sitting in a train every day."
+  },
+  {
+    "StartTime": 524.99,
+    "EndTime": 527,
+    "Value": "M: I used to feel the same as you."
+  },
+  {
+    "StartTime": 527,
+    "EndTime": 529.97,
+    "Value": "But now I quite enjoy it."
+  },
+  {
+    "StartTime": 529.97,
+    "EndTime": 532.01,
+    "Value": "W: How do you pass the time?"
+  },
+  {
+    "StartTime": 532.01,
+    "EndTime": 535.48,
+    "Value": "Do you bring some work with you to do on the train?"
+  },
+  {
+    "StartTime": 535.48,
+    "EndTime": 537.71,
+    "Value": "M: Ah, that's a good question."
+  },
+  {
+    "StartTime": 537.71,
+    "EndTime": 543.79,
+    "Value": "In the morning, I just sit in comfort and read the papers to catch up with the news."
+  },
+  {
+    "StartTime": 543.79,
+    "EndTime": 552.07,
+    "Value": "On the way home at night, I relax with a good book or chat with friends or even have a game of bridge."
+  },
+  {
+    "StartTime": 552.07,
+    "EndTime": 555.4,
+    "Value": "W: I suppose you know lots of people on the train now."
+  },
+  {
+    "StartTime": 555.4,
+    "EndTime": 560.53,
+    "Value": "M: Yes, I bumped into someone I know on the platform every day."
+  },
+  {
+    "StartTime": 560.53,
+    "EndTime": 566.62,
+    "Value": "Last week I came across a couple of old school friends and we spent the entire journey in the bar."
+  },
+  {
+    "StartTime": 566.62,
+    "EndTime": 568.66,
+    "Value": "W: It sounds like a good club."
+  },
+  {
+    "StartTime": 568.66,
+    "EndTime": 571.54,
+    "Value": "You never know. I may join it too."
+  },
+  {
+    "StartTime": 571.54,
+    "EndTime": 578.02,
+    "Value": "Questions 12 to 15 are based on the conversation you have just heard."
+  },
+  {
+    "StartTime": 578.02,
+    "EndTime": 597.86,
+    "Value": "12. What does the man say about his job?"
+  },
+  {
+    "StartTime": 597.86,
+    "EndTime": 618.6,
+    "Value": "13. Which train does the man take to work every day?"
+  },
+  {
+    "StartTime": 618.6,
+    "EndTime": 640.52,
+    "Value": "14. How does the man feel about commuting to work every day now?"
+  },
+  {
+    "StartTime": 640.52,
+    "EndTime": 661.26,
+    "Value": "15. How does the man spend his time on the morning train?"
+  },
+  {
+    "StartTime": 661.26,
+    "EndTime": 662.76,
+    "Value": "Section B"
+  },
+  {
+    "StartTime": 662.76,
+    "EndTime": 668.56,
+    "Value": "Directions: In this section, you will hear 3 short passages."
+  },
+  {
+    "StartTime": 668.56,
+    "EndTime": 673.05,
+    "Value": "At the end of each passage, you will hear some questions."
+  },
+  {
+    "StartTime": 673.05,
+    "EndTime": 678.04,
+    "Value": "Both the passage and the questions will be spoken only once."
+  },
+  {
+    "StartTime": 678.04,
+    "EndTime": 687.28,
+    "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+  },
+  {
+    "StartTime": 687.28,
+    "EndTime": 694.7,
+    "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+  },
+  {
+    "StartTime": 694.7,
+    "EndTime": 696.66,
+    "Value": "Passage One"
+  },
+  {
+    "StartTime": 696.66,
+    "EndTime": 701.21,
+    "Value": "Most American college students need to be efficient readers."
+  },
+  {
+    "StartTime": 701.21,
+    "EndTime": 708.94,
+    "Value": "This is necessary, because full-time students probably have to read several hundred pages every week."
+  },
+  {
+    "StartTime": 708.94,
+    "EndTime": 713.53,
+    "Value": "They don't have time to read a chapter three or four times."
+  },
+  {
+    "StartTime": 713.53,
+    "EndTime": 719.82,
+    "Value": "They need to extract as much information as possible from the first or second reading."
+  },
+  {
+    "StartTime": 719.82,
+    "EndTime": 725.92,
+    "Value": "An extraordinarily important study skill is knowing how to mark a book."
+  },
+  {
+    "StartTime": 725.92,
+    "EndTime": 733.92,
+    "Value": "Students mark the main ideas and important details with a pen or pencil, yellow or blue or orange."
+  },
+  {
+    "StartTime": 733.92,
+    "EndTime": 738.22,
+    "Value": "Some students mark new vocabulary in a different color."
+  },
+  {
+    "StartTime": 738.22,
+    "EndTime": 743.48,
+    "Value": "Most students write questions or short notes in the margins."
+  },
+  {
+    "StartTime": 743.48,
+    "EndTime": 749.88,
+    "Value": "Marking a book is a useful skill, but it's important to do it right."
+  },
+  {
+    "StartTime": 749.88,
+    "EndTime": 757.7,
+    "Value": "First, read a chapter with one pen in your hand and others next to you on the desk."
+  },
+  {
+    "StartTime": 757.7,
+    "EndTime": 762.56,
+    "Value": "Second, read a whole paragraph before you mark anything."
+  },
+  {
+    "StartTime": 762.56,
+    "EndTime": 765.12,
+    "Value": "Don't mark too much."
+  },
+  {
+    "StartTime": 765.12,
+    "EndTime": 769.09,
+    "Value": "Usually you will mark about 10% of a passage."
+  },
+  {
+    "StartTime": 769.09,
+    "EndTime": 774.47,
+    "Value": "Third, decide on your own system for marking."
+  },
+  {
+    "StartTime": 774.47,
+    "EndTime": 783.51,
+    "Value": "For example, maybe you will mark main ideas in yellow, important details in blue and new words in orange."
+  },
+  {
+    "StartTime": 783.51,
+    "EndTime": 789.4,
+    "Value": "Maybe you will put question marks in the margin when you don't understand something."
+  },
+  {
+    "StartTime": 789.4,
+    "EndTime": 796.72,
+    "Value": "When your chapter is a rainbow of markings, you don't have to read all of it again before an exam."
+  },
+  {
+    "StartTime": 796.72,
+    "EndTime": 803.28,
+    "Value": "Instead, you just need to review your marks and you can save a lot of time."
+  },
+  {
+    "StartTime": 803.28,
+    "EndTime": 809.1,
+    "Value": "Questions 16 to 18 are based on the passage you have just heard."
+  },
+  {
+    "StartTime": 809.1,
+    "EndTime": 832.24,
+    "Value": "16. What should American college students do to cope with their heavy reading assignments?"
+  },
+  {
+    "StartTime": 832.24,
+    "EndTime": 853.83,
+    "Value": "17. What suggestion does the speaker give about marking a textbook?"
+  },
+  {
+    "StartTime": 853.83,
+    "EndTime": 876.47,
+    "Value": "18. How should students prepare for an exam according to the speaker?"
+  },
+  {
+    "StartTime": 876.47,
+    "EndTime": 878.49,
+    "Value": "Passage Two"
+  },
+  {
+    "StartTime": 878.49,
+    "EndTime": 886.56,
+    "Value": "The thought of having no sleep for 24 hours or more isn't a pleasant one for most people."
+  },
+  {
+    "StartTime": 886.56,
+    "EndTime": 891.03,
+    "Value": "The amount of sleep that each person needs varies."
+  },
+  {
+    "StartTime": 891.03,
+    "EndTime": 898.57,
+    "Value": "In general, each of us needs about 8 hours of sleep each day to keep us healthy and happy."
+  },
+  {
+    "StartTime": 898.57,
+    "EndTime": 904.58,
+    "Value": "Some people, however, can get by with just a few hours of sleep at night."
+  },
+  {
+    "StartTime": 904.58,
+    "EndTime": 908.39,
+    "Value": "It doesn't matter when or how much a person sleeps."
+  },
+  {
+    "StartTime": 908.39,
+    "EndTime": 912.28,
+    "Value": "But everyone needs some rest to stay alive."
+  },
+  {
+    "StartTime": 912.28,
+    "EndTime": 917.09,
+    "Value": "Few doctors would have thought that there might be an exception to this."
+  },
+  {
+    "StartTime": 917.09,
+    "EndTime": 921.37,
+    "Value": "Sleep is, after all, a very basic need."
+  },
+  {
+    "StartTime": 921.37,
+    "EndTime": 929.05,
+    "Value": "But a man named Al Herpin turned out to be a rare exception, for supposedly he never slept!"
+  },
+  {
+    "StartTime": 929.05,
+    "EndTime": 934.93,
+    "Value": "Al Herpin was 90 years old when doctors came to his home in New Jersey."
+  },
+  {
+    "StartTime": 934.93,
+    "EndTime": 938.37,
+    "Value": "They hoped to challenge the claim that he never slept."
+  },
+  {
+    "StartTime": 938.37,
+    "EndTime": 940.3,
+    "Value": "But they were surprised."
+  },
+  {
+    "StartTime": 940.3,
+    "EndTime": 947.62,
+    "Value": "Though they watched him every hour of the day, they never saw Herpin sleeping. He did not even own a bed."
+  },
+  {
+    "StartTime": 947.62,
+    "EndTime": 949.35,
+    "Value": "He never needed one."
+  },
+  {
+    "StartTime": 949.35,
+    "EndTime": 957.91,
+    "Value": "The closest that Herpin came to resting was to sit in a rocking chair and read a half dozen newspapers."
+  },
+  {
+    "StartTime": 957.91,
+    "EndTime": 962.9,
+    "Value": "His doctors were puzzled by the strange case of permanent sleeplessness."
+  },
+  {
+    "StartTime": 962.9,
+    "EndTime": 966.24,
+    "Value": "Herpin offered the only clue to his condition."
+  },
+  {
+    "StartTime": 966.24,
+    "EndTime": 973.33,
+    "Value": "He remembered some talk about his mother having been injured several days before he had been born."
+  },
+  {
+    "StartTime": 973.33,
+    "EndTime": 979.96,
+    "Value": "Herpin died at the age of 94, never, it seems, having slept at all."
+  },
+  {
+    "StartTime": 979.96,
+    "EndTime": 985.76,
+    "Value": "Questions 19 to 21 are based on the passage you have just heard."
+  },
+  {
+    "StartTime": 985.76,
+    "EndTime": 1006.35,
+    "Value": "19. What is taken for granted by most people?"
+  },
+  {
+    "StartTime": 1006.35,
+    "EndTime": 1026.89,
+    "Value": "20. What do doctors think of Al Herpin's case?"
+  },
+  {
+    "StartTime": 1026.89,
+    "EndTime": 1048.27,
+    "Value": "21. What could have accounted for Al Herpin's sleeplessness?"
+  },
+  {
+    "StartTime": 1048.27,
+    "EndTime": 1050.55,
+    "Value": "Passage Three"
+  },
+  {
+    "StartTime": 1050.55,
+    "EndTime": 1054.61,
+    "Value": "Hetty Green was a very spoiled, only child."
+  },
+  {
+    "StartTime": 1054.61,
+    "EndTime": 1060,
+    "Value": "She was born in Massachusetts USA in 1835."
+  },
+  {
+    "StartTime": 1060,
+    "EndTime": 1063.47,
+    "Value": "Her father was a millionaire businessman."
+  },
+  {
+    "StartTime": 1063.47,
+    "EndTime": 1073.6,
+    "Value": "Her mother was often ill, and so from the age of two her father took her with him to work and taught her about stocks and shares."
+  },
+  {
+    "StartTime": 1073.6,
+    "EndTime": 1089.62,
+    "Value": "At the age of six she started reading the daily financial newspapers and opened her own bank account. Her father died when she was 21 and she inherited 7.5 million dollars."
+  },
+  {
+    "StartTime": 1089.62,
+    "EndTime": 1093.68,
+    "Value": "She went to New York and invested on Wall Street."
+  },
+  {
+    "StartTime": 1093.68,
+    "EndTime": 1100.11,
+    "Value": "Hetty saved every penny, eating in the cheapest restaurants for 15 cents."
+  },
+  {
+    "StartTime": 1100.11,
+    "EndTime": 1105.18,
+    "Value": "She became one of the richest and most hated women in the world."
+  },
+  {
+    "StartTime": 1105.18,
+    "EndTime": 1117.63,
+    "Value": "At 33 she married Edward Green, a multi-millionaire, and had two children, Ned and Sylvia. Hetty's meanness was well-known."
+  },
+  {
+    "StartTime": 1117.63,
+    "EndTime": 1121.57,
+    "Value": "She always argued about prices in shops."
+  },
+  {
+    "StartTime": 1121.57,
+    "EndTime": 1131.2,
+    "Value": "She walked to the local grocery store to buy broken biscuits which were much cheaper, and to get a free bone for her much loved dog."
+  },
+  {
+    "StartTime": 1131.2,
+    "EndTime": 1137.07,
+    "Value": "Once she lost a two-cent stamp and spent the night looking for it."
+  },
+  {
+    "StartTime": 1137.07,
+    "EndTime": 1143.57,
+    "Value": "She never bought clothes and always wore the same long, ragged black skirt."
+  },
+  {
+    "StartTime": 1143.57,
+    "EndTime": 1154.18,
+    "Value": "Worst of all, when her son, Ned, fell and injured his knee, she refused to pay for a doctor and spent hours looking for free medical help."
+  },
+  {
+    "StartTime": 1154.18,
+    "EndTime": 1157.55,
+    "Value": "In the end Ned lost his leg."
+  },
+  {
+    "StartTime": 1157.55,
+    "EndTime": 1164.88,
+    "Value": "When she died in 1916， she left her children 100 million dollars."
+  },
+  {
+    "StartTime": 1164.88,
+    "EndTime": 1168.88,
+    "Value": "Her daughter built a hospital with her money."
+  },
+  {
+    "StartTime": 1168.88,
+    "EndTime": 1172.9,
+    "Value": "Questions 22 to 25 are based on the passage"
+  },
+  {
+    "StartTime": 1172.9,
+    "EndTime": 1175.6,
+    "Value": "you have just heard."
+  },
+  {
+    "StartTime": 1175.6,
+    "EndTime": 1196.34,
+    "Value": "22. What do we learn about Hetty Green as a child?"
+  },
+  {
+    "StartTime": 1196.34,
+    "EndTime": 1217.44,
+    "Value": "23. How did Hetty Green become rich overnight?"
+  },
+  {
+    "StartTime": 1217.44,
+    "EndTime": 1237.92,
+    "Value": "24. Why was Hetty Green much hated?"
+  },
+  {
+    "StartTime": 1237.92,
+    "EndTime": 1258.59,
+    "Value": "25. What do we learn about Hetty's daughter?"
+  },
+  {
+    "StartTime": 1258.59,
+    "EndTime": 1260.29,
+    "Value": "Section C"
+  },
+  {
+    "StartTime": 1260.29,
+    "EndTime": 1266.61,
+    "Value": "Directions: In this section, you will hear a passage three times."
+  },
+  {
+    "StartTime": 1266.61,
+    "EndTime": 1273.44,
+    "Value": "When the passage is read for the first time, you should listen carefully for its general idea."
+  },
+  {
+    "StartTime": 1273.44,
+    "EndTime": 1281.7,
+    "Value": "When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard."
+  },
+  {
+    "StartTime": 1281.7,
+    "EndTime": 1289.18,
+    "Value": "Finally, when the passage is read for the third time, you should check what you have written."
+  },
+  {
+    "StartTime": 1289.18,
+    "EndTime": 1293.24,
+    "Value": "Now listen to the passage."
+  },
+  {
+    "StartTime": 1293.24,
+    "EndTime": 1305.26,
+    "Value": "Among the kinds of social gestures most significan't for second-language teachers are those which are identical in form but different in meaning in the two cultures."
+  },
+  {
+    "StartTime": 1305.26,
+    "EndTime": 1320.12,
+    "Value": "For example, a Colombian who wants someone to approach him often signals with a hand movement in which all the fingers of one hand, cupped, point downward as they move rapidly back and forth."
+  },
+  {
+    "StartTime": 1320.12,
+    "EndTime": 1337.5,
+    "Value": "Speakers of English have a similar gesture though the hand may not be cupped and the fingers may be held more loosely, but for them the gesture means goodbye or go away, quite the opposite of the Colombian gesture."
+  },
+  {
+    "StartTime": 1337.5,
+    "EndTime": 1353.92,
+    "Value": "Again, in Colombia, a speaker of English would have to know that when he indicates height he must choose between different gestures depending on whether he is referring to a human being or an animal."
+  },
+  {
+    "StartTime": 1353.92,
+    "EndTime": 1372.4,
+    "Value": "If he keeps the palm of the hand parallel to the floor, as he would in his own culture when making known the height of a child, for example, he will very likely be greeted by laughter; in Colombia this gesture is reserved for the description of animals."
+  },
+  {
+    "StartTime": 1372.4,
+    "EndTime": 1379.68,
+    "Value": "In order to describe human beings he should keep the palm of his hand at a right angle to the floor."
+  },
+  {
+    "StartTime": 1379.68,
+    "EndTime": 1388.43,
+    "Value": "Substitutions of one gesture for the other often create not only humorous but also embarrassing moments."
+  },
+  {
+    "StartTime": 1388.43,
+    "EndTime": 1399.03,
+    "Value": "In both of the examples above, speakers from two different cultures have the same gesture, physically, but its meaning differs sharply."
+  },
+  {
+    "StartTime": 1399.03,
+    "EndTime": 1402.93,
+    "Value": "Now the passage will be read again."
+  },
+  {
+    "StartTime": 1402.93,
+    "EndTime": 1414.34,
+    "Value": "Among the kinds of social gestures most significan't for second-language teachers are those which are identical in form but different in meaning in the two cultures."
+  },
+  {
+    "StartTime": 1414.34,
+    "EndTime": 1429.25,
+    "Value": "For example, a Colombian who wants someone to approach him often signals with a hand movement in which all the fingers of one hand, cupped, point downward as they move rapidly back and forth."
+  },
+  {
+    "StartTime": 1429.25,
+    "EndTime": 1445.4,
+    "Value": "Speakers of English have a similar gesture though the hand may not be cupped and the fingers may be held more loosely, but for them the gesture means goodbye or go away, quite the opposite of the Colombian gesture."
+  },
+  {
+    "StartTime": 1445.4,
+    "EndTime": 1459.48,
+    "Value": "Again, in Colombia, a speaker of English would have to know that when he indicates height he must choose between different gestures depending on whether he is referring to a human being or an animal."
+  },
+  {
+    "StartTime": 1459.48,
+    "EndTime": 1477.18,
+    "Value": "If he keeps the palm of the hand parallel to the floor, as he would in his own culture when making known the height of a child, for example, he will very likely be greeted by laughter; in Colombia this gesture is reserved for the description of animals."
+  },
+  {
+    "StartTime": 1477.18,
+    "EndTime": 1484.59,
+    "Value": "In order to describe human beings he should keep the palm of his hand at a right angle to the floor."
+  },
+  {
+    "StartTime": 1484.59,
+    "EndTime": 1493.66,
+    "Value": "Substitutions of one gesture for the other often create not only humorous but also embarrassing moments."
+  },
+  {
+    "StartTime": 1493.66,
+    "EndTime": 1504.61,
+    "Value": "In both of the examples above, speakers from two different cultures have the same gesture, physically, but its meaning differs sharply."
+  },
+  {
+    "StartTime": 1504.61,
+    "EndTime": 1508.77,
+    "Value": "Now the passage will be read for the third time."
+  },
+  {
+    "StartTime": 1508.77,
+    "EndTime": 1521.09,
+    "Value": "Among the kinds of social gestures most significan't for second-language teachers are those which are identical in form but different in meaning in the two cultures."
+  },
+  {
+    "StartTime": 1521.09,
+    "EndTime": 1535.2,
+    "Value": "For example, a Colombian who wants someone to approach him often signals with a hand movement in which all the fingers of one hand, cupped, point downward as they move rapidly back and forth."
+  },
+  {
+    "StartTime": 1535.2,
+    "EndTime": 1553.12,
+    "Value": "Speakers of English have a similar gesture though the hand may not be cupped and the fingers may be held more loosely, but for them the gesture means goodbye or go away, quite the opposite of the Colombian gesture."
+  },
+  {
+    "StartTime": 1553.12,
+    "EndTime": 1569.34,
+    "Value": "Again, in Colombia, a speaker of English would have to know that when he indicates height he must choose between different gestures depending on whether he is referring to a human being or an animal."
+  },
+  {
+    "StartTime": 1569.34,
+    "EndTime": 1587.89,
+    "Value": "If he keeps the palm of the hand parallel to the floor, as he would in his own culture when making known the height of a child, for example, he will very likely be greeted by laughter; in Colombia this gesture is reserved for the description of animals."
+  },
+  {
+    "StartTime": 1587.89,
+    "EndTime": 1595.39,
+    "Value": "In order to describe human beings he should keep the palm of his hand at a right angle to the floor."
+  },
+  {
+    "StartTime": 1595.39,
+    "EndTime": 1603.99,
+    "Value": "Substitutions of one gesture for the other often create not only humorous but also embarrassing moments."
+  },
+  {
+    "StartTime": 1603.99,
+    "EndTime": 1614.29,
+    "Value": "In both of the examples above, speakers from two different cultures have the same gesture, physically, but its meaning differs sharply."
+  },
+  {
+    "StartTime": 1614.29,
+    "EndTime": 5214.29,
+    "Value": "This is the end of listening comprehension."
+  }
+]

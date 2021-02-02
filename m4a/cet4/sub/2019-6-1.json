@@ -1,0 +1,701 @@
+[{
+  "StartTime": 1.35,
+  "EndTime": 4.41,
+  "Value": "College English Test Band Four"
+}, {
+  "StartTime": 4.41,
+  "EndTime": 8.02,
+  "Value": "Part ⅡListening Comprehension"
+}, {
+  "StartTime": 8.02,
+  "EndTime": 9.78,
+  "Value": "Section A"
+}, {
+  "StartTime": 9.78,
+  "EndTime": 15.44,
+  "Value": "Directions: In this section, you will hear three news reports."
+}, {
+  "StartTime": 15.44,
+  "EndTime": 21.23,
+  "Value": "At the end of each news report, you will hear two or three questions."
+}, {
+  "StartTime": 21.23,
+  "EndTime": 26.23,
+  "Value": "Both the news report and the questions will be spoken only once."
+}, {
+  "StartTime": 26.23,
+  "EndTime": 35.35,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 35.35,
+  "EndTime": 43.21,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 43.21,
+  "EndTime": 55.91,
+  "Value": "News Report One A 9-year-old Central California boy braved strong currents and cold water to swim from San Francisco to Alcatraz Island and back."
+}, {
+  "StartTime": 55.91,
+  "EndTime": 67.82,
+  "Value": "A California television station in Fresno reported Tuesday that James Savage set a record as the youngest swimmer to make the journey to the former prison."
+}, {
+  "StartTime": 67.82,
+  "EndTime": 80.16,
+  "Value": "The TV station reported that by completing the swim, the fourth-grade student from Los Banos broke a record previously held by a 10-year-old boy."
+}, {
+  "StartTime": 80.16,
+  "EndTime": 89.78,
+  "Value": "James said that waves in the San Francisco Bay hitting him in the face 30 minutes into his swim made him want to give up."
+}, {
+  "StartTime": 89.78,
+  "EndTime": 101.87,
+  "Value": "His father said he had offered his son $100 as a reward; to encourage his struggling son, he doubled it to $200."
+}, {
+  "StartTime": 101.87,
+  "EndTime": 109.38,
+  "Value": "James pushed forward, making it to Alcatraz Island and back in a little more than two hours."
+}, {
+  "StartTime": 109.38,
+  "EndTime": 113.86,
+  "Value": "Alcatraz is over a mile from the mainland."
+}, {
+  "StartTime": 113.86,
+  "EndTime": 116.02,
+  "Value": "Questions 1 and 2 are based"
+}, {
+  "StartTime": 116.02,
+  "EndTime": 119.36,
+  "Value": "on the news report you have just heard."
+}, {
+  "StartTime": 119.36,
+  "EndTime": 139.62,
+  "Value": "1. What did the boy from Central California do according to the report?"
+}, {
+  "StartTime": 139.62,
+  "EndTime": 157.96,
+  "Value": "2. What did the father do to encourage his son?"
+}, {
+  "StartTime": 157.96,
+  "EndTime": 177.91,
+  "Value": "News Report Two On the 1st of January, new regulations will come into effect which eliminate an annual leave bonus for people who put off marrying until the age of 23 for women, and 25 for men, the South China Morning Post reports."
+}, {
+  "StartTime": 177.91,
+  "EndTime": 187.5,
+  "Value": "The holiday bonus was designed to encourage young people to delay getting married in line with China's one-child policy."
+}, {
+  "StartTime": 187.5,
+  "EndTime": 196,
+  "Value": "But with that policy now being abolished, this holiday incentive is no longer necessary, the government says."
+}, {
+  "StartTime": 196,
+  "EndTime": 214.41,
+  "Value": "In Shanghai, a young couple at a marriage registration office told the paper that they decided to register their marriage as soon as possible to take advantage of the existing policy, because an extra holiday was a big deal for them."
+}, {
+  "StartTime": 214.41,
+  "EndTime": 229.75,
+  "Value": "In Beijing, one registration office had about 300 couples seeking to get married the day after the changes were announced, rather than the usual number of between 70 and 80."
+}, {
+  "StartTime": 229.75,
+  "EndTime": 239.22,
+  "Value": "But one lawyer tells the paper that the changes still have to be adopted by local governments and these procedures take time."
+}, {
+  "StartTime": 239.22,
+  "EndTime": 245.16,
+  "Value": "So people who are rushing to register for marriage can relax."
+}, {
+  "StartTime": 245.16,
+  "EndTime": 247.24,
+  "Value": "Questions 3 and 4 are based"
+}, {
+  "StartTime": 247.24,
+  "EndTime": 250.37,
+  "Value": "on the news report you have just heard."
+}, {
+  "StartTime": 250.37,
+  "EndTime": 270.28,
+  "Value": "3. What was the purpose of the annual leave bonus in China?"
+}, {
+  "StartTime": 270.28,
+  "EndTime": 288.55,
+  "Value": "4. What do we learn about the new regulations?"
+}, {
+  "StartTime": 288.55,
+  "EndTime": 298.08,
+  "Value": "News Report Three Everyone loves a good house party, but the cleaning-up the next morning isn't as enjoyable."
+}, {
+  "StartTime": 298.08,
+  "EndTime": 308.06,
+  "Value": "Now, however, a New Zealand-based start-up company aims to bring messy homes— and even splitting headaches— back to normal."
+}, {
+  "StartTime": 308.06,
+  "EndTime": 320.38,
+  "Value": "The properly-named start-up Morning-After Maids was launched about a month ago in Auckland by roommates Rebecca Foley and Catherine Ashurst."
+}, {
+  "StartTime": 320.38,
+  "EndTime": 328.98,
+  "Value": "Aside from cleaning-up, the two will also cook breakfast and even get coffee and painkillers for recovering merrymakers."
+}, {
+  "StartTime": 328.98,
+  "EndTime": 339.84,
+  "Value": "Although they are both gainfully employed, they fit cleaning jobs into their nights and weekends, which is when their service is in most demand anyway."
+}, {
+  "StartTime": 339.84,
+  "EndTime": 349.8,
+  "Value": "Besides being flooded with requests from across the country, Foley and Ashurst have also received requests from the U.S."
+}, {
+  "StartTime": 349.8,
+  "EndTime": 352.87,
+  "Value": "and Canada to provide services there."
+}, {
+  "StartTime": 352.87,
+  "EndTime": 360.59,
+  "Value": "They are reportedly meeting with lawyers to see how best to take the business forward."
+}, {
+  "StartTime": 360.59,
+  "EndTime": 362.81,
+  "Value": "Questions 5 to 7 are based"
+}, {
+  "StartTime": 362.81,
+  "EndTime": 366.15,
+  "Value": "on the news report you have just heard."
+}, {
+  "StartTime": 366.15,
+  "EndTime": 384.46,
+  "Value": "5. What is the news report mainly about?"
+}, {
+  "StartTime": 384.46,
+  "EndTime": 403.48,
+  "Value": "6. What is a common problem with a house party?"
+}, {
+  "StartTime": 403.48,
+  "EndTime": 423.2,
+  "Value": "7. What are Rebecca Foley and Catherine Ashurst planning to do?"
+}, {
+  "StartTime": 423.2,
+  "EndTime": 424.61,
+  "Value": "Section B"
+}, {
+  "StartTime": 424.61,
+  "EndTime": 430.59,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 430.59,
+  "EndTime": 435.06,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 435.06,
+  "EndTime": 440.38,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 440.38,
+  "EndTime": 450.06,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 450.06,
+  "EndTime": 458.1,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 458.1,
+  "EndTime": 459.81,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 459.81,
+  "EndTime": 464.15,
+  "Value": "W: Kyle, how did your driver's theory exam go?"
+}, {
+  "StartTime": 464.15,
+  "EndTime": 466,
+  "Value": "It was yesterday, right?"
+}, {
+  "StartTime": 466,
+  "EndTime": 473.18,
+  "Value": "M: Yes. I prepared as much as I could, but I was so nervous since it was my second try."
+}, {
+  "StartTime": 473.18,
+  "EndTime": 477.5,
+  "Value": "The people who worked at the test center were very kind, though."
+}, {
+  "StartTime": 477.5,
+  "EndTime": 484.01,
+  "Value": "We had a little conversation which calmed me down a bit, and that was just what I needed."
+}, {
+  "StartTime": 484.01,
+  "EndTime": 492.3,
+  "Value": "Then, after the exam, they printed out my result, but I was afraid to open it until I was outside."
+}, {
+  "StartTime": 492.3,
+  "EndTime": 494.91,
+  "Value": "It was such a relief to pass."
+}, {
+  "StartTime": 494.91,
+  "EndTime": 496.29,
+  "Value": "W: Congratulations!"
+}, {
+  "StartTime": 496.29,
+  "EndTime": 498.06,
+  "Value": "I knew you could do it!"
+}, {
+  "StartTime": 498.06,
+  "EndTime": 503.97,
+  "Value": "I guess you underestimated how difficult it would be the first time, didn't you?"
+}, {
+  "StartTime": 503.97,
+  "EndTime": 513,
+  "Value": "I hear a lot of people make that mistake and go in underprepared, but good job in passing the second time."
+}, {
+  "StartTime": 513,
+  "EndTime": 514.96,
+  "Value": "I'm so proud of you."
+}, {
+  "StartTime": 514.96,
+  "EndTime": 518.64,
+  "Value": "Now, all you have to do next is your road test."
+}, {
+  "StartTime": 518.64,
+  "EndTime": 520.75,
+  "Value": "Have you had any lessons yet?"
+}, {
+  "StartTime": 520.75,
+  "EndTime": 522.82,
+  "Value": "M: Yes, thanks."
+}, {
+  "StartTime": 522.82,
+  "EndTime": 526.39,
+  "Value": "I'm so happy to be actually on the road now."
+}, {
+  "StartTime": 526.39,
+  "EndTime": 532.59,
+  "Value": "I've only had two driving lessons so far, and my instructor is very understanding."
+}, {
+  "StartTime": 532.59,
+  "EndTime": 535.43,
+  "Value": "So I'm really enjoying it."
+}, {
+  "StartTime": 535.43,
+  "EndTime": 548.11,
+  "Value": "And I can't wait for my next session, although the lessons are rather expensive, ￡20 an hour. And the instructor says I'll need about 30 to 40 lessons in total."
+}, {
+  "StartTime": 548.11,
+  "EndTime": 552.19,
+  "Value": "That's what—six to eight hundred pounds."
+}, {
+  "StartTime": 552.19,
+  "EndTime": 559.27,
+  "Value": "So this time I'll need to make a lot more effort and hopefully will be successful the first time."
+}, {
+  "StartTime": 559.27,
+  "EndTime": 561.95,
+  "Value": "W: Well, good luck."
+}, {
+  "StartTime": 561.95,
+  "EndTime": 564.34,
+  "Value": "Questions 8 to 11 are based"
+}, {
+  "StartTime": 564.34,
+  "EndTime": 567.73,
+  "Value": "on the conversation you have just heard."
+}, {
+  "StartTime": 567.73,
+  "EndTime": 585.88,
+  "Value": "8. What did the man do yesterday?"
+}, {
+  "StartTime": 585.88,
+  "EndTime": 604.17,
+  "Value": "9. Why did he fail the exam the first time?"
+}, {
+  "StartTime": 604.17,
+  "EndTime": 623.05,
+  "Value": "10. What does the man say about his driving lessons?"
+}, {
+  "StartTime": 623.05,
+  "EndTime": 641.12,
+  "Value": "11. What does the man hope to do next?"
+}, {
+  "StartTime": 641.12,
+  "EndTime": 643.39,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 643.39,
+  "EndTime": 647.16,
+  "Value": "M: Emma, I got accepted to the University of Leeds."
+}, {
+  "StartTime": 647.16,
+  "EndTime": 654.38,
+  "Value": "Since you're going to university in England, do you know how much it is for international students to study there?"
+}, {
+  "StartTime": 654.38,
+  "EndTime": 664.3,
+  "Value": "W: Congratulations！Yes, I believe for international students, you'll have to pay around ￡13,000 a year."
+}, {
+  "StartTime": 664.3,
+  "EndTime": 667.7,
+  "Value": "It's just a bit more than the local students."
+}, {
+  "StartTime": 667.7,
+  "EndTime": 673.92,
+  "Value": "M: Okay, so that's about $17,000 for the tuition and fees."
+}, {
+  "StartTime": 673.92,
+  "EndTime": 679.37,
+  "Value": "Anyway, I'm only going to be there for a year, doing my master's."
+}, {
+  "StartTime": 679.37,
+  "EndTime": 680.66,
+  "Value": "So it's pretty good."
+}, {
+  "StartTime": 680.66,
+  "EndTime": 688.65,
+  "Value": "If I stayed in the U.S., it'd take two years and cost at least $50,000 in tuition alone."
+}, {
+  "StartTime": 688.65,
+  "EndTime": 698.76,
+  "Value": "Also, I have a good chance of winning a scholarship at Leeds, which would be pretty awesome, the benefits of being a music genius."
+}, {
+  "StartTime": 698.76,
+  "EndTime": 702.26,
+  "Value": "W: Yeah, I heard you're a talented piano player."
+}, {
+  "StartTime": 702.26,
+  "EndTime": 705.98,
+  "Value": "So you're doing a postgraduate degree now?"
+}, {
+  "StartTime": 705.98,
+  "EndTime": 710.14,
+  "Value": "I'm still in my last year, graduating next June."
+}, {
+  "StartTime": 710.14,
+  "EndTime": 716.84,
+  "Value": "Finally, I'll be done with my studies, and could go on to earning loads of money."
+}, {
+  "StartTime": 716.84,
+  "EndTime": 719.48,
+  "Value": "M: Are you still planning on being a teacher?"
+}, {
+  "StartTime": 719.48,
+  "EndTime": 721.68,
+  "Value": "No money in that job then."
+}, {
+  "StartTime": 721.68,
+  "EndTime": 723.38,
+  "Value": "W: You'd be surprised."
+}, {
+  "StartTime": 723.38,
+  "EndTime": 725.39,
+  "Value": "I'm still going to be a teacher."
+}, {
+  "StartTime": 725.39,
+  "EndTime": 733.61,
+  "Value": "But the plan is to work at an international school overseas, after I get a year or so of the experience in England."
+}, {
+  "StartTime": 733.61,
+  "EndTime": 743,
+  "Value": "It's better pay, and I get to travel, which reminds me I'm late for my class and I've got some documents I need to print out first."
+}, {
+  "StartTime": 743,
+  "EndTime": 745.96,
+  "Value": "I'd better run."
+}, {
+  "StartTime": 745.96,
+  "EndTime": 748.37,
+  "Value": "Questions 12 to 15 are based"
+}, {
+  "StartTime": 748.37,
+  "EndTime": 751.8,
+  "Value": "on the conversation you have just heard."
+}, {
+  "StartTime": 751.8,
+  "EndTime": 769.33,
+  "Value": "12. What does the man want to know?"
+}, {
+  "StartTime": 769.33,
+  "EndTime": 786.97,
+  "Value": "13. What is the man going to do?"
+}, {
+  "StartTime": 786.97,
+  "EndTime": 807.13,
+  "Value": "14. What might qualify the man for a scholarship at Leeds University?"
+}, {
+  "StartTime": 807.13,
+  "EndTime": 826.08,
+  "Value": "15. What is the woman planning to do after graduation?"
+}, {
+  "StartTime": 826.08,
+  "EndTime": 827.65,
+  "Value": "Section C"
+}, {
+  "StartTime": 827.65,
+  "EndTime": 832.94,
+  "Value": "Directions: In this section, you will hear three passages."
+}, {
+  "StartTime": 832.94,
+  "EndTime": 837.98,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 837.98,
+  "EndTime": 842.99,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 842.99,
+  "EndTime": 852.93,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 852.93,
+  "EndTime": 860.77,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 860.77,
+  "EndTime": 862.56,
+  "Value": "Passage One"
+}, {
+  "StartTime": 862.56,
+  "EndTime": 872.83,
+  "Value": "Scientists have identified thousands of known ant species around the world— and only a few of them bug humans."
+}, {
+  "StartTime": 872.83,
+  "EndTime": 876.85,
+  "Value": "Most ants live in the woods or out in nature."
+}, {
+  "StartTime": 876.85,
+  "EndTime": 885.96,
+  "Value": "There, they keep other creatures in check, distribute seeds, and clean dead and decaying materials from the ground."
+}, {
+  "StartTime": 885.96,
+  "EndTime": 891.27,
+  "Value": "A very small percentage of ants do harm to humans."
+}, {
+  "StartTime": 891.27,
+  "EndTime": 894.91,
+  "Value": "But those are incredibly challenging to control."
+}, {
+  "StartTime": 894.91,
+  "EndTime": 907.34,
+  "Value": "They are small enough to easily slip inside your house, live in colonies that number in the tens of thousands to the hundreds of thousands, and reproduce quickly."
+}, {
+  "StartTime": 907.34,
+  "EndTime": 912.91,
+  "Value": "That makes them good at getting in, and hard to kick out."
+}, {
+  "StartTime": 912.91,
+  "EndTime": 918.43,
+  "Value": "Once they settle in, these insects start affecting your home."
+}, {
+  "StartTime": 918.43,
+  "EndTime": 924.51,
+  "Value": "In addition to biting ants, other species can cause different kinds of damage."
+}, {
+  "StartTime": 924.51,
+  "EndTime": 933.74,
+  "Value": "Some, like carpenter ants, can undermine a home's structure, while others interfere with electrical units."
+}, {
+  "StartTime": 933.74,
+  "EndTime": 946.4,
+  "Value": "Unfortunately, our homes are very attractive to ants, because they provide everything the colony needs to survive, such as food, water, and shelter."
+}, {
+  "StartTime": 946.4,
+  "EndTime": 950.61,
+  "Value": "So how can we prevent ants from getting into our homes?"
+}, {
+  "StartTime": 950.61,
+  "EndTime": 961.92,
+  "Value": "Most important of all, avoid giving ants any access to food, particularly sugary food, because ants have a sweet tooth."
+}, {
+  "StartTime": 961.92,
+  "EndTime": 969.78,
+  "Value": "We also need to clean up spills as soon as they occur and store food in airtight containers."
+}, {
+  "StartTime": 969.78,
+  "EndTime": 984.08,
+  "Value": "Even garbage attracts ants, so empty your trash as often as possible, and store your outside garbage in a lidded can, well away from doors and windows."
+}, {
+  "StartTime": 984.08,
+  "EndTime": 986.43,
+  "Value": "Questions 16 to 18 are based"
+}, {
+  "StartTime": 986.43,
+  "EndTime": 989.5,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 989.5,
+  "EndTime": 1007.85,
+  "Value": "16. What does the passage say about ants?"
+}, {
+  "StartTime": 1007.85,
+  "EndTime": 1026.82,
+  "Value": "17. What do we learn from the passage about carpenter ants?"
+}, {
+  "StartTime": 1026.82,
+  "EndTime": 1046.54,
+  "Value": "18. What can we do to prevent ants from getting into our homes?"
+}, {
+  "StartTime": 1046.54,
+  "EndTime": 1048.57,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 1048.57,
+  "EndTime": 1054.08,
+  "Value": "My research focus is on what happens to our immune system as we age."
+}, {
+  "StartTime": 1054.08,
+  "EndTime": 1058.34,
+  "Value": "So the job of the immune system is to fight infections."
+}, {
+  "StartTime": 1058.34,
+  "EndTime": 1063.23,
+  "Value": "It also protects us from viruses and from auto-immune diseases."
+}, {
+  "StartTime": 1063.23,
+  "EndTime": 1069.35,
+  "Value": "We know that as we get older, it's easier for us to get infections."
+}, {
+  "StartTime": 1069.35,
+  "EndTime": 1073.72,
+  "Value": "So, older adults have more chances of falling ill."
+}, {
+  "StartTime": 1073.72,
+  "EndTime": 1080.19,
+  "Value": "This is evidence that our immune system really doesn't function so well when we age."
+}, {
+  "StartTime": 1080.19,
+  "EndTime": 1088.82,
+  "Value": "In most of our work when we're looking at older adults who've got an illness, we always have to have health controls."
+}, {
+  "StartTime": 1088.82,
+  "EndTime": 1100.84,
+  "Value": "So we work very closely with a great group of volunteers called “The 1,000 Elders.” These volunteers are all 65 or over but in good health."
+}, {
+  "StartTime": 1100.84,
+  "EndTime": 1110.13,
+  "Value": "They come to the university to provide us with blood samples, to be interviewed and to help us carry out a whole range of research."
+}, {
+  "StartTime": 1110.13,
+  "EndTime": 1115.52,
+  "Value": "The real impact of our research is going to be on health in old age."
+}, {
+  "StartTime": 1115.52,
+  "EndTime": 1124.15,
+  "Value": "At the moment we're living much longer, life expectancy is increasing at two years for every decade."
+}, {
+  "StartTime": 1124.15,
+  "EndTime": 1128.02,
+  "Value": "That means an extra five hours a day."
+}, {
+  "StartTime": 1128.02,
+  "EndTime": 1141.48,
+  "Value": "I want to make sure that older adults are still able to enjoy their old age and that they're not spending time in hospital with infections, feeling unwell and being generally weak."
+}, {
+  "StartTime": 1141.48,
+  "EndTime": 1147.31,
+  "Value": "We want people to be healthy even when they are old."
+}, {
+  "StartTime": 1147.31,
+  "EndTime": 1150.18,
+  "Value": "Questions 19 to 21 are based"
+}, {
+  "StartTime": 1150.18,
+  "EndTime": 1153.57,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 1153.57,
+  "EndTime": 1172,
+  "Value": "19. What is the focus of the speaker's research?"
+}, {
+  "StartTime": 1172,
+  "EndTime": 1191.39,
+  "Value": "20. What are the volunteers asked to do in the research?"
+}, {
+  "StartTime": 1191.39,
+  "EndTime": 1212.16,
+  "Value": "21. What does the speaker say will be the impact of his research?"
+}, {
+  "StartTime": 1212.16,
+  "EndTime": 1214.81,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1214.81,
+  "EndTime": 1227.59,
+  "Value": "When Ted Komada started teaching 14 years ago at Killip Elementary, he didn't know how to manage a classroom and was struggling to connect with students."
+}, {
+  "StartTime": 1227.59,
+  "EndTime": 1234.85,
+  "Value": "He noticed a couple of days after school that a group of kids would get together to play chess."
+}, {
+  "StartTime": 1234.85,
+  "EndTime": 1237.23,
+  "Value": "“I know how to play chess."
+}, {
+  "StartTime": 1237.23,
+  "EndTime": 1241.73,
+  "Value": "Let me go and show these kids how to do it,” he said."
+}, {
+  "StartTime": 1241.73,
+  "EndTime": 1245.74,
+  "Value": "Now Komada coaches the school's chess team."
+}, {
+  "StartTime": 1245.74,
+  "EndTime": 1251.32,
+  "Value": "The whole program started as a safe place for kids to come after school."
+}, {
+  "StartTime": 1251.32,
+  "EndTime": 1265.31,
+  "Value": "And this week dozens of those students are getting ready to head out to Nashville Tennessee, to compete with about 5,000 other young people at the SuperNationals of chess."
+}, {
+  "StartTime": 1265.31,
+  "EndTime": 1274.4,
+  "Value": "The competition only happens every four years and the last time the team went, they won the third place in the nation."
+}, {
+  "StartTime": 1274.4,
+  "EndTime": 1280.64,
+  "Value": "Komada says chess gives him, and his students, control."
+}, {
+  "StartTime": 1280.64,
+  "EndTime": 1285.67,
+  "Value": "The school has the highest number of kids from low-income families."
+}, {
+  "StartTime": 1285.67,
+  "EndTime": 1293.98,
+  "Value": "Police frequent the area day and night, as two months ago, a young man was shot just down the street."
+}, {
+  "StartTime": 1293.98,
+  "EndTime": 1300.15,
+  "Value": "Komada likes to teach his students that they should think about their move before they do it."
+}, {
+  "StartTime": 1300.15,
+  "EndTime": 1304.42,
+  "Value": "The lessons prove valuable outside the classroom as well."
+}, {
+  "StartTime": 1304.42,
+  "EndTime": 1309.81,
+  "Value": "Many parents see these lessons translate into the real world."
+}, {
+  "StartTime": 1309.81,
+  "EndTime": 1316.98,
+  "Value": "Students are more likely to think about their actions and see whether they will lead to trouble."
+}, {
+  "StartTime": 1316.98,
+  "EndTime": 1320.04,
+  "Value": "Questions 22 to 25 are based"
+}, {
+  "StartTime": 1320.04,
+  "EndTime": 1323.54,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 1323.54,
+  "EndTime": 1345.12,
+  "Value": "22. What did Ted Komada notice one day after he started teaching at Killip Elementary?"
+}, {
+  "StartTime": 1345.12,
+  "EndTime": 1365.93,
+  "Value": "23. What are dozens of students from Komada's school going to do this week?"
+}, {
+  "StartTime": 1365.93,
+  "EndTime": 1385.09,
+  "Value": "24. What do we learn about the students of Killip Elementary?"
+}, {
+  "StartTime": 1385.09,
+  "EndTime": 1403.42,
+  "Value": "25. What have the students learned from Komada?"
+}, {
+  "StartTime": 1403.42,
+  "EndTime": 5003.42,
+  "Value": "This is the end of Listening Comprehension."
+}]

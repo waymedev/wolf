@@ -1,0 +1,833 @@
+[{
+  "StartTime": 1.3,
+  "EndTime": 3.88,
+  "Value": "College English Test Band Six"
+}, {
+  "StartTime": 3.88,
+  "EndTime": 6.47,
+  "Value": "Part II Listening Comprehension"
+}, {
+  "StartTime": 6.47,
+  "EndTime": 8.39,
+  "Value": "Section A"
+}, {
+  "StartTime": 8.39,
+  "EndTime": 14.66,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 14.66,
+  "EndTime": 19.3,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 19.3,
+  "EndTime": 24.67,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 24.67,
+  "EndTime": 33.2,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 33.2,
+  "EndTime": 40.81,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 40.81,
+  "EndTime": 43.42,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 43.42,
+  "EndTime": 48.63,
+  "Value": "W: Mr. Ishiguro, have you ever found one of your books at a secondhand bookstore?"
+}, {
+  "StartTime": 48.63,
+  "EndTime": 52.14,
+  "Value": "M: Yes. That kind of thing is difficult."
+}, {
+  "StartTime": 52.14,
+  "EndTime": 56.59,
+  "Value": "If they've got my book there, I think, “Well, this is an insult!"
+}, {
+  "StartTime": 56.59,
+  "EndTime": 63.62,
+  "Value": "Somebody didn't want to keep my book!” But if it's not there, I feel it's an insult too."
+}, {
+  "StartTime": 63.62,
+  "EndTime": 67.6,
+  "Value": "I think, “Why aren't people exchanging my book?"
+}, {
+  "StartTime": 67.6,
+  "EndTime": 73.39,
+  "Value": "Why isn't it in this store?” W: Does being a writer require a thick skin?"
+}, {
+  "StartTime": 73.39,
+  "EndTime": 76.97,
+  "Value": "M: Yes, for example, my wife can be very harsh."
+}, {
+  "StartTime": 76.97,
+  "EndTime": 87.37,
+  "Value": "I began working on my latest book, The Buried Giant, in 2004 but I stopped after I showed my wife a little section."
+}, {
+  "StartTime": 87.37,
+  "EndTime": 90.14,
+  "Value": "She thought it was rubbish."
+}, {
+  "StartTime": 90.14,
+  "EndTime": 92.79,
+  "Value": "W: Even after you won a Booker Prize?"
+}, {
+  "StartTime": 92.79,
+  "EndTime": 103.11,
+  "Value": "M: She's not intimidated at all and she criticizes me in exactly the same way she did when I was first unpublished and I was starting."
+}, {
+  "StartTime": 103.11,
+  "EndTime": 105.98,
+  "Value": "W: But you would never compromise on your vision."
+}, {
+  "StartTime": 105.98,
+  "EndTime": 110.26,
+  "Value": "M: No, I wouldn't ever compromise on the essential, the ideas or the themes."
+}, {
+  "StartTime": 110.26,
+  "EndTime": 116.18,
+  "Value": "This isn't really what my wife is trying to criticize me about."
+}, {
+  "StartTime": 116.18,
+  "EndTime": 118.77,
+  "Value": "It's always about execution."
+}, {
+  "StartTime": 118.77,
+  "EndTime": 123.96,
+  "Value": "W: So why did you put your book, The Buried Giant, aside for so long?"
+}, {
+  "StartTime": 123.96,
+  "EndTime": 128.28,
+  "Value": "Apparen'tly you started working on it over 10 years ago."
+}, {
+  "StartTime": 128.28,
+  "EndTime": 133.15,
+  "Value": "M: I've often stopped writing a book and left it for a few years."
+}, {
+  "StartTime": 133.15,
+  "EndTime": 136.98,
+  "Value": "And by the time I come back to it, it may have changed."
+}, {
+  "StartTime": 136.98,
+  "EndTime": 145.46,
+  "Value": "Usually my imagination has moved on and I can think of different contexts or a different way to do it."
+}, {
+  "StartTime": 145.46,
+  "EndTime": 149.52,
+  "Value": "W: What does it feel like when you finally finish a book?"
+}, {
+  "StartTime": 149.52,
+  "EndTime": 161.79,
+  "Value": "M: It's funny you ask that because I never have this moment when I feel, “Ah, I've finished!” I watch footballers at the end of the match, you know, the whistle goes and they've won or lost."
+}, {
+  "StartTime": 161.79,
+  "EndTime": 169.82,
+  "Value": "Until then they've been giving everything they have and at that moment they know it's over."
+}, {
+  "StartTime": 169.82,
+  "EndTime": 171.14,
+  "Value": "It's funny for an author."
+}, {
+  "StartTime": 171.14,
+  "EndTime": 173.74,
+  "Value": "There's never a finishing whistle."
+}, {
+  "StartTime": 173.74,
+  "EndTime": 177.42,
+  "Value": "Questions 1 to 4 are based on"
+}, {
+  "StartTime": 177.42,
+  "EndTime": 180.65,
+  "Value": "the conversation you have just heard."
+}, {
+  "StartTime": 180.65,
+  "EndTime": 200.24,
+  "Value": "1.\tHow would the man feel if he found his book in a secondhand bookstore?"
+}, {
+  "StartTime": 200.24,
+  "EndTime": 217.58,
+  "Value": "2. What does the man's wife think of his books?"
+}, {
+  "StartTime": 217.58,
+  "EndTime": 235.85,
+  "Value": "3. What does the man do when he engages in writing?"
+}, {
+  "StartTime": 235.85,
+  "EndTime": 254.53,
+  "Value": "4. What does the man want to say by mentioning the football match?"
+}, {
+  "StartTime": 254.53,
+  "EndTime": 257.16,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 257.16,
+  "EndTime": 266.42,
+  "Value": "W: According to a study of race and equity in education, black athletes are dropping out of college across the country at alarming rates."
+}, {
+  "StartTime": 266.42,
+  "EndTime": 273.57,
+  "Value": "With us to talk about the findings in the study is Washington Post columnist Kevin Blackistone."
+}, {
+  "StartTime": 273.57,
+  "EndTime": 274.91,
+  "Value": "Good morning."
+}, {
+  "StartTime": 274.91,
+  "EndTime": 276.56,
+  "Value": "M: Good morning, how are you?"
+}, {
+  "StartTime": 276.56,
+  "EndTime": 278.39,
+  "Value": "W: Fine, thank you."
+}, {
+  "StartTime": 278.39,
+  "EndTime": 280.97,
+  "Value": "What is new that you found in this study?"
+}, {
+  "StartTime": 280.97,
+  "EndTime": 293.38,
+  "Value": "M: Well, this is Shaun Harper's study, and he points out that on major college campuses across the country, black males make up less than 3 percent of undergraduate enrollments."
+}, {
+  "StartTime": 293.38,
+  "EndTime": 305.94,
+  "Value": "Yet, when you look at their numbers or percentages on the revenue-generating sports teams of football and basketball, they make up well into 50 to 60 percent of those teams."
+}, {
+  "StartTime": 305.94,
+  "EndTime": 322.44,
+  "Value": "So the idea is that they are really there to be part of the revenue-generating working class of athletes on campus and not necessarily there to be part of the educating class as most students in other groups are."
+}, {
+  "StartTime": 322.44,
+  "EndTime": 334.42,
+  "Value": "W: Compared with other groups, I think the numbers in this group, at those 65 schools, are something like just barely more than half of the black male athletes graduate at all."
+}, {
+  "StartTime": 334.42,
+  "EndTime": 335.52,
+  "Value": "M: Exactly."
+}, {
+  "StartTime": 335.52,
+  "EndTime": 345.34,
+  "Value": "And what's really bad about this is these athletes are supposedly promised at least one thing as reward for all their blood and sweat."
+}, {
+  "StartTime": 345.34,
+  "EndTime": 353.96,
+  "Value": "And that is a college degree, which can be a transformative tool in our society when you talk about upward mobility."
+}, {
+  "StartTime": 353.96,
+  "EndTime": 356.82,
+  "Value": "And that's really the troubling part about this."
+}, {
+  "StartTime": 356.82,
+  "EndTime": 362.53,
+  "Value": "W: Well, this has been talked about so much, really, in recent years."
+}, {
+  "StartTime": 362.53,
+  "EndTime": 364.38,
+  "Value": "Why hasn't it changed?"
+}, {
+  "StartTime": 364.38,
+  "EndTime": 371.62,
+  "Value": "M: Well, I think one of the reasons it hasn't changed is because there's really no economic pressure to change this."
+}, {
+  "StartTime": 371.62,
+  "EndTime": 377.61,
+  "Value": "All of the incentive is really on winning and not losing on the field or on the court."
+}, {
+  "StartTime": 377.61,
+  "EndTime": 383.03,
+  "Value": "Coaches do not necessarily have the incentive to graduate players."
+}, {
+  "StartTime": 383.03,
+  "EndTime": 385.02,
+  "Value": "Questions 5 to 8 are based on"
+}, {
+  "StartTime": 385.02,
+  "EndTime": 388.3,
+  "Value": "the conversation you have just heard."
+}, {
+  "StartTime": 388.3,
+  "EndTime": 401.18,
+  "Value": "5. What are the speakers talking about?"
+}, {
+  "StartTime": 401.18,
+  "EndTime": 421.37,
+  "Value": "6. What is the new finding about black male athletes in this study?"
+}, {
+  "StartTime": 421.37,
+  "EndTime": 440.03,
+  "Value": "7. What is the graduation rate of black male athletes?"
+}, {
+  "StartTime": 440.03,
+  "EndTime": 464.91,
+  "Value": "8. What accounts for black athletes' failure to obtain a college degree, according to the man?"
+}, {
+  "StartTime": 464.91,
+  "EndTime": 466.44,
+  "Value": "Section B"
+}, {
+  "StartTime": 466.44,
+  "EndTime": 470.07,
+  "Value": "Directions: In this section, you will hear two passages."
+}, {
+  "StartTime": 470.07,
+  "EndTime": 475.39,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 475.39,
+  "EndTime": 480.05,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 480.05,
+  "EndTime": 488.68,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 488.68,
+  "EndTime": 497.53,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 497.53,
+  "EndTime": 499.19,
+  "Value": "Passage One"
+}, {
+  "StartTime": 499.19,
+  "EndTime": 504.87,
+  "Value": "America's holiday shopping season starts on Black Friday, the day after Thanksgiving."
+}, {
+  "StartTime": 504.87,
+  "EndTime": 507.49,
+  "Value": "It is the busiest shopping day of the year."
+}, {
+  "StartTime": 507.49,
+  "EndTime": 514.26,
+  "Value": "Retailers make the most money this time of year, about 20 to 30 percent of annual revenue."
+}, {
+  "StartTime": 514.26,
+  "EndTime": 520.46,
+  "Value": "About 136 million people will shop during the Thanksgiving Holiday weekend."
+}, {
+  "StartTime": 520.46,
+  "EndTime": 523.27,
+  "Value": "More and more will shop online."
+}, {
+  "StartTime": 523.27,
+  "EndTime": 529.66,
+  "Value": "In an era of instant information, shoppers can use their mobile phones to find deals."
+}, {
+  "StartTime": 529.66,
+  "EndTime": 538.69,
+  "Value": "About 183.8 million people will shop on Cyber Monday, the first Monday after Thanksgiving."
+}, {
+  "StartTime": 538.69,
+  "EndTime": 543.79,
+  "Value": "More than half of all holiday purchases will be made online."
+}, {
+  "StartTime": 543.79,
+  "EndTime": 548.08,
+  "Value": "One-in-five Americans will use a tablet or smartphone."
+}, {
+  "StartTime": 548.08,
+  "EndTime": 555.31,
+  "Value": "Online spending on Black Friday will rise 15 percent to hit $2.7 billion this year."
+}, {
+  "StartTime": 555.31,
+  "EndTime": 561.28,
+  "Value": "Cyber Monday spending will increase 12 percent to $3 billion."
+}, {
+  "StartTime": 561.28,
+  "EndTime": 568.28,
+  "Value": "For many, shopping online was “a more comfortable alternative” than crowded malls."
+}, {
+  "StartTime": 568.28,
+  "EndTime": 573.79,
+  "Value": "The shift to online shopping has had a big impact on traditional shopping malls."
+}, {
+  "StartTime": 573.79,
+  "EndTime": 581.15,
+  "Value": "Since 2010, more than 24 shopping malls have closed and an additional 60 are struggling."
+}, {
+  "StartTime": 581.15,
+  "EndTime": 585.69,
+  "Value": "However, Fortune says the weakest of the malls have closed."
+}, {
+  "StartTime": 585.69,
+  "EndTime": 588.49,
+  "Value": "The sector is thriving again."
+}, {
+  "StartTime": 588.49,
+  "EndTime": 599.15,
+  "Value": "The International Council of Shopping Centers said 94.2 percent of malls were full, or occupied, with shops by the end of 2014."
+}, {
+  "StartTime": 599.15,
+  "EndTime": 601.93,
+  "Value": "That is the highest level in 27 years."
+}, {
+  "StartTime": 601.93,
+  "EndTime": 610.75,
+  "Value": "Economist Gus Faucher said lower unemployment and rising wages could give Americans more money to spend."
+}, {
+  "StartTime": 610.75,
+  "EndTime": 616.12,
+  "Value": "The average American consumer will spend about $805 on gifts."
+}, {
+  "StartTime": 616.12,
+  "EndTime": 626.35,
+  "Value": "That's about $630.5 billion between November and December— an increase of 3.7 percent from last year."
+}, {
+  "StartTime": 626.35,
+  "EndTime": 631.16,
+  "Value": "Questions 9 to 12 are based on"
+}, {
+  "StartTime": 631.16,
+  "EndTime": 633.11,
+  "Value": "the passage you have just heard."
+}, {
+  "StartTime": 633.11,
+  "EndTime": 652.35,
+  "Value": "9. What is the speaker mainly talking about?"
+}, {
+  "StartTime": 652.35,
+  "EndTime": 670.87,
+  "Value": "10. How many people will shop on Cyber Monday?"
+}, {
+  "StartTime": 670.87,
+  "EndTime": 690.11,
+  "Value": "11. What does Fortune say about traditional shopping malls?"
+}, {
+  "StartTime": 690.11,
+  "EndTime": 708.63,
+  "Value": "12. What is said to account for the increased number of shoppers?"
+}, {
+  "StartTime": 708.63,
+  "EndTime": 710.8,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 710.8,
+  "EndTime": 716.25,
+  "Value": "For years, many of us have relied on antibiotic use to treat various infections."
+}, {
+  "StartTime": 716.25,
+  "EndTime": 730.29,
+  "Value": "And the reality is that antibiotics have been responsible for saving millions of lives since penicillin, one of the earliest antibiotics, was first used on a clinical basis 70 years ago."
+}, {
+  "StartTime": 730.29,
+  "EndTime": 740.02,
+  "Value": "However, today is a new era in which taking antibiotics can cause some very dangerous and potentially life-threatening situations."
+}, {
+  "StartTime": 740.02,
+  "EndTime": 753.43,
+  "Value": "In fact, you may have heard about the new “superbugs”, which are antibiotic-resistant bacteria that have developed as a result of overprescribed antibiotics."
+}, {
+  "StartTime": 753.43,
+  "EndTime": 768.03,
+  "Value": "In the past, health experts warned us that the day would come in which it would become very difficult to provide medical care for even common problems such as lung infection or severe sour throat."
+}, {
+  "StartTime": 768.03,
+  "EndTime": 780.96,
+  "Value": "And, apparen'tly, that day has come because seemingly routine operations such as knee replacements are now much more hazardous due to the looming threat of these infections."
+}, {
+  "StartTime": 780.96,
+  "EndTime": 805.92,
+  "Value": "The problem has grown into such epidemic proportions that this severe strain of resistant bacteria is being blamed for nearly 700,000 deaths each year throughout the world; and, unfortunately, health experts worry that the number will rise to 10 million or more on a yearly basis by 2050."
+}, {
+  "StartTime": 805.92,
+  "EndTime": 821.33,
+  "Value": "With such a large life-threatening epidemic, it is sad to say that only 1.2 percent of budgetary money for the National Institutes of Health is currently being spent on research to tackle this problem."
+}, {
+  "StartTime": 821.33,
+  "EndTime": 829.62,
+  "Value": "This is a far cry from the funds necessary for a problem of such magnitude."
+}, {
+  "StartTime": 829.62,
+  "EndTime": 831.99,
+  "Value": "Questions 13 to 15 are based on"
+}, {
+  "StartTime": 831.99,
+  "EndTime": 834.43,
+  "Value": "the passage you have just heard."
+}, {
+  "StartTime": 834.43,
+  "EndTime": 852.66,
+  "Value": "13. What do we learn about the “superbugs”?"
+}, {
+  "StartTime": 852.66,
+  "EndTime": 871.81,
+  "Value": "14. What is the result of the overuse of antibiotics?"
+}, {
+  "StartTime": 871.81,
+  "EndTime": 893.79,
+  "Value": "15. What is most urgently needed for tackling the large life-threatening epidemic, according to the speaker?"
+}, {
+  "StartTime": 893.79,
+  "EndTime": 895.31,
+  "Value": "Section C"
+}, {
+  "StartTime": 895.31,
+  "EndTime": 904.39,
+  "Value": "Directions: In this section, you will hear three recordings of lectures or talks followed by three or four questions."
+}, {
+  "StartTime": 904.39,
+  "EndTime": 906.97,
+  "Value": "The recordings will be played only once."
+}, {
+  "StartTime": 906.97,
+  "EndTime": 915.27,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 915.27,
+  "EndTime": 924.08,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 924.08,
+  "EndTime": 929.07,
+  "Value": "Recording One This is the reason you are here in a university."
+}, {
+  "StartTime": 929.07,
+  "EndTime": 931.45,
+  "Value": "You are here to be educated."
+}, {
+  "StartTime": 931.45,
+  "EndTime": 938.17,
+  "Value": "You are here to understand thinking better and to think better yourself."
+}, {
+  "StartTime": 938.17,
+  "EndTime": 941.76,
+  "Value": "It's not a chance you're going to have throughout your lifetime."
+}, {
+  "StartTime": 941.76,
+  "EndTime": 946.67,
+  "Value": "For the next few years, you have a chance to focus on thinking."
+}, {
+  "StartTime": 946.67,
+  "EndTime": 954.25,
+  "Value": "I think about some of the students who took advantage of their opportunities in a university."
+}, {
+  "StartTime": 954.25,
+  "EndTime": 965.28,
+  "Value": "One of the stories I always like to tell is of a freshman seminar that I had a chance to teach at Harvard when I was president of the university."
+}, {
+  "StartTime": 965.28,
+  "EndTime": 974.02,
+  "Value": "I taught a seminar on globalization and I assigned a reading that I had written about global capital flows."
+}, {
+  "StartTime": 974.02,
+  "EndTime": 980.27,
+  "Value": "And as I did each week, I asked one of the students to introduce the readings."
+}, {
+  "StartTime": 980.27,
+  "EndTime": 988.55,
+  "Value": "And this young man, in October of his freshman year, said something like the following."
+}, {
+  "StartTime": 988.55,
+  "EndTime": 1005.73,
+  "Value": "“The reading by President Summers on the flow of capital across countries, it was kind of interesting, but the data did not come close to supporting the conclusions.” And I thought to myself, “What a fantastic thing this was."
+}, {
+  "StartTime": 1005.73,
+  "EndTime": 1017.8,
+  "Value": "How could somebody who had been there for five weeks tell the person who had the title ‘President' that he didn't really know what he was talking about?” And it was a special moment."
+}, {
+  "StartTime": 1017.8,
+  "EndTime": 1020.55,
+  "Value": "Now, I don't want to be misunderstood."
+}, {
+  "StartTime": 1020.55,
+  "EndTime": 1038.32,
+  "Value": "I explained to my student that I actually thought he was rather more confused than I was and I argued back, but what was really important about that was the universities stand out as places that really are about the authority of ideas."
+}, {
+  "StartTime": 1038.32,
+  "EndTime": 1048.63,
+  "Value": "You see it in faculty members who are pleased when their students make a discovery that undermines a cherished theory that they had put forward."
+}, {
+  "StartTime": 1048.63,
+  "EndTime": 1063.54,
+  "Value": "I think of another student I had who came to me one morning, one evening actually, walked into my office and said that I had written a pretty good paper, but that it had five important mistakes and that he wanted a job."
+}, {
+  "StartTime": 1063.54,
+  "EndTime": 1071.75,
+  "Value": "You could debate whether they actually were mistakes, but you couldn't debate that young man's hunger to learn."
+}, {
+  "StartTime": 1071.75,
+  "EndTime": 1081.87,
+  "Value": "You could not debate that that young man was someone who wanted to make a difference in economics and he is today a professor of economics."
+}, {
+  "StartTime": 1081.87,
+  "EndTime": 1088.67,
+  "Value": "And his works are more cited as an economist than any other economist in the world."
+}, {
+  "StartTime": 1088.67,
+  "EndTime": 1091.24,
+  "Value": "Questions 16 to 18 are based on"
+}, {
+  "StartTime": 1091.24,
+  "EndTime": 1094.23,
+  "Value": "the recording you have just heard."
+}, {
+  "StartTime": 1094.23,
+  "EndTime": 1112.66,
+  "Value": "16. What does the speaker say about a university?"
+}, {
+  "StartTime": 1112.66,
+  "EndTime": 1131.39,
+  "Value": "17. What do we learn from the speaker's stories about universities?"
+}, {
+  "StartTime": 1131.39,
+  "EndTime": 1151.45,
+  "Value": "18. What does the speaker see in the young man who challenged his paper?"
+}, {
+  "StartTime": 1151.45,
+  "EndTime": 1159.84,
+  "Value": "Recording Two Psychological research shows we consistently underestimate our mental powers."
+}, {
+  "StartTime": 1159.84,
+  "EndTime": 1165.71,
+  "Value": "If you think this does not apply to you, then here is a simple test to show you are wrong."
+}, {
+  "StartTime": 1165.71,
+  "EndTime": 1170.65,
+  "Value": "Write down the names of all the American states you can remember."
+}, {
+  "StartTime": 1170.65,
+  "EndTime": 1176.14,
+  "Value": "Put the list away and then set yourself the same task a week later."
+}, {
+  "StartTime": 1176.14,
+  "EndTime": 1182.95,
+  "Value": "Provided you have not cheated by consulting an atlas, you will notice something rather surprising."
+}, {
+  "StartTime": 1182.95,
+  "EndTime": 1190.3,
+  "Value": "The two lists will contain roughly the same number of states, but they will not be identical."
+}, {
+  "StartTime": 1190.3,
+  "EndTime": 1195.7,
+  "Value": "Some names will have slipped away, but others will have replaced them."
+}, {
+  "StartTime": 1195.7,
+  "EndTime": 1203.07,
+  "Value": "This suggests that somewhere in your mind you may well have a record of virtually every state."
+}, {
+  "StartTime": 1203.07,
+  "EndTime": 1211.96,
+  "Value": "So it is not really your memory letting you down, just your ability to retrieve information from it."
+}, {
+  "StartTime": 1211.96,
+  "EndTime": 1221.1,
+  "Value": "We would remember a lot more if we had more confidence in our memories and knew how to use them properly."
+}, {
+  "StartTime": 1221.1,
+  "EndTime": 1230.91,
+  "Value": "One useful tip is that things are more likely to be remembered if you are in exactly the same state and place as you were when you learned them."
+}, {
+  "StartTime": 1230.91,
+  "EndTime": 1242.04,
+  "Value": "So if you are a student who always reviews over black coffee, perhaps it would be sensible to prime yourself with a cup before the exam."
+}, {
+  "StartTime": 1242.04,
+  "EndTime": 1249.33,
+  "Value": "If possible, you should also try to learn information in the room where it is going to be tested."
+}, {
+  "StartTime": 1249.33,
+  "EndTime": 1252.49,
+  "Value": "When you learn is also important."
+}, {
+  "StartTime": 1252.49,
+  "EndTime": 1259.63,
+  "Value": "Lots of people swear they can absorb new information more efficiently at some times of the day than at others."
+}, {
+  "StartTime": 1259.63,
+  "EndTime": 1263.34,
+  "Value": "Research shows this is not just imagination."
+}, {
+  "StartTime": 1263.34,
+  "EndTime": 1270.83,
+  "Value": "There is a biological rhythm for learning, though it affects different people in different ways."
+}, {
+  "StartTime": 1270.83,
+  "EndTime": 1281.04,
+  "Value": "For most of us, the best plan is to take in new information in the morning and then try to consolidate it into memory during the afternoon."
+}, {
+  "StartTime": 1281.04,
+  "EndTime": 1287.35,
+  "Value": "But this does not apply to everyone, so it is essential to establish your own rhythm."
+}, {
+  "StartTime": 1287.35,
+  "EndTime": 1296.79,
+  "Value": "You can do this by learning a set number of lines of poetry at different times of the day and seeing when most lines stick."
+}, {
+  "StartTime": 1296.79,
+  "EndTime": 1307.33,
+  "Value": "When you have done this, try to organize your life so that the time set aside for learning coincides with the time when your memory is at its best."
+}, {
+  "StartTime": 1307.33,
+  "EndTime": 1312.83,
+  "Value": "Avoid learning marathons— they do not make the best use of your mind."
+}, {
+  "StartTime": 1312.83,
+  "EndTime": 1328.39,
+  "Value": "Take plenty of breaks, because they offer a double bonus: the time off gives your mind a chance to do some preliminary consolidation and it also gives a memory boost to the learning."
+}, {
+  "StartTime": 1328.39,
+  "EndTime": 1330.93,
+  "Value": "Questions 19 to 22 are based on"
+}, {
+  "StartTime": 1330.93,
+  "EndTime": 1334.22,
+  "Value": "the recording you have just heard."
+}, {
+  "StartTime": 1334.22,
+  "EndTime": 1351.88,
+  "Value": "19. What does the simple test suggest?"
+}, {
+  "StartTime": 1351.88,
+  "EndTime": 1370.72,
+  "Value": "20. What do we learn about the two lists in the test?"
+}, {
+  "StartTime": 1370.72,
+  "EndTime": 1391.39,
+  "Value": "21. What does the speaker suggest about preparing for and taking an exam?"
+}, {
+  "StartTime": 1391.39,
+  "EndTime": 1411.37,
+  "Value": "22. What tip does the speaker give on learning?"
+}, {
+  "StartTime": 1411.37,
+  "EndTime": 1414.06,
+  "Value": "Recording Three Hello!"
+}, {
+  "StartTime": 1414.06,
+  "EndTime": 1416.49,
+  "Value": "Today I am going to talk about poverty."
+}, {
+  "StartTime": 1416.49,
+  "EndTime": 1421.14,
+  "Value": "Poverty has become a critical issue in today's world."
+}, {
+  "StartTime": 1421.14,
+  "EndTime": 1429.8,
+  "Value": "It concerns not only us sociologists, but also economists, politicians and business people."
+}, {
+  "StartTime": 1429.8,
+  "EndTime": 1433.83,
+  "Value": "Poverty has been understood in many different ways."
+}, {
+  "StartTime": 1433.83,
+  "EndTime": 1445.55,
+  "Value": "One useful way is to distinguish between three degrees of poverty— extreme poverty, moderate poverty, and relative poverty."
+}, {
+  "StartTime": 1445.55,
+  "EndTime": 1448.91,
+  "Value": "The first type of poverty is extreme poverty."
+}, {
+  "StartTime": 1448.91,
+  "EndTime": 1452.15,
+  "Value": "It's also called absolute poverty."
+}, {
+  "StartTime": 1452.15,
+  "EndTime": 1457.57,
+  "Value": "In extreme poverty, households cannot meet basic needs for survival."
+}, {
+  "StartTime": 1457.57,
+  "EndTime": 1460.07,
+  "Value": "People are chronically hungry."
+}, {
+  "StartTime": 1460.07,
+  "EndTime": 1465.61,
+  "Value": "They are unable to access safe drinking water, let alone health care."
+}, {
+  "StartTime": 1465.61,
+  "EndTime": 1469.58,
+  "Value": "They cannot afford education for their children."
+}, {
+  "StartTime": 1469.58,
+  "EndTime": 1479.89,
+  "Value": "In short, people who live in extreme poverty do not have even the minimum resources to support themselves and their families."
+}, {
+  "StartTime": 1479.89,
+  "EndTime": 1482.43,
+  "Value": "Where does extreme poverty occur?"
+}, {
+  "StartTime": 1482.43,
+  "EndTime": 1486.49,
+  "Value": "Well, you can find it only in developing countries."
+}, {
+  "StartTime": 1486.49,
+  "EndTime": 1488.91,
+  "Value": "Well, what about moderate poverty?"
+}, {
+  "StartTime": 1488.91,
+  "EndTime": 1499.85,
+  "Value": "Unlike extreme poverty, moderate poverty generally refers to conditions of life in which basic needs are met, but barely."
+}, {
+  "StartTime": 1499.85,
+  "EndTime": 1507.26,
+  "Value": "People living in moderate poverty have the resources to keep themselves alive, but only at a very basic level."
+}, {
+  "StartTime": 1507.26,
+  "EndTime": 1514.64,
+  "Value": "For example, they may have access to drinking water but not clean, safe drinking water."
+}, {
+  "StartTime": 1514.64,
+  "EndTime": 1522.39,
+  "Value": "They may have a home to shelter themselves but it does not have power supply, a telephone or plumbing."
+}, {
+  "StartTime": 1522.39,
+  "EndTime": 1525.86,
+  "Value": "The third kind of poverty is relative poverty."
+}, {
+  "StartTime": 1525.86,
+  "EndTime": 1535.97,
+  "Value": "Relative poverty is generally considered to be a household income level which is below a given proportion of average family income."
+}, {
+  "StartTime": 1535.97,
+  "EndTime": 1542.81,
+  "Value": "The relatively poor live in high income countries but they do not have a high income themselves."
+}, {
+  "StartTime": 1542.81,
+  "EndTime": 1557.53,
+  "Value": "The method of calculating the poverty line is different from country to country but we can say that basically a family living in relative poverty has less than a percentage of the average family income."
+}, {
+  "StartTime": 1557.53,
+  "EndTime": 1569.38,
+  "Value": "For example, in the United States, a family can be considered poor if their income is less than 50 percent of the national average family income."
+}, {
+  "StartTime": 1569.38,
+  "EndTime": 1575.63,
+  "Value": "They can meet their basic needs but they lack access to cultural goods, entertainment, and recreation."
+}, {
+  "StartTime": 1575.63,
+  "EndTime": 1585.03,
+  "Value": "They also do not have access to quality health care or other prerequisites for upward social mobility."
+}, {
+  "StartTime": 1585.03,
+  "EndTime": 1595.56,
+  "Value": "Well, I have briefly explained to you how poverty can be distinguished as extreme poverty, moderate poverty, and relative poverty."
+}, {
+  "StartTime": 1595.56,
+  "EndTime": 1606.19,
+  "Value": "We should keep these distinctions in mind when we research people's living conditions either in the developing or the developed world."
+}, {
+  "StartTime": 1606.19,
+  "EndTime": 1610.1,
+  "Value": "Questions 23 to 25 are based on"
+}, {
+  "StartTime": 1610.1,
+  "EndTime": 1613.11,
+  "Value": "the recording you have just heard."
+}, {
+  "StartTime": 1613.11,
+  "EndTime": 1630.59,
+  "Value": "23. What does the speaker do?"
+}, {
+  "StartTime": 1630.59,
+  "EndTime": 1650.47,
+  "Value": "24. Where does the speaker say we can find extreme poverty?"
+}, {
+  "StartTime": 1650.47,
+  "EndTime": 1670.82,
+  "Value": "25. What do we learn about American people living in relative poverty?"
+}, {
+  "StartTime": 1670.82,
+  "EndTime": 5270.82,
+  "Value": "This is the end of listening comprehension."
+}]

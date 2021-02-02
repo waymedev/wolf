@@ -1,0 +1,841 @@
+[{
+  "StartTime": 15.75,
+  "EndTime": 18.4,
+  "Value": "College English Test Band 6"
+}, {
+  "StartTime": 18.4,
+  "EndTime": 20.86,
+  "Value": "Part II  Listening Comprehension"
+}, {
+  "StartTime": 20.86,
+  "EndTime": 22.51,
+  "Value": "Section A"
+}, {
+  "StartTime": 22.51,
+  "EndTime": 26.69,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 26.69,
+  "EndTime": 30.77,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 30.77,
+  "EndTime": 35.32,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 35.32,
+  "EndTime": 43.05,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 43.05,
+  "EndTime": 49.45,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 49.45,
+  "EndTime": 51.26,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 51.26,
+  "EndTime": 53.94,
+  "Value": "M: Hey I just read a great book about physics."
+}, {
+  "StartTime": 53.94,
+  "EndTime": 55.5,
+  "Value": "I think you'd like it."
+}, {
+  "StartTime": 55.5,
+  "EndTime": 57.83,
+  "Value": "It's called The Physics of the World."
+}, {
+  "StartTime": 57.83,
+  "EndTime": 60.87,
+  "Value": "It's written by a scientist named Sylvia Mendez."
+}, {
+  "StartTime": 60.87,
+  "EndTime": 63.51,
+  "Value": "W: Oh I've read that book. It was great."
+}, {
+  "StartTime": 63.51,
+  "EndTime": 67.69,
+  "Value": "The writer is a warm and competent guide to the mysteries of physics."
+}, {
+  "StartTime": 67.69,
+  "EndTime": 75.3,
+  "Value": "I think it promises enrichment for any reader, from those who know little about science to the career physicist."
+}, {
+  "StartTime": 75.3,
+  "EndTime": 84.86,
+  "Value": "M: And it's refreshing to see a strong, curious, clever woman adding her voice to the scientific discourse in a field that has been traditionally dominated by men."
+}, {
+  "StartTime": 84.86,
+  "EndTime": 91.72,
+  "Value": "I think she has to be commended for making an effort to include anecdotes about little-known female scientists."
+}, {
+  "StartTime": 91.72,
+  "EndTime": 104.78,
+  "Value": "You know they were often victims of “a generation firmly convinced that the woman's place was in the home.” W: I like how the book is clearly written with each chapter brought to life by pieces of fascinating knowledge."
+}, {
+  "StartTime": 104.78,
+  "EndTime": 111.81,
+  "Value": "For example, in one chapter she exposes a myth that I've heard taught by university physics professors."
+}, {
+  "StartTime": 111.81,
+  "EndTime": 118.68,
+  "Value": "I've often heard that medieval glass windows are thicker at the bottom because glass “flows” like a fluid."
+}, {
+  "StartTime": 118.68,
+  "EndTime": 121.19,
+  "Value": "This, she shows, is not true."
+}, {
+  "StartTime": 121.19,
+  "EndTime": 127.26,
+  "Value": "The distortion is actually thanks to a peculiarity of the glassmaker's process."
+}, {
+  "StartTime": 127.26,
+  "EndTime": 142.82,
+  "Value": "M: Yeah, I like how she cultivates scientific engagement by providing a host of do-it-yourself experiments that bring the same foundational principles of classical physics that govern everything from the solar system to your kitchen table."
+}, {
+  "StartTime": 142.82,
+  "EndTime": 152.3,
+  "Value": "From using complex laws of physics to test whether a spinning egg is cooked to measuring atmospheric pressure by lifting a piece of cardboard."
+}, {
+  "StartTime": 152.3,
+  "EndTime": 157.37,
+  "Value": "Her hands-on examples make her book a truly interactive read."
+}, {
+  "StartTime": 157.37,
+  "EndTime": 169.23,
+  "Value": "W: Yes I must say this equation-free book is an ideal read for scientists of all stripes, anyone teaching science, and even people who dislike physics."
+}, {
+  "StartTime": 169.23,
+  "EndTime": 174.6,
+  "Value": "Questions 1 to 4 are based on the conversation you have just heard."
+}, {
+  "StartTime": 174.6,
+  "EndTime": 193.56,
+  "Value": "1. What does the woman say about the book the man recommended?"
+}, {
+  "StartTime": 193.56,
+  "EndTime": 210.98,
+  "Value": "2. What can we find in the book the man recommended?"
+}, {
+  "StartTime": 210.98,
+  "EndTime": 228.45,
+  "Value": "3. How does the author bring her book to life?"
+}, {
+  "StartTime": 228.45,
+  "EndTime": 247.85,
+  "Value": "4. How does the book cultivate readers' interest in physics?"
+}, {
+  "StartTime": 247.85,
+  "EndTime": 249.75,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 249.75,
+  "EndTime": 255.58,
+  "Value": "M: Hi professor. I was hoping I could have a moment of your time if you're not too busy."
+}, {
+  "StartTime": 255.58,
+  "EndTime": 262,
+  "Value": "I'm having some problems getting started on my dissertation and I was hoping you could give me some advice on how to begin."
+}, {
+  "StartTime": 262,
+  "EndTime": 264.93,
+  "Value": "W: Sure. I have quite a few students though."
+}, {
+  "StartTime": 264.93,
+  "EndTime": 267.78,
+  "Value": "So can you remind me what your topic is?"
+}, {
+  "StartTime": 267.78,
+  "EndTime": 272.96,
+  "Value": "M: The general topic I chose is aesthetics, but that's as far as I've got."
+}, {
+  "StartTime": 272.96,
+  "EndTime": 275.2,
+  "Value": "I don't really know where to go from there."
+}, {
+  "StartTime": 275.2,
+  "EndTime": 277.78,
+  "Value": "W: Yeah, that's much too large a topic."
+}, {
+  "StartTime": 277.78,
+  "EndTime": 282.07,
+  "Value": "You really need to narrow it down in order to make it more accessible."
+}, {
+  "StartTime": 282.07,
+  "EndTime": 284.66,
+  "Value": "Otherwise you'll be writing a book."
+}, {
+  "StartTime": 284.66,
+  "EndTime": 287.3,
+  "Value": "M: Exactly. That's what I wanted to ask you about."
+}, {
+  "StartTime": 287.3,
+  "EndTime": 290.48,
+  "Value": "I was hoping it would be possible for me to change topics."
+}, {
+  "StartTime": 290.48,
+  "EndTime": 293.62,
+  "Value": "I'm really more interested in nature than beauty."
+}, {
+  "StartTime": 293.62,
+  "EndTime": 297.1,
+  "Value": "W: I'm afraid you have to adhere to the assigned topic."
+}, {
+  "StartTime": 297.1,
+  "EndTime": 303.08,
+  "Value": "Still, if you're interested in nature, then that certainly can be worked into your dissertation."
+}, {
+  "StartTime": 303.08,
+  "EndTime": 306.57,
+  "Value": "We've talked about Hume before in class, right?"
+}, {
+  "StartTime": 306.57,
+  "EndTime": 311.3,
+  "Value": "M: Oh yeah, he's the philosopher who wrote about where our ideas of beauty come from."
+}, {
+  "StartTime": 311.3,
+  "EndTime": 317.13,
+  "Value": "W: Exactly. I suggest you go to the library and get a copy of his biography. Start from there."
+}, {
+  "StartTime": 317.13,
+  "EndTime": 320.51,
+  "Value": "But remember to stick to the parameters of the assignment."
+}, {
+  "StartTime": 320.51,
+  "EndTime": 324.34,
+  "Value": "This paper is a large part of your cumulative grade."
+}, {
+  "StartTime": 324.34,
+  "EndTime": 327.13,
+  "Value": "So make sure to follow the instructions."
+}, {
+  "StartTime": 327.13,
+  "EndTime": 335.84,
+  "Value": "If you take a look at his biography, you can get a good idea of how his life experiences manifest themselves in his theories of beauty."
+}, {
+  "StartTime": 335.84,
+  "EndTime": 340.87,
+  "Value": "Specifically the way he looked towards nature as the origin of what we find beautiful."
+}, {
+  "StartTime": 340.87,
+  "EndTime": 345.22,
+  "Value": "M: Great. Thanks for taking the time to answer my questions, Professor."
+}, {
+  "StartTime": 345.22,
+  "EndTime": 347.42,
+  "Value": "I'll let you get back to class now."
+}, {
+  "StartTime": 347.42,
+  "EndTime": 352.96,
+  "Value": "W: If there's anything else you need, please come see me in my office any time."
+}, {
+  "StartTime": 352.96,
+  "EndTime": 357.79,
+  "Value": "Questions 5 to 8 are based on the conversation you have just heard."
+}, {
+  "StartTime": 357.79,
+  "EndTime": 374.43,
+  "Value": "5. What is the man's problem?"
+}, {
+  "StartTime": 374.43,
+  "EndTime": 392.21,
+  "Value": "6. What does the professor think of the man's topic?"
+}, {
+  "StartTime": 392.21,
+  "EndTime": 410.18,
+  "Value": "7. What is the man really more interested in?"
+}, {
+  "StartTime": 410.18,
+  "EndTime": 428.79,
+  "Value": "8. What does the professor say the man has to do?"
+}, {
+  "StartTime": 428.79,
+  "EndTime": 429.91,
+  "Value": "Section B"
+}, {
+  "StartTime": 429.91,
+  "EndTime": 433.89,
+  "Value": "Directions: In this section, you will hear two passages."
+}, {
+  "StartTime": 433.89,
+  "EndTime": 439.16,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 439.16,
+  "EndTime": 442.76,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 442.76,
+  "EndTime": 451.72,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 451.72,
+  "EndTime": 459.49,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 459.49,
+  "EndTime": 461.33,
+  "Value": "Passage One"
+}, {
+  "StartTime": 461.33,
+  "EndTime": 470.89,
+  "Value": "During the Arctic winter from October to March, the average temperature in the frozen north typically hovers around minus 20 degree Celsius."
+}, {
+  "StartTime": 470.89,
+  "EndTime": 475.53,
+  "Value": "But this year, the Arctic is experiencing much higher temperatures."
+}, {
+  "StartTime": 475.53,
+  "EndTime": 485.85,
+  "Value": "On February 20th, the temperature in Greenland climbed above freezing or zero degree Celsius and it stayed there for over 24 hours."
+}, {
+  "StartTime": 485.85,
+  "EndTime": 494.38,
+  "Value": "Then, on February 24th, the temperature on Greenland northern tip reached 6 degree Celsius."
+}, {
+  "StartTime": 494.38,
+  "EndTime": 498.41,
+  "Value": "Climate scientists described the phenomenon as stunning."
+}, {
+  "StartTime": 498.41,
+  "EndTime": 503.84,
+  "Value": "Weather conditions that drive this bizarre temperature surge have visited the Arctic before."
+}, {
+  "StartTime": 503.84,
+  "EndTime": 507.03,
+  "Value": "They typically appear about once in a decade."
+}, {
+  "StartTime": 507.03,
+  "EndTime": 512.16,
+  "Value": "However, the last such increasing temperature took place two years ago."
+}, {
+  "StartTime": 512.16,
+  "EndTime": 523.46,
+  "Value": "This is troubling as climbing Arctic temperatures combined with rapid sea-ice loss are creating a new type of climate feedback loop which could accelerate Arctic warming."
+}, {
+  "StartTime": 523.46,
+  "EndTime": 528.65,
+  "Value": "Indeed, sea-ice cover in the Arctic is melting faster than expected."
+}, {
+  "StartTime": 528.65,
+  "EndTime": 537.12,
+  "Value": "Without those masses of cooling sea ice, warm air brought to the Arctic can penetrate further inland than it ever did before."
+}, {
+  "StartTime": 537.12,
+  "EndTime": 539.86,
+  "Value": "The air can stay warmer, longer too."
+}, {
+  "StartTime": 539.86,
+  "EndTime": 542.34,
+  "Value": "This drives additional melting."
+}, {
+  "StartTime": 542.34,
+  "EndTime": 556.83,
+  "Value": "Overall, Earth is warming at a rapid pace— 2014 through 2017 rank as the hottest years on record— and the Arctic is warming twice as fast as any place else on Earth."
+}, {
+  "StartTime": 556.83,
+  "EndTime": 565.35,
+  "Value": "This raises unique challenges for Arctic wildlife and indigenous people who depend on Arctic ecosystems to survive."
+}, {
+  "StartTime": 565.35,
+  "EndTime": 573.39,
+  "Value": "Previously, climate forecasts predicted that Arctic summer ice would disappear entirely by around 2060."
+}, {
+  "StartTime": 573.39,
+  "EndTime": 580.8,
+  "Value": "But based on what scientists are seeing now, the Arctic may be facing summers without ice within 20 years."
+}, {
+  "StartTime": 580.8,
+  "EndTime": 586.78,
+  "Value": "Questions 9 to 11 are based on the passage you have just heard."
+}, {
+  "StartTime": 586.78,
+  "EndTime": 605.09,
+  "Value": "9. What did climate scientists describe as stunning?"
+}, {
+  "StartTime": 605.09,
+  "EndTime": 624.11,
+  "Value": "10. What does the passage say about the temperature surge in the Arctic?"
+}, {
+  "StartTime": 624.11,
+  "EndTime": 643.87,
+  "Value": "11. What may occur in 20 years according to scientists' recent observations?"
+}, {
+  "StartTime": 643.87,
+  "EndTime": 645.97,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 645.97,
+  "EndTime": 654.08,
+  "Value": "A good dose of willpower is often necessary to see any task through, whether it's sticking to a spending plan or finishing a great novel."
+}, {
+  "StartTime": 654.08,
+  "EndTime": 661.39,
+  "Value": "And if you want to increase that willpower, a new study suggests, you just simply have to believe you have it."
+}, {
+  "StartTime": 661.39,
+  "EndTime": 667.2,
+  "Value": "According to the study, what matters most is what we think about our willpower."
+}, {
+  "StartTime": 667.2,
+  "EndTime": 671.28,
+  "Value": "If we believe it's a finite resource, we act that way."
+}, {
+  "StartTime": 671.28,
+  "EndTime": 676.2,
+  "Value": "We feel exhausted and need breaks between demanding mental tasks."
+}, {
+  "StartTime": 676.2,
+  "EndTime": 683.95,
+  "Value": "However, people who view their willpower as a limitless resource get energized instead."
+}, {
+  "StartTime": 683.95,
+  "EndTime": 691.17,
+  "Value": "The researchers used a psychological assessment tool to test the validity of the study."
+}, {
+  "StartTime": 691.17,
+  "EndTime": 721.49,
+  "Value": "They asked one thousand one hundred Americans and one thousand six hundred Europeans to grade different statements such as “after a challenging mental activity, my energy is depleted and I must rest to get it refueled again” or “I can focus on a mental task for long periods without feeling tired.” Although there was little difference between men and women overall, Americans were more likely to admit to needing breaks after completing mentally challenging tasks."
+}, {
+  "StartTime": 721.49,
+  "EndTime": 726.97,
+  "Value": "European participants, on the other hand, claimed they were able to keep going."
+}, {
+  "StartTime": 726.97,
+  "EndTime": 736.13,
+  "Value": "Based on the findings, the researchers suggest that the key to boosting your willpower is to believe that you have an abundant supply of it."
+}, {
+  "StartTime": 736.13,
+  "EndTime": 740.46,
+  "Value": "Your feelings about your willpower affect the way you behave."
+}, {
+  "StartTime": 740.46,
+  "EndTime": 743.41,
+  "Value": "But these feelings are changeable, they said."
+}, {
+  "StartTime": 743.41,
+  "EndTime": 750.63,
+  "Value": "Changing your beliefs about the nature of your self-control can have positive effects on character development."
+}, {
+  "StartTime": 750.63,
+  "EndTime": 756.75,
+  "Value": "This leads to healthier behaviors and perceptions of other people."
+}, {
+  "StartTime": 756.75,
+  "EndTime": 761.88,
+  "Value": "Questions 12 to 15 are based on the passage you have just heard."
+}, {
+  "StartTime": 761.88,
+  "EndTime": 780.29,
+  "Value": "12. What is often necessary for carrying through a task?"
+}, {
+  "StartTime": 780.29,
+  "EndTime": 798.21,
+  "Value": "13. What is the finding of the new study?"
+}, {
+  "StartTime": 798.21,
+  "EndTime": 820.23,
+  "Value": "14. What do we learn about European participants as compared with their American counterparts?"
+}, {
+  "StartTime": 820.23,
+  "EndTime": 840.81,
+  "Value": "15. What do the researchers say concerning people's feelings about willpower?"
+}, {
+  "StartTime": 840.81,
+  "EndTime": 841.72,
+  "Value": "Section C"
+}, {
+  "StartTime": 841.72,
+  "EndTime": 849.63,
+  "Value": "Directions: In this section, you will hear three recordings of lectures or talks followed by three or four questions."
+}, {
+  "StartTime": 849.63,
+  "EndTime": 852.32,
+  "Value": "The recordings will be played only once."
+}, {
+  "StartTime": 852.32,
+  "EndTime": 860.29,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 860.29,
+  "EndTime": 867.82,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 867.82,
+  "EndTime": 872.54,
+  "Value": "Recording One Here is my baby niece Sarah."
+}, {
+  "StartTime": 872.54,
+  "EndTime": 876.18,
+  "Value": "Her mom is a doctor and her dad is a lawyer."
+}, {
+  "StartTime": 876.18,
+  "EndTime": 883.14,
+  "Value": "By the time Sarah goes to college, the jobs her parents do are going to look dramatically different."
+}, {
+  "StartTime": 883.14,
+  "EndTime": 890.26,
+  "Value": "In 2013, researchers at Oxford University did a study on the future of work."
+}, {
+  "StartTime": 890.26,
+  "EndTime": 897.58,
+  "Value": "They concluded that almost one in every two jobs has a high risk of being automated by machines."
+}, {
+  "StartTime": 897.58,
+  "EndTime": 903.4,
+  "Value": "Machine learning is the technology that's responsible for most of this disruption."
+}, {
+  "StartTime": 903.4,
+  "EndTime": 907.78,
+  "Value": "It's the most powerful branch of artificial intelligence."
+}, {
+  "StartTime": 907.78,
+  "EndTime": 913.9,
+  "Value": "It allows machines to learn from data and copy some of the things that humans can do."
+}, {
+  "StartTime": 913.9,
+  "EndTime": 918.89,
+  "Value": "My company, Kaggle, operates on the cutting edge of machine learning."
+}, {
+  "StartTime": 918.89,
+  "EndTime": 926.4,
+  "Value": "We bring together hundreds of thousands of experts to solve important problems for industry and academia."
+}, {
+  "StartTime": 926.4,
+  "EndTime": 935.41,
+  "Value": "This gives us a unique perspective on what machines can do, what they can't do and what jobs they might automate or threaten."
+}, {
+  "StartTime": 935.41,
+  "EndTime": 941.13,
+  "Value": "Machine learning started making its way into industry in the early 90s."
+}, {
+  "StartTime": 941.13,
+  "EndTime": 944.62,
+  "Value": "It started with relatively simple tasks."
+}, {
+  "StartTime": 944.62,
+  "EndTime": 953.13,
+  "Value": "It started with things like assessing credit risk from loan applications, sorting the mail by reading handwritten zip codes."
+}, {
+  "StartTime": 953.13,
+  "EndTime": 957.76,
+  "Value": "Over the past few years, we have made dramatic breakthroughs."
+}, {
+  "StartTime": 957.76,
+  "EndTime": 963.64,
+  "Value": "Machine learning is now capable of far, far more complex tasks."
+}, {
+  "StartTime": 963.64,
+  "EndTime": 971.15,
+  "Value": "In 2012, Kaggle challenged its community to build a program that could grade high-school essays."
+}, {
+  "StartTime": 971.15,
+  "EndTime": 976.13,
+  "Value": "The winning programs were able to match the grades given by human teachers."
+}, {
+  "StartTime": 976.13,
+  "EndTime": 983.15,
+  "Value": "Now, given the right data, machines are going to outperform humans at tasks like this."
+}, {
+  "StartTime": 983.15,
+  "EndTime": 988.13,
+  "Value": "A teacher might read 10,000 essays over a 40-year career."
+}, {
+  "StartTime": 988.13,
+  "EndTime": 992.06,
+  "Value": "A machine can read millions of essays within minutes."
+}, {
+  "StartTime": 992.06,
+  "EndTime": 998.33,
+  "Value": "We have no chance of competing against machines on frequent, high-volume tasks."
+}, {
+  "StartTime": 998.33,
+  "EndTime": 1001.87,
+  "Value": "But there are things we can do that machines cannot."
+}, {
+  "StartTime": 1001.87,
+  "EndTime": 1007.55,
+  "Value": "Where machines have made very little progress is in tackling novel situations."
+}, {
+  "StartTime": 1007.55,
+  "EndTime": 1011.73,
+  "Value": "Machines can't handle things they haven't seen many times before."
+}, {
+  "StartTime": 1011.73,
+  "EndTime": 1018.94,
+  "Value": "The fundamental limitation of machine learning is that it needs to learn from large volumes of past data."
+}, {
+  "StartTime": 1018.94,
+  "EndTime": 1020.74,
+  "Value": "But humans don't."
+}, {
+  "StartTime": 1020.74,
+  "EndTime": 1028.71,
+  "Value": "We have the ability to connect seemingly different threads to solve problems we've never seen before."
+}, {
+  "StartTime": 1028.71,
+  "EndTime": 1034.03,
+  "Value": "Questions 16 to 18 are based on the recording you have just heard."
+}, {
+  "StartTime": 1034.03,
+  "EndTime": 1054.11,
+  "Value": "16. What did the researchers at Oxford University conclude?"
+}, {
+  "StartTime": 1054.11,
+  "EndTime": 1073.57,
+  "Value": "17. What do we learn about Kaggle company's winning programs?"
+}, {
+  "StartTime": 1073.57,
+  "EndTime": 1093.48,
+  "Value": "18. What is the fundamental limitation of machine learning?"
+}, {
+  "StartTime": 1093.48,
+  "EndTime": 1099.57,
+  "Value": "Recording Two We've talked recently about the importance of sustainable energy."
+}, {
+  "StartTime": 1099.57,
+  "EndTime": 1103.99,
+  "Value": "We've also talked about the different theories on how that can be done."
+}, {
+  "StartTime": 1103.99,
+  "EndTime": 1108.37,
+  "Value": "So far, our discussions have all been theoretical."
+}, {
+  "StartTime": 1108.37,
+  "EndTime": 1111.91,
+  "Value": "Now I have a practical question for you all."
+}, {
+  "StartTime": 1111.91,
+  "EndTime": 1119.42,
+  "Value": "Can you run a 140,000-kilogram train on just the steam generated by solar power?"
+}, {
+  "StartTime": 1119.42,
+  "EndTime": 1126.14,
+  "Value": "Well, one engineer, Tim Casselman believes it's possible."
+}, {
+  "StartTime": 1126.14,
+  "EndTime": 1132.13,
+  "Value": "And his home city of Sacramento, California should see the technology's first test."
+}, {
+  "StartTime": 1132.13,
+  "EndTime": 1153.16,
+  "Value": "As part of the upgrading of its rail yard, Casselman, who is an inventor and self-proclaimed steam visionary, is campaigning for a new steam train that runs without any fire and could run on an existing ten-kilometer line, drawing tourists and perhaps offering city commuters a green alternative to their cars."
+}, {
+  "StartTime": 1153.16,
+  "EndTime": 1162.56,
+  "Value": "Casselman wants to build an array of solar magnifying mirrors at one end of the line to collect and focus heat onto water filled tubes."
+}, {
+  "StartTime": 1162.56,
+  "EndTime": 1169.8,
+  "Value": "This would generate steam that could be used to fill tanks on a small steam train without the use of fire."
+}, {
+  "StartTime": 1169.8,
+  "EndTime": 1181.39,
+  "Value": "Supplying power to trains in this way would offer the shortest distance from well to wheels, he says, with the least amount of energy lost."
+}, {
+  "StartTime": 1181.39,
+  "EndTime": 1200.25,
+  "Value": "According to Harry Valentine, a Canadian engineer who is researching modern steam technology, a special tank measuring two by ten meters could store over 750 kilowatt hours of energy as high pressure steam enough to pull a two-car train for an hour or so."
+}, {
+  "StartTime": 1200.25,
+  "EndTime": 1206.67,
+  "Value": "Energy to drive a steam locomotive can be stored in other materials besides water."
+}, {
+  "StartTime": 1206.67,
+  "EndTime": 1214.29,
+  "Value": "For example, a team at Tohoku University in Japan has studied materials that can store large amounts of heat."
+}, {
+  "StartTime": 1214.29,
+  "EndTime": 1222.7,
+  "Value": "When he did, these materials turned from a solid into a liquid, absorbing energy as they changed phase."
+}, {
+  "StartTime": 1222.7,
+  "EndTime": 1234.59,
+  "Value": "The liquid is maintained above its melting point until steam is required, at which point the liquid is allowed to turn back into a solid, releasing its stored energy."
+}, {
+  "StartTime": 1234.59,
+  "EndTime": 1250.77,
+  "Value": "Another team at Nagoya University in Japan has tested calcium compound as an energy storage material, heating this chemical compound drives off carbon dioxide gas, leaving calcium oxide."
+}, {
+  "StartTime": 1250.77,
+  "EndTime": 1254.41,
+  "Value": "The gas can be stored under pressure in a tank."
+}, {
+  "StartTime": 1254.41,
+  "EndTime": 1259.48,
+  "Value": "To recover the energy, the gas is bent back over the calcium oxide."
+}, {
+  "StartTime": 1259.48,
+  "EndTime": 1267.97,
+  "Value": "In theory, says Valentine, this can create a high enough temperature to generate superheated steam."
+}, {
+  "StartTime": 1267.97,
+  "EndTime": 1273.84,
+  "Value": "Questions 19 to 21 are based on the recording you have just heard."
+}, {
+  "StartTime": 1273.84,
+  "EndTime": 1292.51,
+  "Value": "19. What has the speaker previously talked about?"
+}, {
+  "StartTime": 1292.51,
+  "EndTime": 1311.76,
+  "Value": "20. What is Tim Casselman trying to do in Sacramento?"
+}, {
+  "StartTime": 1311.76,
+  "EndTime": 1331.43,
+  "Value": "21. What has a Japanese research team tried to do?"
+}, {
+  "StartTime": 1331.43,
+  "EndTime": 1338.85,
+  "Value": "Recording Three Today's crisis in care for older people in England has two main causes."
+}, {
+  "StartTime": 1338.85,
+  "EndTime": 1343.67,
+  "Value": "First, people are living longer with a lot more complex needs."
+}, {
+  "StartTime": 1343.67,
+  "EndTime": 1352.55,
+  "Value": "Second, they rely on a system that has long been marked by a poor relation between national health and social care services."
+}, {
+  "StartTime": 1352.55,
+  "EndTime": 1356.29,
+  "Value": "Current services originated in two key measures."
+}, {
+  "StartTime": 1356.29,
+  "EndTime": 1362.07,
+  "Value": "They are the National Health Service and the 1948 National Assistance Act."
+}, {
+  "StartTime": 1362.07,
+  "EndTime": 1372.67,
+  "Value": "This required local government to provide residential accommodation for older people and supervise care homes run by independent organizations."
+}, {
+  "StartTime": 1372.67,
+  "EndTime": 1382.87,
+  "Value": "They also provided home and community services including meals, day centers and home helpers and other subsidized services."
+}, {
+  "StartTime": 1382.87,
+  "EndTime": 1387.8,
+  "Value": "The National Health Service was free and wholly publicly provided."
+}, {
+  "StartTime": 1387.8,
+  "EndTime": 1390.38,
+  "Value": "It delivered the best health care for all."
+}, {
+  "StartTime": 1390.38,
+  "EndTime": 1394.71,
+  "Value": "No such vision guided residential and community care though."
+}, {
+  "StartTime": 1394.71,
+  "EndTime": 1405.82,
+  "Value": "The care was substantially provided by voluntary services which work together with local authorities as they long had with eligibility based on income."
+}, {
+  "StartTime": 1405.82,
+  "EndTime": 1414.43,
+  "Value": "Today, life expectancy has risen from 66 for a male at birth in 1948 to around 80 now."
+}, {
+  "StartTime": 1414.43,
+  "EndTime": 1420.5,
+  "Value": "In addition, there is better overall health and improved medical knowledge in care."
+}, {
+  "StartTime": 1420.5,
+  "EndTime": 1428.66,
+  "Value": "This means an unprecedented number of people are surviving longer in conditions requiring expert support."
+}, {
+  "StartTime": 1428.66,
+  "EndTime": 1433.29,
+  "Value": "Families provide at least as much of care as they ever did."
+}, {
+  "StartTime": 1433.29,
+  "EndTime": 1440.17,
+  "Value": "Even so, they can rarely without subsidized support address serious personal needs."
+}, {
+  "StartTime": 1440.17,
+  "EndTime": 1446.6,
+  "Value": "Care for older people faced persistent criticism as these trends became apparen't."
+}, {
+  "StartTime": 1446.6,
+  "EndTime": 1453.98,
+  "Value": "From the early 1960s, local authorities were required to plan health and welfare services."
+}, {
+  "StartTime": 1453.98,
+  "EndTime": 1460.05,
+  "Value": "The aim was to enable older people to remain in their own homes for as long as possible."
+}, {
+  "StartTime": 1460.05,
+  "EndTime": 1467.61,
+  "Value": "But this increased concern about the lack of coordination between free health and paid-for social care."
+}, {
+  "StartTime": 1467.61,
+  "EndTime": 1472.74,
+  "Value": "Through the 1970s, a number of measures sought to improve matters."
+}, {
+  "StartTime": 1472.74,
+  "EndTime": 1479.11,
+  "Value": "However, at a time of financial crisis, funding diminished and little changed."
+}, {
+  "StartTime": 1479.11,
+  "EndTime": 1483.09,
+  "Value": "In the 1980s, the government cut spending."
+}, {
+  "StartTime": 1483.09,
+  "EndTime": 1490.06,
+  "Value": "Meanwhile, preference for private over public services made management even more difficult."
+}, {
+  "StartTime": 1490.06,
+  "EndTime": 1494.43,
+  "Value": "Simultaneously, the number of sick, older people grew."
+}, {
+  "StartTime": 1494.43,
+  "EndTime": 1498.57,
+  "Value": "Governments emphasized the need to improve services."
+}, {
+  "StartTime": 1498.57,
+  "EndTime": 1504.3,
+  "Value": "They did so though, while doing little to stop the erosion of available aid."
+}, {
+  "StartTime": 1504.3,
+  "EndTime": 1510.83,
+  "Value": "Services were irregular across authorities unless you were prepared to pay."
+}, {
+  "StartTime": 1510.83,
+  "EndTime": 1516.05,
+  "Value": "They were increasingly difficult to obtain for any but the most severely disabled."
+}, {
+  "StartTime": 1516.05,
+  "EndTime": 1520.63,
+  "Value": "Why has sixty years of criticism produce so little change?"
+}, {
+  "StartTime": 1520.63,
+  "EndTime": 1524.96,
+  "Value": "Discrimination against older people has a long history."
+}, {
+  "StartTime": 1524.96,
+  "EndTime": 1535.42,
+  "Value": "Additionally, those affected by inadequate health and social care are too vulnerable to launch the protests that have addressed other forms of discrimination."
+}, {
+  "StartTime": 1535.42,
+  "EndTime": 1542.35,
+  "Value": "Questions 22 to 25 are based on the recording you have just heard."
+}, {
+  "StartTime": 1542.35,
+  "EndTime": 1563.05,
+  "Value": "22. What is one cause of the current crisis in care for the elderly in England?"
+}, {
+  "StartTime": 1563.05,
+  "EndTime": 1582.91,
+  "Value": "23. What does the speaker say about residential and community care?"
+}, {
+  "StartTime": 1582.91,
+  "EndTime": 1603.51,
+  "Value": "24. What made management of care for the elderly more difficult in the 1980s?"
+}, {
+  "StartTime": 1603.51,
+  "EndTime": 1622.57,
+  "Value": "25. What does the speaker say about older people in England?"
+}, {
+  "StartTime": 1622.57,
+  "EndTime": 5222.57,
+  "Value": "This is the end of Listening Comprehension"
+}]

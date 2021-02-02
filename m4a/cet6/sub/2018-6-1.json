@@ -1,0 +1,853 @@
+[{
+  "StartTime": 12.54,
+  "EndTime": 16.28,
+  "Value": "College English Test Band 6"
+}, {
+  "StartTime": 16.28,
+  "EndTime": 19.44,
+  "Value": "Part II  Listening Comprehension"
+}, {
+  "StartTime": 19.44,
+  "EndTime": 20.94,
+  "Value": "Section A"
+}, {
+  "StartTime": 20.94,
+  "EndTime": 26.1,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 26.1,
+  "EndTime": 30.46,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 30.46,
+  "EndTime": 35.59,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 35.59,
+  "EndTime": 44.88,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 44.88,
+  "EndTime": 50.86,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 50.86,
+  "EndTime": 53.47,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 53.47,
+  "EndTime": 56.68,
+  "Value": "M: What's all that? Are you going to make a salad?"
+}, {
+  "StartTime": 56.68,
+  "EndTime": 59.6,
+  "Value": "W: No, I'm going to make a gazpacho."
+}, {
+  "StartTime": 59.6,
+  "EndTime": 61.04,
+  "Value": "M: What's that?"
+}, {
+  "StartTime": 61.04,
+  "EndTime": 65.51,
+  "Value": "W: Gazpacho is a cold soup from Spain. It's mostly vegetables."
+}, {
+  "StartTime": 65.51,
+  "EndTime": 68.91,
+  "Value": "I guess you could call it a liquid salad."
+}, {
+  "StartTime": 68.91,
+  "EndTime": 71.64,
+  "Value": "M: Cold soup? Sounds weird."
+}, {
+  "StartTime": 71.64,
+  "EndTime": 73.65,
+  "Value": "W: It's delicious. Trust me!"
+}, {
+  "StartTime": 73.65,
+  "EndTime": 77.91,
+  "Value": "I tried it for the first time during my summer vacation in Spain."
+}, {
+  "StartTime": 77.91,
+  "EndTime": 84.75,
+  "Value": "You see, in the south of Spain, it gets very hot in the summer, up to 40 degree celsius."
+}, {
+  "StartTime": 84.75,
+  "EndTime": 88.04,
+  "Value": "So a cold gazpacho is very refreshing."
+}, {
+  "StartTime": 88.04,
+  "EndTime": 94.49,
+  "Value": "The main ingredients are tomato, cucumber, bell peppers, olive oil and stale bread."
+}, {
+  "StartTime": 94.49,
+  "EndTime": 99.53,
+  "Value": "M: Stale bread? Surely you mean bread for dipping into the soup."
+}, {
+  "StartTime": 99.53,
+  "EndTime": 104.94,
+  "Value": "W: No, bread is crushed and blended in, like everything else."
+}, {
+  "StartTime": 104.94,
+  "EndTime": 107.77,
+  "Value": "It adds texture and thickness to the soup."
+}, {
+  "StartTime": 107.77,
+  "EndTime": 110.69,
+  "Value": "M: Um... and is it healthy?"
+}, {
+  "StartTime": 110.69,
+  "EndTime": 113.97,
+  "Value": "W: Sure. As I said earlier, it's mostly vegetables."
+}, {
+  "StartTime": 113.97,
+  "EndTime": 120.95,
+  "Value": "You can also add different things if you like, such as hard-boiled egg or cured ham."
+}, {
+  "StartTime": 120.95,
+  "EndTime": 122.91,
+  "Value": "M: Cured ham? What's that?"
+}, {
+  "StartTime": 122.91,
+  "EndTime": 128.57,
+  "Value": "W: That's another Spanish delicacy. Have you never heard of it? It's quite famous."
+}, {
+  "StartTime": 128.57,
+  "EndTime": 130.76,
+  "Value": "M: No. Is it good too?"
+}, {
+  "StartTime": 130.76,
+  "EndTime": 136.39,
+  "Value": "W: Oh yeah, definitely. It's amazing. It's a little dry and salty."
+}, {
+  "StartTime": 136.39,
+  "EndTime": 143.67,
+  "Value": "And it's very expensive because it comes from a special type of pig that only eats a special type of food."
+}, {
+  "StartTime": 143.67,
+  "EndTime": 153.19,
+  "Value": "The ham is covered in salt to dry and preserve it, and left hung for up to two years. It has a very distinct flavour."
+}, {
+  "StartTime": 153.19,
+  "EndTime": 157.24,
+  "Value": "M: Um, sounds interesting. Where can I find some?"
+}, {
+  "StartTime": 157.24,
+  "EndTime": 163.29,
+  "Value": "W: It used to be difficult to get Spanish produce here. But it's now a lot more common."
+}, {
+  "StartTime": 163.29,
+  "EndTime": 170.63,
+  "Value": "Most large supermarket chains have cured ham in little packets. But in Spain you can buy a whole leg."
+}, {
+  "StartTime": 170.63,
+  "EndTime": 175.09,
+  "Value": "M: A whole pig leg? Why would anybody want so much ham?"
+}, {
+  "StartTime": 175.09,
+  "EndTime": 181.36,
+  "Value": "W: In Spain, many people buy a whole leg for special group events such as Christmas."
+}, {
+  "StartTime": 181.36,
+  "EndTime": 187.13,
+  "Value": "They cut it themselves into very thin slices with a long flat knife."
+}, {
+  "StartTime": 187.13,
+  "EndTime": 193.41,
+  "Value": "Questions 1 to 4 are based on the conversation you have just heard."
+}, {
+  "StartTime": 193.41,
+  "EndTime": 211.1,
+  "Value": "1. What do we learn about gazpacho?"
+}, {
+  "StartTime": 211.1,
+  "EndTime": 228.76,
+  "Value": "2. For what purpose is stale bread mixed into gazpacho?"
+}, {
+  "StartTime": 228.76,
+  "EndTime": 246.13,
+  "Value": "3. Why does the woman think gazpacho is healthy?"
+}, {
+  "StartTime": 246.13,
+  "EndTime": 262.81,
+  "Value": "4. What does the woman say about cured ham?"
+}, {
+  "StartTime": 262.81,
+  "EndTime": 264.96,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 264.96,
+  "EndTime": 267.79,
+  "Value": "M: Hello, I wish to buy a bottle of wine."
+}, {
+  "StartTime": 267.79,
+  "EndTime": 271.21,
+  "Value": "W: Hi, yes. What kind of wine would you like?"
+}, {
+  "StartTime": 271.21,
+  "EndTime": 275.24,
+  "Value": "M: I don't know. Sorry, I don't know much about wine."
+}, {
+  "StartTime": 275.24,
+  "EndTime": 279.79,
+  "Value": "W: That's no problem at all. What's the occasion and how much would you like to spend?"
+}, {
+  "StartTime": 279.79,
+  "EndTime": 286.56,
+  "Value": "M: It's for my boss. It's his birthday. I know he likes wine, but I don't know what type."
+}, {
+  "StartTime": 286.56,
+  "EndTime": 291.12,
+  "Value": "I also do not want anything too expensive, maybe mid-range."
+}, {
+  "StartTime": 291.12,
+  "EndTime": 295.69,
+  "Value": "How much would you say is a mid-range bottle of wine, approximately?"
+}, {
+  "StartTime": 295.69,
+  "EndTime": 298.35,
+  "Value": "W: Well, it varies greatly."
+}, {
+  "StartTime": 298.35,
+  "EndTime": 304.62,
+  "Value": "Our lowest prices are around 6 dollars a bottle but those are table wines."
+}, {
+  "StartTime": 304.62,
+  "EndTime": 308.36,
+  "Value": "They are not very special and I would not suggest them as a gift."
+}, {
+  "StartTime": 308.36,
+  "EndTime": 314.38,
+  "Value": "On the other hand, our most expensive bottles are over a hundred and fifty dollars."
+}, {
+  "StartTime": 314.38,
+  "EndTime": 323.47,
+  "Value": "If you are looking for something priced in the middle, I would say anything between 30 dollars and 60 dollars would make a decent gift."
+}, {
+  "StartTime": 323.47,
+  "EndTime": 325.29,
+  "Value": "How does that sound?"
+}, {
+  "StartTime": 325.29,
+  "EndTime": 330.86,
+  "Value": "M: Um, yeah. I guess something in the vicinity of 30 or 40 would be good."
+}, {
+  "StartTime": 330.86,
+  "EndTime": 332.83,
+  "Value": "Which type would you recommend?"
+}, {
+  "StartTime": 332.83,
+  "EndTime": 337.29,
+  "Value": "W: I would say the safest option is always a red wine."
+}, {
+  "StartTime": 337.29,
+  "EndTime": 344.05,
+  "Value": "There are generally more popular than whites and can usually be paired with food more easily."
+}, {
+  "StartTime": 344.05,
+  "EndTime": 351.04,
+  "Value": "Our specialty here are Italian wines and these tend to be fruity with medium acidity."
+}, {
+  "StartTime": 351.04,
+  "EndTime": 358.14,
+  "Value": "This one here is a Chianti which is perhaps Italy's most famous type of red wine."
+}, {
+  "StartTime": 358.14,
+  "EndTime": 366,
+  "Value": "Alternatively you may wish to try and surprise your boss with something less common, such as this Zinfandel."
+}, {
+  "StartTime": 366,
+  "EndTime": 375.29,
+  "Value": "The grapes are originally native to Croatia, but this winery is in eastern Italy, and it has a more spicy and peppery flavour."
+}, {
+  "StartTime": 375.29,
+  "EndTime": 382.4,
+  "Value": "So to summarize, the Chianti is more classical, and the Zinfandel more exciting."
+}, {
+  "StartTime": 382.4,
+  "EndTime": 386.15,
+  "Value": "Both are similarly priced at just under 40 dollars."
+}, {
+  "StartTime": 386.15,
+  "EndTime": 390.45,
+  "Value": "M: I will go with Chianti then. Thanks."
+}, {
+  "StartTime": 390.45,
+  "EndTime": 395.98,
+  "Value": "Questions 5 to 8 are based on the conversation you have just heard."
+}, {
+  "StartTime": 395.98,
+  "EndTime": 413.42,
+  "Value": "5. What does the woman think of table wines?"
+}, {
+  "StartTime": 413.42,
+  "EndTime": 430.59,
+  "Value": "6. What is the price range of wine the man will consider?"
+}, {
+  "StartTime": 430.59,
+  "EndTime": 446.95,
+  "Value": "7. Why does the woman recommend red wines?"
+}, {
+  "StartTime": 446.95,
+  "EndTime": 464.46,
+  "Value": "8. What do we learn about the wine the man finally bought?"
+}, {
+  "StartTime": 464.46,
+  "EndTime": 465.41,
+  "Value": "Section B"
+}, {
+  "StartTime": 465.41,
+  "EndTime": 469.97,
+  "Value": "Directions: In this section, you will hear two passages."
+}, {
+  "StartTime": 469.97,
+  "EndTime": 475.29,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 475.29,
+  "EndTime": 480.46,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 480.46,
+  "EndTime": 488.69,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 488.69,
+  "EndTime": 496.86,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 496.86,
+  "EndTime": 498.43,
+  "Value": "Passage One"
+}, {
+  "StartTime": 498.43,
+  "EndTime": 505.46,
+  "Value": "Many people enjoy secret codes. The harder the code, the more some people will try to figure it out."
+}, {
+  "StartTime": 505.46,
+  "EndTime": 508.83,
+  "Value": "In wartime, codes are especially important."
+}, {
+  "StartTime": 508.83,
+  "EndTime": 514.61,
+  "Value": "They help army send news about battles and the size of enemy forces."
+}, {
+  "StartTime": 514.61,
+  "EndTime": 518.17,
+  "Value": "Neither side wants its code broken by the other."
+}, {
+  "StartTime": 518.17,
+  "EndTime": 521.72,
+  "Value": "One very important code was never broken."
+}, {
+  "StartTime": 521.72,
+  "EndTime": 525.96,
+  "Value": "It was used during World War II by the Americans."
+}, {
+  "StartTime": 525.96,
+  "EndTime": 529.44,
+  "Value": "It was a spoken code, never written down."
+}, {
+  "StartTime": 529.44,
+  "EndTime": 532.98,
+  "Value": "And it was developed and used by Navajo Indians."
+}, {
+  "StartTime": 532.98,
+  "EndTime": 536.75,
+  "Value": "They were called \"the Navajo code talkers\"."
+}, {
+  "StartTime": 536.75,
+  "EndTime": 541.04,
+  "Value": "The Navajos created the code in their own language."
+}, {
+  "StartTime": 541.04,
+  "EndTime": 551.57,
+  "Value": "Navajo is hard to learn and only a few people know it.So it was pretty certain that the enemy would not be able to understand the code talkers."
+}, {
+  "StartTime": 551.57,
+  "EndTime": 555.07,
+  "Value": "In addition, the talkers used code words."
+}, {
+  "StartTime": 555.07,
+  "EndTime": 563.34,
+  "Value": "They called a submarine an iron fish and a small bomb thrown by hand a potato."
+}, {
+  "StartTime": 563.34,
+  "EndTime": 569.14,
+  "Value": "If they wanted to spell something, they used code words for letters of the alphabet."
+}, {
+  "StartTime": 569.14,
+  "EndTime": 574.24,
+  "Value": "For instance, the letter A was ant or apple or eggs."
+}, {
+  "StartTime": 574.24,
+  "EndTime": 579.56,
+  "Value": "The code talkers worked mostly in the islands in the Pacific."
+}, {
+  "StartTime": 579.56,
+  "EndTime": 583.62,
+  "Value": "One or two would be assigned to a group of soldiers."
+}, {
+  "StartTime": 583.62,
+  "EndTime": 589.38,
+  "Value": "They would send messages by field telephone to the code talker in the next group."
+}, {
+  "StartTime": 589.38,
+  "EndTime": 593.43,
+  "Value": "And he would relay the information to his commander."
+}, {
+  "StartTime": 593.43,
+  "EndTime": 598.38,
+  "Value": "The code talkers played an important part in several battles."
+}, {
+  "StartTime": 598.38,
+  "EndTime": 603.22,
+  "Value": "They helped troops coordinate their movements and attacks."
+}, {
+  "StartTime": 603.22,
+  "EndTime": 609.42,
+  "Value": "After the war, the US government honored them for what they had accomplished."
+}, {
+  "StartTime": 609.42,
+  "EndTime": 615.77,
+  "Value": "Theirs was the most successful wartime code ever used."
+}, {
+  "StartTime": 615.77,
+  "EndTime": 620,
+  "Value": "Questions 9 to 11 are based on the passage you have just heard."
+}, {
+  "StartTime": 620,
+  "EndTime": 638.15,
+  "Value": "9. What does the speaker say many people enjoy doing?"
+}, {
+  "StartTime": 638.15,
+  "EndTime": 655.22,
+  "Value": "10. What do we learn about the Navajo code talkers?"
+}, {
+  "StartTime": 655.22,
+  "EndTime": 671.51,
+  "Value": "11. What is the speaker mainly talking about?"
+}, {
+  "StartTime": 671.51,
+  "EndTime": 673.17,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 673.17,
+  "EndTime": 679.41,
+  "Value": "If you are young and thinking about your career, you'll want to know where you can make a living."
+}, {
+  "StartTime": 679.41,
+  "EndTime": 693,
+  "Value": "Well, there's going to be a technological replacement of a lot of knowledge-intensive jobs in the next 20 years,particularly in the two largest sectors of the labor force with professional skills."
+}, {
+  "StartTime": 693,
+  "EndTime": 696.98,
+  "Value": "One is teaching and the other healthcare."
+}, {
+  "StartTime": 696.98,
+  "EndTime": 715.19,
+  "Value": "You have so many applications and software and platforms that are going to come in and provide information and service in these two fields, which means a lot of healthcare and education sectors would be radically changed and a lot of jobs will be lost."
+}, {
+  "StartTime": 715.19,
+  "EndTime": 718.8,
+  "Value": "Now, where will the new jobs be found?"
+}, {
+  "StartTime": 718.8,
+  "EndTime": 729.33,
+  "Value": "Well, the one sector of the economy that can't be easily duplicated by even smart technologies is the caring sector—the personal care sector."
+}, {
+  "StartTime": 729.33,
+  "EndTime": 735.73,
+  "Value": "That is, you can't really get a robot to do a great massage or physical therapy."
+}, {
+  "StartTime": 735.73,
+  "EndTime": 743.92,
+  "Value": "Or, you can't get the kind of personal attention you need with regard to therapy or any other personal service."
+}, {
+  "StartTime": 743.92,
+  "EndTime": 747.91,
+  "Value": "There could be very high-end personal services."
+}, {
+  "StartTime": 747.91,
+  "EndTime": 750.82,
+  "Value": "Therapists do charge a lot of money."
+}, {
+  "StartTime": 750.82,
+  "EndTime": 759.25,
+  "Value": "I think there's no limit to the amount of personal attention and personal care people would like if they could afford it."
+}, {
+  "StartTime": 759.25,
+  "EndTime": 769.17,
+  "Value": "But the real question in the future is: How can people afford these things if they don't have money because they can't get a job that pays enough?"
+}, {
+  "StartTime": 769.17,
+  "EndTime": 782.23,
+  "Value": "That's why I wrote this book, which is about how to reorganize the economy for the future, when technology brings about destructive changes to what we used to consider high income work."
+}, {
+  "StartTime": 782.23,
+  "EndTime": 788.53,
+  "Value": "Questions 12 to 15 are based on the passage you have just heard."
+}, {
+  "StartTime": 788.53,
+  "EndTime": 806.97,
+  "Value": "12. What does the speaker say will happen in the next 20 years?"
+}, {
+  "StartTime": 806.97,
+  "EndTime": 824.59,
+  "Value": "13. Where will young people have more chances to find jobs?"
+}, {
+  "StartTime": 824.59,
+  "EndTime": 841.69,
+  "Value": "14. What does the speaker say about therapists?"
+}, {
+  "StartTime": 841.69,
+  "EndTime": 857.95,
+  "Value": "15. What is the speaker's book about?"
+}, {
+  "StartTime": 857.95,
+  "EndTime": 858.98,
+  "Value": "Section C"
+}, {
+  "StartTime": 858.98,
+  "EndTime": 868.28,
+  "Value": "Directions: In this section, you will hear three recordings of lectures or talks followed by three or four questions."
+}, {
+  "StartTime": 868.28,
+  "EndTime": 871.76,
+  "Value": "The recordings will be played only once."
+}, {
+  "StartTime": 871.76,
+  "EndTime": 879.86,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 879.86,
+  "EndTime": 888,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 888,
+  "EndTime": 897.78,
+  "Value": "Recording One American researchers have discovered the world's oldest paved road, a 4,600-year-old highway."
+}, {
+  "StartTime": 897.78,
+  "EndTime": 906.4,
+  "Value": "It linked a stone pit in the Egyptian desert to waterways that carried blocks to monument sites along the Nile."
+}, {
+  "StartTime": 906.4,
+  "EndTime": 913.12,
+  "Value": "The eight-mile road is at least 500 years older than any previously discovered road."
+}, {
+  "StartTime": 913.12,
+  "EndTime": 922.99,
+  "Value": "It is the only paved road discovered in ancient Egypt, said geologist Thomas Bown of the U.S. Geological Survey."
+}, {
+  "StartTime": 922.99,
+  "EndTime": 925.73,
+  "Value": "He reported the discovery on Friday."
+}, {
+  "StartTime": 925.73,
+  "EndTime": 939.24,
+  "Value": "\"The road probably doesn't rank with the pyramids as a construction feat, but it is a major engineering achievement,\" said his colleague, geologist James Harrell of the University of Toledo."
+}, {
+  "StartTime": 939.24,
+  "EndTime": 956.37,
+  "Value": "\"Not only is the road earlier than we thought possible, we didn't even think they built roads.\" The researchers also made a discovery in the stone pit at the northern end of the road: the first evidence that the Egyptians used rock saws."
+}, {
+  "StartTime": 956.37,
+  "EndTime": 967.16,
+  "Value": "\"This is the oldest example of saws being used for cutting stone,\" said Bown's colleague, James Hoffmeier of Wheaton College in Illinois."
+}, {
+  "StartTime": 967.16,
+  "EndTime": 971.6,
+  "Value": "\"That's two technologies we didn't know they had,\" Harrell said."
+}, {
+  "StartTime": 971.6,
+  "EndTime": 982.35,
+  "Value": "\"And we don't know why they were both abandoned.\"  The road was discovered in the Faiyum Depression, about 45 miles southwest of Cairo."
+}, {
+  "StartTime": 982.35,
+  "EndTime": 994.4,
+  "Value": "Short segments of the road had been observed by earlier explorers, Bown said, but they failed to realize its significance or follow up on their observations."
+}, {
+  "StartTime": 994.4,
+  "EndTime": 1000.16,
+  "Value": "Bown and his colleagues stumbled across it while they were doing geological mapping in the region."
+}, {
+  "StartTime": 1000.16,
+  "EndTime": 1006.65,
+  "Value": "The road was clearly built to provide services for the newly discovered stone pit."
+}, {
+  "StartTime": 1006.65,
+  "EndTime": 1010.9,
+  "Value": "Bown and Harrell have found the camp that housed workers at the stone pit."
+}, {
+  "StartTime": 1010.9,
+  "EndTime": 1016.36,
+  "Value": "The road appears today to go nowhere, ending in the middle of the desert."
+}, {
+  "StartTime": 1016.36,
+  "EndTime": 1028.57,
+  "Value": "When it was built, its terminal was a dock on the shore of Lake Moeris, which had an elevation of about 66 feet above sea level, the same as the dock."
+}, {
+  "StartTime": 1028.57,
+  "EndTime": 1033.72,
+  "Value": "Lake Moeris received its water from the annual floods of the Nile."
+}, {
+  "StartTime": 1033.72,
+  "EndTime": 1045.27,
+  "Value": "At the time of the floods, the river and lake were at the same level and connected through a gap in the hills near the modern villages of el-Lahun and Hawara."
+}, {
+  "StartTime": 1045.27,
+  "EndTime": 1060.16,
+  "Value": "Harrell and Bown believe that blocks were loaded onto barges, during the dry season, then floated over to the Nile during the floods to be shipped off to the monument sites at Giza and Saqqara."
+}, {
+  "StartTime": 1060.16,
+  "EndTime": 1065.5,
+  "Value": "Questions 16 to 18 are based on the recording you have just heard."
+}, {
+  "StartTime": 1065.5,
+  "EndTime": 1086.35,
+  "Value": "16. What do we learn from the lecture about the world's oldest paved road in Egypt?"
+}, {
+  "StartTime": 1086.35,
+  "EndTime": 1103.47,
+  "Value": "17. What did the researchers discover in the stone pit?"
+}, {
+  "StartTime": 1103.47,
+  "EndTime": 1118.83,
+  "Value": "18. For what purpose was the paved road built?"
+}, {
+  "StartTime": 1118.83,
+  "EndTime": 1126.96,
+  "Value": "Recording Two The thin, extremely sharp needles didn't hurt at all going in."
+}, {
+  "StartTime": 1126.96,
+  "EndTime": 1133.59,
+  "Value": "Dr. Gong pierced them into my left arm, around the elbow that had been bothering me."
+}, {
+  "StartTime": 1133.59,
+  "EndTime": 1143.18,
+  "Value": "Other needles were slipped into my left wrist and, strangely, into my right arm, and then into both my closed eyelids."
+}, {
+  "StartTime": 1143.18,
+  "EndTime": 1147.51,
+  "Value": "There wasn't any discomfort, just a mild warming sensation."
+}, {
+  "StartTime": 1147.51,
+  "EndTime": 1157.33,
+  "Value": "However, I did begin to wonder what had driven me here, to the office of Dr.James Gong, in New York's Chinatown."
+}, {
+  "StartTime": 1157.33,
+  "EndTime": 1162.43,
+  "Value": "Then I remembered—the torturing pain in that left elbow."
+}, {
+  "StartTime": 1162.43,
+  "EndTime": 1170.9,
+  "Value": "Several trips to a hospital and two expensive, uncomfortable medical tests had failed to produce even a diagnosis."
+}, {
+  "StartTime": 1170.9,
+  "EndTime": 1178.85,
+  "Value": "\"Maybe you lean on your left arm too much,\" the doctor concluded, suggesting I see a bone doctor."
+}, {
+  "StartTime": 1178.85,
+  "EndTime": 1187.61,
+  "Value": "During the hours spent waiting in vain to see a bone doctor, I decided to take another track and try acupuncture."
+}, {
+  "StartTime": 1187.61,
+  "EndTime": 1191.97,
+  "Value": "A Chinese-American friend recommended Dr. Gong."
+}, {
+  "StartTime": 1191.97,
+  "EndTime": 1198.67,
+  "Value": "I took the subway to Gong's second-floor office, marked with a hand-painted sign."
+}, {
+  "StartTime": 1198.67,
+  "EndTime": 1202.36,
+  "Value": "Dr. Gong speaks English, but not often."
+}, {
+  "StartTime": 1202.36,
+  "EndTime": 1210.13,
+  "Value": "Most of my questions to him were greeted with a friendly laugh, but I managed to let him know where my arm hurt."
+}, {
+  "StartTime": 1210.13,
+  "EndTime": 1216.69,
+  "Value": "He asked me to go into a room, had me lie down on a bed, and went to work."
+}, {
+  "StartTime": 1216.69,
+  "EndTime": 1230.21,
+  "Value": "In the next room, I learned, a woman dancer was also getting a treatment. As I lay there a while, I drifted into a dream-like state and fantasized about what she looked like."
+}, {
+  "StartTime": 1230.21,
+  "EndTime": 1237.07,
+  "Value": "Acupuncturists today are as likely to be found on Park Avenue as on Mott Street."
+}, {
+  "StartTime": 1237.07,
+  "EndTime": 1243.64,
+  "Value": "In all there are an estimated 10,000 acupuncturists in the country."
+}, {
+  "StartTime": 1243.64,
+  "EndTime": 1250.7,
+  "Value": "Nowadays, a lot of medical doctors have learned acupuncture techniques; or have a number of dentists."
+}, {
+  "StartTime": 1250.7,
+  "EndTime": 1258.26,
+  "Value": "Reason? Patient demand. Few, though, can adequately explain how acupuncture works."
+}, {
+  "StartTime": 1258.26,
+  "EndTime": 1264.97,
+  "Value": "Acupuncturists may say that the body has more than 800 acupuncture points."
+}, {
+  "StartTime": 1264.97,
+  "EndTime": 1269.63,
+  "Value": "A life force called qi circulates through the body."
+}, {
+  "StartTime": 1269.63,
+  "EndTime": 1277.03,
+  "Value": "Points on the skin are energetically connected to specific organs, body structures and systems."
+}, {
+  "StartTime": 1277.03,
+  "EndTime": 1282.65,
+  "Value": "Acupuncture points are stimulated to balance the circulation of qi."
+}, {
+  "StartTime": 1282.65,
+  "EndTime": 1299.67,
+  "Value": "The truth is, though acupuncture is at least 2,200 years old, \"nobody really knows what's happening,\" says Paul Zmiewski, a Ph.D. in Chinese studies who practices acupuncture in Philadelphia."
+}, {
+  "StartTime": 1299.67,
+  "EndTime": 1308.27,
+  "Value": "After five treatments, there has been dramatic improvement in my arm, and the pain is a fraction of what it was."
+}, {
+  "StartTime": 1308.27,
+  "EndTime": 1318.24,
+  "Value": "The mainly silent Dr. Gong finally even offered a diagnosis for what troubled me. \"Pinched nerve,\" he said."
+}, {
+  "StartTime": 1318.24,
+  "EndTime": 1324.06,
+  "Value": "Questions 19 to 21 are based on the recording you have just heard."
+}, {
+  "StartTime": 1324.06,
+  "EndTime": 1341.6,
+  "Value": "19. What does the speaker find especially strange?"
+}, {
+  "StartTime": 1341.6,
+  "EndTime": 1358.55,
+  "Value": "20. Why did the speaker go see Dr. Gong?"
+}, {
+  "StartTime": 1358.55,
+  "EndTime": 1379.6,
+  "Value": "21. What accounts for the growing popularity of acupuncture in the United States according to the speaker?"
+}, {
+  "StartTime": 1379.6,
+  "EndTime": 1396.61,
+  "Value": "Recording Three Ronald and Lois married for two decades consider themselves a happy couple, but in the early years of their marriage, both were disturbed by persistent arguments that seemed to fade away without ever being truly resolved."
+}, {
+  "StartTime": 1396.61,
+  "EndTime": 1411.28,
+  "Value": "They uncovered clues to what was going wrong by researching a fascinating subject:how birth order affects not only your personality but also how compatible you are with your mate."
+}, {
+  "StartTime": 1411.28,
+  "EndTime": 1414.01,
+  "Value": "Ronald and Lois are only children."
+}, {
+  "StartTime": 1414.01,
+  "EndTime": 1419.73,
+  "Value": "And \"onlies\" grow up accustomed to being the apple of their parents' eyes."
+}, {
+  "StartTime": 1419.73,
+  "EndTime": 1433.51,
+  "Value": "Match two \"onlies\", and you have partners who subconsciously expect each other to continue fulfilling this expectation, while neither has much experience in the giving end."
+}, {
+  "StartTime": 1433.51,
+  "EndTime": 1442.55,
+  "Value": "Here is a list of common birth-order characteristics—and some thoughts on the best (and worst) marital matches for each."
+}, {
+  "StartTime": 1442.55,
+  "EndTime": 1452.05,
+  "Value": "The oldest tends to be self-assured, responsible, a high achiever and relatively serious and reserved."
+}, {
+  "StartTime": 1452.05,
+  "EndTime": 1458.34,
+  "Value": "He may be slow to make friends, perhaps content with only one companion."
+}, {
+  "StartTime": 1458.34,
+  "EndTime": 1465.14,
+  "Value": "The best matches are with a youngest, an only, or a mate raised in a large family."
+}, {
+  "StartTime": 1465.14,
+  "EndTime": 1474.01,
+  "Value": "The worst match is with another oldest, since the two will be too sovereign to share a household comfortably."
+}, {
+  "StartTime": 1474.01,
+  "EndTime": 1486.94,
+  "Value": "The youngest child of the family thrives on attention, and tends to be outgoing, adventurous, optimistic, creative and less ambitious than others in the family"
+}, {
+  "StartTime": 1486.94,
+  "EndTime": 1492.81,
+  "Value": "He may lack self-discipline, and have difficulty making decisions on his own."
+}, {
+  "StartTime": 1492.81,
+  "EndTime": 1502.79,
+  "Value": "A youngest brother of brothers, often unpredictable and romantic, will match best with an oldest sister of brothers."
+}, {
+  "StartTime": 1502.79,
+  "EndTime": 1511.12,
+  "Value": "The youngest sister of brothers is best matched with an oldest brother of sisters who will happily indulge these traits."
+}, {
+  "StartTime": 1511.12,
+  "EndTime": 1516.23,
+  "Value": "The middle child is influenced by many variables."
+}, {
+  "StartTime": 1516.23,
+  "EndTime": 1523.45,
+  "Value": "However, \"middles\" are less likely to take initiative, and more anxious and self-critical than others."
+}, {
+  "StartTime": 1523.45,
+  "EndTime": 1535.99,
+  "Value": "\"Middles\" often successfully marry other \"middles\", since both are strong on tact, not so strong on aggressiveness, and tend to crave for affection."
+}, {
+  "StartTime": 1535.99,
+  "EndTime": 1539.93,
+  "Value": "The only child is often most comfortable when alone."
+}, {
+  "StartTime": 1539.93,
+  "EndTime": 1549.44,
+  "Value": "But since an only tends to be a well-adjusted individual, she'll eventually learn to relate to any chosen spouse."
+}, {
+  "StartTime": 1549.44,
+  "EndTime": 1557,
+  "Value": "The male only child expects his wife to make life easier without getting much in return."
+}, {
+  "StartTime": 1557,
+  "EndTime": 1561.58,
+  "Value": "He is sometimes best matched with a younger sister of brothers."
+}, {
+  "StartTime": 1561.58,
+  "EndTime": 1573.45,
+  "Value": "The female only child who tends to be slightly more flexible, is well matched with an older man who will indulge her tendency to test his love."
+}, {
+  "StartTime": 1573.45,
+  "EndTime": 1578.84,
+  "Value": "Her worst match? Another only. Of course."
+}, {
+  "StartTime": 1578.84,
+  "EndTime": 1584.74,
+  "Value": "Questions 22 to 25 are based on the recording you have just heard."
+}, {
+  "StartTime": 1584.74,
+  "EndTime": 1605.26,
+  "Value": "22. What does the speaker say about Ronald and Lois's early years of married life?"
+}, {
+  "StartTime": 1605.26,
+  "EndTime": 1622,
+  "Value": "23. What do we learn about Ronald and Lois?"
+}, {
+  "StartTime": 1622,
+  "EndTime": 1640.79,
+  "Value": "24. What does the speaker say about the oldest child in a family?"
+}, {
+  "StartTime": 1640.79,
+  "EndTime": 1658.21,
+  "Value": "25. What does the speaker say about the only children?"
+}, {
+  "StartTime": 1658.21,
+  "EndTime": 5258.21,
+  "Value": "This is the end of Listening Comprehension."
+}]

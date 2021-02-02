@@ -1,0 +1,769 @@
+[{
+  "StartTime": 1.14,
+  "EndTime": 4.02,
+  "Value": "College English Test Band Six"
+}, {
+  "StartTime": 4.02,
+  "EndTime": 6.77,
+  "Value": "Part Ⅱ Listening Comprehension"
+}, {
+  "StartTime": 6.77,
+  "EndTime": 8.46,
+  "Value": "Section A"
+}, {
+  "StartTime": 8.46,
+  "EndTime": 14.94,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 14.94,
+  "EndTime": 19.53,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 19.53,
+  "EndTime": 24.74,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 24.74,
+  "EndTime": 32.31,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 32.31,
+  "EndTime": 40.17,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 40.17,
+  "EndTime": 42.32,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 42.32,
+  "EndTime": 44.74,
+  "Value": "W: Welcome to Work Place."
+}, {
+  "StartTime": 44.74,
+  "EndTime": 54.29,
+  "Value": "And in today's program, we are looking at the results of two recently published surveys, which both deal with the same topic— Happiness at Work."
+}, {
+  "StartTime": 54.29,
+  "EndTime": 57.03,
+  "Value": "John, tell us about the first survey."
+}, {
+  "StartTime": 57.03,
+  "EndTime": 69.86,
+  "Value": "M: Well, this was done by a human resources consultancy who interviewed more than 1,000 workers and established a top 10 of the factors which make people happy at work."
+}, {
+  "StartTime": 69.86,
+  "EndTime": 77.97,
+  "Value": "The most important factor, for the majority of the people interviewed, was having friendly, supportive colleagues."
+}, {
+  "StartTime": 77.97,
+  "EndTime": 89.8,
+  "Value": "In fact, 73% of people interviewed put their relationship with colleagues as the key factor contributing to happiness at work, which is a very high percentage."
+}, {
+  "StartTime": 89.8,
+  "EndTime": 93.77,
+  "Value": "The second most important factor was having work that is enjoyable."
+}, {
+  "StartTime": 93.77,
+  "EndTime": 103.58,
+  "Value": "The two least important factors were having one's achievements recognized and rather surprisingly, earning a competitive salary."
+}, {
+  "StartTime": 103.58,
+  "EndTime": 107.38,
+  "Value": "W: So we are not mainly motivated by money?"
+}, {
+  "StartTime": 107.38,
+  "EndTime": 108.49,
+  "Value": "M: Apparen'tly not."
+}, {
+  "StartTime": 108.49,
+  "EndTime": 111.53,
+  "Value": "W: Any other interesting information in the survey?"
+}, {
+  "StartTime": 111.53,
+  "EndTime": 120.51,
+  "Value": "M: Yes. For example, 25% of the working people interviewed described themselves as very happy at work."
+}, {
+  "StartTime": 120.51,
+  "EndTime": 126.5,
+  "Value": "However, 20% of employees described themselves as being unhappy."
+}, {
+  "StartTime": 126.5,
+  "EndTime": 130.61,
+  "Value": "W: That's quite a lot of unhappy people at work every day."
+}, {
+  "StartTime": 130.61,
+  "EndTime": 132.1,
+  "Value": "M: It is, isn't it?"
+}, {
+  "StartTime": 132.1,
+  "EndTime": 137.9,
+  "Value": "And there were several more interesting conclusions revealed by the survey."
+}, {
+  "StartTime": 137.9,
+  "EndTime": 140.38,
+  "Value": "First of all, small is beautiful."
+}, {
+  "StartTime": 140.38,
+  "EndTime": 147.33,
+  "Value": "People definitely prefer working for smaller organizations or companies with less than 100 staff."
+}, {
+  "StartTime": 147.33,
+  "EndTime": 153.33,
+  "Value": "We also find out that, generally speaking, women were happier in their work than men."
+}, {
+  "StartTime": 153.33,
+  "EndTime": 155.55,
+  "Value": "W: Yes, we are, aren't we?"
+}, {
+  "StartTime": 155.55,
+  "EndTime": 164.06,
+  "Value": "M: And workers on part-time contracts who only work 4 or 5 hours a day are happier than those who work full-time."
+}, {
+  "StartTime": 164.06,
+  "EndTime": 169.37,
+  "Value": "The researchers concluded that this is probably due to a better work-life balance."
+}, {
+  "StartTime": 169.37,
+  "EndTime": 172.28,
+  "Value": "W: Are bosses happier than their employees?"
+}, {
+  "StartTime": 172.28,
+  "EndTime": 178.42,
+  "Value": "M: Yes. Perhaps not surprisingly, the higher people go in a company, the happier they are."
+}, {
+  "StartTime": 178.42,
+  "EndTime": 184.13,
+  "Value": "So senior managers enjoy their jobs more than people working under them."
+}, {
+  "StartTime": 184.13,
+  "EndTime": 186.87,
+  "Value": "Questions 1 to 4 are based"
+}, {
+  "StartTime": 186.87,
+  "EndTime": 189.87,
+  "Value": "on the conversation you have just heard."
+}, {
+  "StartTime": 189.87,
+  "EndTime": 210.3,
+  "Value": "1. What is the number one factor that made employees happy according to the survey?"
+}, {
+  "StartTime": 210.3,
+  "EndTime": 230.25,
+  "Value": "2. What is the percentage of the people surveyed who felt unhappy at work?"
+}, {
+  "StartTime": 230.25,
+  "EndTime": 248.56,
+  "Value": "3. What kind of companies are popular with employees?"
+}, {
+  "StartTime": 248.56,
+  "EndTime": 268.39,
+  "Value": "4.  What is the possible reason for people on part-time contracts to be happier?"
+}, {
+  "StartTime": 268.39,
+  "EndTime": 269.82,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 269.82,
+  "EndTime": 276.56,
+  "Value": "W: Mr. De Keyzer, I am a great lover of your book, Moments Before the Flood."
+}, {
+  "StartTime": 276.56,
+  "EndTime": 281.08,
+  "Value": "Can you tell us how you first became interested in the subject matter?"
+}, {
+  "StartTime": 281.08,
+  "EndTime": 295.16,
+  "Value": "M: In 2006, when the concert hall of the city of Bruges asked me to take some pictures for a catalogue for a new concert season around the theme of water, I found myself working along the Belgian coastline."
+}, {
+  "StartTime": 295.16,
+  "EndTime": 310.99,
+  "Value": "As there had been numerous alarming articles in the press about a climate catastrophe waiting to happen, I started looking at the sea and the beach very differently, a place where I spent so many perfect days as a child."
+}, {
+  "StartTime": 310.99,
+  "EndTime": 317.18,
+  "Value": "This fear of a looming danger became the subject of a large-scale photo project."
+}, {
+  "StartTime": 317.18,
+  "EndTime": 328.19,
+  "Value": "W: You wrote in the book “I don't want to photograph the disaster; I want to photograph the disaster waiting to happen. ” Can you talk a bit about that?"
+}, {
+  "StartTime": 328.19,
+  "EndTime": 336.34,
+  "Value": "M: It is clear now that it's a matter of time before the entire European coastline disappears under water."
+}, {
+  "StartTime": 336.34,
+  "EndTime": 340.2,
+  "Value": "The same goes for numerous big cities around the world."
+}, {
+  "StartTime": 340.2,
+  "EndTime": 350.55,
+  "Value": "My idea was to photograph this beautiful and very unique coastline, reaching history, before it's too late—as a last witness."
+}, {
+  "StartTime": 350.55,
+  "EndTime": 355.41,
+  "Value": "W: Can you talk a bit about how history plays a role in this project?"
+}, {
+  "StartTime": 355.41,
+  "EndTime": 364.38,
+  "Value": "M: Sure. The project is also about the history of Europe looking at the sea and wondering when the next enemy would appear."
+}, {
+  "StartTime": 364.38,
+  "EndTime": 377.85,
+  "Value": "In the images, you see all kinds of possible defense constructions to hold back the Romans, Germans, Vikings, and now nature as enemy No. 1."
+}, {
+  "StartTime": 377.85,
+  "EndTime": 385.37,
+  "Value": "For example, there is the image of the bridge into the sea taken at the Normandy D-Day landing site."
+}, {
+  "StartTime": 385.37,
+  "EndTime": 395.87,
+  "Value": "Also, Venice, the city eternally threatened by the sea, where every morning wooden pathways have to be set up to allow tourists to reach their hotels."
+}, {
+  "StartTime": 395.87,
+  "EndTime": 397.59,
+  "Value": "W: Thank you, Mr. De Keyzer."
+}, {
+  "StartTime": 397.59,
+  "EndTime": 400.83,
+  "Value": "It was a pleasure to have you with us today."
+}, {
+  "StartTime": 400.83,
+  "EndTime": 403.18,
+  "Value": "Questions 5 to 8 are based"
+}, {
+  "StartTime": 403.18,
+  "EndTime": 406.3,
+  "Value": "on the conversation you have just heard."
+}, {
+  "StartTime": 406.3,
+  "EndTime": 424.91,
+  "Value": "5. What does the man say about the book Moments Before the Flood?"
+}, {
+  "StartTime": 424.91,
+  "EndTime": 442.31,
+  "Value": "6. When did the man get his idea for the work?"
+}, {
+  "StartTime": 442.31,
+  "EndTime": 460.6,
+  "Value": "7. What will happen when the climate catastrophe occurs?"
+}, {
+  "StartTime": 460.6,
+  "EndTime": 477.35,
+  "Value": "8. What does the man say about Venice?"
+}, {
+  "StartTime": 477.35,
+  "EndTime": 478.64,
+  "Value": "Section B"
+}, {
+  "StartTime": 478.64,
+  "EndTime": 482.75,
+  "Value": "Directions: In this section, you will hear two passages."
+}, {
+  "StartTime": 482.75,
+  "EndTime": 487.92,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 487.92,
+  "EndTime": 491.9,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 491.9,
+  "EndTime": 500.98,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 500.98,
+  "EndTime": 508.12,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 508.12,
+  "EndTime": 511.02,
+  "Value": "Passage One"
+}, {
+  "StartTime": 511.02,
+  "EndTime": 519.3,
+  "Value": "When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst."
+}, {
+  "StartTime": 519.3,
+  "EndTime": 525.55,
+  "Value": "I remember talking with a young lawyer who was about to begin her first jury trial."
+}, {
+  "StartTime": 525.55,
+  "EndTime": 527.19,
+  "Value": "She was very nervous."
+}, {
+  "StartTime": 527.19,
+  "EndTime": 531.74,
+  "Value": "I asked what impression she wanted to make on the jury."
+}, {
+  "StartTime": 531.74,
+  "EndTime": 546.2,
+  "Value": "She replied, “I don't want to look too inexperienced; I don't want them to suspect this is my first trial.” This lawyer had fallen victim to the “don'ts” syndrome, a form of negative goal setting."
+}, {
+  "StartTime": 546.2,
+  "EndTime": 551.59,
+  "Value": "The “don'ts” can be self-fulfilling because your mind responds to pictures."
+}, {
+  "StartTime": 551.59,
+  "EndTime": 560.6,
+  "Value": "Research conducted at Stanford University shows a mental image fires the nervous system the same way as actually doing something."
+}, {
+  "StartTime": 560.6,
+  "EndTime": 570.81,
+  "Value": "That means when a golfer tells himself “Don't hit the ball into the water,” his mind sees the image of the ball flying into the water."
+}, {
+  "StartTime": 570.81,
+  "EndTime": 573.72,
+  "Value": "So guess where the ball will go."
+}, {
+  "StartTime": 573.72,
+  "EndTime": 580.76,
+  "Value": "Consequently, before going into any stressful situation, focus only on what you want to have happen."
+}, {
+  "StartTime": 580.76,
+  "EndTime": 596.11,
+  "Value": "I asked the lawyer again how she wanted to appear at her first trial, and this time she said, “I want to look professional and self-assured.” I told her to create a picture of what “self-assured” would look like."
+}, {
+  "StartTime": 596.11,
+  "EndTime": 608.28,
+  "Value": "To her it meant moving confidently around the court room, using convincing body language and projecting her voice so it could be heard from the judge's bench to the back door."
+}, {
+  "StartTime": 608.28,
+  "EndTime": 613.38,
+  "Value": "She also imagined a skillful closing argument and a winning trial."
+}, {
+  "StartTime": 613.38,
+  "EndTime": 621.06,
+  "Value": "A few weeks after this positive dress rehearsal, the young lawyer did win."
+}, {
+  "StartTime": 621.06,
+  "EndTime": 623.15,
+  "Value": "Questions 9 to 12 are based"
+}, {
+  "StartTime": 623.15,
+  "EndTime": 625.79,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 625.79,
+  "EndTime": 644.98,
+  "Value": "9. What do some people do when they face a new situation?"
+}, {
+  "StartTime": 644.98,
+  "EndTime": 663.67,
+  "Value": "10. What does the research conducted at Stanford University show?"
+}, {
+  "StartTime": 663.67,
+  "EndTime": 683.08,
+  "Value": "11. What advice does the speaker give to people in a stressful situation?"
+}, {
+  "StartTime": 683.08,
+  "EndTime": 700.94,
+  "Value": "12. What do we learn about the lawyer in the court?"
+}, {
+  "StartTime": 700.94,
+  "EndTime": 702.43,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 702.43,
+  "EndTime": 707.82,
+  "Value": "Most Americans don't eat enough fruits, vegetables or whole grains."
+}, {
+  "StartTime": 707.82,
+  "EndTime": 714.82,
+  "Value": "Research now says adding fiber to the teen diet may help lower the risk of breast cancer."
+}, {
+  "StartTime": 714.82,
+  "EndTime": 723.64,
+  "Value": "Conversations about the benefits of fiber are probably more common in nursing homes than high schools."
+}, {
+  "StartTime": 723.64,
+  "EndTime": 727.54,
+  "Value": "But along comes a new study that could change that."
+}, {
+  "StartTime": 727.54,
+  "EndTime": 744.65,
+  "Value": "Kristi King, a diet specialist at Texas Children's Hospital, finds it hard to get teenage patients' attention about healthy eating by telling them that eating lots of high-fiber foods could reduce the risk of breast cancer before middle age."
+}, {
+  "StartTime": 744.65,
+  "EndTime": 746.67,
+  "Value": "That's a powerful message."
+}, {
+  "StartTime": 746.67,
+  "EndTime": 751.54,
+  "Value": "The new finding is based on a study of 44, 000 women."
+}, {
+  "StartTime": 751.54,
+  "EndTime": 758.66,
+  "Value": "They were surveyed about their diets during high school and their eating habits were tracked for two decades."
+}, {
+  "StartTime": 758.66,
+  "EndTime": 770.08,
+  "Value": "It turns out that those who consumed the highest levels of fiber during adolescence had a lower risk of developing breast cancer, compared to the women who ate the least fiber."
+}, {
+  "StartTime": 770.08,
+  "EndTime": 780.98,
+  "Value": "This important study demonstrates that the more fiber you eat during your high school years, the lower your risk is in developing breast cancer in later life."
+}, {
+  "StartTime": 780.98,
+  "EndTime": 791.13,
+  "Value": "The finding points to long-standing evidence that fiber may reduce circulating female hormone levels, which could explain the reduced risk."
+}, {
+  "StartTime": 791.13,
+  "EndTime": 802.84,
+  "Value": "The bottom line here is the more fiber you eat, perhaps, a lower level of hormone in your body, and therefore, a lower lifetime risk of developing breast cancer."
+}, {
+  "StartTime": 802.84,
+  "EndTime": 808.7,
+  "Value": "High-fiber diets are also linked to a reduced risk of heart disease and diabetes."
+}, {
+  "StartTime": 808.7,
+  "EndTime": 815.73,
+  "Value": "That's why women are told to eat 25 grams of fiber a day— men even more."
+}, {
+  "StartTime": 815.73,
+  "EndTime": 818.27,
+  "Value": "Questions 13 to 15 are based"
+}, {
+  "StartTime": 818.27,
+  "EndTime": 820.97,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 820.97,
+  "EndTime": 840.8,
+  "Value": "13. What does the new study tell about adding fiber to the teen diet?"
+}, {
+  "StartTime": 840.8,
+  "EndTime": 860.03,
+  "Value": "14. What do we learn about the survey of the 44,000 women?"
+}, {
+  "StartTime": 860.03,
+  "EndTime": 879.58,
+  "Value": "15. What explanation does the speaker offer for the research finding?"
+}, {
+  "StartTime": 879.58,
+  "EndTime": 881.03,
+  "Value": "Section C"
+}, {
+  "StartTime": 881.03,
+  "EndTime": 889.86,
+  "Value": "Directions: In this section, you will hear three recordings of lectures or talks followed by three or four questions."
+}, {
+  "StartTime": 889.86,
+  "EndTime": 892.99,
+  "Value": "The recordings will be played only once."
+}, {
+  "StartTime": 892.99,
+  "EndTime": 901.34,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 901.34,
+  "EndTime": 909.11,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 909.11,
+  "EndTime": 914.98,
+  "Value": "Recording One Well, my current research is really about consumer behavior."
+}, {
+  "StartTime": 914.98,
+  "EndTime": 922.61,
+  "Value": "So recently, I've looked at young people's drinking and it's obviously a major concern to government at the moment."
+}, {
+  "StartTime": 922.61,
+  "EndTime": 927.5,
+  "Value": "I've also looked at how older people are represented in the media."
+}, {
+  "StartTime": 927.5,
+  "EndTime": 936.27,
+  "Value": "Again, it's of major current interest with older people becoming a much larger proportion of UK, and indeed, world society."
+}, {
+  "StartTime": 936.27,
+  "EndTime": 947.08,
+  "Value": "I'm also interested in how consumers operate online and how that online behavior might be different from how they operate offline when they go to the shops."
+}, {
+  "StartTime": 947.08,
+  "EndTime": 955.32,
+  "Value": "Well, I think that the important thing here is to actually understand what's happening from the consumers' perspective."
+}, {
+  "StartTime": 955.32,
+  "EndTime": 964.7,
+  "Value": "One of the things that businesses and indeed government organizations often fail to do is to really see what is happening from the consumers' perspective."
+}, {
+  "StartTime": 964.7,
+  "EndTime": 978.78,
+  "Value": "For example, in the case of young people's drinking, one of the things that I've identified is that drinking for people, say, between the ages of 18 and 24 is all about the social activity."
+}, {
+  "StartTime": 978.78,
+  "EndTime": 997.78,
+  "Value": "A lot of the government advertising has been about individual responsibility, but actually understanding that drinking is very much about the social activity and finding ways to help young people get home safely, and not end up in hospital is one of the things that we've tried to present there."
+}, {
+  "StartTime": 997.78,
+  "EndTime": 1004.44,
+  "Value": "The key thing about consumer behavior is that it's very much about how consumers change."
+}, {
+  "StartTime": 1004.44,
+  "EndTime": 1011.13,
+  "Value": "Markets always change faster than marketing, so we have to look at what consumers are doing."
+}, {
+  "StartTime": 1011.13,
+  "EndTime": 1025.22,
+  "Value": "Currently I teach consumer behavior to undergraduates in their second year, and we looked at all kinds of things in consumer behavior and particularly how consumers are presented in advertising."
+}, {
+  "StartTime": 1025.22,
+  "EndTime": 1036.98,
+  "Value": "So they get involved by looking at advertising and really critically assessing the consumer behavior aspects of it, and getting involved, sometimes doing primary research."
+}, {
+  "StartTime": 1036.98,
+  "EndTime": 1051.32,
+  "Value": "For example, last year my students spent a week looking at their own purchasing and analysed it in detail from shopping to the relationship that they have with their retail banks and their mobile phone providers."
+}, {
+  "StartTime": 1051.32,
+  "EndTime": 1059.87,
+  "Value": "I think they found it very useful and it also helped them identify just what kind of budgets they had too."
+}, {
+  "StartTime": 1059.87,
+  "EndTime": 1064.66,
+  "Value": "The fact of the matter is that there is a whole range of interesting research out there."
+}, {
+  "StartTime": 1064.66,
+  "EndTime": 1074.08,
+  "Value": "And I think as the years go on, there is going to be much more for us to consider and certainly much more for students to become involved in."
+}, {
+  "StartTime": 1074.08,
+  "EndTime": 1077.51,
+  "Value": "Questions 16 to 18 are based"
+}, {
+  "StartTime": 1077.51,
+  "EndTime": 1080.71,
+  "Value": "on the recording you have just heard."
+}, {
+  "StartTime": 1080.71,
+  "EndTime": 1098.48,
+  "Value": "16. What is the speaker currently doing?"
+}, {
+  "StartTime": 1098.48,
+  "EndTime": 1116.55,
+  "Value": "17. What has the speaker found about young people's drinking?"
+}, {
+  "StartTime": 1116.55,
+  "EndTime": 1134.95,
+  "Value": "18. What does the speaker say that his students did last year?"
+}, {
+  "StartTime": 1134.95,
+  "EndTime": 1144.91,
+  "Value": "Recording Two Sweden was the first European country to print and use paper money, but it may soon do away with physical currencies."
+}, {
+  "StartTime": 1144.91,
+  "EndTime": 1155.66,
+  "Value": "Banks can save a lot of money and avoid regulatory headaches by moving to a cash free system, and they can also avoid bank robberies, theft and dirty money."
+}, {
+  "StartTime": 1155.66,
+  "EndTime": 1164.3,
+  "Value": "Claer Barrett, the editor of Financial Times Money, says the Western world is headed toward a world without physical currency."
+}, {
+  "StartTime": 1164.3,
+  "EndTime": 1173.81,
+  "Value": "Andy Holder, the chief economist at the Bank of England, suggested that the UK move towards a government-backed digital currency."
+}, {
+  "StartTime": 1173.81,
+  "EndTime": 1178.52,
+  "Value": "But does a cashless society really make good economic sense?"
+}, {
+  "StartTime": 1178.52,
+  "EndTime": 1186.71,
+  "Value": "The fact that cash is being drawn out of society, is less a feature of our everyday lives, and the ease of electronic payments."
+}, {
+  "StartTime": 1186.71,
+  "EndTime": 1191.89,
+  "Value": "Is this actually making us spend more money without realizing it?"
+}, {
+  "StartTime": 1191.89,
+  "EndTime": 1204.32,
+  "Value": "Barrett wanted to find out if the absence of physical currency does indeed cause a person to spend more, so she decided to conduct an experiment a few months ago."
+}, {
+  "StartTime": 1204.32,
+  "EndTime": 1214.46,
+  "Value": "She decided that she was going to try to just use cash for two weeks to make all of her essential purchases and see what that would do to her spending."
+}, {
+  "StartTime": 1214.46,
+  "EndTime": 1223.28,
+  "Value": "She found she did spend a lot less money, because it is incredibly hard to predict how much cash one is going to need."
+}, {
+  "StartTime": 1223.28,
+  "EndTime": 1226.4,
+  "Value": "She was forever drawing money out of cash points."
+}, {
+  "StartTime": 1226.4,
+  "EndTime": 1234.28,
+  "Value": "Months later, she was still finding cash stuffed in her trouser pockets and the pockets of her handbags."
+}, {
+  "StartTime": 1234.28,
+  "EndTime": 1238.14,
+  "Value": "During this experiment, Barrett took a train ride."
+}, {
+  "StartTime": 1238.14,
+  "EndTime": 1244.45,
+  "Value": "On the way, there was an announcement that the restaurant car was not currently accepting credit cards."
+}, {
+  "StartTime": 1244.45,
+  "EndTime": 1251.14,
+  "Value": "The train cars were filled with groans because many of the passengers were traveling without cash."
+}, {
+  "StartTime": 1251.14,
+  "EndTime": 1257.07,
+  "Value": "“It underlines just how much things have changed in the last generation, ” Barrett says."
+}, {
+  "StartTime": 1257.07,
+  "EndTime": 1262.69,
+  "Value": "“My parents, when they were younger, used to budget by putting money into envelopes."
+}, {
+  "StartTime": 1262.69,
+  "EndTime": 1273.03,
+  "Value": "They'd get paid and they'd immediately separate the cash into piles, and put them in envelops, so they knew what they had to spend week by week."
+}, {
+  "StartTime": 1273.03,
+  "EndTime": 1292.95,
+  "Value": "It was a very effective way for them to keep track of their spending. ” Nowadays, we are all on credit cards; we are doing online purchases and money is kind of becoming a less physical and more imaginary type of thing that we can't get our heads around."
+}, {
+  "StartTime": 1292.95,
+  "EndTime": 1295.22,
+  "Value": "Questions 19 to 22 are based"
+}, {
+  "StartTime": 1295.22,
+  "EndTime": 1298.37,
+  "Value": "on the recording you have just heard."
+}, {
+  "StartTime": 1298.37,
+  "EndTime": 1315.63,
+  "Value": "19. What do we learn about Sweden?"
+}, {
+  "StartTime": 1315.63,
+  "EndTime": 1352.53,
+  "Value": "20. What did Claer Barrett want to find out with her experiment？ 21. What did Claer Barrett find on her train ride?"
+}, {
+  "StartTime": 1352.53,
+  "EndTime": 1372.24,
+  "Value": "22. How did people of the last generation budget their spending?"
+}, {
+  "StartTime": 1372.24,
+  "EndTime": 1378.26,
+  "Value": "Recording Three Why should you consider taking a course in demography in college?"
+}, {
+  "StartTime": 1378.26,
+  "EndTime": 1384.88,
+  "Value": "You will be growing up in the generation where the baby boomers are going into retirement and dying."
+}, {
+  "StartTime": 1384.88,
+  "EndTime": 1390.26,
+  "Value": "You will face problems in the aging of the population that have never been faced before."
+}, {
+  "StartTime": 1390.26,
+  "EndTime": 1397.34,
+  "Value": "You will hear more and more about migration between countries, and between rural areas and cities."
+}, {
+  "StartTime": 1397.34,
+  "EndTime": 1405.28,
+  "Value": "You need to understand as a citizen, and as a taxpayer, and as a voter, what's really behind the arguments."
+}, {
+  "StartTime": 1405.28,
+  "EndTime": 1413.57,
+  "Value": "I want to tell you about the past, present and future of the human population, so let's start with a few problems."
+}, {
+  "StartTime": 1413.57,
+  "EndTime": 1417.22,
+  "Value": "Right now, a billion people are chronically hungry."
+}, {
+  "StartTime": 1417.22,
+  "EndTime": 1423.12,
+  "Value": "That means they wake up hungry, they are hungry all day and they go to sleep hungry."
+}, {
+  "StartTime": 1423.12,
+  "EndTime": 1429.76,
+  "Value": "A billion people are living in slums, not the same billion people, but there is some overlap."
+}, {
+  "StartTime": 1429.76,
+  "EndTime": 1435.11,
+  "Value": "Living in slums means they don't have infrastructure to take the garbage away."
+}, {
+  "StartTime": 1435.11,
+  "EndTime": 1438.18,
+  "Value": "They don't have secure water supplies to drink."
+}, {
+  "StartTime": 1438.18,
+  "EndTime": 1441.8,
+  "Value": "Nearly a billion people are illiterate."
+}, {
+  "StartTime": 1441.8,
+  "EndTime": 1445.46,
+  "Value": "Try to imagine your life being illiterate."
+}, {
+  "StartTime": 1445.46,
+  "EndTime": 1451.09,
+  "Value": "You can't read the labels on the bottles in the supermarket, if you can get to a supermarket."
+}, {
+  "StartTime": 1451.09,
+  "EndTime": 1455.02,
+  "Value": "Two-thirds of those people who are illiterate are women."
+}, {
+  "StartTime": 1455.02,
+  "EndTime": 1463.86,
+  "Value": "And about 200 to 250 million women don't have access to birth control they want, so that they can't control their own fertility."
+}, {
+  "StartTime": 1463.86,
+  "EndTime": 1467.36,
+  "Value": "This is not only a problem in developing countries."
+}, {
+  "StartTime": 1467.36,
+  "EndTime": 1471.4,
+  "Value": "About half of all pregnancies globally are unintended."
+}, {
+  "StartTime": 1471.4,
+  "EndTime": 1475.34,
+  "Value": "So those are examples of population problems."
+}, {
+  "StartTime": 1475.34,
+  "EndTime": 1480.74,
+  "Value": "Demography gives you the tools to understand and to address these problems."
+}, {
+  "StartTime": 1480.74,
+  "EndTime": 1496.29,
+  "Value": "It's not only the study of human population, but the populations of non-human species, including viruses, like influenza, the bacteria in your gut, plants that you eat, animals that you enjoy, all that provide you with meat."
+}, {
+  "StartTime": 1496.29,
+  "EndTime": 1505.44,
+  "Value": "Demography also includes the study of non-living objects like light bulbs and taxi cabs and buildings because these are also populations."
+}, {
+  "StartTime": 1505.44,
+  "EndTime": 1515.28,
+  "Value": "It studies these populations in the past, present and future, using quantitative data and mathematical models as tools of analysis."
+}, {
+  "StartTime": 1515.28,
+  "EndTime": 1520.29,
+  "Value": "I see demography as a central subject related to economics."
+}, {
+  "StartTime": 1520.29,
+  "EndTime": 1535.79,
+  "Value": "It is the means to intervene more wisely and more effectively in the real world to improve the wellbeing not only of yourself, important as that maybe, but of people around you and of other species with whom we share the planet."
+}, {
+  "StartTime": 1535.79,
+  "EndTime": 1539.94,
+  "Value": "Questions 23 to 25 are based"
+}, {
+  "StartTime": 1539.94,
+  "EndTime": 1543.28,
+  "Value": "on the recording you have just heard."
+}, {
+  "StartTime": 1543.28,
+  "EndTime": 1564.42,
+  "Value": "23. What is one of the problems the speaker mentions in his talk?"
+}, {
+  "StartTime": 1564.42,
+  "EndTime": 1583.8,
+  "Value": "24. What does the speaker say about pregnancies?"
+}, {
+  "StartTime": 1583.8,
+  "EndTime": 1603.51,
+  "Value": "25. How does the speaker view the study of populations?"
+}, {
+  "StartTime": 1603.51,
+  "EndTime": 5203.51,
+  "Value": "This is the end of listening comprehension."
+}]

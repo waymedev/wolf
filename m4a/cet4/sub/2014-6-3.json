@@ -1,0 +1,813 @@
+[{
+  "StartTime": 0.92,
+  "EndTime": 4.29,
+  "Value": "College English Test (Band 4)"
+}, {
+  "StartTime": 4.29,
+  "EndTime": 8.6,
+  "Value": "Part II  Listening Comprehension"
+}, {
+  "StartTime": 8.6,
+  "EndTime": 10,
+  "Value": "Section A"
+}, {
+  "StartTime": 10,
+  "EndTime": 16.95,
+  "Value": "Directions: In this section, you will hear 8 short conversations and 2 long conversations."
+}, {
+  "StartTime": 16.95,
+  "EndTime": 22.99,
+  "Value": "At the end of each conversation, one or more questions will be asked about what was said."
+}, {
+  "StartTime": 22.99,
+  "EndTime": 27.58,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 27.58,
+  "EndTime": 30.8,
+  "Value": "After each question there will be a pause."
+}, {
+  "StartTime": 30.8,
+  "EndTime": 40.52,
+  "Value": "During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer."
+}, {
+  "StartTime": 40.52,
+  "EndTime": 46.49,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 46.49,
+  "EndTime": 50.84,
+  "Value": "Now let's begin with the 8 short conversations."
+}, {
+  "StartTime": 50.84,
+  "EndTime": 57.81,
+  "Value": "1. W: Just imagine! We have to finish reading 300 pages before Monday!"
+}, {
+  "StartTime": 57.81,
+  "EndTime": 61.81,
+  "Value": "How can the professor expect us to do it in such a short time?"
+}, {
+  "StartTime": 61.81,
+  "EndTime": 69.02,
+  "Value": "M: Yeah, but what troubles me is that I can't find the book in the library or in the university bookstore."
+}, {
+  "StartTime": 69.02,
+  "EndTime": 85.76,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 85.76,
+  "EndTime": 91.38,
+  "Value": "2. M: Do you think I could borrow your car to go grocery shopping?"
+}, {
+  "StartTime": 91.38,
+  "EndTime": 95.18,
+  "Value": "The supermarkets outside the city are so much cheaper."
+}, {
+  "StartTime": 95.18,
+  "EndTime": 98.14,
+  "Value": "I'd also be happy to pick up anything you need."
+}, {
+  "StartTime": 98.14,
+  "EndTime": 101.87,
+  "Value": "W: Well, I don't like to let anyone else drive my car."
+}, {
+  "StartTime": 101.87,
+  "EndTime": 105.5,
+  "Value": "Tell you what, why don't we go together?"
+}, {
+  "StartTime": 105.5,
+  "EndTime": 122.27,
+  "Value": "Q: What does the woman mean?"
+}, {
+  "StartTime": 122.27,
+  "EndTime": 127.42,
+  "Value": "3. M: Forgive the mess in here, we have a party last night."
+}, {
+  "StartTime": 127.42,
+  "EndTime": 131.1,
+  "Value": "There were a lot of people and they all brought food."
+}, {
+  "StartTime": 131.1,
+  "EndTime": 132.56,
+  "Value": "W: Yeah, I can tell."
+}, {
+  "StartTime": 132.56,
+  "EndTime": 137.51,
+  "Value": "Well, I guess it's pretty obvious what you'll be doing most of today."
+}, {
+  "StartTime": 137.51,
+  "EndTime": 155.3,
+  "Value": "Q: What does the woman think the man will do?"
+}, {
+  "StartTime": 155.3,
+  "EndTime": 160.97,
+  "Value": "4. W: What time would suit you for the first-round talks with John Smith?"
+}, {
+  "StartTime": 160.97,
+  "EndTime": 163.03,
+  "Value": "M: Well, you know my schedule."
+}, {
+  "StartTime": 163.03,
+  "EndTime": 167.5,
+  "Value": "Other than this Friday, one day is as good as the next."
+}, {
+  "StartTime": 167.5,
+  "EndTime": 184.47,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 184.47,
+  "EndTime": 188.24,
+  "Value": "5. W: I was so angry yesterday!"
+}, {
+  "StartTime": 188.24,
+  "EndTime": 193.02,
+  "Value": "My biology teacher did not even let me explain why I missed the field trip."
+}, {
+  "StartTime": 193.02,
+  "EndTime": 195.1,
+  "Value": "He just wouldn't let me pass!"
+}, {
+  "StartTime": 195.1,
+  "EndTime": 196.89,
+  "Value": "M: That doesn't seem fair."
+}, {
+  "StartTime": 196.89,
+  "EndTime": 199.72,
+  "Value": "I'd feel that way too if I were you."
+}, {
+  "StartTime": 199.72,
+  "EndTime": 216.69,
+  "Value": "Q: What does the man imply?"
+}, {
+  "StartTime": 216.69,
+  "EndTime": 223.02,
+  "Value": "6. M: I really can't stand the way David controls the conversation all the time."
+}, {
+  "StartTime": 223.02,
+  "EndTime": 227.36,
+  "Value": "If he is going to be at your Christmas party, I just won't come."
+}, {
+  "StartTime": 227.36,
+  "EndTime": 231.55,
+  "Value": "W: I'm sorry you feel that way, but my mother insists that he come."
+}, {
+  "StartTime": 231.55,
+  "EndTime": 248.48,
+  "Value": "Q: What does the woman imply?"
+}, {
+  "StartTime": 248.48,
+  "EndTime": 252.86,
+  "Value": "7. W: You're taking a course with Prof. Johnson."
+}, {
+  "StartTime": 252.86,
+  "EndTime": 254.74,
+  "Value": "What's your impression so far?"
+}, {
+  "StartTime": 254.74,
+  "EndTime": 261.14,
+  "Value": "M: Well, many students could hardly stay awake in his class without first drinking a cup of coffee."
+}, {
+  "StartTime": 261.14,
+  "EndTime": 277.92,
+  "Value": "Q: What does the man imply?"
+}, {
+  "StartTime": 277.92,
+  "EndTime": 282.58,
+  "Value": "8. W: Have you ever put a computer together before?"
+}, {
+  "StartTime": 282.58,
+  "EndTime": 283.88,
+  "Value": "M: No, never."
+}, {
+  "StartTime": 283.88,
+  "EndTime": 289.43,
+  "Value": "But I think if we follow these instructions exactly, we won't have much trouble."
+}, {
+  "StartTime": 289.43,
+  "EndTime": 306.91,
+  "Value": "Q: What are the speakers going to do?"
+}, {
+  "StartTime": 306.91,
+  "EndTime": 310.25,
+  "Value": "Now you will hear the two long conversations."
+}, {
+  "StartTime": 310.25,
+  "EndTime": 312.39,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 312.39,
+  "EndTime": 314.95,
+  "Value": "W: What sort of hours do you work, Steve?"
+}, {
+  "StartTime": 314.95,
+  "EndTime": 319.85,
+  "Value": "M: Well, I have to work very long hours, about eleven hours a day."
+}, {
+  "StartTime": 319.85,
+  "EndTime": 321.69,
+  "Value": "W: What time do you start?"
+}, {
+  "StartTime": 321.69,
+  "EndTime": 328.11,
+  "Value": "M: I work 9 to 3, then I start again at 5:30 and work until 11, six days a week."
+}, {
+  "StartTime": 328.11,
+  "EndTime": 331.76,
+  "Value": "So I have to work very unsocial hours."
+}, {
+  "StartTime": 331.76,
+  "EndTime": 334.1,
+  "Value": "W: And do you have to work at the weekend?"
+}, {
+  "StartTime": 334.1,
+  "EndTime": 336.79,
+  "Value": "M: Oh, yes. That's our busiest time."
+}, {
+  "StartTime": 336.79,
+  "EndTime": 338.81,
+  "Value": "I get Wednesdays off."
+}, {
+  "StartTime": 338.81,
+  "EndTime": 342.85,
+  "Value": "W: What are the things you have to do and the things you don't have to do?"
+}, {
+  "StartTime": 342.85,
+  "EndTime": 351.93,
+  "Value": "M: Uh, I don't have to do the washing-up, so that's good. I have to wear white, and I have to keep everything in the kitchen totally clean."
+}, {
+  "StartTime": 351.93,
+  "EndTime": 354.1,
+  "Value": "W: What's hard about the job?"
+}, {
+  "StartTime": 354.1,
+  "EndTime": 356.32,
+  "Value": "M: You are standing up all the time."
+}, {
+  "StartTime": 356.32,
+  "EndTime": 360.99,
+  "Value": "When we are busy, people get angry and sharp, but that's normal."
+}, {
+  "StartTime": 360.99,
+  "EndTime": 362.89,
+  "Value": "W: How did you learn the profession?"
+}, {
+  "StartTime": 362.89,
+  "EndTime": 365.71,
+  "Value": "M: Well, I did a two-year course at college."
+}, {
+  "StartTime": 365.71,
+  "EndTime": 370.93,
+  "Value": "In the first year we had to learn the basics, and then we had to take exams."
+}, {
+  "StartTime": 370.93,
+  "EndTime": 372.95,
+  "Value": "W: Was it easy to find a job?"
+}, {
+  "StartTime": 372.95,
+  "EndTime": 379.97,
+  "Value": "M: I wrote to about six hotels and one of them gave me my first job, so I didn't have to wait too long."
+}, {
+  "StartTime": 379.97,
+  "EndTime": 382.61,
+  "Value": "W: And what's the secret of being good at your job?"
+}, {
+  "StartTime": 382.61,
+  "EndTime": 384.24,
+  "Value": "M: Attention to detail."
+}, {
+  "StartTime": 384.24,
+  "EndTime": 385.95,
+  "Value": "You have to love it."
+}, {
+  "StartTime": 385.95,
+  "EndTime": 388.16,
+  "Value": "You have to show passion for it."
+}, {
+  "StartTime": 388.16,
+  "EndTime": 390.59,
+  "Value": "W: And what are your plans for the future?"
+}, {
+  "StartTime": 390.59,
+  "EndTime": 394.28,
+  "Value": "M: I want to have my own place when the time is right."
+}, {
+  "StartTime": 394.28,
+  "EndTime": 396.66,
+  "Value": "Questions 9 to 12 are based on"
+}, {
+  "StartTime": 396.66,
+  "EndTime": 399.3,
+  "Value": "the conversation you have just heard."
+}, {
+  "StartTime": 399.3,
+  "EndTime": 418.65,
+  "Value": "9. What does the man say about his job?"
+}, {
+  "StartTime": 418.65,
+  "EndTime": 438.8,
+  "Value": "10. What does the man think is the hardest part of his job?"
+}, {
+  "StartTime": 438.8,
+  "EndTime": 459.66,
+  "Value": "11. Where did the man get his first job after graduation?"
+}, {
+  "StartTime": 459.66,
+  "EndTime": 480.52,
+  "Value": "12. What does the man say is important to being good at his job?"
+}, {
+  "StartTime": 480.52,
+  "EndTime": 482.77,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 482.77,
+  "EndTime": 487.64,
+  "Value": "W: Now you've seen this table of figures about the pocket money children in Britain get?"
+}, {
+  "StartTime": 487.64,
+  "EndTime": 494.96,
+  "Value": "M: Yes. I thought it was quite interesting, but I don't quite understand the column entitled change."
+}, {
+  "StartTime": 494.96,
+  "EndTime": 497.03,
+  "Value": "Can you explain what it means?"
+}, {
+  "StartTime": 497.03,
+  "EndTime": 500.77,
+  "Value": "W: Well, I think it means the change from the year before."
+}, {
+  "StartTime": 500.77,
+  "EndTime": 507.92,
+  "Value": "I'm not a mathematician, but I assume the rise from 72p to 90p is a rise of 25 percent."
+}, {
+  "StartTime": 507.92,
+  "EndTime": 509.52,
+  "Value": "M: Oh yes, I see."
+}, {
+  "StartTime": 509.52,
+  "EndTime": 512.74,
+  "Value": "And the inflation rate is there for comparison."
+}, {
+  "StartTime": 512.74,
+  "EndTime": 518.39,
+  "Value": "W: Yes. Why do you think the rise in pocket money is often higher than inflation?"
+}, {
+  "StartTime": 518.39,
+  "EndTime": 520.43,
+  "Value": "M: I am sorry I've no idea."
+}, {
+  "StartTime": 520.43,
+  "EndTime": 523.08,
+  "Value": "Perhaps parents in Britain are too generous."
+}, {
+  "StartTime": 523.08,
+  "EndTime": 524.55,
+  "Value": "W: Perhaps they are."
+}, {
+  "StartTime": 524.55,
+  "EndTime": 530.83,
+  "Value": "But it looks as if children were a lot better off in 2001 than they were in 2002."
+}, {
+  "StartTime": 530.83,
+  "EndTime": 532.72,
+  "Value": "That's strange, isn't it?"
+}, {
+  "StartTime": 532.72,
+  "EndTime": 536.78,
+  "Value": "And they seem to have been better off in 2003 than they are now."
+}, {
+  "StartTime": 536.78,
+  "EndTime": 538.51,
+  "Value": "I wonder why that is."
+}, {
+  "StartTime": 538.51,
+  "EndTime": 541.22,
+  "Value": "M: Yes, I don't understand that at all."
+}, {
+  "StartTime": 541.22,
+  "EndTime": 545.67,
+  "Value": "W: Anyway, if you had children, how much pocket money would you give them?"
+}, {
+  "StartTime": 545.67,
+  "EndTime": 549.64,
+  "Value": "M: I don't know. I think I'll probably give them two pounds a week."
+}, {
+  "StartTime": 549.64,
+  "EndTime": 553.18,
+  "Value": "W: Would you? And what would you expect them to do with it?"
+}, {
+  "StartTime": 553.18,
+  "EndTime": 561.25,
+  "Value": "M: Well, out of that they have to buy some small personal things, but I wouldn't expect them to save to buy their own socks, for example."
+}, {
+  "StartTime": 561.25,
+  "EndTime": 565.96,
+  "Value": "W: Yes. By the way, do most children in your country get pocket money?"
+}, {
+  "StartTime": 565.96,
+  "EndTime": 567.4,
+  "Value": "M: Yeah, they do."
+}, {
+  "StartTime": 567.4,
+  "EndTime": 569.71,
+  "Value": "Questions 13 to 15 are based on"
+}, {
+  "StartTime": 569.71,
+  "EndTime": 572.13,
+  "Value": "the conversation you have just heard."
+}, {
+  "StartTime": 572.13,
+  "EndTime": 591.23,
+  "Value": "13. What is the table of figures about?"
+}, {
+  "StartTime": 591.23,
+  "EndTime": 612.46,
+  "Value": "14. What do we learn from the conversation about British children's pocket money?"
+}, {
+  "StartTime": 612.46,
+  "EndTime": 634.48,
+  "Value": "15. Supposing the man had children, what would he expect them to do with their pocket money?"
+}, {
+  "StartTime": 634.48,
+  "EndTime": 635.71,
+  "Value": "Section B"
+}, {
+  "StartTime": 635.71,
+  "EndTime": 640.16,
+  "Value": "Directions: In this section, you will hear 3 short passages."
+}, {
+  "StartTime": 640.16,
+  "EndTime": 644.13,
+  "Value": "At the end of each passage, you will hear some questions."
+}, {
+  "StartTime": 644.13,
+  "EndTime": 648.03,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 648.03,
+  "EndTime": 656.57,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 656.57,
+  "EndTime": 662.95,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 662.95,
+  "EndTime": 664.81,
+  "Value": "Passage One"
+}, {
+  "StartTime": 664.81,
+  "EndTime": 679.22,
+  "Value": "As the new sales director for a national computer firm, Alex Gordon was looking forward to his first meeting with the company's district managers. Everyone arrived on time, and Alex's presentation went extremely well."
+}, {
+  "StartTime": 679.22,
+  "EndTime": 686.08,
+  "Value": "He decided to end the meeting with the conversation about the importance of the district managers to the company's plans."
+}, {
+  "StartTime": 686.08,
+  "EndTime": 694.1,
+  "Value": "\"I believe we are going to continue to increase our share of the market,\" he began, \"because of the quality of the people in this room."
+}, {
+  "StartTime": 694.1,
+  "EndTime": 699.81,
+  "Value": "The district manager is the key to the success of the sales representatives in his district."
+}, {
+  "StartTime": 699.81,
+  "EndTime": 702.28,
+  "Value": "He sets the term for everyone else."
+}, {
+  "StartTime": 702.28,
+  "EndTime": 709.33,
+  "Value": "If he has ambitious goals and is willing to put in long hours, everyone in his unit will follow his example.\""
+}, {
+  "StartTime": 709.33,
+  "EndTime": 715.54,
+  "Value": "When Alex was finished, he received polite applause, but hardly the warm response he had hoped for."
+}, {
+  "StartTime": 715.54,
+  "EndTime": 718.61,
+  "Value": "Later he spoke with one of the senior managers."
+}, {
+  "StartTime": 718.61,
+  "EndTime": 722.94,
+  "Value": "\"Things were going so well until the end\", Alex said disappointedly."
+}, {
+  "StartTime": 722.94,
+  "EndTime": 725.96,
+  "Value": "\"Obviously, I said the wrong thing.\""
+}, {
+  "StartTime": 725.96,
+  "EndTime": 728.42,
+  "Value": "\"Yes\", the district manager replied."
+}, {
+  "StartTime": 728.42,
+  "EndTime": 730.54,
+  "Value": "\"Half of our managers are women."
+}, {
+  "StartTime": 730.54,
+  "EndTime": 737.1,
+  "Value": "Most have worked their way up from sales representatives, and they are very proud of the role they played in the company's growth."
+}, {
+  "StartTime": 737.1,
+  "EndTime": 739.93,
+  "Value": "They don't care at all about political correctness."
+}, {
+  "StartTime": 739.93,
+  "EndTime": 745.45,
+  "Value": "But they were definitely surprised and distressed to be referred to as 'he' in your speech.\""
+}, {
+  "StartTime": 745.45,
+  "EndTime": 748.17,
+  "Value": "Questions 16 to 19 are based on"
+}, {
+  "StartTime": 748.17,
+  "EndTime": 750.83,
+  "Value": "the passage you have just heard."
+}, {
+  "StartTime": 750.83,
+  "EndTime": 771.11,
+  "Value": "16. Who did Alex Gordon speak to at the first meeting?"
+}, {
+  "StartTime": 771.11,
+  "EndTime": 792.44,
+  "Value": "17. What did Alex want to emphasize at the end of his presentation?"
+}, {
+  "StartTime": 792.44,
+  "EndTime": 812.24,
+  "Value": "18. What do we learn about the audience at the meeting?"
+}, {
+  "StartTime": 812.24,
+  "EndTime": 833.59,
+  "Value": "19. Why did Alex fail to receive the warm response he had hoped for?"
+}, {
+  "StartTime": 833.59,
+  "EndTime": 835.24,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 835.24,
+  "EndTime": 839.54,
+  "Value": "The way to complain is to act business-like and important."
+}, {
+  "StartTime": 839.54,
+  "EndTime": 848.18,
+  "Value": "If your complaint is immediate, suppose you got the wrong order at a restaurant, make a polite but firm request to see the manager."
+}, {
+  "StartTime": 848.18,
+  "EndTime": 851.52,
+  "Value": "When the manager comes, ask his or her name."
+}, {
+  "StartTime": 851.52,
+  "EndTime": 855.91,
+  "Value": "And then state your problem and what you expect to have done about it."
+}, {
+  "StartTime": 855.91,
+  "EndTime": 860.78,
+  "Value": "Be polite! Shouting or acting rude will get you nowhere."
+}, {
+  "StartTime": 860.78,
+  "EndTime": 864.02,
+  "Value": "But also be firm in making your complaint."
+}, {
+  "StartTime": 864.02,
+  "EndTime": 866.81,
+  "Value": "Besides, act important."
+}, {
+  "StartTime": 866.81,
+  "EndTime": 871.29,
+  "Value": "This doesn't mean to put on airs and say \"do you know who I am?\""
+}, {
+  "StartTime": 871.29,
+  "EndTime": 876.34,
+  "Value": "What it means is that people are often treated the way they expect to be treated."
+}, {
+  "StartTime": 876.34,
+  "EndTime": 883.07,
+  "Value": "If you act like someone who expects a fair request to be granted, chances are it will be granted."
+}, {
+  "StartTime": 883.07,
+  "EndTime": 886.46,
+  "Value": "The worst way to complain is over the telephone."
+}, {
+  "StartTime": 886.46,
+  "EndTime": 890.54,
+  "Value": "You are speaking to a voice coming from someone you can not see."
+}, {
+  "StartTime": 890.54,
+  "EndTime": 894.21,
+  "Value": "So you can't tell how the person on the line is reacting."
+}, {
+  "StartTime": 894.21,
+  "EndTime": 897.6,
+  "Value": "It is easy for that person to give you the run-around."
+}, {
+  "StartTime": 897.6,
+  "EndTime": 901.89,
+  "Value": "Complaining in person or by letter is generally more effective."
+}, {
+  "StartTime": 901.89,
+  "EndTime": 908.25,
+  "Value": "If your complaint does not require an immediate response, it often helps to complain by letter."
+}, {
+  "StartTime": 908.25,
+  "EndTime": 913.72,
+  "Value": "If you have an appliance that doesn't work, send a letter to the store that sold it."
+}, {
+  "StartTime": 913.72,
+  "EndTime": 916.71,
+  "Value": "Be business-like and stick to the point."
+}, {
+  "StartTime": 916.71,
+  "EndTime": 922.39,
+  "Value": "Don't spend a paragraph on how your uncle John tried to fix the problem and couldn't."
+}, {
+  "StartTime": 922.39,
+  "EndTime": 948.01,
+  "Value": "Question 20 to 22 are based on the passage you have just heard： 20. What does the speaker suggest you do when you're not served properly at a restaurant?"
+}, {
+  "StartTime": 948.01,
+  "EndTime": 969.12,
+  "Value": "21. Why does the speaker say the worst way to complain is over the telephone?"
+}, {
+  "StartTime": 969.12,
+  "EndTime": 989.19,
+  "Value": "22. What should you do if you make a complaint by letter?"
+}, {
+  "StartTime": 989.19,
+  "EndTime": 990.94,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 990.94,
+  "EndTime": 995.64,
+  "Value": "Barbara Sanders is a wife and the mother of two children, ages 2 and 4."
+}, {
+  "StartTime": 995.64,
+  "EndTime": 1000.47,
+  "Value": "Her husband, Tom, is an engineer and makes an excellent salary."
+}, {
+  "StartTime": 1000.47,
+  "EndTime": 1006.83,
+  "Value": "Before Barbara had children, she worked as an architect for the government, designing government housing."
+}, {
+  "StartTime": 1006.83,
+  "EndTime": 1012.08,
+  "Value": "She quit her job when she became pregnant, but is now interested in returning to work."
+}, {
+  "StartTime": 1012.08,
+  "EndTime": 1015.55,
+  "Value": "She's been offered an excellent job with the government."
+}, {
+  "StartTime": 1015.55,
+  "EndTime": 1021.39,
+  "Value": "Her husband feels it's unnecessary for her to work since the family does not need the added income."
+}, {
+  "StartTime": 1021.39,
+  "EndTime": 1025.12,
+  "Value": "He also thinks that a woman should stay home with her children."
+}, {
+  "StartTime": 1025.12,
+  "EndTime": 1032.98,
+  "Value": "If Barbara feels the need to do socially important work, he thinks that she should do volunteer work one or two days a week."
+}, {
+  "StartTime": 1032.98,
+  "EndTime": 1040.71,
+  "Value": "Barbara, on the other hand, has missed the excitement of her profession and does not feel she would be satisfied doing volunteer work."
+}, {
+  "StartTime": 1040.71,
+  "EndTime": 1048.07,
+  "Value": "She would also like to have her own income, so she does not have to ask her husband for money whenever she wants to buy something."
+}, {
+  "StartTime": 1048.07,
+  "EndTime": 1057.18,
+  "Value": "She does not think it's necessary to stay home every day with the children and she knows a very reliable baby-sitter who's willing to come to her house."
+}, {
+  "StartTime": 1057.18,
+  "EndTime": 1066.81,
+  "Value": "Tom does not think a baby-sitter can replace a mother and thinks it's a bad idea for the children to spend so much time with someone who's not part of the family."
+}, {
+  "StartTime": 1066.81,
+  "EndTime": 1068.84,
+  "Value": "Questions 23 to 25 are based on"
+}, {
+  "StartTime": 1068.84,
+  "EndTime": 1071.47,
+  "Value": "the passage you have just heard."
+}, {
+  "StartTime": 1071.47,
+  "EndTime": 1091.6,
+  "Value": "23. What was Barbara's profession before she had children?"
+}, {
+  "StartTime": 1091.6,
+  "EndTime": 1112.73,
+  "Value": "24. What does Barbara's husband suggest she do if she wants to work?"
+}, {
+  "StartTime": 1112.73,
+  "EndTime": 1133.04,
+  "Value": "25. What does Tom think about hiring a baby-sitter?"
+}, {
+  "StartTime": 1133.04,
+  "EndTime": 1134.54,
+  "Value": "Section C"
+}, {
+  "StartTime": 1134.54,
+  "EndTime": 1138.95,
+  "Value": "Directions: In this section, you will hear a passage three times."
+}, {
+  "StartTime": 1138.95,
+  "EndTime": 1144.72,
+  "Value": "When the passage is read for the first time, you should listen carefully for its general idea."
+}, {
+  "StartTime": 1144.72,
+  "EndTime": 1151.96,
+  "Value": "When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard."
+}, {
+  "StartTime": 1151.96,
+  "EndTime": 1158.04,
+  "Value": "Finally, when the passage is read for the third time, you should check what you have written."
+}, {
+  "StartTime": 1158.04,
+  "EndTime": 1160.27,
+  "Value": "Now listen to the passage."
+}, {
+  "StartTime": 1160.27,
+  "EndTime": 1184.38,
+  "Value": "Almost every child, on the first day he sets foot in a school building, is smarter, more curious, less afraid of what he doesn't know, better at finding and figuring things out, more confident, resourceful, persistent and independent, than he will ever be again in his schooling or, unless he is very unusual and very lucky, for the rest of his life."
+}, {
+  "StartTime": 1184.38,
+  "EndTime": 1203.94,
+  "Value": "Already, by paying close attention to and interacting with the world and people around him, and without any school-type formal instruction, he has done a task far more difficult, complicated and abstract than anything he will be asked to do in school, or than any of his teachers has done for years."
+}, {
+  "StartTime": 1203.94,
+  "EndTime": 1206.83,
+  "Value": "He has solved the mystery of language."
+}, {
+  "StartTime": 1206.83,
+  "EndTime": 1216.28,
+  "Value": "He has discovered it - babies don't even know that language exists - and he has found out how it works and learnt to use it appropriately."
+}, {
+  "StartTime": 1216.28,
+  "EndTime": 1230.69,
+  "Value": "He has done it by exploring, by experimenting, by developing his own model of the grammar of language, by trying it out and seeing whether it works, by gradually changing it and refining it until it does work."
+}, {
+  "StartTime": 1230.69,
+  "EndTime": 1246.63,
+  "Value": "And while he has been doing this, he has been learning other things as well, including many of the concepts that the schools think only they can teach him, and many that are more complicated than the ones they do try to teach him."
+}, {
+  "StartTime": 1246.63,
+  "EndTime": 1249.35,
+  "Value": "Now the passage will be read again."
+}, {
+  "StartTime": 1249.35,
+  "EndTime": 1272.38,
+  "Value": "Almost every child, on the first day he sets foot in a school building, is smarter, more curious, less afraid of what he doesn't know, better at finding and figuring things out, more confident, resourceful, persistent and independent, than he will ever be again in his schooling or, unless he is very unusual and very lucky, for the rest of his life."
+}, {
+  "StartTime": 1272.38,
+  "EndTime": 1291.55,
+  "Value": "Already, by paying close attention to and interacting with the world and people around him, and without any school-type formal instruction, he has done a task far more difficult, complicated and abstract than anything he will be asked to do in school, or than any of his teachers has done for years."
+}, {
+  "StartTime": 1291.55,
+  "EndTime": 1294.11,
+  "Value": "He has solved the mystery of language."
+}, {
+  "StartTime": 1294.11,
+  "EndTime": 1302.63,
+  "Value": "He has discovered it - babies don't even know that language exists - and he has found out how it works and learnt to use it appropriately."
+}, {
+  "StartTime": 1302.63,
+  "EndTime": 1316.56,
+  "Value": "He has done it by exploring, by experimenting, by developing his own model of the grammar of language, by trying it out and seeing whether it works, by gradually changing it and refining it until it does work."
+}, {
+  "StartTime": 1316.56,
+  "EndTime": 1331.67,
+  "Value": "And while he has been doing this, he has been learning other things as well, including many of the concepts that the schools think only they can teach him, and many that are more complicated than the ones they do try to teach him."
+}, {
+  "StartTime": 1331.67,
+  "EndTime": 1336.15,
+  "Value": "Now the passage will be read for the third time."
+}, {
+  "StartTime": 1336.15,
+  "EndTime": 1360.37,
+  "Value": "Almost every child, on the first day he sets foot in a school building, is smarter, more curious, less afraid of what he doesn't know, better at finding and figuring things out, more confident, resourceful, persistent and independent, than he will ever be again in his schooling or, unless he is very unusual and very lucky, for the rest of his life."
+}, {
+  "StartTime": 1360.37,
+  "EndTime": 1379.81,
+  "Value": "Already, by paying close attention to and interacting with the world and people around him, and without any school-type formal instruction, he has done a task far more difficult, complicated and abstract than anything he will be asked to do in school, or than any of his teachers has done for years."
+}, {
+  "StartTime": 1379.81,
+  "EndTime": 1382.75,
+  "Value": "He has solved the mystery of language."
+}, {
+  "StartTime": 1382.75,
+  "EndTime": 1391.97,
+  "Value": "He has discovered it - babies don't even know that language exists - and he has found out how it works and learnt to use it appropriately."
+}, {
+  "StartTime": 1391.97,
+  "EndTime": 1406.65,
+  "Value": "He has done it by exploring, by experimenting, by developing his own model of the grammar of language, by trying it out and seeing whether it works, by gradually changing it and refining it until it does work."
+}, {
+  "StartTime": 1406.65,
+  "EndTime": 1422.52,
+  "Value": "And while he has been doing this, he has been learning other things as well, including many of the concepts that the schools think only they can teach him, and many that are more complicated than the ones they do try to teach him."
+}, {
+  "StartTime": 1422.52,
+  "EndTime": 5022.52,
+  "Value": "This is the end of listening conversation."
+}]

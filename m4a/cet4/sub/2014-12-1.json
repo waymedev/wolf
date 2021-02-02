@@ -1,0 +1,981 @@
+[{
+  "StartTime": 14.69,
+  "EndTime": 17.96,
+  "Value": "College English Test - Band 4"
+}, {
+  "StartTime": 17.96,
+  "EndTime": 21.63,
+  "Value": "Part II  Listening Comprehension"
+}, {
+  "StartTime": 21.63,
+  "EndTime": 23.32,
+  "Value": "Section A"
+}, {
+  "StartTime": 23.32,
+  "EndTime": 32.05,
+  "Value": "Directions: In this section, you will hear 8 short conversations and 2 long conversations."
+}, {
+  "StartTime": 32.05,
+  "EndTime": 38.42,
+  "Value": "At the end of each conversation, one or more questions will be asked about what was said."
+}, {
+  "StartTime": 38.42,
+  "EndTime": 43.6,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 43.6,
+  "EndTime": 47.62,
+  "Value": "After each question there will be a pause."
+}, {
+  "StartTime": 47.62,
+  "EndTime": 56.86,
+  "Value": "During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer."
+}, {
+  "StartTime": 56.86,
+  "EndTime": 63.48,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 63.48,
+  "EndTime": 68.11,
+  "Value": "Now let's begin with the 8 short conversations."
+}, {
+  "StartTime": 68.11,
+  "EndTime": 74.16,
+  "Value": "1. W: When was the last time you dusted the apartment?"
+}, {
+  "StartTime": 74.16,
+  "EndTime": 77.41,
+  "Value": "M: When was the last time my mother came over?"
+}, {
+  "StartTime": 77.41,
+  "EndTime": 92.13,
+  "Value": "Q: What does the man imply?"
+}, {
+  "StartTime": 92.13,
+  "EndTime": 99.55,
+  "Value": "2. W: Hurry up, Mark."
+}, {
+  "StartTime": 99.55,
+  "EndTime": 101.45,
+  "Value": "There's a bus coming now."
+}, {
+  "StartTime": 101.45,
+  "EndTime": 106.49,
+  "Value": "M: Why run? There will be another one in two or three minutes."
+}, {
+  "StartTime": 106.49,
+  "EndTime": 123.65,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 123.65,
+  "EndTime": 129.37,
+  "Value": "3. M: Laura, it seems that you are up to your neck in work."
+}, {
+  "StartTime": 129.37,
+  "EndTime": 131.34,
+  "Value": "How come you've been so busy?"
+}, {
+  "StartTime": 131.34,
+  "EndTime": 138.46,
+  "Value": "W: Miss Smith has asked for a sick leave, and I have to take over her work for a couple of days."
+}, {
+  "StartTime": 138.46,
+  "EndTime": 155.85,
+  "Value": "Q: What do we learn about the woman?"
+}, {
+  "StartTime": 155.85,
+  "EndTime": 162.96,
+  "Value": "4. W: Washing dishes at the cafeteria every day is really boring."
+}, {
+  "StartTime": 162.96,
+  "EndTime": 166.65,
+  "Value": "M: Why don't you quit and deliver flowers with me?"
+}, {
+  "StartTime": 166.65,
+  "EndTime": 184.64,
+  "Value": "Q: What does the man suggest the woman do?"
+}, {
+  "StartTime": 184.64,
+  "EndTime": 192.24,
+  "Value": "5. W: Rod, you said you'd take this package to the post office yesterday."
+}, {
+  "StartTime": 192.24,
+  "EndTime": 195.61,
+  "Value": "M: Oh, no, it must have slipped my mind."
+}, {
+  "StartTime": 195.61,
+  "EndTime": 214.71,
+  "Value": "Q: What do we learn about the man from the conversation?"
+}, {
+  "StartTime": 214.71,
+  "EndTime": 219.78,
+  "Value": "6. M: I'm not surprised you didn't like that movie."
+}, {
+  "StartTime": 219.78,
+  "EndTime": 222.38,
+  "Value": "I found it really scary myself."
+}, {
+  "StartTime": 222.38,
+  "EndTime": 227.3,
+  "Value": "W: So did I. I don't care much for horror movies as a rule."
+}, {
+  "StartTime": 227.3,
+  "EndTime": 245.45,
+  "Value": "Q: What do we learn from the conversation?"
+}, {
+  "StartTime": 245.45,
+  "EndTime": 254.1,
+  "Value": "7. M: My life experience tells me that love is filled with happiness but it hurts you, too."
+}, {
+  "StartTime": 254.1,
+  "EndTime": 260.3,
+  "Value": "W: Your words remind me of this saying \"honey is sweet but the bee stings\"."
+}, {
+  "StartTime": 260.3,
+  "EndTime": 279.1,
+  "Value": "Q: What do we learn from the conversation?"
+}, {
+  "StartTime": 279.1,
+  "EndTime": 285.27,
+  "Value": "8. M: How many more chairs should I bring in for the forum,six or seven?"
+}, {
+  "StartTime": 285.27,
+  "EndTime": 287.47,
+  "Value": "W: Bring in all you can find."
+}, {
+  "StartTime": 287.47,
+  "EndTime": 290.86,
+  "Value": "I'm expecting at least 20 participants."
+}, {
+  "StartTime": 290.86,
+  "EndTime": 309.05,
+  "Value": "Q: What are the speakers talking about?"
+}, {
+  "StartTime": 309.05,
+  "EndTime": 313.49,
+  "Value": "Now you'll hear the two long conversations."
+}, {
+  "StartTime": 313.49,
+  "EndTime": 314.67,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 314.67,
+  "EndTime": 319.33,
+  "Value": "M: Do you think there's discrimination against women in England today?"
+}, {
+  "StartTime": 319.33,
+  "EndTime": 326.49,
+  "Value": "W: Certainly. And not just in education and work either, in many other fields as well."
+}, {
+  "StartTime": 326.49,
+  "EndTime": 330.79,
+  "Value": "The tax situation for women is very unfair, for example."
+}, {
+  "StartTime": 330.79,
+  "EndTime": 334.21,
+  "Value": "M: Are women better off in other countries then?"
+}, {
+  "StartTime": 334.21,
+  "EndTime": 336.02,
+  "Value": "W: It depends on the country."
+}, {
+  "StartTime": 336.02,
+  "EndTime": 342.5,
+  "Value": "There's certainly much less discrimination in Scandinavia, and maybe in America, too."
+}, {
+  "StartTime": 342.5,
+  "EndTime": 346.69,
+  "Value": "M: Do you think the position of English women will improve?"
+}, {
+  "StartTime": 346.69,
+  "EndTime": 349.34,
+  "Value": "W: In some ways it will of course."
+}, {
+  "StartTime": 349.34,
+  "EndTime": 354.34,
+  "Value": "I'm sure more women will go out to work in the next 20 years."
+}, {
+  "StartTime": 354.34,
+  "EndTime": 358.65,
+  "Value": "But women have a much greater problem than this to solve."
+}, {
+  "StartTime": 358.65,
+  "EndTime": 360.06,
+  "Value": "M: What's that?"
+}, {
+  "StartTime": 360.06,
+  "EndTime": 362.66,
+  "Value": "W: The problem of men's attitudes."
+}, {
+  "StartTime": 362.66,
+  "EndTime": 369.13,
+  "Value": "We can earn more money in the future, but I'm not sure we can change men's attitudes."
+}, {
+  "StartTime": 369.13,
+  "EndTime": 374.02,
+  "Value": "You see, most men really think that women are inferior."
+}, {
+  "StartTime": 374.02,
+  "EndTime": 379.6,
+  "Value": "Maybe we are physically weaker, but I don't think this means we are inferior."
+}, {
+  "StartTime": 379.6,
+  "EndTime": 382.01,
+  "Value": "Then there's another problem."
+}, {
+  "StartTime": 382.01,
+  "EndTime": 383.07,
+  "Value": "M: Yes?"
+}, {
+  "StartTime": 383.07,
+  "EndTime": 385.52,
+  "Value": "W: The problem of women's attitudes."
+}, {
+  "StartTime": 385.52,
+  "EndTime": 394.03,
+  "Value": "Lots of women are unhappy with their present situation, but most of them probably don't want to fight for change."
+}, {
+  "StartTime": 394.03,
+  "EndTime": 404.31,
+  "Value": "It could be that the women's liberation movement has to spend more time changing women's attitudes than it spends in changing men's."
+}, {
+  "StartTime": 404.31,
+  "EndTime": 406.23,
+  "Value": "M: One last question."
+}, {
+  "StartTime": 406.23,
+  "EndTime": 412.16,
+  "Value": "Some supporters of the women's liberation movement believed that marriages should be abolished."
+}, {
+  "StartTime": 412.16,
+  "EndTime": 413.26,
+  "Value": "You agree?"
+}, {
+  "StartTime": 413.26,
+  "EndTime": 416.5,
+  "Value": "W: No, I don't. It can't happen."
+}, {
+  "StartTime": 416.5,
+  "EndTime": 425.29,
+  "Value": "What may and should happen is that we teach men to spend more time looking after children and doing housework."
+}, {
+  "StartTime": 425.29,
+  "EndTime": 430.78,
+  "Value": "Questions 9 to 11 are based on the conversation you have just heard."
+}, {
+  "StartTime": 430.78,
+  "EndTime": 452.7,
+  "Value": "9. Where are women said to be less discriminated against?"
+}, {
+  "StartTime": 452.7,
+  "EndTime": 474.55,
+  "Value": "10. What will happen in England in 20 years according to the conversation?"
+}, {
+  "StartTime": 474.55,
+  "EndTime": 495.85,
+  "Value": "11. What does the woman think the women's liberation movement should do?"
+}, {
+  "StartTime": 495.85,
+  "EndTime": 497.89,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 497.89,
+  "EndTime": 499.65,
+  "Value": "M: Cheers, Shirley."
+}, {
+  "StartTime": 499.65,
+  "EndTime": 503.79,
+  "Value": "W: Cheers, Paul. What a lovely place for a business lunch."
+}, {
+  "StartTime": 503.79,
+  "EndTime": 506.86,
+  "Value": "I hope I can concentrate in this heat."
+}, {
+  "StartTime": 506.86,
+  "EndTime": 510.39,
+  "Value": "M: I'm sure you will when I tell you about my ideas."
+}, {
+  "StartTime": 510.39,
+  "EndTime": 514.37,
+  "Value": "W: You know, I must say I was pleased to hear from you."
+}, {
+  "StartTime": 514.37,
+  "EndTime": 518.94,
+  "Value": "But from what you said on the phone, everything is so sudden."
+}, {
+  "StartTime": 518.94,
+  "EndTime": 530.87,
+  "Value": "M: Well, my father-in-law, who is also the Managing Director of Jayal Motors, has given me two weeks to prepare a report on the possibility of moving into the export market."
+}, {
+  "StartTime": 530.87,
+  "EndTime": 533.73,
+  "Value": "W: Ah, now, just one thing, Paul."
+}, {
+  "StartTime": 533.73,
+  "EndTime": 536.95,
+  "Value": "Have you really thought the whole idea through?"
+}, {
+  "StartTime": 536.95,
+  "EndTime": 538.29,
+  "Value": "M: Of course, I have."
+}, {
+  "StartTime": 538.29,
+  "EndTime": 545.76,
+  "Value": "W: Now the key thing in the whole operation is to get a good import agent, and you say the bank will help?"
+}, {
+  "StartTime": 545.76,
+  "EndTime": 547.81,
+  "Value": "M: I'm almost sure of it."
+}, {
+  "StartTime": 547.81,
+  "EndTime": 551.09,
+  "Value": "W: Preliminary studies are all very good, Paul."
+}, {
+  "StartTime": 551.09,
+  "EndTime": 556.76,
+  "Value": "But if the product can't sell, then there's little use in expanding the factory."
+}, {
+  "StartTime": 556.76,
+  "EndTime": 559.06,
+  "Value": "M: Yes, I realize that, Shirley."
+}, {
+  "StartTime": 559.06,
+  "EndTime": 560.98,
+  "Value": "But we have a very good product."
+}, {
+  "StartTime": 560.98,
+  "EndTime": 564.94,
+  "Value": "The chief designer has just completed a new improved model."
+}, {
+  "StartTime": 564.94,
+  "EndTime": 572.96,
+  "Value": "W: I know your bikes have a very good reputation here, but you have to build up a reputation and a market in Africa."
+}, {
+  "StartTime": 572.96,
+  "EndTime": 574.46,
+  "Value": "M: Yes, of course."
+}, {
+  "StartTime": 574.46,
+  "EndTime": 580.2,
+  "Value": "But the immediate problem is that my father-in-law wants a detailed report by next Monday."
+}, {
+  "StartTime": 580.2,
+  "EndTime": 585.64,
+  "Value": "Two weeks isn't enough time to prepare a report, so I need your help."
+}, {
+  "StartTime": 585.64,
+  "EndTime": 588.69,
+  "Value": "W: OK, Paul. You've convinced me."
+}, {
+  "StartTime": 588.69,
+  "EndTime": 593.27,
+  "Value": "I must say I admire your determination."
+}, {
+  "StartTime": 593.27,
+  "EndTime": 599.57,
+  "Value": "Questions 12 to 15 are based on the conversation you have just heard."
+}, {
+  "StartTime": 599.57,
+  "EndTime": 620.95,
+  "Value": "12. Where does the conversation most probably take place?"
+}, {
+  "StartTime": 620.95,
+  "EndTime": 642,
+  "Value": "13. What do we learn about the men's father-in-law?"
+}, {
+  "StartTime": 642,
+  "EndTime": 664.41,
+  "Value": "14. What does the woman think is important in the whole operation?"
+}, {
+  "StartTime": 664.41,
+  "EndTime": 684.95,
+  "Value": "15. What does the woman admire in the man?"
+}, {
+  "StartTime": 684.95,
+  "EndTime": 686.34,
+  "Value": "Section B"
+}, {
+  "StartTime": 686.34,
+  "EndTime": 692.74,
+  "Value": "Directions: In this section, you will hear 3 short passages."
+}, {
+  "StartTime": 692.74,
+  "EndTime": 697.09,
+  "Value": "At the end of each passage, you will hear some questions."
+}, {
+  "StartTime": 697.09,
+  "EndTime": 702.22,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 702.22,
+  "EndTime": 712,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 712,
+  "EndTime": 719.24,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 719.24,
+  "EndTime": 720.96,
+  "Value": "Passage One"
+}, {
+  "StartTime": 720.96,
+  "EndTime": 724.92,
+  "Value": "Scientists understand how twins are born."
+}, {
+  "StartTime": 724.92,
+  "EndTime": 732.9,
+  "Value": "Now, though, they are trying to explain how being half of a biological pair influences a twin's identity."
+}, {
+  "StartTime": 732.9,
+  "EndTime": 740.66,
+  "Value": "They want to know why many identical twins make similar choices even when they don't live near each other."
+}, {
+  "StartTime": 740.66,
+  "EndTime": 746.04,
+  "Value": "For example, Jim Springer and Jim Louis are identical twins."
+}, {
+  "StartTime": 746.04,
+  "EndTime": 749.75,
+  "Value": "They were separated when they were only four months old."
+}, {
+  "StartTime": 749.75,
+  "EndTime": 756.32,
+  "Value": "The two Jims grew up in different families and did not meet for 39 years."
+}, {
+  "StartTime": 756.32,
+  "EndTime": 762.06,
+  "Value": "When they finally met, they discovered some surprising similarities between them."
+}, {
+  "StartTime": 762.06,
+  "EndTime": 764.94,
+  "Value": "Both men were married twice."
+}, {
+  "StartTime": 764.94,
+  "EndTime": 770.15,
+  "Value": "Their first wives were named Linda, and their second wives were both named Betty."
+}, {
+  "StartTime": 770.15,
+  "EndTime": 774.34,
+  "Value": "Both twins named their first sons James Allan."
+}, {
+  "StartTime": 774.34,
+  "EndTime": 779.35,
+  "Value": "Scientists want to know what influences our personality."
+}, {
+  "StartTime": 779.35,
+  "EndTime": 787.71,
+  "Value": "They study pairs of identical twins who grew up in different surroundings, like Jim Springer and Jim Louis."
+}, {
+  "StartTime": 787.71,
+  "EndTime": 794.66,
+  "Value": "These twins help scientists understand the connection between environment and biology."
+}, {
+  "StartTime": 794.66,
+  "EndTime": 803.9,
+  "Value": "Researchers at the University of Minnesota studied 350 sets of identical twins who did not grow up together."
+}, {
+  "StartTime": 803.9,
+  "EndTime": 807.78,
+  "Value": "They discovered many similarities in their personalities."
+}, {
+  "StartTime": 807.78,
+  "EndTime": 817.27,
+  "Value": "Scientists believed that personality characteristics such as friendliness, shyness and fears are not a result of environment."
+}, {
+  "StartTime": 817.27,
+  "EndTime": 821.01,
+  "Value": "These characteristics are probably inherited."
+}, {
+  "StartTime": 821.01,
+  "EndTime": 828.71,
+  "Value": "Scientists continue to study identical twins because they are uncertain about them and have many questions."
+}, {
+  "StartTime": 828.71,
+  "EndTime": 834.75,
+  "Value": "For example, they want to know \"Can twins really communicate without speaking?\""
+}, {
+  "StartTime": 834.75,
+  "EndTime": 838.67,
+  "Value": "\"Can one twin really feel another twin's pain?\""
+}, {
+  "StartTime": 838.67,
+  "EndTime": 844.14,
+  "Value": "Perhaps with more research scientists will find the answers."
+}, {
+  "StartTime": 844.14,
+  "EndTime": 850.46,
+  "Value": "Questions 16 to 18 are based on the passage you have just heard."
+}, {
+  "StartTime": 850.46,
+  "EndTime": 873.11,
+  "Value": "16. What are scientists trying to explain according to the passage?"
+}, {
+  "StartTime": 873.11,
+  "EndTime": 893.68,
+  "Value": "17. What do we learn about the twin Jims?"
+}, {
+  "StartTime": 893.68,
+  "EndTime": 918.2,
+  "Value": "18. Why are scientists interested in studying identical twins raised in different families?"
+}, {
+  "StartTime": 918.2,
+  "EndTime": 920.25,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 920.25,
+  "EndTime": 923.77,
+  "Value": "Today I'm going to talk about tents."
+}, {
+  "StartTime": 923.77,
+  "EndTime": 929.3,
+  "Value": "Camping is still one of the cheapest ways of having a holiday."
+}, {
+  "StartTime": 929.3,
+  "EndTime": 939.71,
+  "Value": "And each year, over three million people take camping vacations, either here in Britain or abroad, mostly on the Continent."
+}, {
+  "StartTime": 939.71,
+  "EndTime": 954.4,
+  "Value": "Obviously, camping can't be as comfortable as living in a permanent house, but modern tents can be very comfortable indeed, with windows, bedrooms, kitchens and sitting-rooms."
+}, {
+  "StartTime": 954.4,
+  "EndTime": 964.43,
+  "Value": "The most popular tent sold in Britain is the frame tent with two bedrooms and sleeping accommodation for four people."
+}, {
+  "StartTime": 964.43,
+  "EndTime": 974.01,
+  "Value": "There is usually an outer tent of water-proof fabric and a lighter inner tent or tents with a built-in groundsheet."
+}, {
+  "StartTime": 974.01,
+  "EndTime": 977.1,
+  "Value": "The outer tent fits over the framework."
+}, {
+  "StartTime": 977.1,
+  "EndTime": 981.29,
+  "Value": "This is made of metal poles which are fitted together."
+}, {
+  "StartTime": 981.29,
+  "EndTime": 985.09,
+  "Value": "The inner tent is attached to this frame."
+}, {
+  "StartTime": 985.09,
+  "EndTime": 990.75,
+  "Value": "Generally, the inner tent is about half the area of the outer tent."
+}, {
+  "StartTime": 990.75,
+  "EndTime": 995.08,
+  "Value": "The other half of the outer tent is the living area."
+}, {
+  "StartTime": 995.08,
+  "EndTime": 1002.58,
+  "Value": "This doesn't usually have a groundsheet, but you can buy one to fit, though it costs extra."
+}, {
+  "StartTime": 1002.58,
+  "EndTime": 1011.15,
+  "Value": "The ordinary four-bed frame tent doesn't usually have a separate kitchen area, but the larger ones often do."
+}, {
+  "StartTime": 1011.15,
+  "EndTime": 1022.72,
+  "Value": "You can buy a kitchen extension for many tents, and it's worth buying one if you plan to stay camping in one place for more than a few days."
+}, {
+  "StartTime": 1022.72,
+  "EndTime": 1029.2,
+  "Value": "Questions 19 to 21 are based on the passage you have just heard."
+}, {
+  "StartTime": 1029.2,
+  "EndTime": 1050.06,
+  "Value": "19. What does the speaker say about camping?"
+}, {
+  "StartTime": 1050.06,
+  "EndTime": 1072.52,
+  "Value": "20. What does the passage tell us about the most popular tent sold in Britain?"
+}, {
+  "StartTime": 1072.52,
+  "EndTime": 1098.46,
+  "Value": "21. What does the speaker suggest buying if you plan to stay camping in one place for more than a few days?"
+}, {
+  "StartTime": 1098.46,
+  "EndTime": 1100.17,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1100.17,
+  "EndTime": 1108.41,
+  "Value": "Andorra, one of the smallest countries in the world, is located high in the mountains between France and Spain."
+}, {
+  "StartTime": 1108.41,
+  "EndTime": 1113.29,
+  "Value": "The country covers only 179 square miles."
+}, {
+  "StartTime": 1113.29,
+  "EndTime": 1117.14,
+  "Value": "That is less than half the size of New York City."
+}, {
+  "StartTime": 1117.14,
+  "EndTime": 1120.94,
+  "Value": "High, rocky mountains surround Andorra."
+}, {
+  "StartTime": 1120.94,
+  "EndTime": 1126.31,
+  "Value": "Until the 1930s, travelers had difficulty reaching the country."
+}, {
+  "StartTime": 1126.31,
+  "EndTime": 1132.45,
+  "Value": "Up until that time, people in Andorra lived the way they had lived for centuries."
+}, {
+  "StartTime": 1132.45,
+  "EndTime": 1135.69,
+  "Value": "Most Andorrans worked as farmers."
+}, {
+  "StartTime": 1135.69,
+  "EndTime": 1137.92,
+  "Value": "Things did not change quickly."
+}, {
+  "StartTime": 1137.92,
+  "EndTime": 1146.32,
+  "Value": "When roads were built from France and Spain to Andorra in the 1930s, life picked up speed."
+}, {
+  "StartTime": 1146.32,
+  "EndTime": 1149.51,
+  "Value": "Tourists began to visit the small country."
+}, {
+  "StartTime": 1149.51,
+  "EndTime": 1154.01,
+  "Value": "These tourists brought in a lot of money to spend while visiting."
+}, {
+  "StartTime": 1154.01,
+  "EndTime": 1159.14,
+  "Value": "Many people in Andorra found new jobs in shops or hotels."
+}, {
+  "StartTime": 1159.14,
+  "EndTime": 1163.3,
+  "Value": "These changes helped to keep young people in Andorra."
+}, {
+  "StartTime": 1163.3,
+  "EndTime": 1167.06,
+  "Value": "There were many more jobs than before the roads were built."
+}, {
+  "StartTime": 1167.06,
+  "EndTime": 1172.43,
+  "Value": "Today tourists provide 80 to 90 percent of Andorra's income."
+}, {
+  "StartTime": 1172.43,
+  "EndTime": 1175.17,
+  "Value": "More than a million people visit each year."
+}, {
+  "StartTime": 1175.17,
+  "EndTime": 1177.76,
+  "Value": "They come to view the rough mountains."
+}, {
+  "StartTime": 1177.76,
+  "EndTime": 1180.39,
+  "Value": "They enjoy the quiet way of life."
+}, {
+  "StartTime": 1180.39,
+  "EndTime": 1185.13,
+  "Value": "Most people are also interested in the ancient buildings."
+}, {
+  "StartTime": 1185.13,
+  "EndTime": 1187.98,
+  "Value": "There are many shops for tourists to browse in."
+}, {
+  "StartTime": 1187.98,
+  "EndTime": 1193.84,
+  "Value": "Clothes, watches, wines and other items are sold at low prices in Andorra."
+}, {
+  "StartTime": 1193.84,
+  "EndTime": 1199.17,
+  "Value": "Import fees are low, so tourists enjoy the inexpensive shopping."
+}, {
+  "StartTime": 1199.17,
+  "EndTime": 1204.17,
+  "Value": "Most of the businesses in Andorra are owned by its citizens."
+}, {
+  "StartTime": 1204.17,
+  "EndTime": 1206.91,
+  "Value": "There are not many foreign businesses."
+}, {
+  "StartTime": 1206.91,
+  "EndTime": 1211.08,
+  "Value": "Some Andorrans still farm and raise sheep and cattle."
+}, {
+  "StartTime": 1211.08,
+  "EndTime": 1215.28,
+  "Value": "But most are now involved with the tourist trade."
+}, {
+  "StartTime": 1215.28,
+  "EndTime": 1221.76,
+  "Value": "Questions 22 to 25 are based on the passage you have just heard."
+}, {
+  "StartTime": 1221.76,
+  "EndTime": 1242.91,
+  "Value": "22. How big does the speaker say Andorra is?"
+}, {
+  "StartTime": 1242.91,
+  "EndTime": 1265.48,
+  "Value": "23. What can be said about Andorra before the 1930s?"
+}, {
+  "StartTime": 1265.48,
+  "EndTime": 1287.54,
+  "Value": "24. What event changed the situation in Andorra?"
+}, {
+  "StartTime": 1287.54,
+  "EndTime": 1309.83,
+  "Value": "25. What do most people in Andorra do nowadays?"
+}, {
+  "StartTime": 1309.83,
+  "EndTime": 1311.63,
+  "Value": "Section C"
+}, {
+  "StartTime": 1311.63,
+  "EndTime": 1317.63,
+  "Value": "Directions: In this section, you will hear a passage three times."
+}, {
+  "StartTime": 1317.63,
+  "EndTime": 1324.26,
+  "Value": "When the passage is read for the first time, you should listen carefully for its general idea."
+}, {
+  "StartTime": 1324.26,
+  "EndTime": 1333.53,
+  "Value": "When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard."
+}, {
+  "StartTime": 1333.53,
+  "EndTime": 1340.33,
+  "Value": "Finally, when the passage is read for the third time, you should check what you have written."
+}, {
+  "StartTime": 1340.33,
+  "EndTime": 1343.05,
+  "Value": "Now listen to the passage."
+}, {
+  "StartTime": 1343.05,
+  "EndTime": 1348.81,
+  "Value": "\"Don't take many English courses; they won't help you get a decent job.\""
+}, {
+  "StartTime": 1348.81,
+  "EndTime": 1355.51,
+  "Value": "\"Sign up for management classes, so you'll be ready to join the family business when you graduate.\""
+}, {
+  "StartTime": 1355.51,
+  "EndTime": 1357.18,
+  "Value": "Sound familiar?"
+}, {
+  "StartTime": 1357.18,
+  "EndTime": 1363.81,
+  "Value": "Many of us have heard suggestions like these put forward by parents or others close to us."
+}, {
+  "StartTime": 1363.81,
+  "EndTime": 1367.9,
+  "Value": "Such comments often seem quite reasonable."
+}, {
+  "StartTime": 1367.9,
+  "EndTime": 1373.12,
+  "Value": "Why, then, should suggestions like these be taken with caution?"
+}, {
+  "StartTime": 1373.12,
+  "EndTime": 1377.38,
+  "Value": "The reason is they relate to decisions you should make."
+}, {
+  "StartTime": 1377.38,
+  "EndTime": 1381.32,
+  "Value": "You are the one who must live with their consequences."
+}, {
+  "StartTime": 1381.32,
+  "EndTime": 1387.96,
+  "Value": "One of the worst reasons to follow a particular path in life is that other people want you to."
+}, {
+  "StartTime": 1387.96,
+  "EndTime": 1399.56,
+  "Value": "Decisions that affect your life should be your decisions ---decisions you make after you've considered various alternatives and chosen the path that suits you best."
+}, {
+  "StartTime": 1399.56,
+  "EndTime": 1405.4,
+  "Value": "Making your own decisions does not mean that you should ignore the suggestions of others."
+}, {
+  "StartTime": 1405.4,
+  "EndTime": 1421.18,
+  "Value": "For instance, your parents do have their own unique experiences that may make their advice helpful, and having participated in a great deal of your personal history, they may have a clear view of your strengths and weaknesses."
+}, {
+  "StartTime": 1421.18,
+  "EndTime": 1425.23,
+  "Value": "Still, their views are not necessarily accurate."
+}, {
+  "StartTime": 1425.23,
+  "EndTime": 1430.23,
+  "Value": "They may still see you as a child, in need of care and protection."
+}, {
+  "StartTime": 1430.23,
+  "EndTime": 1433.07,
+  "Value": "Or they may see only your strengths."
+}, {
+  "StartTime": 1433.07,
+  "EndTime": 1438.98,
+  "Value": "Or, in some unfortunate cases, they may focus only on your flaws and shortcomings."
+}, {
+  "StartTime": 1438.98,
+  "EndTime": 1442.38,
+  "Value": "People will always be giving you advice."
+}, {
+  "StartTime": 1442.38,
+  "EndTime": 1447.75,
+  "Value": "Ultimately, though, you have to make your own judgments."
+}, {
+  "StartTime": 1447.75,
+  "EndTime": 1452.14,
+  "Value": "Now the passage will be read again."
+}, {
+  "StartTime": 1452.14,
+  "EndTime": 1458.57,
+  "Value": "\"Don't take many English courses; they won't help you get a decent job.\""
+}, {
+  "StartTime": 1458.57,
+  "EndTime": 1465.73,
+  "Value": "\"Sign up for management classes, so you'll be ready to join the family business when you graduate.\""
+}, {
+  "StartTime": 1465.73,
+  "EndTime": 1467.05,
+  "Value": "Sound familiar?"
+}, {
+  "StartTime": 1467.05,
+  "EndTime": 1474.94,
+  "Value": "Many of us have heard suggestions like these put forward by parents or others close to us."
+}, {
+  "StartTime": 1474.94,
+  "EndTime": 1478.83,
+  "Value": "Such comments often seem quite reasonable."
+}, {
+  "StartTime": 1478.83,
+  "EndTime": 1484.05,
+  "Value": "Why, then, should suggestions like these be taken with caution?"
+}, {
+  "StartTime": 1484.05,
+  "EndTime": 1489.31,
+  "Value": "The reason is they relate to decisions you should make."
+}, {
+  "StartTime": 1489.31,
+  "EndTime": 1493.62,
+  "Value": "You are the one who must live with their consequences."
+}, {
+  "StartTime": 1493.62,
+  "EndTime": 1501.02,
+  "Value": "One of the worst reasons to follow a particular path in life is that other people want you to."
+}, {
+  "StartTime": 1501.02,
+  "EndTime": 1513.63,
+  "Value": "Decisions that affect your life should be your decisions ---decisions you make after you've considered various alternatives and chosen the path that suits you best."
+}, {
+  "StartTime": 1513.63,
+  "EndTime": 1520.43,
+  "Value": "Making your own decisions does not mean that you should ignore the suggestions of others."
+}, {
+  "StartTime": 1520.43,
+  "EndTime": 1538.92,
+  "Value": "For instance, your parents do have their own unique experiences that may make their advice helpful, and having participated in a great deal of your personal history, they may have a clear view of your strengths and weaknesses."
+}, {
+  "StartTime": 1538.92,
+  "EndTime": 1543.38,
+  "Value": "Still, their views are not necessarily accurate."
+}, {
+  "StartTime": 1543.38,
+  "EndTime": 1549.04,
+  "Value": "They may still see you as a child, in need of care and protection."
+}, {
+  "StartTime": 1549.04,
+  "EndTime": 1552.59,
+  "Value": "Or they may see only your strengths."
+}, {
+  "StartTime": 1552.59,
+  "EndTime": 1560.23,
+  "Value": "Or, in some unfortunate cases, they may focus only on your flaws and shortcomings."
+}, {
+  "StartTime": 1560.23,
+  "EndTime": 1563.43,
+  "Value": "People will always be giving you advice."
+}, {
+  "StartTime": 1563.43,
+  "EndTime": 1568.92,
+  "Value": "Ultimately, though, you have to make your own judgments."
+}, {
+  "StartTime": 1568.92,
+  "EndTime": 1574.24,
+  "Value": "Now the passage will be read for the third time."
+}, {
+  "StartTime": 1574.24,
+  "EndTime": 1578.98,
+  "Value": "\"Don't take many English courses; they won't help you get a decent job.\""
+}, {
+  "StartTime": 1578.98,
+  "EndTime": 1585.86,
+  "Value": "\"Sign up for management classes, so you'll be ready to join the family business when you graduate.\""
+}, {
+  "StartTime": 1585.86,
+  "EndTime": 1587.53,
+  "Value": "Sound familiar?"
+}, {
+  "StartTime": 1587.53,
+  "EndTime": 1594.17,
+  "Value": "Many of us have heard suggestions like these put forward by parents or others close to us."
+}, {
+  "StartTime": 1594.17,
+  "EndTime": 1598.11,
+  "Value": "Such comments often seem quite reasonable."
+}, {
+  "StartTime": 1598.11,
+  "EndTime": 1603.54,
+  "Value": "Why, then, should suggestions like these be taken with caution?"
+}, {
+  "StartTime": 1603.54,
+  "EndTime": 1607.59,
+  "Value": "The reason is they relate to decisions you should make."
+}, {
+  "StartTime": 1607.59,
+  "EndTime": 1611.69,
+  "Value": "You are the one who must live with their consequences."
+}, {
+  "StartTime": 1611.69,
+  "EndTime": 1618.42,
+  "Value": "One of the worst reasons to follow a particular path in life is that other people want you to."
+}, {
+  "StartTime": 1618.42,
+  "EndTime": 1629.88,
+  "Value": "Decisions that affect your life should be your decisions ---decisions you make after you've considered various alternatives and chosen the path that suits you best."
+}, {
+  "StartTime": 1629.88,
+  "EndTime": 1635.76,
+  "Value": "Making your own decisions does not mean that you should ignore the suggestions of others."
+}, {
+  "StartTime": 1635.76,
+  "EndTime": 1651.65,
+  "Value": "For instance, your parents do have their own unique experiences that may make their advice helpful, and having participated in a great deal of your personal history, they may have a clear view of your strengths and weaknesses."
+}, {
+  "StartTime": 1651.65,
+  "EndTime": 1655.81,
+  "Value": "Still, their views are not necessarily accurate."
+}, {
+  "StartTime": 1655.81,
+  "EndTime": 1660.62,
+  "Value": "They may still see you as a child, in need of care and protection."
+}, {
+  "StartTime": 1660.62,
+  "EndTime": 1663.46,
+  "Value": "Or they may see only your strengths."
+}, {
+  "StartTime": 1663.46,
+  "EndTime": 1669.55,
+  "Value": "Or, in some unfortunate cases, they may focus only on your flaws and shortcomings."
+}, {
+  "StartTime": 1669.55,
+  "EndTime": 1672.94,
+  "Value": "People will always be giving you advice."
+}, {
+  "StartTime": 1672.94,
+  "EndTime": 1677.9,
+  "Value": "Ultimately, though, you have to make your own judgments."
+}, {
+  "StartTime": 1677.9,
+  "EndTime": 1681.95,
+  "Value": "This is the end of Listening Comprehension."
+}, {
+  "StartTime": 1681.95,
+  "EndTime": 5281.95,
+  "Value": ""
+}]

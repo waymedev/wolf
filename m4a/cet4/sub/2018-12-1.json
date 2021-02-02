@@ -1,0 +1,733 @@
+[{
+  "StartTime": 0.32,
+  "EndTime": 3.08,
+  "Value": "College English Test Band Four"
+}, {
+  "StartTime": 3.08,
+  "EndTime": 6.45,
+  "Value": "Part Ⅱ Listening Comprehension"
+}, {
+  "StartTime": 6.45,
+  "EndTime": 7.93,
+  "Value": "Section A"
+}, {
+  "StartTime": 7.93,
+  "EndTime": 12.89,
+  "Value": "Directions: In this section, you will hear three news reports."
+}, {
+  "StartTime": 12.89,
+  "EndTime": 18.24,
+  "Value": "At the end of each news report, you will hear two or three questions."
+}, {
+  "StartTime": 18.24,
+  "EndTime": 23.32,
+  "Value": "Both the news report and the questions will be spoken only once."
+}, {
+  "StartTime": 23.32,
+  "EndTime": 31.66,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 31.66,
+  "EndTime": 39.18,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 39.18,
+  "EndTime": 54.57,
+  "Value": "News Report One A device that weighs less than one kilogram is part of a mission that will allow scientists to deliver fourth generation or 4G mobile coverage to the moon in 2019."
+}, {
+  "StartTime": 54.57,
+  "EndTime": 61.68,
+  "Value": "If successful, the tiny device will provide the moon with its first-ever mobile phone network."
+}, {
+  "StartTime": 61.68,
+  "EndTime": 69.22,
+  "Value": "The lunar network will support high-definition streaming of video and data between the moon and Earth."
+}, {
+  "StartTime": 69.22,
+  "EndTime": 72.68,
+  "Value": "The network is part of Mission to the Moon."
+}, {
+  "StartTime": 72.68,
+  "EndTime": 79.37,
+  "Value": "This is a project with the goal of landing the first privately paid for mission to the moon."
+}, {
+  "StartTime": 79.37,
+  "EndTime": 89.91,
+  "Value": "The 4G mission is set to launch from Cape Canaveral in the United States on a SpaceX Falcon 9 rocket in 2019."
+}, {
+  "StartTime": 89.91,
+  "EndTime": 98.29,
+  "Value": "Mission to the Moon intends to establish and test the first elements of a communications network on the moon."
+}, {
+  "StartTime": 98.29,
+  "EndTime": 108.03,
+  "Value": "The scientists working on the project opted to build a 4G, rather than a fifth generation or 5G network."
+}, {
+  "StartTime": 108.03,
+  "EndTime": 114.05,
+  "Value": "This is because fifth generation networks are still in testing and trial phases."
+}, {
+  "StartTime": 114.05,
+  "EndTime": 121.8,
+  "Value": "This means that a 5G network may not yet be stable enough to work on the moon's surface."
+}, {
+  "StartTime": 121.8,
+  "EndTime": 123.65,
+  "Value": "Questions 1 and 2 are based"
+}, {
+  "StartTime": 123.65,
+  "EndTime": 126.7,
+  "Value": "on the news report you have just heard."
+}, {
+  "StartTime": 126.7,
+  "EndTime": 145.45,
+  "Value": "1. What are scientists planning to do?"
+}, {
+  "StartTime": 145.45,
+  "EndTime": 166.07,
+  "Value": "2. Why did scientists choose to set up a 4G network in their mission?"
+}, {
+  "StartTime": 166.07,
+  "EndTime": 174.2,
+  "Value": "News Report Two Firefighters responded to a fire Wednesday night at an abandoned mall in Hayward."
+}, {
+  "StartTime": 174.2,
+  "EndTime": 177.82,
+  "Value": "The fire was reported at 9:26 p.m."
+}, {
+  "StartTime": 177.82,
+  "EndTime": 183.24,
+  "Value": "at an old shopping centre on Mission Avenue near Saint Mary's church."
+}, {
+  "StartTime": 183.24,
+  "EndTime": 188.46,
+  "Value": "Six fire engines, two trucks and two chiefs responded to the scene."
+}, {
+  "StartTime": 188.46,
+  "EndTime": 197.16,
+  "Value": "Crews had the fire under control in about 45 minutes and managed to contain the fire to its point of origin."
+}, {
+  "StartTime": 197.16,
+  "EndTime": 204.16,
+  "Value": "There were some people inside the building when the fire broke out, but there were no reports of any injuries."
+}, {
+  "StartTime": 204.16,
+  "EndTime": 211.91,
+  "Value": "Fire investigators have responded to the scene but have not yet determined the cause of the fire."
+}, {
+  "StartTime": 211.91,
+  "EndTime": 219.38,
+  "Value": "Firefighters will remain on the scene until later this morning to ensure that the fire doesn't start up again."
+}, {
+  "StartTime": 219.38,
+  "EndTime": 232.59,
+  "Value": "The shopping mall had not been in use since 2002. In 2014, City Hall developed a plan to knock down the building and replace it with affordable housing."
+}, {
+  "StartTime": 232.59,
+  "EndTime": 237.03,
+  "Value": "However, the plan was dropped due to lack of funds."
+}, {
+  "StartTime": 237.03,
+  "EndTime": 238.86,
+  "Value": "Questions 3 and 4 are based"
+}, {
+  "StartTime": 238.86,
+  "EndTime": 242.17,
+  "Value": "on the news report you have just heard."
+}, {
+  "StartTime": 242.17,
+  "EndTime": 288.72,
+  "Value": "3. What does the news item say about the fire？ 4. What had City Hall planned to do？ News Report Three Potato chips in Japan are being sold for 6 times their normal price."
+}, {
+  "StartTime": 288.72,
+  "EndTime": 296.1,
+  "Value": "This is after the country's main manufacturer stopped sales due to a potato shortage."
+}, {
+  "StartTime": 296.1,
+  "EndTime": 304.48,
+  "Value": "Storms and floods in its main potato-growing region last year caused the worst harvest in more than 3 decades."
+}, {
+  "StartTime": 304.48,
+  "EndTime": 312.39,
+  "Value": "Local media reports suggest Calbee and its main rival Koike-Ya are halting almost 50 products."
+}, {
+  "StartTime": 312.39,
+  "EndTime": 317.46,
+  "Value": "“We don't know when we'll be able to restart,” a company spokesman said."
+}, {
+  "StartTime": 317.46,
+  "EndTime": 322.88,
+  "Value": "Snack lovers are panic buying, and many supermarket shelves are bare."
+}, {
+  "StartTime": 322.88,
+  "EndTime": 330.51,
+  "Value": "Japanese laws limit the amount of imported potatoes that can be used in Japanese-made products."
+}, {
+  "StartTime": 330.51,
+  "EndTime": 336.66,
+  "Value": "Japan says fear of disease is its main reason to block fresh imports."
+}, {
+  "StartTime": 336.66,
+  "EndTime": 342.3,
+  "Value": "It still only allows potatoes from selected US states."
+}, {
+  "StartTime": 342.3,
+  "EndTime": 350.64,
+  "Value": "This is only at certain times and on condition that they are processed at factories based near Japanese ports."
+}, {
+  "StartTime": 350.64,
+  "EndTime": 360.81,
+  "Value": "But global warming has raised the possibility that domestic produce could be seriously affected by rare weather events more often."
+}, {
+  "StartTime": 360.81,
+  "EndTime": 363.02,
+  "Value": "Questions 5 to 7 are based"
+}, {
+  "StartTime": 363.02,
+  "EndTime": 366.33,
+  "Value": "on the news report you have just heard."
+}, {
+  "StartTime": 366.33,
+  "EndTime": 385.02,
+  "Value": "5. What problem is Japan facing?"
+}, {
+  "StartTime": 385.02,
+  "EndTime": 405.05,
+  "Value": "6. Why does Japan limit the import of potatoes?"
+}, {
+  "StartTime": 405.05,
+  "EndTime": 424.77,
+  "Value": "7. What might affect Japanese domestic produce?"
+}, {
+  "StartTime": 424.77,
+  "EndTime": 426.18,
+  "Value": "Section B"
+}, {
+  "StartTime": 426.18,
+  "EndTime": 432.05,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 432.05,
+  "EndTime": 436.3,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 436.3,
+  "EndTime": 441.71,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 441.71,
+  "EndTime": 451.11,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 451.11,
+  "EndTime": 458.55,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 458.55,
+  "EndTime": 460.67,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 460.67,
+  "EndTime": 464.47,
+  "Value": "M: Mr. Brown's lectures are so boring."
+}, {
+  "StartTime": 464.47,
+  "EndTime": 467.41,
+  "Value": "W: Yes, he is not a very exciting speaker."
+}, {
+  "StartTime": 467.41,
+  "EndTime": 469.6,
+  "Value": "But the subject is interesting."
+}, {
+  "StartTime": 469.6,
+  "EndTime": 472.78,
+  "Value": "M: During every one of his lectures, I try to listen."
+}, {
+  "StartTime": 472.78,
+  "EndTime": 479.85,
+  "Value": "I really try, but after about ten minutes, my mind begins to wander and I lose concentration."
+}, {
+  "StartTime": 479.85,
+  "EndTime": 482.73,
+  "Value": "But I see that you seem to be OK."
+}, {
+  "StartTime": 482.73,
+  "EndTime": 485.79,
+  "Value": "How do you stay focused through the entire hour?"
+}, {
+  "StartTime": 485.79,
+  "EndTime": 489.03,
+  "Value": "W: Well, what I do is keep my pen moving."
+}, {
+  "StartTime": 489.03,
+  "EndTime": 490.1,
+  "Value": "M: What do you mean?"
+}, {
+  "StartTime": 490.1,
+  "EndTime": 493.52,
+  "Value": "W: It's a method of active concentration I read about."
+}, {
+  "StartTime": 493.52,
+  "EndTime": 498.66,
+  "Value": "One of the most effective ways to concentrate is to write things down."
+}, {
+  "StartTime": 498.66,
+  "EndTime": 503.15,
+  "Value": "But it has to be done by hand, not typing on a keyboard."
+}, {
+  "StartTime": 503.15,
+  "EndTime": 511.28,
+  "Value": "You see, writing by hand forces you to actually engage with what you are learning in a more physical way."
+}, {
+  "StartTime": 511.28,
+  "EndTime": 513.97,
+  "Value": "M: Do you review your notes afterwards then?"
+}, {
+  "StartTime": 513.97,
+  "EndTime": 516.88,
+  "Value": "W: Sometimes, but that's not important."
+}, {
+  "StartTime": 516.88,
+  "EndTime": 519.79,
+  "Value": "My notes may or may not be useful."
+}, {
+  "StartTime": 519.79,
+  "EndTime": 527.17,
+  "Value": "But the point is that by writing down what Mr. Brown says, I can follow his line of thinking more easily."
+}, {
+  "StartTime": 527.17,
+  "EndTime": 530.87,
+  "Value": "In fact, sometimes I draw a little too."
+}, {
+  "StartTime": 530.87,
+  "EndTime": 533.22,
+  "Value": "M: You draw in class?"
+}, {
+  "StartTime": 533.22,
+  "EndTime": 535.1,
+  "Value": "And that helps you pay attention?"
+}, {
+  "StartTime": 535.1,
+  "EndTime": 537.96,
+  "Value": "W: Yes, honestly, it works for me."
+}, {
+  "StartTime": 537.96,
+  "EndTime": 541.84,
+  "Value": "I just draw little lines and nonsense really."
+}, {
+  "StartTime": 541.84,
+  "EndTime": 544.88,
+  "Value": "It was also in that article I read."
+}, {
+  "StartTime": 544.88,
+  "EndTime": 551.07,
+  "Value": "It can keep the mind active, prevent getting bored and help to concentrate."
+}, {
+  "StartTime": 551.07,
+  "EndTime": 556.04,
+  "Value": "Again, the point is to listen hard while keeping the pen moving."
+}, {
+  "StartTime": 556.04,
+  "EndTime": 560.72,
+  "Value": "If I'm at home and I need to study, what I do is read out loud."
+}, {
+  "StartTime": 560.72,
+  "EndTime": 564.79,
+  "Value": "It has a similar effect to writing by hand."
+}, {
+  "StartTime": 564.79,
+  "EndTime": 569.72,
+  "Value": "It helps memorize information in a physical way."
+}, {
+  "StartTime": 569.72,
+  "EndTime": 571.72,
+  "Value": "Questions 8 to 11 are based"
+}, {
+  "StartTime": 571.72,
+  "EndTime": 575.48,
+  "Value": "on the conversation you have just heard."
+}, {
+  "StartTime": 575.48,
+  "EndTime": 595.6,
+  "Value": "8. What does the man think of Mr. Brown's lectures?"
+}, {
+  "StartTime": 595.6,
+  "EndTime": 615.44,
+  "Value": "9. What does the woman do during Mr. Brown's lectures?"
+}, {
+  "StartTime": 615.44,
+  "EndTime": 634.45,
+  "Value": "10. Why does the woman draw in class?"
+}, {
+  "StartTime": 634.45,
+  "EndTime": 653.49,
+  "Value": "11. What does the woman say about reading out loud?"
+}, {
+  "StartTime": 653.49,
+  "EndTime": 655.37,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 655.37,
+  "EndTime": 658.01,
+  "Value": "M: And where is this?"
+}, {
+  "StartTime": 658.01,
+  "EndTime": 662.28,
+  "Value": "W: These photos are from the Taj Mahal in India."
+}, {
+  "StartTime": 662.28,
+  "EndTime": 665.88,
+  "Value": "We went there about ten years ago for our honeymoon."
+}, {
+  "StartTime": 665.88,
+  "EndTime": 670.47,
+  "Value": "M: Was it romantic？ W: Yeah, the Taj Mahal was a very romantic place."
+}, {
+  "StartTime": 670.47,
+  "EndTime": 677.53,
+  "Value": "The guide told us there is a famous love story behind this building that all Indians learn in school."
+}, {
+  "StartTime": 677.53,
+  "EndTime": 685.88,
+  "Value": "I think it was during the 1600s and the princess at that time died while giving birth to her 14th child."
+}, {
+  "StartTime": 685.88,
+  "EndTime": 694.8,
+  "Value": "The emperor loved the princess so much and was so sad when she died that he ordered the palace to be built in her honor."
+}, {
+  "StartTime": 694.8,
+  "EndTime": 697.81,
+  "Value": "M: Wow, that sounds very romantic."
+}, {
+  "StartTime": 697.81,
+  "EndTime": 699.28,
+  "Value": "It looks amazing."
+}, {
+  "StartTime": 699.28,
+  "EndTime": 701.09,
+  "Value": "W: Yes, it's gorgeous."
+}, {
+  "StartTime": 701.09,
+  "EndTime": 705.09,
+  "Value": "It's also larger in real life than it looks in the photos."
+}, {
+  "StartTime": 705.09,
+  "EndTime": 709.72,
+  "Value": "The building is very tall and there are gardens and a wall around it all."
+}, {
+  "StartTime": 709.72,
+  "EndTime": 713.07,
+  "Value": "It's all built in this white stone."
+}, {
+  "StartTime": 713.07,
+  "EndTime": 716.96,
+  "Value": "And some walls of the building are decorated with jewels."
+}, {
+  "StartTime": 716.96,
+  "EndTime": 719.98,
+  "Value": "M: It must have been very crowded when you were there."
+}, {
+  "StartTime": 719.98,
+  "EndTime": 725.92,
+  "Value": "W: Yes. It's a very famous tourist destination, so there are thousands of visitors every day."
+}, {
+  "StartTime": 725.92,
+  "EndTime": 728.06,
+  "Value": "M: Was the rest of India crowded?"
+}, {
+  "StartTime": 728.06,
+  "EndTime": 731.41,
+  "Value": "W: Yes, very crowded in many cities."
+}, {
+  "StartTime": 731.41,
+  "EndTime": 738.36,
+  "Value": "It was sometimes so crowded that it was difficult to walk along the streets, especially through busy markets."
+}, {
+  "StartTime": 738.36,
+  "EndTime": 740.81,
+  "Value": "And there are so many cars."
+}, {
+  "StartTime": 740.81,
+  "EndTime": 742.8,
+  "Value": "Traffic was terrible."
+}, {
+  "StartTime": 742.8,
+  "EndTime": 744.53,
+  "Value": "But the people are friendly."
+}, {
+  "StartTime": 744.53,
+  "EndTime": 746,
+  "Value": "The culture is amazing."
+}, {
+  "StartTime": 746,
+  "EndTime": 747.8,
+  "Value": "And we had a great time."
+}, {
+  "StartTime": 747.8,
+  "EndTime": 749.4,
+  "Value": "M: What about the food?"
+}, {
+  "StartTime": 749.4,
+  "EndTime": 751.3,
+  "Value": "W: Indian food is great."
+}, {
+  "StartTime": 751.3,
+  "EndTime": 757.38,
+  "Value": "There are lots of different dishes to try, and every region has its own special food."
+}, {
+  "StartTime": 757.38,
+  "EndTime": 759.93,
+  "Value": "Questions 12 to 15 are based"
+}, {
+  "StartTime": 759.93,
+  "EndTime": 763.52,
+  "Value": "on the conversation you have just heard."
+}, {
+  "StartTime": 763.52,
+  "EndTime": 782.43,
+  "Value": "12. For what purpose did the woman go to India?"
+}, {
+  "StartTime": 782.43,
+  "EndTime": 801.21,
+  "Value": "13. Why was the Taj Mahal built?"
+}, {
+  "StartTime": 801.21,
+  "EndTime": 820.45,
+  "Value": "14. What does the woman say about the Taj Mahal?"
+}, {
+  "StartTime": 820.45,
+  "EndTime": 839.73,
+  "Value": "15. What is the woman's impression of Indian cities?"
+}, {
+  "StartTime": 839.73,
+  "EndTime": 841.11,
+  "Value": "Section C"
+}, {
+  "StartTime": 841.11,
+  "EndTime": 846.46,
+  "Value": "Directions: In this section, you will hear three passages."
+}, {
+  "StartTime": 846.46,
+  "EndTime": 851.17,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 851.17,
+  "EndTime": 856.27,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 856.27,
+  "EndTime": 865.72,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 865.72,
+  "EndTime": 873.06,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 873.06,
+  "EndTime": 874.28,
+  "Value": "Passage One"
+}, {
+  "StartTime": 874.28,
+  "EndTime": 891.61,
+  "Value": "A Pew Research Center survey of more than 1,000 Americans conducted in April, 2016, finds that Americans continue to express largely positive views about the current state of their local public libraries."
+}, {
+  "StartTime": 891.61,
+  "EndTime": 899.21,
+  "Value": "For instance, around three quarters say that public libraries provide them with the resources they need."
+}, {
+  "StartTime": 899.21,
+  "EndTime": 916.45,
+  "Value": "And 66% say the closing of their local public library would have a major impact on their community although notably, just 33% say this would have a major impact on them personally or on their family."
+}, {
+  "StartTime": 916.45,
+  "EndTime": 931.55,
+  "Value": "A majority of Americans feel libraries are doing a good job of providing a safe place for people to hang out or spend time as well as opening up educational opportunities for people of all ages."
+}, {
+  "StartTime": 931.55,
+  "EndTime": 945.88,
+  "Value": "And roughly half think their libraries contribute “a lot” to their communities in terms of helping spark creativity among young people and providing a trusted place for people to learn about new technologies."
+}, {
+  "StartTime": 945.88,
+  "EndTime": 958.44,
+  "Value": "As in past Pew Research Center surveys of library use, the April 2016 survey also measured Americans' usage of and engagement with libraries."
+}, {
+  "StartTime": 958.44,
+  "EndTime": 973.18,
+  "Value": "Overall, 53% of Americans, age 16 and older, have had some interaction with a public library in the past year— either through an in-person visit or using a library website."
+}, {
+  "StartTime": 973.18,
+  "EndTime": 986.79,
+  "Value": "Some 48% of adults specifically visited a library in the past 12 months, a modest increase from the 44% who said that in late 2015."
+}, {
+  "StartTime": 986.79,
+  "EndTime": 990.1,
+  "Value": "Questions 16 to 18 are based"
+}, {
+  "StartTime": 990.1,
+  "EndTime": 993.17,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 993.17,
+  "EndTime": 1013.87,
+  "Value": "16. What do most Americans say about local public libraries?"
+}, {
+  "StartTime": 1013.87,
+  "EndTime": 1033.72,
+  "Value": "17. How can local public libraries benefit young people?"
+}, {
+  "StartTime": 1033.72,
+  "EndTime": 1055.6,
+  "Value": "18. What does the 2016 survey show about adult library users?"
+}, {
+  "StartTime": 1055.6,
+  "EndTime": 1056.85,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 1056.85,
+  "EndTime": 1066.35,
+  "Value": "A Savannah cat is a cross breed between a domestic cat and a medium-sized wild African cat called the Serval."
+}, {
+  "StartTime": 1066.35,
+  "EndTime": 1080.2,
+  "Value": "The unusual cross became popular among breeders at the end of the 1990s, and in 2001 the International Cat Association accepted it as a new registered breed."
+}, {
+  "StartTime": 1080.2,
+  "EndTime": 1091.61,
+  "Value": "The Savannahs are tall and slim and can weigh up to 9.1 kilograms, making them one of the largest breeds of cats that people can own."
+}, {
+  "StartTime": 1091.61,
+  "EndTime": 1099.59,
+  "Value": "They have a spotted coat similar to that of many types of wild cats and their ears are very large."
+}, {
+  "StartTime": 1099.59,
+  "EndTime": 1107.17,
+  "Value": "They are also commonly compared to dogs in their loyalty, and can be trained to walk on a lead and to fetch."
+}, {
+  "StartTime": 1107.17,
+  "EndTime": 1112.96,
+  "Value": "An often-noted characteristic of the Savannah is its jumping ability."
+}, {
+  "StartTime": 1112.96,
+  "EndTime": 1117.43,
+  "Value": "They are known to jump on top of doors and high cabinets."
+}, {
+  "StartTime": 1117.43,
+  "EndTime": 1122.55,
+  "Value": "Some can leap about 2.5 metres high from a standing position."
+}, {
+  "StartTime": 1122.55,
+  "EndTime": 1128.72,
+  "Value": "Cats are typically known for being very inquisitive and so are the Savannahs."
+}, {
+  "StartTime": 1128.72,
+  "EndTime": 1132.55,
+  "Value": "They often learn how to open doors and cupboards."
+}, {
+  "StartTime": 1132.55,
+  "EndTime": 1139.52,
+  "Value": "Many Savannah cats do not fear water and will play with or even dive into water."
+}, {
+  "StartTime": 1139.52,
+  "EndTime": 1143.8,
+  "Value": "Some owners even shower with their Savannah cats."
+}, {
+  "StartTime": 1143.8,
+  "EndTime": 1156.89,
+  "Value": "Presenting a water bowl to a Savannah may also prove a challenge, as some will promptly begin to bat all the water out of the bowl until it is empty, using their front paws."
+}, {
+  "StartTime": 1156.89,
+  "EndTime": 1159.43,
+  "Value": "Questions 19 to 21 are based"
+}, {
+  "StartTime": 1159.43,
+  "EndTime": 1162.58,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 1162.58,
+  "EndTime": 1181.55,
+  "Value": "19. What do we learn about the Savannah cat?"
+}, {
+  "StartTime": 1181.55,
+  "EndTime": 1200.95,
+  "Value": "20. What is characteristic of Savannah cats?"
+}, {
+  "StartTime": 1200.95,
+  "EndTime": 1220.67,
+  "Value": "21. What do some people do with their Savannah cats?"
+}, {
+  "StartTime": 1220.67,
+  "EndTime": 1222.76,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1222.76,
+  "EndTime": 1232.63,
+  "Value": "When children start school for the very first time, parents often feel a sense of excitement coupled with a touch of sadness at the end of an era."
+}, {
+  "StartTime": 1232.63,
+  "EndTime": 1244.49,
+  "Value": "This is the start of a new adventure for children: playing and interacting with new friends, sharing, taking turns and settling into a new routine."
+}, {
+  "StartTime": 1244.49,
+  "EndTime": 1252.01,
+  "Value": "But of course, this is not the start of your child's education which in fact began at birth."
+}, {
+  "StartTime": 1252.01,
+  "EndTime": 1256.28,
+  "Value": "Back then, you would have been your child's most influential teachers."
+}, {
+  "StartTime": 1256.28,
+  "EndTime": 1263.54,
+  "Value": "During this time at home, your child would have learned more than at any other period in their life."
+}, {
+  "StartTime": 1263.54,
+  "EndTime": 1273.93,
+  "Value": "During your child's first year in school, much time will be spent in learning to read and they need to know that this is fun and worthwhile."
+}, {
+  "StartTime": 1273.93,
+  "EndTime": 1287.27,
+  "Value": "Your child will naturally copy you, so it is important that you are seen reading and enjoying books, newspapers and magazines rather than just absorbed in screens."
+}, {
+  "StartTime": 1287.27,
+  "EndTime": 1294.25,
+  "Value": "Ultimately, an excellent education should be a close partnership between parents and teachers."
+}, {
+  "StartTime": 1294.25,
+  "EndTime": 1311.79,
+  "Value": "A child's year splits fairly neatly into thirds: a third at school, a third asleep and a third awake at home or on holiday. Irrespective of the quality of a school, a child's home life is of key importance."
+}, {
+  "StartTime": 1311.79,
+  "EndTime": 1316.16,
+  "Value": "It is the determining factor of their academic success."
+}, {
+  "StartTime": 1316.16,
+  "EndTime": 1322.63,
+  "Value": "Your child may have started on a new journey but your work is far from finished."
+}, {
+  "StartTime": 1322.63,
+  "EndTime": 1325.3,
+  "Value": "Questions 22 to 25 are based"
+}, {
+  "StartTime": 1325.3,
+  "EndTime": 1328.51,
+  "Value": "on the passage you have just heard."
+}, {
+  "StartTime": 1328.51,
+  "EndTime": 1348.53,
+  "Value": "22. How do parents feel when their children start going to school?"
+}, {
+  "StartTime": 1348.53,
+  "EndTime": 1368.6,
+  "Value": "23. What does the passage say about children's education?"
+}, {
+  "StartTime": 1368.6,
+  "EndTime": 1389.14,
+  "Value": "24. What should parents do for the success of their children's education?"
+}, {
+  "StartTime": 1389.14,
+  "EndTime": 1411.17,
+  "Value": "25. What does the passage say is the key factor of children's academic success?"
+}, {
+  "StartTime": 1411.17,
+  "EndTime": 5011.17,
+  "Value": "This is the end of listening comprehension."
+}]

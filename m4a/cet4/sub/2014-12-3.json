@@ -1,0 +1,917 @@
+[{
+  "StartTime": 14.65,
+  "EndTime": 18.69,
+  "Value": "College English Test - Band 4"
+}, {
+  "StartTime": 18.69,
+  "EndTime": 22.69,
+  "Value": "Part II  Listening Comprehension"
+}, {
+  "StartTime": 22.69,
+  "EndTime": 24.61,
+  "Value": "Section A"
+}, {
+  "StartTime": 24.61,
+  "EndTime": 33.84,
+  "Value": "Directions: In this section, you will hear 8 short conversations and 2 long conversations."
+}, {
+  "StartTime": 33.84,
+  "EndTime": 40.7,
+  "Value": "At the end of each conversation, one or more questions will be asked about what was said."
+}, {
+  "StartTime": 40.7,
+  "EndTime": 46.19,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 46.19,
+  "EndTime": 50.15,
+  "Value": "After each question there will be a pause."
+}, {
+  "StartTime": 50.15,
+  "EndTime": 61.18,
+  "Value": "During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer."
+}, {
+  "StartTime": 61.18,
+  "EndTime": 69.33,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 69.33,
+  "EndTime": 75.18,
+  "Value": "Now let's begin with the eight short conversations."
+}, {
+  "StartTime": 75.18,
+  "EndTime": 80.53,
+  "Value": "1. M: Today is a bad day for me."
+}, {
+  "StartTime": 80.53,
+  "EndTime": 84.11,
+  "Value": "I fell off a step and twisted my ankle."
+}, {
+  "StartTime": 84.11,
+  "EndTime": 92.74,
+  "Value": "W: Don't worry, usually ankle injuries heal quickly if you stop regular activities for a while."
+}, {
+  "StartTime": 92.74,
+  "EndTime": 110.24,
+  "Value": "Q: What does the woman suggest the man do?"
+}, {
+  "StartTime": 110.24,
+  "EndTime": 114.37,
+  "Value": "2. W: May I see your ticket, please?"
+}, {
+  "StartTime": 114.37,
+  "EndTime": 116.67,
+  "Value": "I think you're sitting in my seat."
+}, {
+  "StartTime": 116.67,
+  "EndTime": 118.71,
+  "Value": "M: Oh, you're right."
+}, {
+  "StartTime": 118.71,
+  "EndTime": 121.15,
+  "Value": "My seat is in the balcony."
+}, {
+  "StartTime": 121.15,
+  "EndTime": 124.07,
+  "Value": "I'm terribly sorry."
+}, {
+  "StartTime": 124.07,
+  "EndTime": 142.32,
+  "Value": "Q: Where does the conversation most probably take place?"
+}, {
+  "StartTime": 142.32,
+  "EndTime": 148.45,
+  "Value": "3. W: Did you hear Jay Smith died in his sleep last night?"
+}, {
+  "StartTime": 148.45,
+  "EndTime": 151.15,
+  "Value": "M: Yes, it's very sad."
+}, {
+  "StartTime": 151.15,
+  "EndTime": 157.24,
+  "Value": "Please let everybody know that whoever wants to may attend the funeral."
+}, {
+  "StartTime": 157.24,
+  "EndTime": 173.6,
+  "Value": "Q: What are the speakers talking about?"
+}, {
+  "StartTime": 173.6,
+  "EndTime": 179.66,
+  "Value": "4. M: Have you taken Professor Yang's exam before?"
+}, {
+  "StartTime": 179.66,
+  "EndTime": 181.64,
+  "Value": "I'm kind of nervous."
+}, {
+  "StartTime": 181.64,
+  "EndTime": 190.59,
+  "Value": "W: Yes. Just concentrate on the important ideas she's talked about in class and ignore the details."
+}, {
+  "StartTime": 190.59,
+  "EndTime": 209.78,
+  "Value": "Q: How does the woman suggest the man prepare for Professor Yang's exam?"
+}, {
+  "StartTime": 209.78,
+  "EndTime": 217.55,
+  "Value": "5. W: I'm so sorry sir, and you'll let me pay to have your jacket cleaned, won't you?"
+}, {
+  "StartTime": 217.55,
+  "EndTime": 218.77,
+  "Value": "M: That's all right."
+}, {
+  "StartTime": 218.77,
+  "EndTime": 221.18,
+  "Value": "It could happen to anyone."
+}, {
+  "StartTime": 221.18,
+  "EndTime": 226.55,
+  "Value": "And I'm sure that coffee doesn't leave lasting marks on clothing."
+}, {
+  "StartTime": 226.55,
+  "EndTime": 243.57,
+  "Value": "Q: What can we infer from the conversation?"
+}, {
+  "StartTime": 243.57,
+  "EndTime": 248.56,
+  "Value": "6. W: Have you seen the movie The Departed?"
+}, {
+  "StartTime": 248.56,
+  "EndTime": 252.57,
+  "Value": "The plot was so complicated that I really got lost."
+}, {
+  "StartTime": 252.57,
+  "EndTime": 260.68,
+  "Value": "M: Yeah, I felt the same, but after I saw it a second time, I could put all the pieces together."
+}, {
+  "StartTime": 260.68,
+  "EndTime": 277.69,
+  "Value": "Q: How did the two speakers find the movie?"
+}, {
+  "StartTime": 277.69,
+  "EndTime": 286.57,
+  "Value": "7. M: I'm really surprised you got an A on the test; you didn't seem to have done a lot of reading."
+}, {
+  "StartTime": 286.57,
+  "EndTime": 290.54,
+  "Value": "W: Now you know why I never missed a lecture."
+}, {
+  "StartTime": 290.54,
+  "EndTime": 307.67,
+  "Value": "Q: What contributes to the woman's high score?"
+}, {
+  "StartTime": 307.67,
+  "EndTime": 313.35,
+  "Value": "8. W: Have you heard about the new digital television system?"
+}, {
+  "StartTime": 313.35,
+  "EndTime": 316.89,
+  "Value": "It let's people get about 500 channels."
+}, {
+  "StartTime": 316.89,
+  "EndTime": 322.24,
+  "Value": "M: Yeah. But I doubt they'll have anything different from what we watch now."
+}, {
+  "StartTime": 322.24,
+  "EndTime": 338.15,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 338.15,
+  "EndTime": 342.44,
+  "Value": "Now you'll hear the two long conversations."
+}, {
+  "StartTime": 342.44,
+  "EndTime": 345.4,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 345.4,
+  "EndTime": 348.29,
+  "Value": "W: Gosh! Have you seen this, Richard?"
+}, {
+  "StartTime": 348.29,
+  "EndTime": 349.56,
+  "Value": "M: Seen what?"
+}, {
+  "StartTime": 349.56,
+  "EndTime": 351.18,
+  "Value": "W: In the paper."
+}, {
+  "StartTime": 351.18,
+  "EndTime": 357.65,
+  "Value": "It says, there is a man going around pretending he's from the electricity board."
+}, {
+  "StartTime": 357.65,
+  "EndTime": 365.23,
+  "Value": "He's been calling at people's homes, saying he's come to check that all their appliances are safe."
+}, {
+  "StartTime": 365.23,
+  "EndTime": 375.91,
+  "Value": "Then he gets a round them to make him a cup of tea, and while they are out of the room he steals their money, handbag, whatever and makes off with it."
+}, {
+  "StartTime": 375.91,
+  "EndTime": 383.84,
+  "Value": "M: But you know, Jane, it's partly their own fault; you should never let anyone like that in unless you're expecting them."
+}, {
+  "StartTime": 383.84,
+  "EndTime": 385.94,
+  "Value": "W: It's all very well to say that."
+}, {
+  "StartTime": 385.94,
+  "EndTime": 396.03,
+  "Value": "But someone comes to the door, and says electricity or gas and you automatically think they are OK, especially if they flash a card to you."
+}, {
+  "StartTime": 396.03,
+  "EndTime": 398.48,
+  "Value": "M: Does this man have an ID then?"
+}, {
+  "StartTime": 398.48,
+  "EndTime": 400.61,
+  "Value": "W: Yes, that's just it."
+}, {
+  "StartTime": 400.61,
+  "EndTime": 405.04,
+  "Value": "It seems he used to work for the electricity board at one time."
+}, {
+  "StartTime": 405.04,
+  "EndTime": 414.66,
+  "Value": "According to the paper the police are warning people especially pensioners not to admit anyone unless they have an appointment."
+}, {
+  "StartTime": 414.66,
+  "EndTime": 416.51,
+  "Value": "It's a bit sad."
+}, {
+  "StartTime": 416.51,
+  "EndTime": 423.1,
+  "Value": "One old lady told them she'd just been to the post office to draw her pension when he called."
+}, {
+  "StartTime": 423.1,
+  "EndTime": 425.9,
+  "Value": "She said he must have followed her home."
+}, {
+  "StartTime": 425.9,
+  "EndTime": 427.81,
+  "Value": "He stole the whole lot."
+}, {
+  "StartTime": 427.81,
+  "EndTime": 429.81,
+  "Value": "M: But what does he look like?"
+}, {
+  "StartTime": 429.81,
+  "EndTime": 432.32,
+  "Value": "Surely they must have a description."
+}, {
+  "StartTime": 432.32,
+  "EndTime": 434.22,
+  "Value": "W: Oh, yes, they have."
+}, {
+  "StartTime": 434.22,
+  "EndTime": 444.87,
+  "Value": "Let's see, in his thirties, tall, bushy dark hair, slight northern accent, sounds a bit like you actually."
+}, {
+  "StartTime": 444.87,
+  "EndTime": 450.61,
+  "Value": "Questions 9 to 12 are based on the conversation you have just heard."
+}, {
+  "StartTime": 450.61,
+  "EndTime": 470.8,
+  "Value": "9. What does the woman want the man to read in the newspaper?"
+}, {
+  "StartTime": 470.8,
+  "EndTime": 493.94,
+  "Value": "10. How did the man mentioned in the newspaper try to win further trust from the victims?"
+}, {
+  "StartTime": 493.94,
+  "EndTime": 512.47,
+  "Value": "11. What is the warning from the police?"
+}, {
+  "StartTime": 512.47,
+  "EndTime": 532.71,
+  "Value": "12. What does the woman speaker tell us about the old lady?"
+}, {
+  "StartTime": 532.71,
+  "EndTime": 536.37,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 536.37,
+  "EndTime": 543.68,
+  "Value": "M: Miss Jones, could you tell me more about your first job with hotel marketing concepts?"
+}, {
+  "StartTime": 543.68,
+  "EndTime": 545.45,
+  "Value": "W: Yes, certainly."
+}, {
+  "StartTime": 545.45,
+  "EndTime": 551.88,
+  "Value": "I was a marketing consultant responsible for marketing 10 UK hotels."
+}, {
+  "StartTime": 551.88,
+  "EndTime": 558.63,
+  "Value": "They were all luxury hotels in a leisure sector, all of a very high standard."
+}, {
+  "StartTime": 558.63,
+  "EndTime": 561.87,
+  "Value": "M: Which markets were you responsible for?"
+}, {
+  "StartTime": 561.87,
+  "EndTime": 564.13,
+  "Value": "W: For Europe and Japan."
+}, {
+  "StartTime": 564.13,
+  "EndTime": 568.28,
+  "Value": "M: I see from your resume that you speak Japanese."
+}, {
+  "StartTime": 568.28,
+  "EndTime": 570.22,
+  "Value": "Have you ever been to Japan?"
+}, {
+  "StartTime": 570.22,
+  "EndTime": 575.18,
+  "Value": "W: Yes, I have, I spent a month in Japan in 2006."
+}, {
+  "StartTime": 575.18,
+  "EndTime": 581.95,
+  "Value": "I met all the key people in the tourist industry, the big tour operators and the tourist organizations."
+}, {
+  "StartTime": 581.95,
+  "EndTime": 585.63,
+  "Value": "As I speak Japanese I had a very big advantage."
+}, {
+  "StartTime": 585.63,
+  "EndTime": 587.41,
+  "Value": "M: Yes, of course."
+}, {
+  "StartTime": 587.41,
+  "EndTime": 591.76,
+  "Value": "Have you had any contact with Japan in your present job?"
+}, {
+  "StartTime": 591.76,
+  "EndTime": 594.05,
+  "Value": "W: Yes, I've had a lot."
+}, {
+  "StartTime": 594.05,
+  "EndTime": 601.73,
+  "Value": "Cruises have become very popular with the Japanese both for holidays and for business conferences."
+}, {
+  "StartTime": 601.73,
+  "EndTime": 608.66,
+  "Value": "In fact, the market for all types of luxury holidays for the Japanese has increased a lot recently."
+}, {
+  "StartTime": 608.66,
+  "EndTime": 619.18,
+  "Value": "M: Really, I'm interested to hear more about that, but first tell me, have you ever traveled on a luxury train, the Orient Express, for example?"
+}, {
+  "StartTime": 619.18,
+  "EndTime": 620.9,
+  "Value": "W: No, I haven't."
+}, {
+  "StartTime": 620.9,
+  "EndTime": 629.31,
+  "Value": "But I've traveled on the Glacier Express to Switzerland and I traveled across China by train about 8 years ago."
+}, {
+  "StartTime": 629.31,
+  "EndTime": 631.21,
+  "Value": "I love train travel."
+}, {
+  "StartTime": 631.21,
+  "EndTime": 635.75,
+  "Value": "That's why I'm very interested in this job."
+}, {
+  "StartTime": 635.75,
+  "EndTime": 642.06,
+  "Value": "Questions 13 to 15 are based on the conversation you have just heard."
+}, {
+  "StartTime": 642.06,
+  "EndTime": 661.33,
+  "Value": "13. What did the woman do in her first job?"
+}, {
+  "StartTime": 661.33,
+  "EndTime": 682.37,
+  "Value": "14. What gave the woman an advantage during her business trip in Japan?"
+}, {
+  "StartTime": 682.37,
+  "EndTime": 701.58,
+  "Value": "15. Why is the woman applying for the new job?"
+}, {
+  "StartTime": 701.58,
+  "EndTime": 703.26,
+  "Value": "Section B"
+}, {
+  "StartTime": 703.26,
+  "EndTime": 709.87,
+  "Value": "Directions: In this section, you will hear 3 short passages."
+}, {
+  "StartTime": 709.87,
+  "EndTime": 714.42,
+  "Value": "At the end of each passage, you will hear some questions."
+}, {
+  "StartTime": 714.42,
+  "EndTime": 719.89,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 719.89,
+  "EndTime": 730.08,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 730.08,
+  "EndTime": 738.43,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 738.43,
+  "EndTime": 741.14,
+  "Value": "Passage One"
+}, {
+  "StartTime": 741.14,
+  "EndTime": 751.44,
+  "Value": "Time I think a lot about time and not just because it's the name of the news organization I work for."
+}, {
+  "StartTime": 751.44,
+  "EndTime": 761.36,
+  "Value": "Like most working people, I find time, or the lack of it, a never-ending frustration and an unwinnable battle."
+}, {
+  "StartTime": 761.36,
+  "EndTime": 767.73,
+  "Value": "My every day is a race against the clock that I never ever seem to win."
+}, {
+  "StartTime": 767.73,
+  "EndTime": 771.26,
+  "Value": "This is hardly a lonesome complaint."
+}, {
+  "StartTime": 771.26,
+  "EndTime": 795.46,
+  "Value": "According to the families and work institutes, national study of the changing workforce, 55 percent of employees say they don't have enough time for themselves, 63 percent don't have enough time for their spouses or partners, and 67 percent don't have enough time for their children."
+}, {
+  "StartTime": 795.46,
+  "EndTime": 798.39,
+  "Value": "It's also not a new complaint."
+}, {
+  "StartTime": 798.39,
+  "EndTime": 811.15,
+  "Value": "I bet our ancestors returned home from hunting wild animals and gathering nuts and complained about how little time they had to paint battle scenes on their cave walls."
+}, {
+  "StartTime": 811.15,
+  "EndTime": 822.05,
+  "Value": "The difference is that the boss of animal hunting and the head of nut gathering probably told them to shut up or no survival for you."
+}, {
+  "StartTime": 822.05,
+  "EndTime": 827.1,
+  "Value": "Today's workers are still demanding control over their time."
+}, {
+  "StartTime": 827.1,
+  "EndTime": 832.26,
+  "Value": "The difference is today's bosses are listening."
+}, {
+  "StartTime": 832.26,
+  "EndTime": 841.76,
+  "Value": "I've been reading a report issued today called \"When Work Works\" produced jointly by three organizations."
+}, {
+  "StartTime": 841.76,
+  "EndTime": 852.82,
+  "Value": "They set up to find and award the employers who employ the most creative and most effective ways to give their workers flexibility."
+}, {
+  "StartTime": 852.82,
+  "EndTime": 860.73,
+  "Value": "I found this report worth reading and suggest every boss should read it for ideas."
+}, {
+  "StartTime": 860.73,
+  "EndTime": 866.37,
+  "Value": "Questions 16 to 18 are based on the passage you have just heard."
+}, {
+  "StartTime": 866.37,
+  "EndTime": 885.63,
+  "Value": "16. What is the speaker complaining about?"
+}, {
+  "StartTime": 885.63,
+  "EndTime": 905.68,
+  "Value": "17. What does the speaker say about our ancestors?"
+}, {
+  "StartTime": 905.68,
+  "EndTime": 928.78,
+  "Value": "18. Why does the speaker suggest all bosses read the report by the three organizations?"
+}, {
+  "StartTime": 928.78,
+  "EndTime": 930.97,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 930.97,
+  "EndTime": 934.78,
+  "Value": "\"Loving a child is a circular business."
+}, {
+  "StartTime": 934.78,
+  "EndTime": 941.84,
+  "Value": "The more you give, the more you get, the more you want to give,\" Penelope Leachwon said."
+}, {
+  "StartTime": 941.84,
+  "EndTime": 947.08,
+  "Value": "What she said proves to be true of my blended family."
+}, {
+  "StartTime": 947.08,
+  "EndTime": 955.25,
+  "Value": "I was born in 1931. As the youngest of six children, I learned to share my parents' love."
+}, {
+  "StartTime": 955.25,
+  "EndTime": 967.3,
+  "Value": "Raising six children during the difficult times of the Great Depression took its toll on my parents' relationship and resulted in their divorce when I was 18 years old."
+}, {
+  "StartTime": 967.3,
+  "EndTime": 976.62,
+  "Value": "Daddy never had very close relationships with his children and drifted even farther away from us after the divorce."
+}, {
+  "StartTime": 976.62,
+  "EndTime": 982.65,
+  "Value": "Several years later, a wonderful woman came into his life and they were married."
+}, {
+  "StartTime": 982.65,
+  "EndTime": 986.52,
+  "Value": "She had two sons, one of them still at home."
+}, {
+  "StartTime": 986.52,
+  "EndTime": 995.46,
+  "Value": "Under her influence, we became a blended family and a good relationship developed between the two families."
+}, {
+  "StartTime": 995.46,
+  "EndTime": 999.92,
+  "Value": "She always treated us as if we were her own children."
+}, {
+  "StartTime": 999.92,
+  "EndTime": 1007.58,
+  "Value": "It was because of our other mother, Daddy's second wife, that he became closer to his own children."
+}, {
+  "StartTime": 1007.58,
+  "EndTime": 1013.48,
+  "Value": "They shared over 25 years together before our father passed away."
+}, {
+  "StartTime": 1013.48,
+  "EndTime": 1021.6,
+  "Value": "At the time of his death, the question came up of my mother, Daddy's first wife, attending his funeral."
+}, {
+  "StartTime": 1021.6,
+  "EndTime": 1026.1,
+  "Value": "I will never forget the unconditional love shown by my step mother."
+}, {
+  "StartTime": 1026.1,
+  "EndTime": 1037.37,
+  "Value": "When I asked her if she would object to mother attending Daddy's funeral, without giving it a second thought, she immediately replied, \"Of course not, honey."
+}, {
+  "StartTime": 1037.37,
+  "EndTime": 1041.22,
+  "Value": "She is the mother of my children.\""
+}, {
+  "StartTime": 1041.22,
+  "EndTime": 1047.18,
+  "Value": "Questions 19 to 21 are based on the passage you have just heard."
+}, {
+  "StartTime": 1047.18,
+  "EndTime": 1068.92,
+  "Value": "19. According to the speaker, what contributed to her parents' divorce?"
+}, {
+  "StartTime": 1068.92,
+  "EndTime": 1088.5,
+  "Value": "20. What brought the father closer to his own children?"
+}, {
+  "StartTime": 1088.5,
+  "EndTime": 1109.14,
+  "Value": "21. What message does the speaker want to convey in this talk?"
+}, {
+  "StartTime": 1109.14,
+  "EndTime": 1112.2,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1112.2,
+  "EndTime": 1117.41,
+  "Value": "In February last year, my wife lost her job."
+}, {
+  "StartTime": 1117.41,
+  "EndTime": 1125.01,
+  "Value": "Just as suddenly, the owner of the greenhouse where I worked as manager died of a heart attack."
+}, {
+  "StartTime": 1125.01,
+  "EndTime": 1132.19,
+  "Value": "His family announced that they were going to close the business because no one in the family wanted to run it."
+}, {
+  "StartTime": 1132.19,
+  "EndTime": 1135.19,
+  "Value": "Things looked pretty gloomy."
+}, {
+  "StartTime": 1135.19,
+  "EndTime": 1139.15,
+  "Value": "My wife and I read the want-ads each day."
+}, {
+  "StartTime": 1139.15,
+  "EndTime": 1149.5,
+  "Value": "Then one morning, as I was hanging a Going Out of Business sign at the greenhouse, the door opened and in walked a customer."
+}, {
+  "StartTime": 1149.5,
+  "EndTime": 1157.33,
+  "Value": "She was an office manager whose company had just moved into the new office park on the edge of town."
+}, {
+  "StartTime": 1157.33,
+  "EndTime": 1162.99,
+  "Value": "She was looking for potted plants to place in the reception areas in offices."
+}, {
+  "StartTime": 1162.99,
+  "EndTime": 1170.91,
+  "Value": "\"I don't know anything about plants,\" she said, \"I am sure in a few weeks, they'll all be dead.\""
+}, {
+  "StartTime": 1170.91,
+  "EndTime": 1176.7,
+  "Value": "While I was helping her select her purchases, my mind was racing."
+}, {
+  "StartTime": 1176.7,
+  "EndTime": 1189.79,
+  "Value": "Perhaps as many as a dozen firms that recently opened offices in the new office park and there were several hundred more acres with construction under way."
+}, {
+  "StartTime": 1189.79,
+  "EndTime": 1194.33,
+  "Value": "That afternoon, I drove up to the office park."
+}, {
+  "StartTime": 1194.33,
+  "EndTime": 1205.96,
+  "Value": "By 6 o'clock that evening, I had signed contracts with 7 companies to rent plants from me and pay me a fee to maintain them."
+}, {
+  "StartTime": 1205.96,
+  "EndTime": 1213.45,
+  "Value": "Within a week, I had worked out an agreement to lease the greenhouse from the owner's family."
+}, {
+  "StartTime": 1213.45,
+  "EndTime": 1216.31,
+  "Value": "Business is now increasing rapidly."
+}, {
+  "StartTime": 1216.31,
+  "EndTime": 1222.18,
+  "Value": "And one day we hope to be the proud owners of the greenhouse."
+}, {
+  "StartTime": 1222.18,
+  "EndTime": 1228.04,
+  "Value": "Questions 22 to 25 are based on the passage you have just heard."
+}, {
+  "StartTime": 1228.04,
+  "EndTime": 1247.02,
+  "Value": "22. What do we learn about the greenhouse?"
+}, {
+  "StartTime": 1247.02,
+  "EndTime": 1267.76,
+  "Value": "23. What was the speaker doing when a customer walked in one morning?"
+}, {
+  "StartTime": 1267.76,
+  "EndTime": 1288.26,
+  "Value": "24. What did the speaker think of when serving the office manager?"
+}, {
+  "StartTime": 1288.26,
+  "EndTime": 1307.72,
+  "Value": "25. What was the speaker's hope for the future?"
+}, {
+  "StartTime": 1307.72,
+  "EndTime": 1309.49,
+  "Value": "Section C"
+}, {
+  "StartTime": 1309.49,
+  "EndTime": 1315.97,
+  "Value": "Directions: In this section, you will hear a passage three times."
+}, {
+  "StartTime": 1315.97,
+  "EndTime": 1322.64,
+  "Value": "When the passage is read for the first time, you should listen carefully for its general idea."
+}, {
+  "StartTime": 1322.64,
+  "EndTime": 1331.99,
+  "Value": "When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard."
+}, {
+  "StartTime": 1331.99,
+  "EndTime": 1339,
+  "Value": "Finally, when the passage is read for the third time, you should check what you have written."
+}, {
+  "StartTime": 1339,
+  "EndTime": 1342.75,
+  "Value": "Now listen to the passage."
+}, {
+  "StartTime": 1342.75,
+  "EndTime": 1350.29,
+  "Value": "We're now witnessing the emergence of an advanced economy based on information and knowledge."
+}, {
+  "StartTime": 1350.29,
+  "EndTime": 1359.42,
+  "Value": "Physical labor, raw materials, and capital are no longer the key ingredients in the creation of wealth."
+}, {
+  "StartTime": 1359.42,
+  "EndTime": 1365.17,
+  "Value": "Now, the vital raw material in our economy is knowledge."
+}, {
+  "StartTime": 1365.17,
+  "EndTime": 1370.94,
+  "Value": "Tomorrow's wealth depends on the development and exchange of knowledge."
+}, {
+  "StartTime": 1370.94,
+  "EndTime": 1377.65,
+  "Value": "And individuals entering the workforce offer their knowledge, not their muscles."
+}, {
+  "StartTime": 1377.65,
+  "EndTime": 1383.47,
+  "Value": "Knowledge workers get paid for their education and their ability to learn."
+}, {
+  "StartTime": 1383.47,
+  "EndTime": 1387.36,
+  "Value": "Knowledge workers engage in mind work."
+}, {
+  "StartTime": 1387.36,
+  "EndTime": 1394.52,
+  "Value": "They deal with symbols: words, figures, and data."
+}, {
+  "StartTime": 1394.52,
+  "EndTime": 1397.57,
+  "Value": "What does all this mean for you?"
+}, {
+  "StartTime": 1397.57,
+  "EndTime": 1408.24,
+  "Value": "As a future knowledge worker, you can expect to be generating, processing, as well as exchanging information."
+}, {
+  "StartTime": 1408.24,
+  "EndTime": 1418.93,
+  "Value": "Currently three out of four jobs involve some form of mind work, and that number will increase sharply in the future."
+}, {
+  "StartTime": 1418.93,
+  "EndTime": 1431.69,
+  "Value": "Management and employees alike will be making decisions in such areas as product development, quality control, and customer satisfaction."
+}, {
+  "StartTime": 1431.69,
+  "EndTime": 1444.88,
+  "Value": "In the new world of work, you can look forward to being in constant training to acquire new skills that will help you keep up with improved technologies and procedures."
+}, {
+  "StartTime": 1444.88,
+  "EndTime": 1449.94,
+  "Value": "You can also expect to be taking greater control of your career."
+}, {
+  "StartTime": 1449.94,
+  "EndTime": 1461.96,
+  "Value": "Gone are the nine-to-five jobs, lifetime security, predictable promotions, and even the conventional workplace, as you are familiar with."
+}, {
+  "StartTime": 1461.96,
+  "EndTime": 1468.11,
+  "Value": "Don't expect the companies will provide you with a clearly-defined career path."
+}, {
+  "StartTime": 1468.11,
+  "EndTime": 1472.02,
+  "Value": "And don't wait for someone to \"empower\" you."
+}, {
+  "StartTime": 1472.02,
+  "EndTime": 1476.63,
+  "Value": "You have to empower yourself."
+}, {
+  "StartTime": 1476.63,
+  "EndTime": 1481.45,
+  "Value": "Now the passage will be read again."
+}, {
+  "StartTime": 1481.45,
+  "EndTime": 1488.71,
+  "Value": "We're now witnessing the emergence of an advanced economy based on information and knowledge."
+}, {
+  "StartTime": 1488.71,
+  "EndTime": 1496.91,
+  "Value": "Physical labor, raw materials, and capital are no longer the key ingredients in the creation of wealth."
+}, {
+  "StartTime": 1496.91,
+  "EndTime": 1502.71,
+  "Value": "Now, the vital raw material in our economy is knowledge."
+}, {
+  "StartTime": 1502.71,
+  "EndTime": 1508.04,
+  "Value": "Tomorrow's wealth depends on the development and exchange of knowledge."
+}, {
+  "StartTime": 1508.04,
+  "EndTime": 1514.82,
+  "Value": "And individuals entering the workforce offer their knowledge, not their muscles."
+}, {
+  "StartTime": 1514.82,
+  "EndTime": 1520.3,
+  "Value": "Knowledge workers get paid for their education and their ability to learn."
+}, {
+  "StartTime": 1520.3,
+  "EndTime": 1523.73,
+  "Value": "Knowledge workers engage in mind work."
+}, {
+  "StartTime": 1523.73,
+  "EndTime": 1529.07,
+  "Value": "They deal with symbols: words, figures, and data."
+}, {
+  "StartTime": 1529.07,
+  "EndTime": 1531.89,
+  "Value": "What does all this mean for you?"
+}, {
+  "StartTime": 1531.89,
+  "EndTime": 1540.45,
+  "Value": "As a future knowledge worker, you can expect to be generating, processing, as well as exchanging information."
+}, {
+  "StartTime": 1540.45,
+  "EndTime": 1550.04,
+  "Value": "Currently three out of four jobs involve some form of mind work, and that number will increase sharply in the future."
+}, {
+  "StartTime": 1550.04,
+  "EndTime": 1564.31,
+  "Value": "Management and employees alike will be making decisions in such areas as product development, quality control, and customer satisfaction."
+}, {
+  "StartTime": 1564.31,
+  "EndTime": 1576.59,
+  "Value": "In the new world of work, you can look forward to being in constant training to acquire new skills that will help you keep up with improved technologies and procedures."
+}, {
+  "StartTime": 1576.59,
+  "EndTime": 1582.18,
+  "Value": "You can also expect to be taking greater control of your career."
+}, {
+  "StartTime": 1582.18,
+  "EndTime": 1593.17,
+  "Value": "Gone are the nine-to-five jobs, lifetime security, predictable promotions, and even the conventional workplace, as you are familiar with."
+}, {
+  "StartTime": 1593.17,
+  "EndTime": 1599.56,
+  "Value": "Don't expect the companies will provide you with a clearly-defined career path."
+}, {
+  "StartTime": 1599.56,
+  "EndTime": 1602.83,
+  "Value": "And don't wait for someone to \"empower\" you."
+}, {
+  "StartTime": 1602.83,
+  "EndTime": 1606.43,
+  "Value": "You have to empower yourself."
+}, {
+  "StartTime": 1606.43,
+  "EndTime": 1611.7,
+  "Value": "Now the passage will be read for the third time."
+}, {
+  "StartTime": 1611.7,
+  "EndTime": 1619.19,
+  "Value": "We're now witnessing the emergence of an advanced economy based on information and knowledge."
+}, {
+  "StartTime": 1619.19,
+  "EndTime": 1628.4,
+  "Value": "Physical labor, raw materials, and capital are no longer the key ingredients in the creation of wealth."
+}, {
+  "StartTime": 1628.4,
+  "EndTime": 1634.15,
+  "Value": "Now, the vital raw material in our economy is knowledge."
+}, {
+  "StartTime": 1634.15,
+  "EndTime": 1639.9,
+  "Value": "Tomorrow's wealth depends on the development and exchange of knowledge."
+}, {
+  "StartTime": 1639.9,
+  "EndTime": 1646.66,
+  "Value": "And individuals entering the workforce offer their knowledge, not their muscles."
+}, {
+  "StartTime": 1646.66,
+  "EndTime": 1652.46,
+  "Value": "Knowledge workers get paid for their education and their ability to learn."
+}, {
+  "StartTime": 1652.46,
+  "EndTime": 1656.39,
+  "Value": "Knowledge workers engage in mind work."
+}, {
+  "StartTime": 1656.39,
+  "EndTime": 1663.53,
+  "Value": "They deal with symbols: words, figures, and data."
+}, {
+  "StartTime": 1663.53,
+  "EndTime": 1666.87,
+  "Value": "What does all this mean for you?"
+}, {
+  "StartTime": 1666.87,
+  "EndTime": 1677.29,
+  "Value": "As a future knowledge worker, you can expect to be generating, processing, as well as exchanging information."
+}, {
+  "StartTime": 1677.29,
+  "EndTime": 1687.92,
+  "Value": "Currently three out of four jobs involve some form of mind work, and that number will increase sharply in the future."
+}, {
+  "StartTime": 1687.92,
+  "EndTime": 1700.29,
+  "Value": "Management and employees alike will be making decisions in such areas as product development, quality control, and customer satisfaction."
+}, {
+  "StartTime": 1700.29,
+  "EndTime": 1713.91,
+  "Value": "In the new world of work, you can look forward to being in constant training to acquire new skills that will help you keep up with improved technologies and procedures."
+}, {
+  "StartTime": 1713.91,
+  "EndTime": 1719.18,
+  "Value": "You can also expect to be taking greater control of your career."
+}, {
+  "StartTime": 1719.18,
+  "EndTime": 1731.06,
+  "Value": "Gone are the nine-to-five jobs, lifetime security, predictable promotions, and even the conventional workplace, as you are familiar with."
+}, {
+  "StartTime": 1731.06,
+  "EndTime": 1737.14,
+  "Value": "Don't expect the companies will provide you with a clearly-defined career path."
+}, {
+  "StartTime": 1737.14,
+  "EndTime": 1741.14,
+  "Value": "And don't wait for someone to \"empower\" you."
+}, {
+  "StartTime": 1741.14,
+  "EndTime": 1746.42,
+  "Value": "You have to empower yourself."
+}, {
+  "StartTime": 1746.42,
+  "EndTime": 1749.59,
+  "Value": "This is the end of Listening Comprehension."
+}, {
+  "StartTime": 1749.59,
+  "EndTime": 5349.59,
+  "Value": ""
+}]

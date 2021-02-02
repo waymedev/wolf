@@ -1,0 +1,777 @@
+[{
+  "StartTime": 1.04,
+  "EndTime": 3.21,
+  "Value": "College English Test Band Four"
+}, {
+  "StartTime": 3.21,
+  "EndTime": 6.61,
+  "Value": "Part Ⅱ Listening Comprehension"
+}, {
+  "StartTime": 6.61,
+  "EndTime": 8.23,
+  "Value": "Section A"
+}, {
+  "StartTime": 8.23,
+  "EndTime": 13.13,
+  "Value": "Directions: In this section, you will hear three news reports."
+}, {
+  "StartTime": 13.13,
+  "EndTime": 18.08,
+  "Value": "At the end of each news report, you will hear two or three questions."
+}, {
+  "StartTime": 18.08,
+  "EndTime": 23.86,
+  "Value": "Both the news report and the questions will be spoken only once."
+}, {
+  "StartTime": 23.86,
+  "EndTime": 32.13,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 32.13,
+  "EndTime": 39.05,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 39.05,
+  "EndTime": 52.32,
+  "Value": "News Report One A 16th century castle in Scotland is close to collapsing after lumps of soil were washed away by floods, threatening its foundations."
+}, {
+  "StartTime": 52.32,
+  "EndTime": 70.1,
+  "Value": "On Sunday, the castle's owner John Gordon, 76, was forced to move out of his property after the River Dee swept away about 60 feet of land, leaving the castle dangerously close to the river, according to the Scottish Daily Record."
+}, {
+  "StartTime": 70.1,
+  "EndTime": 80.87,
+  "Value": "Abergeldie Castle, located in Aberdeenshire,Scotland, was built by Sir Alexander Gordon of Midmar who later became the Earl of Huntly."
+}, {
+  "StartTime": 80.87,
+  "EndTime": 96.57,
+  "Value": "The castle, which is located on 11,700 acres, was leased to members of the royal family between 1848 and 1970, including King Edward VII and George V."
+}, {
+  "StartTime": 96.57,
+  "EndTime": 111.6,
+  "Value": "The Scottish Environment Protection Agency has issued more than 35 flood warnings covering several regions, as Scotland continues to clean up after Storm Frank hit the country last Wednesday."
+}, {
+  "StartTime": 111.6,
+  "EndTime": 119.51,
+  "Value": "\"This means that rivers will rise more slowly, but then stay high for much longer,\" the environmental agency said."
+}, {
+  "StartTime": 119.51,
+  "EndTime": 122.92,
+  "Value": "Questions 1 and 2 are based on the news report"
+}, {
+  "StartTime": 122.92,
+  "EndTime": 124.31,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 124.31,
+  "EndTime": 143.44,
+  "Value": "1. Why did John Gordon move out of Abergeldie Castle?"
+}, {
+  "StartTime": 143.44,
+  "EndTime": 161.97,
+  "Value": "2. What happened in Scotland last Wednesday?"
+}, {
+  "StartTime": 161.97,
+  "EndTime": 182.89,
+  "Value": "News Report Two Rescue efforts were underway Thursday morning for 17 miners who were stuck in an elevator below ground at Cargill rock salt mine near Lansing, New York, according to Marcia Lynch, public information officer with Tompkins County's emergency response department."
+}, {
+  "StartTime": 182.89,
+  "EndTime": 194.96,
+  "Value": "Emergency workers have made contact with the miners via a radio, and they all appear to be uninjured, said Jessica Verfuss, the emergency department's assistant director."
+}, {
+  "StartTime": 194.96,
+  "EndTime": 204.52,
+  "Value": "Crews have managed to provide heat packs and blankets to the miners so that they can keep warm during the rescue operation, Verfuss said."
+}, {
+  "StartTime": 204.52,
+  "EndTime": 211.25,
+  "Value": "Details about what led to the workers' being trapped in the elevator weren't immediately available."
+}, {
+  "StartTime": 211.25,
+  "EndTime": 217.19,
+  "Value": "The mine, along New York's Cayuga Lake, processes salt used for road treatment."
+}, {
+  "StartTime": 217.19,
+  "EndTime": 226.34,
+  "Value": "It produces about 2 million tons of salt that is shipped to more than 1,500 places in the northeastern United States."
+}, {
+  "StartTime": 226.34,
+  "EndTime": 234.73,
+  "Value": "The rock salt mine is one of three operated by Cargill with the other two in Louisiana and Ohio."
+}, {
+  "StartTime": 234.73,
+  "EndTime": 238.83,
+  "Value": "Questions 3 and 4 are based on the news report"
+}, {
+  "StartTime": 238.83,
+  "EndTime": 240.94,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 240.94,
+  "EndTime": 260.6,
+  "Value": "3. What does the news report say about the salt miners?"
+}, {
+  "StartTime": 260.6,
+  "EndTime": 277.66,
+  "Value": "4. What did the rescue team do?"
+}, {
+  "StartTime": 277.66,
+  "EndTime": 292.58,
+  "Value": "News Report Three The U.S.Postal Service announced today that it is considering closing about 3,700 post offices over the next year because of falling revenues."
+}, {
+  "StartTime": 292.58,
+  "EndTime": 305.81,
+  "Value": "Facing an $8.3 billion budget deficit this year, closing post offices is one of several proposals the Postal Service has put forth recently to cut costs."
+}, {
+  "StartTime": 305.81,
+  "EndTime": 318.51,
+  "Value": "Last week, for example, Postmaster General Pat Donahoe announced plans to stop mail delivery on Saturdays, a move he says could save $3 billion annually."
+}, {
+  "StartTime": 318.51,
+  "EndTime": 324.11,
+  "Value": "\"We are losing revenue as we speak,\" Donahoe said.\"We do not want taxpayer money."
+}, {
+  "StartTime": 324.11,
+  "EndTime": 326.25,
+  "Value": "We want to be self-sufficient."
+}, {
+  "StartTime": 326.25,
+  "EndTime": 330.35,
+  "Value": "So like any other business, you have to make choices.\""
+}, {
+  "StartTime": 330.35,
+  "EndTime": 339.72,
+  "Value": "Dean Granholm, the vice president for delivery and post office operations, said the first wave of closings would begin this fall."
+}, {
+  "StartTime": 339.72,
+  "EndTime": 351.48,
+  "Value": "He estimated that about 3,000 postmasters, 500 station managers and between 500 and 1,000 postal clerks could lose their jobs."
+}, {
+  "StartTime": 351.48,
+  "EndTime": 354.43,
+  "Value": "Questions 5 to 7 are based on the news report"
+}, {
+  "StartTime": 354.43,
+  "EndTime": 356.63,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 356.63,
+  "EndTime": 359.3,
+  "Value": "5. What is the U.S."
+}, {
+  "StartTime": 359.3,
+  "EndTime": 374.31,
+  "Value": "Postal Service planning to do?"
+}, {
+  "StartTime": 374.31,
+  "EndTime": 393,
+  "Value": "6. What measure has been planned to save costs?"
+}, {
+  "StartTime": 393,
+  "EndTime": 411.12,
+  "Value": "7. What will happen when the proposed measure comes into effect?"
+}, {
+  "StartTime": 411.12,
+  "EndTime": 412.95,
+  "Value": "Section B"
+}, {
+  "StartTime": 412.95,
+  "EndTime": 419.59,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 419.59,
+  "EndTime": 424.95,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 424.95,
+  "EndTime": 429.89,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 429.89,
+  "EndTime": 439.53,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 439.53,
+  "EndTime": 446.76,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 446.76,
+  "EndTime": 449.21,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 449.21,
+  "EndTime": 452.35,
+  "Value": "M: Mrs.Hampton, we've got trouble in the press room this morning."
+}, {
+  "StartTime": 452.35,
+  "EndTime": 454.44,
+  "Value": "W: Oh dear, what about?"
+}, {
+  "StartTime": 454.44,
+  "EndTime": 457.43,
+  "Value": "M: One of the press operators arrived an hour and a half late."
+}, {
+  "StartTime": 457.43,
+  "EndTime": 459.59,
+  "Value": "W: But that's a straightforward affair."
+}, {
+  "StartTime": 459.59,
+  "EndTime": 461.95,
+  "Value": "He will simply lose part of his pay."
+}, {
+  "StartTime": 461.95,
+  "EndTime": 464.9,
+  "Value": "That's why we have a clock-in system."
+}, {
+  "StartTime": 464.9,
+  "EndTime": 468.27,
+  "Value": "M: But the point is the man was clocked in at 8 o'clock."
+}, {
+  "StartTime": 468.27,
+  "EndTime": 472.79,
+  "Value": "We have John standing by the time clock, and he swears he saw nothing irregular."
+}, {
+  "StartTime": 472.79,
+  "EndTime": 474.55,
+  "Value": "W: Is John reliable?"
+}, {
+  "StartTime": 474.55,
+  "EndTime": 475.8,
+  "Value": "M: Yes, he is."
+}, {
+  "StartTime": 475.8,
+  "EndTime": 478.08,
+  "Value": "That's why we chose him for the job."
+}, {
+  "StartTime": 478.08,
+  "EndTime": 480.45,
+  "Value": "W: Have you spoken to the man who was late?"
+}, {
+  "StartTime": 480.45,
+  "EndTime": 481.41,
+  "Value": "M: Not yet."
+}, {
+  "StartTime": 481.41,
+  "EndTime": 483.84,
+  "Value": "I thought I'd have a word with you first."
+}, {
+  "StartTime": 483.84,
+  "EndTime": 488.16,
+  "Value": "He's a difficult man, and I think there's been some trouble on the shop floor."
+}, {
+  "StartTime": 488.16,
+  "EndTime": 492.02,
+  "Value": "I've got a feeling that trade union representative is behind this."
+}, {
+  "StartTime": 492.02,
+  "EndTime": 497.31,
+  "Value": "The manager told me that Jack Green's been very active around the shop the last few days."
+}, {
+  "StartTime": 497.31,
+  "EndTime": 500.07,
+  "Value": "W: Well, what do you want me to do?"
+}, {
+  "StartTime": 500.07,
+  "EndTime": 506.06,
+  "Value": "M: I was wondering if you'd see Smith— the man who was late— because you are so much better at handling things like this."
+}, {
+  "StartTime": 506.06,
+  "EndTime": 507.4,
+  "Value": "W: Oh, alright."
+}, {
+  "StartTime": 507.4,
+  "EndTime": 508.41,
+  "Value": "I'll see him."
+}, {
+  "StartTime": 508.41,
+  "EndTime": 513.26,
+  "Value": "I must say I agree with you about there being bad feelings in the works."
+}, {
+  "StartTime": 513.26,
+  "EndTime": 521.71,
+  "Value": "I've had the idea for some time that Jack Green's been busy stirring things up in connection with the latest wage claim."
+}, {
+  "StartTime": 521.71,
+  "EndTime": 523.83,
+  "Value": "He's always trying to make trouble."
+}, {
+  "StartTime": 523.83,
+  "EndTime": 527.77,
+  "Value": "Well, I'll get the manager to send Smith up here."
+}, {
+  "StartTime": 527.77,
+  "EndTime": 530.41,
+  "Value": "Questions 8 to 11 are based on the conversation"
+}, {
+  "StartTime": 530.41,
+  "EndTime": 531.65,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 531.65,
+  "EndTime": 551.36,
+  "Value": "8. What will happen to the press operator who was late for work according to the woman?"
+}, {
+  "StartTime": 551.36,
+  "EndTime": 571.06,
+  "Value": "9. What does the man say about John who stands by the time clock?"
+}, {
+  "StartTime": 571.06,
+  "EndTime": 591.08,
+  "Value": "10. Why does the man suggest the woman see the worker who was late?"
+}, {
+  "StartTime": 591.08,
+  "EndTime": 610.71,
+  "Value": "11. What does the woman say about Jack Green?"
+}, {
+  "StartTime": 610.71,
+  "EndTime": 612.52,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 612.52,
+  "EndTime": 618.47,
+  "Value": "W: Our topic today is about something that foreigners nearly always say when they visit Britain."
+}, {
+  "StartTime": 618.47,
+  "EndTime": 621.28,
+  "Value": "It's \"Why are the British so cold?\""
+}, {
+  "StartTime": 621.28,
+  "EndTime": 627,
+  "Value": "And they're talking about the British personality— the famous British “reserve”."
+}, {
+  "StartTime": 627,
+  "EndTime": 629.19,
+  "Value": "It means that we aren't very friendly..."
+}, {
+  "StartTime": 629.19,
+  "EndTime": 630.85,
+  "Value": "we aren't very open."
+}, {
+  "StartTime": 630.85,
+  "EndTime": 632.67,
+  "Value": "M: So, do you think it's true?"
+}, {
+  "StartTime": 632.67,
+  "EndTime": 634.85,
+  "Value": "W: It's a difficult one."
+}, {
+  "StartTime": 634.85,
+  "EndTime": 640.84,
+  "Value": "So many people who visit Britain say it's difficult to make friends with British people."
+}, {
+  "StartTime": 640.84,
+  "EndTime": 644.99,
+  "Value": "They say we're cold, reserved, unfriendly..."
+}, {
+  "StartTime": 644.99,
+  "EndTime": 646.15,
+  "Value": "M: I think it's true."
+}, {
+  "StartTime": 646.15,
+  "EndTime": 648.37,
+  "Value": "Look at Americans or Australians."
+}, {
+  "StartTime": 648.37,
+  "EndTime": 651.46,
+  "Value": "They speak the same language, but they're much more open."
+}, {
+  "StartTime": 651.46,
+  "EndTime": 657.83,
+  "Value": "And you see it when you travel, people—I mean strangers— speak to you on the street or on the train."
+}, {
+  "StartTime": 657.83,
+  "EndTime": 661.88,
+  "Value": "British people seldom speak on the train, or the bus."
+}, {
+  "StartTime": 661.88,
+  "EndTime": 663.5,
+  "Value": "Not in London, anyway."
+}, {
+  "StartTime": 663.5,
+  "EndTime": 666.43,
+  "Value": "W: \"Not in London\". That's it."
+}, {
+  "StartTime": 666.43,
+  "EndTime": 670.29,
+  "Value": "Capital cities are full of tourists and are never friendly."
+}, {
+  "StartTime": 670.29,
+  "EndTime": 673.31,
+  "Value": "People are different in other parts of the country."
+}, {
+  "StartTime": 673.31,
+  "EndTime": 674.6,
+  "Value": "M: Not completely."
+}, {
+  "StartTime": 674.6,
+  "EndTime": 676.91,
+  "Value": "I met a woman once, an Italian."
+}, {
+  "StartTime": 676.91,
+  "EndTime": 685.12,
+  "Value": "She'd been working in Manchester for two years, and no one— not one of her colleagues— had ever invited her to their home."
+}, {
+  "StartTime": 685.12,
+  "EndTime": 688.3,
+  "Value": "They were friendly to her at work, but nothing else."
+}, {
+  "StartTime": 688.3,
+  "EndTime": 689.78,
+  "Value": "She couldn't believe it."
+}, {
+  "StartTime": 689.78,
+  "EndTime": 692.9,
+  "Value": "She said that would never happen in Italy."
+}, {
+  "StartTime": 692.9,
+  "EndTime": 697.95,
+  "Value": "W: You know what they say— \"an Englishman's home is his castle\"."
+}, {
+  "StartTime": 697.95,
+  "EndTime": 700.35,
+  "Value": "It's really difficult to get inside."
+}, {
+  "StartTime": 700.35,
+  "EndTime": 702.6,
+  "Value": "M: Yeah. It's about being private."
+}, {
+  "StartTime": 702.6,
+  "EndTime": 706.37,
+  "Value": "You go home to your house and your garden and you close the door."
+}, {
+  "StartTime": 706.37,
+  "EndTime": 707.43,
+  "Value": "It's your place."
+}, {
+  "StartTime": 707.43,
+  "EndTime": 710.05,
+  "Value": "W: That's why the British don't like flats."
+}, {
+  "StartTime": 710.05,
+  "EndTime": 712.13,
+  "Value": "They prefer to live in houses."
+}, {
+  "StartTime": 712.13,
+  "EndTime": 713.68,
+  "Value": "M: That's true."
+}, {
+  "StartTime": 713.68,
+  "EndTime": 716.76,
+  "Value": "Questions 12 to 15 are based on the conversation"
+}, {
+  "StartTime": 716.76,
+  "EndTime": 718.78,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 718.78,
+  "EndTime": 738.89,
+  "Value": "12. What do foreigners generally think of British people according to the woman?"
+}, {
+  "StartTime": 738.89,
+  "EndTime": 760.22,
+  "Value": "13. What may British people typically do on a train according to the man?"
+}, {
+  "StartTime": 760.22,
+  "EndTime": 780.04,
+  "Value": "14. What does the man say about the Italian woman working in Manchester?"
+}, {
+  "StartTime": 780.04,
+  "EndTime": 799.48,
+  "Value": "15. Why do British people prefer houses to flats?"
+}, {
+  "StartTime": 799.48,
+  "EndTime": 801.43,
+  "Value": "Section C"
+}, {
+  "StartTime": 801.43,
+  "EndTime": 806.79,
+  "Value": "Directions: In this section, you will hear three passages."
+}, {
+  "StartTime": 806.79,
+  "EndTime": 811.94,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 811.94,
+  "EndTime": 816.99,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 816.99,
+  "EndTime": 826.71,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 826.71,
+  "EndTime": 834.37,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 834.37,
+  "EndTime": 836.13,
+  "Value": "Passage One"
+}, {
+  "StartTime": 836.13,
+  "EndTime": 841.34,
+  "Value": "In college, time is scarce, and consequently, very precious."
+}, {
+  "StartTime": 841.34,
+  "EndTime": 846.5,
+  "Value": "At the same time, expenses in college pile up surprisingly quickly."
+}, {
+  "StartTime": 846.5,
+  "EndTime": 857.96,
+  "Value": "A part-time job is a good way to balance costs while ensuring there is enough time left over for both academic subjects and after-class activities."
+}, {
+  "StartTime": 857.96,
+  "EndTime": 866.21,
+  "Value": "If you are a college student looking for a part-time job, the best place to start your job search is right on campus."
+}, {
+  "StartTime": 866.21,
+  "EndTime": 874.27,
+  "Value": "There are tons of on-campus job opportunities, and as a student, you'll automatically be given hiring priority."
+}, {
+  "StartTime": 874.27,
+  "EndTime": 885.64,
+  "Value": "Plus, on-campus jobs eliminate commuting time, and could be a great way to connect with academic and professional resources at your university."
+}, {
+  "StartTime": 885.64,
+  "EndTime": 892.52,
+  "Value": "Check with your school's careers service or employment office for help to find a campus job."
+}, {
+  "StartTime": 892.52,
+  "EndTime": 897.99,
+  "Value": "Of course, there are opportunities for part-time work off-campus, too."
+}, {
+  "StartTime": 897.99,
+  "EndTime": 909.18,
+  "Value": "If you spend a little time digging for the right part-time jobs, you'll save yourself time— when you find a job that leaves you with enough time— to get your school work done, too."
+}, {
+  "StartTime": 909.18,
+  "EndTime": 920.69,
+  "Value": "If you are a college student looking for work but worried you won't have enough time to devote to academic subjects, consider working as a study hall or library monitor."
+}, {
+  "StartTime": 920.69,
+  "EndTime": 928.95,
+  "Value": "Responsibilities generally include supervising study spaces to ensure that a quiet atmosphere is maintained."
+}, {
+  "StartTime": 928.95,
+  "EndTime": 940.33,
+  "Value": "It's a pretty easy job, but one with lots of downtime— which means you'll have plenty of time to catch up on reading, do homework or study for an exam."
+}, {
+  "StartTime": 940.33,
+  "EndTime": 945.06,
+  "Value": "Questions 16 to 18 are based on the passage"
+}, {
+  "StartTime": 945.06,
+  "EndTime": 947.39,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 947.39,
+  "EndTime": 968.88,
+  "Value": "16. What does the speaker say about college students applying for on-campus jobs?"
+}, {
+  "StartTime": 968.88,
+  "EndTime": 989.16,
+  "Value": "17. What can students do to find a campus job according to the speaker?"
+}, {
+  "StartTime": 989.16,
+  "EndTime": 1009.92,
+  "Value": "18. What does the speaker say is a library monitor's responsibility?"
+}, {
+  "StartTime": 1009.92,
+  "EndTime": 1011.66,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 1011.66,
+  "EndTime": 1017.71,
+  "Value": "Agricultural workers in green tea fields near Mt.Kenya are gathering the tea leaves."
+}, {
+  "StartTime": 1017.71,
+  "EndTime": 1019.98,
+  "Value": "It is beautiful to see."
+}, {
+  "StartTime": 1019.98,
+  "EndTime": 1022.41,
+  "Value": "The rows of tea bushes are straight."
+}, {
+  "StartTime": 1022.41,
+  "EndTime": 1024.68,
+  "Value": "All appears to be well."
+}, {
+  "StartTime": 1024.68,
+  "EndTime": 1028.04,
+  "Value": "But the farmers who planted the bushes are worried."
+}, {
+  "StartTime": 1028.04,
+  "EndTime": 1030.42,
+  "Value": "Nelson Kibara is one of them."
+}, {
+  "StartTime": 1030.42,
+  "EndTime": 1035.3,
+  "Value": "He has been growing tea in the Kerugoya area for 40 years."
+}, {
+  "StartTime": 1035.3,
+  "EndTime": 1041.48,
+  "Value": "He says the prices this year have been so low that he has made almost no profit."
+}, {
+  "StartTime": 1041.48,
+  "EndTime": 1046.71,
+  "Value": "He says he must grow different kinds of tea if he is to survive."
+}, {
+  "StartTime": 1046.71,
+  "EndTime": 1058.95,
+  "Value": "Mr.Kibara and hundreds of other farmers have been removing some of their tea bushes and planting a new kind of tea developed by the Tea Research Foundation of Kenya."
+}, {
+  "StartTime": 1058.95,
+  "EndTime": 1062.01,
+  "Value": "It's leaves are purple and brown."
+}, {
+  "StartTime": 1062.01,
+  "EndTime": 1066.19,
+  "Value": "When the tea is boiled, the drink has a purple color."
+}, {
+  "StartTime": 1066.19,
+  "EndTime": 1071.12,
+  "Value": "Medical researchers have studied the health benefits of the new tea."
+}, {
+  "StartTime": 1071.12,
+  "EndTime": 1080.95,
+  "Value": "They say it is healthier than green tea and could be sold for a price that is three to four times higher than the price of green tea."
+}, {
+  "StartTime": 1080.95,
+  "EndTime": 1086.8,
+  "Value": "But Mr.Kibara says he has not received a higher price for his purple tea crop."
+}, {
+  "StartTime": 1086.8,
+  "EndTime": 1090.07,
+  "Value": "He says the market for the tea is unstable."
+}, {
+  "StartTime": 1090.07,
+  "EndTime": 1096.86,
+  "Value": "And he is often forced to sell his purple tea for the same price as green tea leaves."
+}, {
+  "StartTime": 1096.86,
+  "EndTime": 1102.76,
+  "Value": "He says there are not enough buyers willing to pay more for the purple tea."
+}, {
+  "StartTime": 1102.76,
+  "EndTime": 1106.55,
+  "Value": "Questions 19 to 21 are based on the passage"
+}, {
+  "StartTime": 1106.55,
+  "EndTime": 1129.07,
+  "Value": "you have just heard 19. Why have tea farmers in Kenya decided to grow purple tea?"
+}, {
+  "StartTime": 1129.07,
+  "EndTime": 1147.67,
+  "Value": "20. What do researchers say about purple tea?"
+}, {
+  "StartTime": 1147.67,
+  "EndTime": 1166.87,
+  "Value": "21. What does Mr.Kibara find about purple tea?"
+}, {
+  "StartTime": 1166.87,
+  "EndTime": 1169.29,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1169.29,
+  "EndTime": 1176.07,
+  "Value": "Today's consumers want beautiful handcrafted objects to wear and to have for their home environment."
+}, {
+  "StartTime": 1176.07,
+  "EndTime": 1180.46,
+  "Value": "They prefer something unique and they demand quality."
+}, {
+  "StartTime": 1180.46,
+  "EndTime": 1183.87,
+  "Value": "Craftsmen today are meeting this demand."
+}, {
+  "StartTime": 1183.87,
+  "EndTime": 1192.52,
+  "Value": "People and homes are showing great change as more and more unique handcrafted items become available."
+}, {
+  "StartTime": 1192.52,
+  "EndTime": 1194.71,
+  "Value": "Handicrafts are big business."
+}, {
+  "StartTime": 1194.71,
+  "EndTime": 1202.7,
+  "Value": "No longer does a good craftsman have to work in a job he dislikes all day, and then tries to create at night."
+}, {
+  "StartTime": 1202.7,
+  "EndTime": 1204.99,
+  "Value": "He has earned his professional status."
+}, {
+  "StartTime": 1204.99,
+  "EndTime": 1208.68,
+  "Value": "He is now a respected member of society."
+}, {
+  "StartTime": 1208.68,
+  "EndTime": 1211.2,
+  "Value": "Part of the fun of being a craftsman"
+}, {
+  "StartTime": 1211.2,
+  "EndTime": 1213.42,
+  "Value": "is meeting other craftsmen."
+}, {
+  "StartTime": 1213.42,
+  "EndTime": 1220.11,
+  "Value": "They love to share their ideas and materials and help others find markets for their work."
+}, {
+  "StartTime": 1220.11,
+  "EndTime": 1225.22,
+  "Value": "Craftsmen have helped educate consumers to make wise choices."
+}, {
+  "StartTime": 1225.22,
+  "EndTime": 1229.64,
+  "Value": "They help them become aware of design and technique."
+}, {
+  "StartTime": 1229.64,
+  "EndTime": 1233.75,
+  "Value": "They help them relate their choice to its intended use."
+}, {
+  "StartTime": 1233.75,
+  "EndTime": 1238.37,
+  "Value": "They often involve consumers in trying the craft themselves."
+}, {
+  "StartTime": 1238.37,
+  "EndTime": 1244.59,
+  "Value": "When a group of craftsmen expands to include more members, a small craft organization is formed."
+}, {
+  "StartTime": 1244.59,
+  "EndTime": 1257.85,
+  "Value": "Such an organization does a lot in training workshops in special media, crafts marketing techniques, crafts fairs and sales, festivals, TV appearances and demonstrations."
+}, {
+  "StartTime": 1257.85,
+  "EndTime": 1265.5,
+  "Value": "State art councils help sponsor local arts and crafts festivals which draw crowds of tourist consumers."
+}, {
+  "StartTime": 1265.5,
+  "EndTime": 1278.26,
+  "Value": "This boosts the local economy considerably because tourists not only buy crafts, but they also use the restaurants and hotels and other services of the area."
+}, {
+  "StartTime": 1278.26,
+  "EndTime": 1282.68,
+  "Value": "Questions 22 to 25 are based on the passage"
+}, {
+  "StartTime": 1282.68,
+  "EndTime": 1284.99,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 1284.99,
+  "EndTime": 1304.83,
+  "Value": "22. What does the speaker say about today's consumers?"
+}, {
+  "StartTime": 1304.83,
+  "EndTime": 1325.43,
+  "Value": "23. What does the speaker say about good craftsmen in the past?"
+}, {
+  "StartTime": 1325.43,
+  "EndTime": 1343.62,
+  "Value": "24. What do craftsmen help consumers do?"
+}, {
+  "StartTime": 1343.62,
+  "EndTime": 1365.14,
+  "Value": "25. Why do state art councils help sponsor local arts and crafts festivals?"
+}, {
+  "StartTime": 1365.14,
+  "EndTime": 4965.14,
+  "Value": "This is the end of listening comprehension."
+}]

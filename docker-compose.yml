@@ -1,0 +1,29 @@
+version: "3"
+
+services:
+    eng:
+        image: nginx
+        ports:
+            - 23334:80
+        volumes:
+            - ./src:/usr/share/nginx/html
+        net
+        labels:
+            - "traefik.enable=true"
+            - "traefik.docker.network=traefik"
+            - "traefik.http.routers.eng.middlewares=https-redirect@file"
+            - "traefik.http.routers.eng.entrypoints=http"
+            - "traefik.http.routers.eng.rule=Host(`e.cwm.wiki`)"
+            - "traefik.http.routers.eng.service=engbackend"
+            - "traefik.http.routers.eng-ssl.middlewares=content-compress@file"
+            - "traefik.http.routers.eng-ssl.entrypoints=https"
+            - "traefik.http.routers.eng-ssl.tls=true"
+            - "traefik.http.routers.eng-ssl.tls.certresolver=le"
+            - "traefik.http.routers.eng-ssl.rule=Host(`e.cwm.wiki`)"
+            - "traefik.http.routers.eng-ssl.service=engbackend"
+            - "traefik.http.services.engbackend.loadbalancer.server.scheme=http"
+            - "traefik.http.services.engbackend.loadbalancer.server.port=23334"
+
+networks:
+  traefik:
+    external: true

@@ -1,0 +1,945 @@
+[{
+  "StartTime": 14.52,
+  "EndTime": 18.05,
+  "Value": "College English Test - Band 4"
+}, {
+  "StartTime": 18.05,
+  "EndTime": 21.42,
+  "Value": "Part II  Listening Comprehension"
+}, {
+  "StartTime": 21.42,
+  "EndTime": 23.62,
+  "Value": "Section A"
+}, {
+  "StartTime": 23.62,
+  "EndTime": 31.58,
+  "Value": "Directions: In this section, you will hear 8 short conversations and 2 long conversations."
+}, {
+  "StartTime": 31.58,
+  "EndTime": 38.49,
+  "Value": "At the end of each conversation, one or more questions will be asked about what was said."
+}, {
+  "StartTime": 38.49,
+  "EndTime": 43.85,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 43.85,
+  "EndTime": 47.55,
+  "Value": "After each question there will be a pause."
+}, {
+  "StartTime": 47.55,
+  "EndTime": 57.7,
+  "Value": "During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer."
+}, {
+  "StartTime": 57.7,
+  "EndTime": 65.88,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 65.88,
+  "EndTime": 71.02,
+  "Value": "Now let's begin with the eight short conversations."
+}, {
+  "StartTime": 71.02,
+  "EndTime": 77.36,
+  "Value": "1. W: I'm going to give up playing chess. I lost again today."
+}, {
+  "StartTime": 77.36,
+  "EndTime": 81.76,
+  "Value": "M: Just because you lost? Is that any reason to quit?"
+}, {
+  "StartTime": 81.76,
+  "EndTime": 99.42,
+  "Value": "Q: What does the man imply?"
+}, {
+  "StartTime": 99.42,
+  "EndTime": 103.4,
+  "Value": "2. M: Do you know Sally's new address?"
+}, {
+  "StartTime": 103.4,
+  "EndTime": 106.95,
+  "Value": "She's got some mail here, and I'd like to forward it to her."
+}, {
+  "StartTime": 106.95,
+  "EndTime": 110.89,
+  "Value": "W: Well, we've not been in touch for quite a while. Let's see."
+}, {
+  "StartTime": 110.89,
+  "EndTime": 113.05,
+  "Value": "Mary should know it."
+}, {
+  "StartTime": 113.05,
+  "EndTime": 130.67,
+  "Value": "Q: What does the woman mean?"
+}, {
+  "StartTime": 130.67,
+  "EndTime": 134.39,
+  "Value": "3. W: I missed classes this morning."
+}, {
+  "StartTime": 134.39,
+  "EndTime": 136.77,
+  "Value": "Could you please lend me your notes?"
+}, {
+  "StartTime": 136.77,
+  "EndTime": 141.2,
+  "Value": "M: My notes? You've never seen my handwriting, have you?"
+}, {
+  "StartTime": 141.2,
+  "EndTime": 159.58,
+  "Value": "Q: What does the man imply?"
+}, {
+  "StartTime": 159.58,
+  "EndTime": 166.94,
+  "Value": "4. M: I'm taking my girlfriend to the fancy new restaurant for her birthday tonight."
+}, {
+  "StartTime": 166.94,
+  "EndTime": 171.39,
+  "Value": "W: I went there last weekend. I found it rather disappointing."
+}, {
+  "StartTime": 171.39,
+  "EndTime": 188.73,
+  "Value": "Q: What does the woman mean?"
+}, {
+  "StartTime": 188.73,
+  "EndTime": 193.29,
+  "Value": "5. W: Winter is over at last."
+}, {
+  "StartTime": 193.29,
+  "EndTime": 196.29,
+  "Value": "Time to put away my gloves and boots."
+}, {
+  "StartTime": 196.29,
+  "EndTime": 200.23,
+  "Value": "M: I've been waiting for this for months."
+}, {
+  "StartTime": 200.23,
+  "EndTime": 217.65,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 217.65,
+  "EndTime": 222.07,
+  "Value": "6. W: Thank you for bringing the books back."
+}, {
+  "StartTime": 222.07,
+  "EndTime": 225.21,
+  "Value": "M: I thought you'd need them over the weekend."
+}, {
+  "StartTime": 225.21,
+  "EndTime": 228.18,
+  "Value": "Many thanks for letting me use them."
+}, {
+  "StartTime": 228.18,
+  "EndTime": 246.75,
+  "Value": "Q: What do we learn from the conversation?"
+}, {
+  "StartTime": 246.75,
+  "EndTime": 251.37,
+  "Value": "7. W: Are you working flexible hours?"
+}, {
+  "StartTime": 251.37,
+  "EndTime": 261.52,
+  "Value": "M: No, I'm not. The weather today is so nice, so I decided to walk to work, and that meant I had to leave an hour earlier than usual."
+}, {
+  "StartTime": 261.52,
+  "EndTime": 280.08,
+  "Value": "Q: What did the man decide to do?"
+}, {
+  "StartTime": 280.08,
+  "EndTime": 286.7,
+  "Value": "8. W: Our plane has been circling for a long time. Why the delay?"
+}, {
+  "StartTime": 286.7,
+  "EndTime": 292.66,
+  "Value": "M: The airport was closed for a while this morning, and things are still not back to normal."
+}, {
+  "StartTime": 292.66,
+  "EndTime": 310.83,
+  "Value": "Q: What does the man mean?"
+}, {
+  "StartTime": 310.83,
+  "EndTime": 314.71,
+  "Value": "Now you'll hear the two long conversations."
+}, {
+  "StartTime": 314.71,
+  "EndTime": 316.85,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 316.85,
+  "EndTime": 320.03,
+  "Value": "W: Morning, this is TGC!"
+}, {
+  "StartTime": 320.03,
+  "EndTime": 324.07,
+  "Value": "M: Good morning, Walter Barry here, calling from London."
+}, {
+  "StartTime": 324.07,
+  "EndTime": 326.34,
+  "Value": "Could I speak to Mr. Grand, please?"
+}, {
+  "StartTime": 326.34,
+  "EndTime": 328.12,
+  "Value": "W: Who's calling, please?"
+}, {
+  "StartTime": 328.12,
+  "EndTime": 330.29,
+  "Value": "M: Walter Barry, from London."
+}, {
+  "StartTime": 330.29,
+  "EndTime": 332.32,
+  "Value": "W: What is it about, please?"
+}, {
+  "StartTime": 332.32,
+  "EndTime": 337.16,
+  "Value": "M: Well, I understand that your company has a chemical processing plant."
+}, {
+  "StartTime": 337.16,
+  "EndTime": 345.84,
+  "Value": "My own company LCP, Liquid Control Products, is a leader in safety from leaks in the field of chemical processing."
+}, {
+  "StartTime": 345.84,
+  "EndTime": 356.46,
+  "Value": "I would like to speak to Mr. Grand to discuss ways in which we could help TGC protect itself from such problems and save money at the same time."
+}, {
+  "StartTime": 356.46,
+  "EndTime": 361.17,
+  "Value": "W: Yes, I see. Well, Mr. Grand is not available just now."
+}, {
+  "StartTime": 361.17,
+  "EndTime": 363.68,
+  "Value": "M: Can you tell me when I could reach him?"
+}, {
+  "StartTime": 363.68,
+  "EndTime": 366.15,
+  "Value": "W: He's very busy for the next few days."
+}, {
+  "StartTime": 366.15,
+  "EndTime": 367.97,
+  "Value": "Then he'll be away in New York."
+}, {
+  "StartTime": 367.97,
+  "EndTime": 370.54,
+  "Value": "So it's difficult to give you a time."
+}, {
+  "StartTime": 370.54,
+  "EndTime": 372.94,
+  "Value": "M: Could I speak to someone else, perhaps?"
+}, {
+  "StartTime": 372.94,
+  "EndTime": 374.91,
+  "Value": "W: Who, in particular?"
+}, {
+  "StartTime": 374.91,
+  "EndTime": 376.59,
+  "Value": "M: A colleague, for example?"
+}, {
+  "StartTime": 376.59,
+  "EndTime": 379.23,
+  "Value": "W: You're speaking to his personal assistant."
+}, {
+  "StartTime": 379.23,
+  "EndTime": 382.12,
+  "Value": "I can deal with calls for Mr. Grand."
+}, {
+  "StartTime": 382.12,
+  "EndTime": 385.08,
+  "Value": "M: Yes, well, could I ring him tomorrow?"
+}, {
+  "StartTime": 385.08,
+  "EndTime": 388.04,
+  "Value": "W: No, I'm sorry. He won't be free tomorrow."
+}, {
+  "StartTime": 388.04,
+  "EndTime": 390.81,
+  "Value": "Listen, let me suggest something."
+}, {
+  "StartTime": 390.81,
+  "EndTime": 396.67,
+  "Value": "You send us details of your products and services, together with references from other companies."
+}, {
+  "StartTime": 396.67,
+  "EndTime": 398.78,
+  "Value": "And then we will contact you."
+}, {
+  "StartTime": 398.78,
+  "EndTime": 402.57,
+  "Value": "M: Yes, that's very kind of you. I have your address."
+}, {
+  "StartTime": 402.57,
+  "EndTime": 404.17,
+  "Value": "W: Very good, Mr...?"
+}, {
+  "StartTime": 404.17,
+  "EndTime": 408.45,
+  "Value": "M: Barry. Walter Barry, from LCP in London."
+}, {
+  "StartTime": 408.45,
+  "EndTime": 412.63,
+  "Value": "W: Right, Mr. Barry. We look forward to hearing from you."
+}, {
+  "StartTime": 412.63,
+  "EndTime": 414.05,
+  "Value": "M: Thank you, goodbye."
+}, {
+  "StartTime": 414.05,
+  "EndTime": 416.26,
+  "Value": "W: Bye."
+}, {
+  "StartTime": 416.26,
+  "EndTime": 419.94,
+  "Value": "Questions 9 to 12 are based on the conversation"
+}, {
+  "StartTime": 419.94,
+  "EndTime": 422.27,
+  "Value": "you have just heard."
+}, {
+  "StartTime": 422.27,
+  "EndTime": 442.09,
+  "Value": "9. What do we learn about the woman's company?"
+}, {
+  "StartTime": 442.09,
+  "EndTime": 461.56,
+  "Value": "10. What do we learn about the man?"
+}, {
+  "StartTime": 461.56,
+  "EndTime": 482.81,
+  "Value": "11. What is the woman's position in her company?"
+}, {
+  "StartTime": 482.81,
+  "EndTime": 502.58,
+  "Value": "12. What does the woman suggest the man do?"
+}, {
+  "StartTime": 502.58,
+  "EndTime": 505.17,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 505.17,
+  "EndTime": 511.86,
+  "Value": "M: Miss Yamada, did you ever think that you would find yourself living and working in the western world?"
+}, {
+  "StartTime": 511.86,
+  "EndTime": 518.08,
+  "Value": "W: No, not really, although I've always listened to recordings of great orchestras from Europe."
+}, {
+  "StartTime": 518.08,
+  "EndTime": 521.94,
+  "Value": "M: So you enjoyed classical music even when you were very young?"
+}, {
+  "StartTime": 521.94,
+  "EndTime": 524.71,
+  "Value": "W: Oh, yes. I was an only child."
+}, {
+  "StartTime": 524.71,
+  "EndTime": 528.39,
+  "Value": "M: You were born in 1955. Is that right?"
+}, {
+  "StartTime": 528.39,
+  "EndTime": 532.99,
+  "Value": "W: Yes. I began violin lessons at school when I was six."
+}, {
+  "StartTime": 532.99,
+  "EndTime": 535.79,
+  "Value": "M: As young as that. Did you like it?"
+}, {
+  "StartTime": 535.79,
+  "EndTime": 538.32,
+  "Value": "W: Oh, yes, very much."
+}, {
+  "StartTime": 538.32,
+  "EndTime": 540.74,
+  "Value": "M: When did you first play on your own?"
+}, {
+  "StartTime": 540.74,
+  "EndTime": 544.81,
+  "Value": "I mean, when did you give your first performance?"
+}, {
+  "StartTime": 544.81,
+  "EndTime": 548.5,
+  "Value": "W: I think I was eight...? No, nine."
+}, {
+  "StartTime": 548.5,
+  "EndTime": 551,
+  "Value": "I just had my birthday a week before."
+}, {
+  "StartTime": 551,
+  "EndTime": 553.93,
+  "Value": "And my father had bought me a new violin."
+}, {
+  "StartTime": 553.93,
+  "EndTime": 557.67,
+  "Value": "I played a small piece at the school concert."
+}, {
+  "StartTime": 557.67,
+  "EndTime": 561.77,
+  "Value": "M: Did you know then that you would become a professional violinist?"
+}, {
+  "StartTime": 561.77,
+  "EndTime": 571.8,
+  "Value": "W: Yes, I think so. I enjoy playing the violin very much, and I didn't mind practicing, sometimes three or four hours a day."
+}, {
+  "StartTime": 571.8,
+  "EndTime": 574.18,
+  "Value": "M: And when did you first come to Europe?"
+}, {
+  "StartTime": 574.18,
+  "EndTime": 575.68,
+  "Value": "W: I was very lucky."
+}, {
+  "StartTime": 575.68,
+  "EndTime": 580.16,
+  "Value": "When I was fifteen, I won a scholarship to a college in Paris."
+}, {
+  "StartTime": 580.16,
+  "EndTime": 582.84,
+  "Value": "That was for a three-year course."
+}, {
+  "StartTime": 582.84,
+  "EndTime": 585.57,
+  "Value": "M: How did your parents feel about that?"
+}, {
+  "StartTime": 585.57,
+  "EndTime": 589.56,
+  "Value": "W: I think they were pleased and worried at the same time."
+}, {
+  "StartTime": 589.56,
+  "EndTime": 592.03,
+  "Value": "It was the chance of a lifetime."
+}, {
+  "StartTime": 592.03,
+  "EndTime": 595.81,
+  "Value": "But of course I would be thousands of miles from home."
+}, {
+  "StartTime": 595.81,
+  "EndTime": 603.04,
+  "Value": "Anyway, I studied in Paris for three years and then went back to Tokyo."
+}, {
+  "StartTime": 603.04,
+  "EndTime": 609.51,
+  "Value": "Questions 13 to 15 are based on the conversation you have just heard."
+}, {
+  "StartTime": 609.51,
+  "EndTime": 631.53,
+  "Value": "13. What do we know about the woman before she went to Europe?"
+}, {
+  "StartTime": 631.53,
+  "EndTime": 652.84,
+  "Value": "14. What does the woman say about her music experience?"
+}, {
+  "StartTime": 652.84,
+  "EndTime": 674.54,
+  "Value": "15. What does the woman say about her study in Paris?"
+}, {
+  "StartTime": 674.54,
+  "EndTime": 675.69,
+  "Value": "Section B"
+}, {
+  "StartTime": 675.69,
+  "EndTime": 681.39,
+  "Value": "Directions: In this section, you will hear 3 short passages."
+}, {
+  "StartTime": 681.39,
+  "EndTime": 685.47,
+  "Value": "At the end of each passage, you will hear some questions."
+}, {
+  "StartTime": 685.47,
+  "EndTime": 689.85,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 689.85,
+  "EndTime": 698.83,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 698.83,
+  "EndTime": 707.64,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 707.64,
+  "EndTime": 709.88,
+  "Value": "Passage One"
+}, {
+  "StartTime": 709.88,
+  "EndTime": 712.86,
+  "Value": "What makes a person famous?"
+}, {
+  "StartTime": 712.86,
+  "EndTime": 717.1,
+  "Value": "This is a mystery that many people have carefully thought about."
+}, {
+  "StartTime": 717.1,
+  "EndTime": 721.41,
+  "Value": "All kinds of myths surround the lives of well-known people."
+}, {
+  "StartTime": 721.41,
+  "EndTime": 730.43,
+  "Value": "Most people are familiar with the works of William Shakespeare, one of the greatest Eng1ish writers of the sixteenth and seventeenth centuries."
+}, {
+  "StartTime": 730.43,
+  "EndTime": 736.01,
+  "Value": "Yet how many know Shakespeare, the person, the man behind the works?"
+}, {
+  "StartTime": 736.01,
+  "EndTime": 742.74,
+  "Value": "After centuries of research, scholars are still trying to discover Shakespeare's personal history."
+}, {
+  "StartTime": 742.74,
+  "EndTime": 745.81,
+  "Value": "It is not easily found in his writings."
+}, {
+  "StartTime": 745.81,
+  "EndTime": 749.61,
+  "Value": "Authors of the time could not protect their works."
+}, {
+  "StartTime": 749.61,
+  "EndTime": 754.53,
+  "Value": "An acting company, for example, could change a play if they wanted to."
+}, {
+  "StartTime": 754.53,
+  "EndTime": 759.28,
+  "Value": "Nowadays writers have copyrights that protect their work."
+}, {
+  "StartTime": 759.28,
+  "EndTime": 762.3,
+  "Value": "Many myths arose about Shakespeare."
+}, {
+  "StartTime": 762.3,
+  "EndTime": 765.82,
+  "Value": "Some said he had no formal education."
+}, {
+  "StartTime": 765.82,
+  "EndTime": 771.68,
+  "Value": "Others believe that he began his career by tending the horses of wealthy men."
+}, {
+  "StartTime": 771.68,
+  "EndTime": 775.96,
+  "Value": "All of these myths are interesting, but are they true?"
+}, {
+  "StartTime": 775.96,
+  "EndTime": 777.4,
+  "Value": "Probably not."
+}, {
+  "StartTime": 777.4,
+  "EndTime": 784.03,
+  "Value": "Shakespeare's father was a respected man in Stratford-on-Avon, a member of the town council."
+}, {
+  "StartTime": 784.03,
+  "EndTime": 786.73,
+  "Value": "He sent young William to grammar school."
+}, {
+  "StartTime": 786.73,
+  "EndTime": 796,
+  "Value": "Most people of Elizabethan times did not continue beyond grammar school; so Shakespeare did have at least an average education."
+}, {
+  "StartTime": 796,
+  "EndTime": 800.55,
+  "Value": "Some parts of Shakespeare's life will always remain unknown."
+}, {
+  "StartTime": 800.55,
+  "EndTime": 809.3,
+  "Value": "The Great London Fire of 1666 burned many important documents that could have been a source of clues."
+}, {
+  "StartTime": 809.3,
+  "EndTime": 815.39,
+  "Value": "We will always be left with many questions and few facts."
+}, {
+  "StartTime": 815.39,
+  "EndTime": 820.93,
+  "Value": "Questions 16 to 18 are based on the passage you have just heard."
+}, {
+  "StartTime": 820.93,
+  "EndTime": 842.39,
+  "Value": "16. What does the speaker say about William Shakespeare?"
+}, {
+  "StartTime": 842.39,
+  "EndTime": 862.64,
+  "Value": "17. What do we learn about Shakespeare's father?"
+}, {
+  "StartTime": 862.64,
+  "EndTime": 885.4,
+  "Value": "18. Why does the speaker say parts of Shakespeare's life will remain a mystery?"
+}, {
+  "StartTime": 885.4,
+  "EndTime": 887.2,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 887.2,
+  "EndTime": 893.08,
+  "Value": "Wherever you go and for whatever reason, it's important to be safe."
+}, {
+  "StartTime": 893.08,
+  "EndTime": 902.68,
+  "Value": "While the majority of people you meet when travelling are sure to be friendly and welcoming, there are dangers ---theft being the most common."
+}, {
+  "StartTime": 902.68,
+  "EndTime": 908.91,
+  "Value": "Just as in your home country, do not expect everyone you meet to be friendly and helpful."
+}, {
+  "StartTime": 908.91,
+  "EndTime": 915.53,
+  "Value": "It's important to prepare for your trip in advance and to take precautions while you are travelling."
+}, {
+  "StartTime": 915.53,
+  "EndTime": 919.91,
+  "Value": "As you prepare for your trip, make sure you have the right paperwork."
+}, {
+  "StartTime": 919.91,
+  "EndTime": 928.92,
+  "Value": "You don't want to get to your destination, only to find you have the wrong visa, or worse, that your passport isn't valid anymore."
+}, {
+  "StartTime": 928.92,
+  "EndTime": 939.01,
+  "Value": "Also, make sure you travel with proper medical insurance, so that if you're sick or injured during your travels, you'll be able to get treatment."
+}, {
+  "StartTime": 939.01,
+  "EndTime": 945.68,
+  "Value": "If you want to drive while you are abroad, make sure you have an international driver's license."
+}, {
+  "StartTime": 945.68,
+  "EndTime": 950.01,
+  "Value": "When you get to your destination, use official transport."
+}, {
+  "StartTime": 950.01,
+  "EndTime": 952.55,
+  "Value": "Always go to bus and taxi stands."
+}, {
+  "StartTime": 952.55,
+  "EndTime": 955.93,
+  "Value": "Don't accept rides from strangers who offer you a lift."
+}, {
+  "StartTime": 955.93,
+  "EndTime": 961.04,
+  "Value": "If there's no meter in the taxi, agree on a price before you get in."
+}, {
+  "StartTime": 961.04,
+  "EndTime": 968.74,
+  "Value": "If you prefer to stay in cheap hotels while travelling, make sure you can lock the door of your room from the inside."
+}, {
+  "StartTime": 968.74,
+  "EndTime": 971.99,
+  "Value": "Finally, remember to smile."
+}, {
+  "StartTime": 971.99,
+  "EndTime": 976.25,
+  "Value": "It's the friendliest and most sincere form of communication."
+}, {
+  "StartTime": 976.25,
+  "EndTime": 981.23,
+  "Value": "And it is sure to be understood in any part of the world."
+}, {
+  "StartTime": 981.23,
+  "EndTime": 987.17,
+  "Value": "Questions 19 to 21 are based on the passage you have just heard."
+}, {
+  "StartTime": 987.17,
+  "EndTime": 1010.13,
+  "Value": "19. What is mentioned as a most common danger when people go travelling abroad?"
+}, {
+  "StartTime": 1010.13,
+  "EndTime": 1032.6,
+  "Value": "20. What is the most important thing to do when you prepare for your trip abroad?"
+}, {
+  "StartTime": 1032.6,
+  "EndTime": 1056.19,
+  "Value": "21. What does the speaker suggest you do when you arrive at your destination?"
+}, {
+  "StartTime": 1056.19,
+  "EndTime": 1058.55,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1058.55,
+  "EndTime": 1071.2,
+  "Value": "The British are supposed to be famous for laughing at themselves, but even their sense of humour has a limit, as the British retailer Gerald Ratner found out to his cost."
+}, {
+  "StartTime": 1071.2,
+  "EndTime": 1081.33,
+  "Value": "When Ratner took over his father's chain of 130 jewelry shops in 1984, he introduced a very clear company policy."
+}, {
+  "StartTime": 1081.33,
+  "EndTime": 1088.18,
+  "Value": "He decided that his shops should sell down market products at the lowest possible prices."
+}, {
+  "StartTime": 1088.18,
+  "EndTime": 1090.57,
+  "Value": "It was a great success."
+}, {
+  "StartTime": 1090.57,
+  "EndTime": 1096.96,
+  "Value": "The British public loved his cheap gold earrings and his tasteless silver ornaments."
+}, {
+  "StartTime": 1096.96,
+  "EndTime": 1107.5,
+  "Value": "By 1991, Ratner's company had 2,400 shops and it was worth over 680 million pounds."
+}, {
+  "StartTime": 1107.5,
+  "EndTime": 1113.09,
+  "Value": "But in April of that year, Gerald Ratner made a big mistake."
+}, {
+  "StartTime": 1113.09,
+  "EndTime": 1120.94,
+  "Value": "At a big meeting of top British businesspeople, he suited up and explained the secret of his success."
+}, {
+  "StartTime": 1120.94,
+  "EndTime": 1125.93,
+  "Value": "People say \"How can we sell our goods for such a low price?\""
+}, {
+  "StartTime": 1125.93,
+  "EndTime": 1129.6,
+  "Value": "I say \"Because they are absolute rubbish.\""
+}, {
+  "StartTime": 1129.6,
+  "EndTime": 1132.45,
+  "Value": "His audience roared with laughter."
+}, {
+  "StartTime": 1132.45,
+  "EndTime": 1138.05,
+  "Value": "But the British newspapers and the British public were not so amused."
+}, {
+  "StartTime": 1138.05,
+  "EndTime": 1142.5,
+  "Value": "People felt insulted and stayed away from Ratner's shops."
+}, {
+  "StartTime": 1142.5,
+  "EndTime": 1150.16,
+  "Value": "Sales fell and 6 months after his speech, Ratner's share price had fallen by 42%."
+}, {
+  "StartTime": 1150.16,
+  "EndTime": 1156.39,
+  "Value": "The following year, things got worse and Gerald Ratner was forced to resign."
+}, {
+  "StartTime": 1156.39,
+  "EndTime": 1162.87,
+  "Value": "By the end of 1992, he lost his company, his career and his house."
+}, {
+  "StartTime": 1162.87,
+  "EndTime": 1168.28,
+  "Value": "Even worse, 25,000 of his employees had lost their jobs."
+}, {
+  "StartTime": 1168.28,
+  "EndTime": 1173.6,
+  "Value": "It had been a very expensive joke."
+}, {
+  "StartTime": 1173.6,
+  "EndTime": 1180.46,
+  "Value": "Questions 22 to 25 are based on the passage you have just heard."
+}, {
+  "StartTime": 1180.46,
+  "EndTime": 1203.45,
+  "Value": "22. What did Gerald Ratner decide to do when he took over his father's shops?"
+}, {
+  "StartTime": 1203.45,
+  "EndTime": 1226.02,
+  "Value": "23. On what occasion did Gerald Ratner explain the secret of his success?"
+}, {
+  "StartTime": 1226.02,
+  "EndTime": 1248.14,
+  "Value": "24. How did people feel when they learned of Gerald Ratner's remarks?"
+}, {
+  "StartTime": 1248.14,
+  "EndTime": 1270.54,
+  "Value": "25. What does the story of Gerald Ratner suggest?"
+}, {
+  "StartTime": 1270.54,
+  "EndTime": 1272.06,
+  "Value": "Section C"
+}, {
+  "StartTime": 1272.06,
+  "EndTime": 1278.1,
+  "Value": "Directions: In this section, you will hear a passage three times."
+}, {
+  "StartTime": 1278.1,
+  "EndTime": 1284.48,
+  "Value": "When the passage is read for the first time, you should listen carefully for its general idea."
+}, {
+  "StartTime": 1284.48,
+  "EndTime": 1292.76,
+  "Value": "When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard."
+}, {
+  "StartTime": 1292.76,
+  "EndTime": 1299.64,
+  "Value": "Finally, when the passage is read for the third time, you should check what you have written."
+}, {
+  "StartTime": 1299.64,
+  "EndTime": 1304.09,
+  "Value": "Now listen to the passage."
+}, {
+  "StartTime": 1304.09,
+  "EndTime": 1309.85,
+  "Value": "Looking at the basic biological systems, the world is not doing very well."
+}, {
+  "StartTime": 1309.85,
+  "EndTime": 1313.7,
+  "Value": "Yet economic indicators show the world is prospering."
+}, {
+  "StartTime": 1313.7,
+  "EndTime": 1322.48,
+  "Value": "Despite a slow start at the beginning of the eighties, global economic output increased by more than a fifth during the decade."
+}, {
+  "StartTime": 1322.48,
+  "EndTime": 1327.94,
+  "Value": "The economy grew, trade increased, and millions of new jobs were created."
+}, {
+  "StartTime": 1327.94,
+  "EndTime": 1334.18,
+  "Value": "How can biological indicators show the opposite of economic indicators?"
+}, {
+  "StartTime": 1334.18,
+  "EndTime": 1346.12,
+  "Value": "The answer is that the economic indicators have a basic fault: they show no difference between resource uses that sustain progress and those uses that will hurt it."
+}, {
+  "StartTime": 1346.12,
+  "EndTime": 1352.21,
+  "Value": "The main measure of economic progress is the gross national product (GNP)."
+}, {
+  "StartTime": 1352.21,
+  "EndTime": 1363.33,
+  "Value": "In simple terms, this totals the value of all goods and services produced and subtracts loss in value of factories and equipment."
+}, {
+  "StartTime": 1363.33,
+  "EndTime": 1373.06,
+  "Value": "Developed a half-century ago, GNP helped establish a common way among countries of measuring change in economic output."
+}, {
+  "StartTime": 1373.06,
+  "EndTime": 1379.85,
+  "Value": "For some time, this seemed to work reasonably well, but serious weaknesses are now appearing."
+}, {
+  "StartTime": 1379.85,
+  "EndTime": 1396.52,
+  "Value": "As indicated earlier, GNP includes loss in value of factories and equipment, but it does not take into account the loss of natural resources, including nonrenewable resources such as oil or renewable resources such as forests."
+}, {
+  "StartTime": 1396.52,
+  "EndTime": 1402.14,
+  "Value": "This basic fault can produce a misleading sense of national economic health."
+}, {
+  "StartTime": 1402.14,
+  "EndTime": 1411.3,
+  "Value": "According to GNP, for example, countries that overcut forests actually do better than those that preserve their forests."
+}, {
+  "StartTime": 1411.3,
+  "EndTime": 1421.28,
+  "Value": "The trees cut down are counted as income but no subtraction is made for using up the forests."
+}, {
+  "StartTime": 1421.28,
+  "EndTime": 1425.43,
+  "Value": "Now the passage will be read again."
+}, {
+  "StartTime": 1425.43,
+  "EndTime": 1431.39,
+  "Value": "Looking at the basic biological systems, the world is not doing very well."
+}, {
+  "StartTime": 1431.39,
+  "EndTime": 1435.91,
+  "Value": "Yet economic indicators show the world is prospering."
+}, {
+  "StartTime": 1435.91,
+  "EndTime": 1444.91,
+  "Value": "Despite a slow start at the beginning of the eighties, global economic output increased by more than a fifth during the decade."
+}, {
+  "StartTime": 1444.91,
+  "EndTime": 1450.63,
+  "Value": "The economy grew, trade increased, and millions of new jobs were created."
+}, {
+  "StartTime": 1450.63,
+  "EndTime": 1456.6,
+  "Value": "How can biological indicators show the opposite of economic indicators?"
+}, {
+  "StartTime": 1456.6,
+  "EndTime": 1469.55,
+  "Value": "The answer is that the economic indicators have a basic fault: they show no difference between resource uses that sustain progress and those uses that will hurt it."
+}, {
+  "StartTime": 1469.55,
+  "EndTime": 1476.71,
+  "Value": "The main measure of economic progress is the gross national product (GNP)."
+}, {
+  "StartTime": 1476.71,
+  "EndTime": 1487.67,
+  "Value": "In simple terms, this totals the value of all goods and services produced and subtracts loss in value of factories and equipment."
+}, {
+  "StartTime": 1487.67,
+  "EndTime": 1497.86,
+  "Value": "Developed a half-century ago, GNP helped establish a common way among countries of measuring change in economic output."
+}, {
+  "StartTime": 1497.86,
+  "EndTime": 1504.96,
+  "Value": "For some time, this seemed to work reasonably well, but serious weaknesses are now appearing."
+}, {
+  "StartTime": 1504.96,
+  "EndTime": 1523.89,
+  "Value": "As indicated earlier, GNP includes loss in value of factories and equipment, but it does not take into account the loss of natural resources, including nonrenewable resources such as oil or renewable resources such as forests."
+}, {
+  "StartTime": 1523.89,
+  "EndTime": 1529.92,
+  "Value": "This basic fault can produce a misleading sense of national economic health."
+}, {
+  "StartTime": 1529.92,
+  "EndTime": 1539.38,
+  "Value": "According to GNP, for example, countries that overcut forests actually do better than those that preserve their forests."
+}, {
+  "StartTime": 1539.38,
+  "EndTime": 1547.11,
+  "Value": "The trees cut down are counted as income but no subtraction is made for using up the forests."
+}, {
+  "StartTime": 1547.11,
+  "EndTime": 1551.55,
+  "Value": "Now the passage will be read for the third time."
+}, {
+  "StartTime": 1551.55,
+  "EndTime": 1557.28,
+  "Value": "Looking at the basic biological systems, the world is not doing very well."
+}, {
+  "StartTime": 1557.28,
+  "EndTime": 1561.15,
+  "Value": "Yet economic indicators show the world is prospering."
+}, {
+  "StartTime": 1561.15,
+  "EndTime": 1569.97,
+  "Value": "Despite a slow start at the beginning of the eighties, global economic output increased by more than a fifth during the decade."
+}, {
+  "StartTime": 1569.97,
+  "EndTime": 1575.33,
+  "Value": "The economy grew, trade increased, and millions of new jobs were created."
+}, {
+  "StartTime": 1575.33,
+  "EndTime": 1581.46,
+  "Value": "How can biological indicators show the opposite of economic indicators?"
+}, {
+  "StartTime": 1581.46,
+  "EndTime": 1593.53,
+  "Value": "The answer is that the economic indicators have a basic fault: they show no difference between resource uses that sustain progress and those uses that will hurt it."
+}, {
+  "StartTime": 1593.53,
+  "EndTime": 1599.69,
+  "Value": "The main measure of economic progress is the gross national product (GNP)."
+}, {
+  "StartTime": 1599.69,
+  "EndTime": 1610.17,
+  "Value": "In simple terms, this totals the value of all goods and services produced and subtracts loss in value of factories and equipment."
+}, {
+  "StartTime": 1610.17,
+  "EndTime": 1620.08,
+  "Value": "Developed a half-century ago, GNP helped establish a common way among countries of measuring change in economic output."
+}, {
+  "StartTime": 1620.08,
+  "EndTime": 1626.85,
+  "Value": "For some time, this seemed to work reasonably well, but serious weaknesses are now appearing."
+}, {
+  "StartTime": 1626.85,
+  "EndTime": 1643.59,
+  "Value": "As indicated earlier, GNP includes loss in value of factories and equipment, but it does not take into account the loss of natural resources, including nonrenewable resources such as oil or renewable resources such as forests."
+}, {
+  "StartTime": 1643.59,
+  "EndTime": 1649.16,
+  "Value": "This basic fault can produce a misleading sense of national economic health."
+}, {
+  "StartTime": 1649.16,
+  "EndTime": 1658.38,
+  "Value": "According to GNP, for example, countries that overcut forests actually do better than those that preserve their forests."
+}, {
+  "StartTime": 1658.38,
+  "EndTime": 1667.14,
+  "Value": "The trees cut down are counted as income but no subtraction is made for using up the forests."
+}, {
+  "StartTime": 1667.14,
+  "EndTime": 1670.4,
+  "Value": "This is the end of Listening Comprehension."
+}, {
+  "StartTime": 1670.4,
+  "EndTime": 5270.4,
+  "Value": ""
+}]

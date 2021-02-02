@@ -1,0 +1,837 @@
+[{
+  "StartTime": 14.34,
+  "EndTime": 19.05,
+  "Value": "College English Test - Band 4"
+}, {
+  "StartTime": 19.05,
+  "EndTime": 23.9,
+  "Value": "Part II  Listening Comprehension"
+}, {
+  "StartTime": 23.9,
+  "EndTime": 26.64,
+  "Value": "Section A"
+}, {
+  "StartTime": 26.64,
+  "EndTime": 38.1,
+  "Value": "Directions: In this section, you will hear 8 short conversations and 2 long conversations."
+}, {
+  "StartTime": 38.1,
+  "EndTime": 46.35,
+  "Value": "At the end of each conversation, one or more questions will be asked about what was said."
+}, {
+  "StartTime": 46.35,
+  "EndTime": 53.51,
+  "Value": "Both the conversation and the questions will be spoken only once."
+}, {
+  "StartTime": 53.51,
+  "EndTime": 58.24,
+  "Value": "After each question there will be a pause."
+}, {
+  "StartTime": 58.24,
+  "EndTime": 72.52,
+  "Value": "During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer."
+}, {
+  "StartTime": 72.52,
+  "EndTime": 83.5,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 83.5,
+  "EndTime": 88.59,
+  "Value": "Now let's begin with the eight short conversations."
+}, {
+  "StartTime": 88.59,
+  "EndTime": 95.56,
+  "Value": "1. M: I just received an email from one of my former classmates."
+}, {
+  "StartTime": 95.56,
+  "EndTime": 100.75,
+  "Value": "I was surprised. I hadn't heard from him for ages."
+}, {
+  "StartTime": 100.75,
+  "EndTime": 110.29,
+  "Value": "W: Well, I've been out of touch with most of my old friends, only one or two still drop me a line occasionally."
+}, {
+  "StartTime": 110.29,
+  "EndTime": 126.65,
+  "Value": "Q: What does the woman mean?"
+}, {
+  "StartTime": 126.65,
+  "EndTime": 135.45,
+  "Value": "2. M: If you can make up your mind about the color, I can start on the outside of your house early next week."
+}, {
+  "StartTime": 135.45,
+  "EndTime": 145.23,
+  "Value": "W: Well, right now I think I want white for the window frames and yellow for the walls, but I'll let you know tomorrow."
+}, {
+  "StartTime": 145.23,
+  "EndTime": 161.47,
+  "Value": "Q: Who is the woman talking to?"
+}, {
+  "StartTime": 161.47,
+  "EndTime": 170.19,
+  "Value": "3. W: Excuse me, do you have any apartments available for under 500 dollars a month?"
+}, {
+  "StartTime": 170.19,
+  "EndTime": 174.74,
+  "Value": "I need to move in next week when my new job starts."
+}, {
+  "StartTime": 174.74,
+  "EndTime": 178.87,
+  "Value": "M: The only vacan't one I have is 600 dollars."
+}, {
+  "StartTime": 178.87,
+  "EndTime": 183.39,
+  "Value": "Have you inquired at the apartment complex down the street?"
+}, {
+  "StartTime": 183.39,
+  "EndTime": 200.74,
+  "Value": "Q: What does the man suggest the woman do?"
+}, {
+  "StartTime": 200.74,
+  "EndTime": 206.56,
+  "Value": "4. W: You bought a pair of jeans yesterday, didn't you?"
+}, {
+  "StartTime": 206.56,
+  "EndTime": 208.17,
+  "Value": "What are they like?"
+}, {
+  "StartTime": 208.17,
+  "EndTime": 213.78,
+  "Value": "M: Oh, they are pretty much like my other ones, except with a larger waist."
+}, {
+  "StartTime": 213.78,
+  "EndTime": 218.76,
+  "Value": "I guess I haven't spent much time exercising lately."
+}, {
+  "StartTime": 218.76,
+  "EndTime": 237.06,
+  "Value": "Q: What can we infer from the conversation about the man?"
+}, {
+  "StartTime": 237.06,
+  "EndTime": 243.62,
+  "Value": "5. W: I really like those abstract paintings we saw yesterday."
+}, {
+  "StartTime": 243.62,
+  "EndTime": 245.33,
+  "Value": "What do you think?"
+}, {
+  "StartTime": 245.33,
+  "EndTime": 250.94,
+  "Value": "M: I guess it's something I haven't acquired a taste for yet."
+}, {
+  "StartTime": 250.94,
+  "EndTime": 267.7,
+  "Value": "Q: What does the man imply?"
+}, {
+  "StartTime": 267.7,
+  "EndTime": 273.06,
+  "Value": "6. W: You haven't seen a blue notebook, have you?"
+}, {
+  "StartTime": 273.06,
+  "EndTime": 276.4,
+  "Value": "I hope I didn't leave it in the reading room."
+}, {
+  "StartTime": 276.4,
+  "EndTime": 282.13,
+  "Value": "M: Did you check that pile of journals you've borrowed from the library the other day?"
+}, {
+  "StartTime": 282.13,
+  "EndTime": 299.72,
+  "Value": "Q: What is the man trying to say to the woman?"
+}, {
+  "StartTime": 299.72,
+  "EndTime": 304.63,
+  "Value": "7. M: How about joining me for a cup of coffee?"
+}, {
+  "StartTime": 304.63,
+  "EndTime": 308.09,
+  "Value": "W: I'd love to, but I'm exhausted."
+}, {
+  "StartTime": 308.09,
+  "EndTime": 314.71,
+  "Value": "I was up till 3 this morning, writing a paper for my literature class."
+}, {
+  "StartTime": 314.71,
+  "EndTime": 332.33,
+  "Value": "Q: Why does the woman decline the man's invitation?"
+}, {
+  "StartTime": 332.33,
+  "EndTime": 338.1,
+  "Value": "8. W: You had a job interview yesterday, didn't you?"
+}, {
+  "StartTime": 338.1,
+  "EndTime": 339.31,
+  "Value": "How did it go?"
+}, {
+  "StartTime": 339.31,
+  "EndTime": 341.83,
+  "Value": "M: Not too bad, I guess."
+}, {
+  "StartTime": 341.83,
+  "EndTime": 347.19,
+  "Value": "There were about 20 candidates competing for the sales manager's job."
+}, {
+  "StartTime": 347.19,
+  "EndTime": 354.13,
+  "Value": "And finally it was down to three of us, but the other two seemed better qualified."
+}, {
+  "StartTime": 354.13,
+  "EndTime": 370.37,
+  "Value": "Q: What does the man imply?"
+}, {
+  "StartTime": 370.37,
+  "EndTime": 375.02,
+  "Value": "Now you'll hear the two long conversations."
+}, {
+  "StartTime": 375.02,
+  "EndTime": 377.95,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 377.95,
+  "EndTime": 381.56,
+  "Value": "W: Simon, how does it feel to be retired?"
+}, {
+  "StartTime": 381.56,
+  "EndTime": 384.04,
+  "Value": "M: Well, not so bad."
+}, {
+  "StartTime": 384.04,
+  "EndTime": 386.86,
+  "Value": "W: How have you been spending your time?"
+}, {
+  "StartTime": 386.86,
+  "EndTime": 390.22,
+  "Value": "M: I have been spending more time with my family."
+}, {
+  "StartTime": 390.22,
+  "EndTime": 397.26,
+  "Value": "I've also travelled a bit, you know, off season when everywhere is less crowded and hotels cost less."
+}, {
+  "StartTime": 397.26,
+  "EndTime": 401.86,
+  "Value": "W: Great. M: You know I haven't stopped work completely."
+}, {
+  "StartTime": 401.86,
+  "EndTime": 405.48,
+  "Value": "W: Yes, could you tell us more about this?"
+}, {
+  "StartTime": 405.48,
+  "EndTime": 418.38,
+  "Value": "M: I'm on a scheme that's called phased retirement; I had a six-month break from work, after that I could apply for project work with the company I used to work for."
+}, {
+  "StartTime": 418.38,
+  "EndTime": 420.7,
+  "Value": "W: How does the scheme work?"
+}, {
+  "StartTime": 420.7,
+  "EndTime": 423.53,
+  "Value": "M: Well, it's a trial at the moment."
+}, {
+  "StartTime": 423.53,
+  "EndTime": 434.58,
+  "Value": "Instead of hiring temporary staff, the company advertises posts on its website that retired employees like myself can access."
+}, {
+  "StartTime": 434.58,
+  "EndTime": 436.87,
+  "Value": "W: What sort of work's advertised?"
+}, {
+  "StartTime": 436.87,
+  "EndTime": 439.86,
+  "Value": "M: Well, all sorts of things, really."
+}, {
+  "StartTime": 439.86,
+  "EndTime": 446.35,
+  "Value": "Administrative work and more specialized work, the sort of thing I can do."
+}, {
+  "StartTime": 446.35,
+  "EndTime": 453.86,
+  "Value": "Some of the projects can last five or six months, and others can just be a couple of days."
+}, {
+  "StartTime": 453.86,
+  "EndTime": 457.46,
+  "Value": "I can decide more or less when to work."
+}, {
+  "StartTime": 457.46,
+  "EndTime": 460.43,
+  "Value": "So I can manage my own time."
+}, {
+  "StartTime": 460.43,
+  "EndTime": 463.15,
+  "Value": "W: I can see it's good for you."
+}, {
+  "StartTime": 463.15,
+  "EndTime": 465.75,
+  "Value": "What does your company get out of this?"
+}, {
+  "StartTime": 465.75,
+  "EndTime": 472.98,
+  "Value": "M: Well, I still have all my old contacts at work, so I know who to contact to get something done."
+}, {
+  "StartTime": 472.98,
+  "EndTime": 475.69,
+  "Value": "The company gets flexibility, too."
+}, {
+  "StartTime": 475.69,
+  "EndTime": 478.73,
+  "Value": "Once the job's over, that's it."
+}, {
+  "StartTime": 478.73,
+  "EndTime": 481.69,
+  "Value": "I'm not on their books any more."
+}, {
+  "StartTime": 481.69,
+  "EndTime": 487.51,
+  "Value": "Questions 9 to 11 are based on the conversation you have just heard."
+}, {
+  "StartTime": 487.51,
+  "EndTime": 507.9,
+  "Value": "9. Why does Simon find his retired life enjoyable?"
+}, {
+  "StartTime": 507.9,
+  "EndTime": 528.71,
+  "Value": "10. How does Simon get to know about the company's available posts?"
+}, {
+  "StartTime": 528.71,
+  "EndTime": 549.16,
+  "Value": "11. Why does the company adopt the phased retirement scheme?"
+}, {
+  "StartTime": 549.16,
+  "EndTime": 551.86,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 551.86,
+  "EndTime": 554.15,
+  "Value": "W: Oh, where are we going?"
+}, {
+  "StartTime": 554.15,
+  "EndTime": 556.38,
+  "Value": "M: I want to show you something."
+}, {
+  "StartTime": 556.38,
+  "EndTime": 558.72,
+  "Value": "W: I know, but what is it?"
+}, {
+  "StartTime": 558.72,
+  "EndTime": 562.71,
+  "Value": "M: A farm. It's just down this road."
+}, {
+  "StartTime": 562.71,
+  "EndTime": 567.07,
+  "Value": "It's a small place, but at least it would be our own."
+}, {
+  "StartTime": 567.07,
+  "EndTime": 571,
+  "Value": "W: A farm? How can we afford to buy a farm?"
+}, {
+  "StartTime": 571,
+  "EndTime": 575.02,
+  "Value": "M: It isn't very large, only 40 acres."
+}, {
+  "StartTime": 575.02,
+  "EndTime": 578.15,
+  "Value": "We wouldn't have to pay very much right now."
+}, {
+  "StartTime": 578.15,
+  "EndTime": 580.12,
+  "Value": "W: Is there a house on the place?"
+}, {
+  "StartTime": 580.12,
+  "EndTime": 585.71,
+  "Value": "M: A small one, two bedrooms, but it needs to be fixed up a little."
+}, {
+  "StartTime": 585.71,
+  "EndTime": 588.18,
+  "Value": "I can do the job myself."
+}, {
+  "StartTime": 588.18,
+  "EndTime": 592.44,
+  "Value": "W: OK. Is there enough space for a kitchen garden?"
+}, {
+  "StartTime": 592.44,
+  "EndTime": 596.04,
+  "Value": "M: There is about half an acre around the house."
+}, {
+  "StartTime": 596.04,
+  "EndTime": 598.57,
+  "Value": "That's plenty of space."
+}, {
+  "StartTime": 598.57,
+  "EndTime": 601.79,
+  "Value": "W: Then we can grow our own fresh vegetables."
+}, {
+  "StartTime": 601.79,
+  "EndTime": 604.96,
+  "Value": "And maybe keep a few chickens, couldn't we?"
+}, {
+  "StartTime": 604.96,
+  "EndTime": 610.1,
+  "Value": "M: Yes, and we can probably grow a lot of our own food."
+}, {
+  "StartTime": 610.1,
+  "EndTime": 614.5,
+  "Value": "W: What are you thinking about growing, if we do take this place?"
+}, {
+  "StartTime": 614.5,
+  "EndTime": 618.48,
+  "Value": "M: Well, it really isn't big enough for corn."
+}, {
+  "StartTime": 618.48,
+  "EndTime": 622.5,
+  "Value": "I thought we might try to raise a crop of potatoes."
+}, {
+  "StartTime": 622.5,
+  "EndTime": 625.88,
+  "Value": "W: Potatoes? They are a lot of work."
+}, {
+  "StartTime": 625.88,
+  "EndTime": 628.38,
+  "Value": "M: We are used to hard work, aren't we?"
+}, {
+  "StartTime": 628.38,
+  "EndTime": 631.41,
+  "Value": "W: Yes, we are, but the money."
+}, {
+  "StartTime": 631.41,
+  "EndTime": 633.81,
+  "Value": "Do we have enough to get started?"
+}, {
+  "StartTime": 633.81,
+  "EndTime": 636.2,
+  "Value": "It seems like a dream."
+}, {
+  "StartTime": 636.2,
+  "EndTime": 638.97,
+  "Value": "M: I think we have saved enough."
+}, {
+  "StartTime": 638.97,
+  "EndTime": 645.37,
+  "Value": "We can pay a little on the farm and maybe put a few dollars down on the tractor, too."
+}, {
+  "StartTime": 645.37,
+  "EndTime": 651.63,
+  "Value": "Questions 12 to 15 are based on the conversation you have just heard."
+}, {
+  "StartTime": 651.63,
+  "EndTime": 672.4,
+  "Value": "12. What are the speakers going to do at the time of the conversation?"
+}, {
+  "StartTime": 672.4,
+  "EndTime": 691.95,
+  "Value": "13. What does the man say about the farm?"
+}, {
+  "StartTime": 691.95,
+  "EndTime": 714.5,
+  "Value": "14. Why does the man intend to grow potatoes rather than corn on the farm?"
+}, {
+  "StartTime": 714.5,
+  "EndTime": 735.41,
+  "Value": "15. What is the woman's greatest concern about the man's plan?"
+}, {
+  "StartTime": 735.41,
+  "EndTime": 737.27,
+  "Value": "Section B"
+}, {
+  "StartTime": 737.27,
+  "EndTime": 744.01,
+  "Value": "Directions: In this section, you will hear 3 short passages."
+}, {
+  "StartTime": 744.01,
+  "EndTime": 748.97,
+  "Value": "At the end of each passage, you will hear some questions."
+}, {
+  "StartTime": 748.97,
+  "EndTime": 754.53,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 754.53,
+  "EndTime": 765.84,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 765.84,
+  "EndTime": 775.06,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 775.06,
+  "EndTime": 777.7,
+  "Value": "Passage One"
+}, {
+  "StartTime": 777.7,
+  "EndTime": 791.63,
+  "Value": "Members of the city council and distinguished guests, it is my privilege to introduce to you today Mr. Robert Washington, chief of our city's police force."
+}, {
+  "StartTime": 791.63,
+  "EndTime": 797.38,
+  "Value": "He will address us on the subject of the Community Policing Program."
+}, {
+  "StartTime": 797.38,
+  "EndTime": 807.13,
+  "Value": "Most of you know that Mr. Washington has a distinguished record as head of our police force for more than ten years."
+}, {
+  "StartTime": 807.13,
+  "EndTime": 822.26,
+  "Value": "However, you may not know that he also holds a master's degree in criminology and studied abroad for a year with the international police force which deals with crimes around the world."
+}, {
+  "StartTime": 822.26,
+  "EndTime": 829.22,
+  "Value": "Mr. Washington first introduced the Community Policing Program 8 years ago."
+}, {
+  "StartTime": 829.22,
+  "EndTime": 844.68,
+  "Value": "The idea behind the program is to get police officers out of their cars and into our neighborhoods where they can talk directly to merchants and residents about the real dynamics of our city."
+}, {
+  "StartTime": 844.68,
+  "EndTime": 848.61,
+  "Value": "These officers do more than make arrests."
+}, {
+  "StartTime": 848.61,
+  "EndTime": 855.46,
+  "Value": "They try to find ways to help solve the problems that contribute to crime in the first place."
+}, {
+  "StartTime": 855.46,
+  "EndTime": 868.09,
+  "Value": "Often that means hooking people up with services offered by other city agencies, such as schools, hospitals, housing, drug treatment centers."
+}, {
+  "StartTime": 868.09,
+  "EndTime": 877.35,
+  "Value": "And the program seems to be working: crime is down and our citizens report that they feel more secure."
+}, {
+  "StartTime": 877.35,
+  "EndTime": 882.72,
+  "Value": "Today Mr. Washington is going to tell us more about this program."
+}, {
+  "StartTime": 882.72,
+  "EndTime": 886.8,
+  "Value": "Now let's welcome Mr. Robert Washington."
+}, {
+  "StartTime": 886.8,
+  "EndTime": 893,
+  "Value": "Questions 16 to 19 are based on the passage you have just heard."
+}, {
+  "StartTime": 893,
+  "EndTime": 912.95,
+  "Value": "16. What is the purpose of the speaker's remarks?"
+}, {
+  "StartTime": 912.95,
+  "EndTime": 933.57,
+  "Value": "17. What does the speaker say about Mr. Robert Washington?"
+}, {
+  "StartTime": 933.57,
+  "EndTime": 954.2,
+  "Value": "18. What is the idea behind the Community Policing Program?"
+}, {
+  "StartTime": 954.2,
+  "EndTime": 974.82,
+  "Value": "19. How has the Community Policing Program turned out to be?"
+}, {
+  "StartTime": 974.82,
+  "EndTime": 977.32,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 977.32,
+  "EndTime": 992.64,
+  "Value": "There are between 3,000 and 6,000 public languages in the world, and we must add approximately 6 billion private languages since each one of us necessarily has one."
+}, {
+  "StartTime": 992.64,
+  "EndTime": 1001.73,
+  "Value": "Considering these facts, the possibilities for breakdowns in communication seem infinite in number."
+}, {
+  "StartTime": 1001.73,
+  "EndTime": 1006.83,
+  "Value": "However, we do communicate successfully from time to time."
+}, {
+  "StartTime": 1006.83,
+  "EndTime": 1009.92,
+  "Value": "And we do learn to speak languages."
+}, {
+  "StartTime": 1009.92,
+  "EndTime": 1017.4,
+  "Value": "But learning to speak languages seems to be a very mysterious process."
+}, {
+  "StartTime": 1017.4,
+  "EndTime": 1025.44,
+  "Value": "For a long time, people thought that we learned a language only by imitation and association."
+}, {
+  "StartTime": 1025.44,
+  "EndTime": 1031.41,
+  "Value": "For example, a baby touches a hot pot and starts to cry."
+}, {
+  "StartTime": 1031.41,
+  "EndTime": 1063.99,
+  "Value": "The mother says, \"Hot, hot!\" And the baby, when it stops crying, imitates the mother and says, \"Hot, hot!\" However, Noam Chomsky, a famous expert in language, pointed out that although children do learn some words by imitation and association, they also combine words to make meaningful sentences in ways that are unique, unlearned and creative."
+}, {
+  "StartTime": 1063.99,
+  "EndTime": 1076.48,
+  "Value": "Because young children can make sentences they have never heard before, Chomsky suggested that human infants are born with the ability to learn language."
+}, {
+  "StartTime": 1076.48,
+  "EndTime": 1093.1,
+  "Value": "Chomsky meant that underneath all the differences between public and private languages, there is a universal language mechanism that makes it possible for us, as infants, to learn any language in the world."
+}, {
+  "StartTime": 1093.1,
+  "EndTime": 1099.33,
+  "Value": "This theory explains the potential that human infants have for learning language."
+}, {
+  "StartTime": 1099.33,
+  "EndTime": 1107.47,
+  "Value": "But it does not really explain how children come to use language in particular ways."
+}, {
+  "StartTime": 1107.47,
+  "EndTime": 1113.94,
+  "Value": "Questions 20 to 22 are based on the passage you have just heard."
+}, {
+  "StartTime": 1113.94,
+  "EndTime": 1135.37,
+  "Value": "20. Why does the speaker say there are great possibilities for communication breakdowns?"
+}, {
+  "StartTime": 1135.37,
+  "EndTime": 1155.99,
+  "Value": "21. What is Chomsky's viewpoint on the ability to learn language?"
+}, {
+  "StartTime": 1155.99,
+  "EndTime": 1177.26,
+  "Value": "22. What does Chomsky's theory fail to explain according to the speaker?"
+}, {
+  "StartTime": 1177.26,
+  "EndTime": 1179.97,
+  "Value": "Passage Three"
+}, {
+  "StartTime": 1179.97,
+  "EndTime": 1190.49,
+  "Value": "When US spacewoman Joan Higginbotham is not flying and working in space, she might be found somewhere on earth giving a speech."
+}, {
+  "StartTime": 1190.49,
+  "EndTime": 1204.69,
+  "Value": "Higginbotham, who grew up in Chicago and became an engineer before joining NASA, that is the National Air and Space Administration, gives about a dozen speeches a year."
+}, {
+  "StartTime": 1204.69,
+  "EndTime": 1211.15,
+  "Value": "Each speech is different because she tailors her remarks to each audience."
+}, {
+  "StartTime": 1211.15,
+  "EndTime": 1223.11,
+  "Value": "Through interviews and emails, she finds out in advance her listeners' educational level and what information they want to know."
+}, {
+  "StartTime": 1223.11,
+  "EndTime": 1234.06,
+  "Value": "On the subject of space walks, for example, audiences vary in their interests and how much complexity they can comprehend."
+}, {
+  "StartTime": 1234.06,
+  "EndTime": 1241.85,
+  "Value": "To elementary school children, Higginbotham may discuss a problem that many kids want to know about."
+}, {
+  "StartTime": 1241.85,
+  "EndTime": 1249.4,
+  "Value": "\"How do spacemen in a spacesuit eat, drink, and go to the bathroom?\""
+}, {
+  "StartTime": 1249.4,
+  "EndTime": 1263.1,
+  "Value": "Her answer is \"the spacesuit is really a small spacecraft with room for food and water-containers, and a waste-collection system.\""
+}, {
+  "StartTime": 1263.1,
+  "EndTime": 1276.79,
+  "Value": "To a high school audience, she might satisfy a curiosity that often arises in her pre-speech interviews with students who obviously have seen many science fiction movies."
+}, {
+  "StartTime": 1276.79,
+  "EndTime": 1282.94,
+  "Value": "\"Do spacemen carry weapons in case they encounter enemies in space?\""
+}, {
+  "StartTime": 1282.94,
+  "EndTime": 1286.73,
+  "Value": "Her answer is \"No\"."
+}, {
+  "StartTime": 1286.73,
+  "EndTime": 1300.59,
+  "Value": "To scientists, she might provide technical details on such topics as the design of spacesuits that protects spacemen from the deadly temperature extremes of space."
+}, {
+  "StartTime": 1300.59,
+  "EndTime": 1319.19,
+  "Value": "Just as elaborate preparation is required for success in space, Higginbotham says that it's important for speakers to learn as much as possible about their listeners before a speech because every audience is different."
+}, {
+  "StartTime": 1319.19,
+  "EndTime": 1325.71,
+  "Value": "Questions 23 to 25 are based on the passage you have just heard."
+}, {
+  "StartTime": 1325.71,
+  "EndTime": 1346.65,
+  "Value": "23. What did Joan Higginbotham do before joining NASA?"
+}, {
+  "StartTime": 1346.65,
+  "EndTime": 1368.17,
+  "Value": "24. How does Higginbotham prepare her speeches on space walks?"
+}, {
+  "StartTime": 1368.17,
+  "EndTime": 1389.38,
+  "Value": "25. What does the high school audience want to know about space travel?"
+}, {
+  "StartTime": 1389.38,
+  "EndTime": 1391.36,
+  "Value": "Section C"
+}, {
+  "StartTime": 1391.36,
+  "EndTime": 1397.96,
+  "Value": "Directions: In this section, you will hear a passage three times."
+}, {
+  "StartTime": 1397.96,
+  "EndTime": 1404.95,
+  "Value": "When the passage is read for the first time, you should listen carefully for its general idea."
+}, {
+  "StartTime": 1404.95,
+  "EndTime": 1415.21,
+  "Value": "When the passage is read for the second time, you are required to fill in the blanks with the exact words you have just heard."
+}, {
+  "StartTime": 1415.21,
+  "EndTime": 1423.35,
+  "Value": "Finally, when the passage is read for the third time, you should check what you have written."
+}, {
+  "StartTime": 1423.35,
+  "EndTime": 1427.5,
+  "Value": "Now listen to the passage."
+}, {
+  "StartTime": 1427.5,
+  "EndTime": 1431.04,
+  "Value": "Crime is increasing worldwide."
+}, {
+  "StartTime": 1431.04,
+  "EndTime": 1437.57,
+  "Value": "There is every reason to believe the trend will continue through the next few decades."
+}, {
+  "StartTime": 1437.57,
+  "EndTime": 1456.52,
+  "Value": "Crime rates have always been high in multicultural, industrialized societies such as the United States, but a new phenomenon has appeared on the world scene —rapidly rising crime rates in nations that previously reported few offences."
+}, {
+  "StartTime": 1456.52,
+  "EndTime": 1474.41,
+  "Value": "Street crimes such as robbery, rape, murder, and auto theft are clearly rising, particularly in eastern European countries such as Hungary and in western European nations such as the United Kingdom."
+}, {
+  "StartTime": 1474.41,
+  "EndTime": 1478.48,
+  "Value": "What is driving this crime explosion?"
+}, {
+  "StartTime": 1478.48,
+  "EndTime": 1481.41,
+  "Value": "There are no simple answers."
+}, {
+  "StartTime": 1481.41,
+  "EndTime": 1512.07,
+  "Value": "Still, there are certain conditions associated with rising crime: increasing heterogeneity (混杂) of populations, greater cultural pluralism, higher immigration, democratization of governments, changing national borders, greater economic growth, and the lack of accepted social ideas of right and wrong."
+}, {
+  "StartTime": 1512.07,
+  "EndTime": 1517.65,
+  "Value": "These conditions are increasingly observable around the world."
+}, {
+  "StartTime": 1517.65,
+  "EndTime": 1534.98,
+  "Value": "For instance, cultures that were previously isolated and homogeneous (同种类的), such as Japan, Denmark, and Greece, are now facing the sort of cultural variety that has been common in America for most of its history."
+}, {
+  "StartTime": 1534.98,
+  "EndTime": 1543.74,
+  "Value": "Multiculturalism can be a rewarding, enriching experience, but it can also lead to a clash of values."
+}, {
+  "StartTime": 1543.74,
+  "EndTime": 1558.46,
+  "Value": "Heterogeneity in societies will be the rule in the twenty-first century, and failure to recognize and plan for such diversity can lead to serious crime problems."
+}, {
+  "StartTime": 1558.46,
+  "EndTime": 1563.74,
+  "Value": "Now the passage will be read again."
+}, {
+  "StartTime": 1563.74,
+  "EndTime": 1566.95,
+  "Value": "Crime is increasing worldwide."
+}, {
+  "StartTime": 1566.95,
+  "EndTime": 1573.64,
+  "Value": "There is every reason to believe the trend will continue through the next few decades."
+}, {
+  "StartTime": 1573.64,
+  "EndTime": 1593.97,
+  "Value": "Crime rates have always been high in multicultural, industrialized societies such as the United States, but a new phenomenon has appeared on the world scene —rapidly rising crime rates in nations that previously reported few offences."
+}, {
+  "StartTime": 1593.97,
+  "EndTime": 1612.46,
+  "Value": "Street crimes such as robbery, rape, murder, and auto theft are clearly rising, particularly in eastern European countries such as Hungary and in western European nations such as the United Kingdom."
+}, {
+  "StartTime": 1612.46,
+  "EndTime": 1615.91,
+  "Value": "What is driving this crime explosion?"
+}, {
+  "StartTime": 1615.91,
+  "EndTime": 1618.62,
+  "Value": "There are no simple answers."
+}, {
+  "StartTime": 1618.62,
+  "EndTime": 1646.69,
+  "Value": "Still, there are certain conditions associated with rising crime: increasing heterogeneity (混杂) of populations, greater cultural pluralism, higher immigration, democratization of governments, changing national borders, greater economic growth, and the lack of accepted social ideas of right and wrong."
+}, {
+  "StartTime": 1646.69,
+  "EndTime": 1651.18,
+  "Value": "These conditions are increasingly observable around the world."
+}, {
+  "StartTime": 1651.18,
+  "EndTime": 1669.38,
+  "Value": "For instance, cultures that were previously isolated and homogeneous (同种类的), such as Japan, Denmark, and Greece, are now facing the sort of cultural variety that has been common in America for most of its history."
+}, {
+  "StartTime": 1669.38,
+  "EndTime": 1678.35,
+  "Value": "Multiculturalism can be a rewarding, enriching experience, but it can also lead to a clash of values."
+}, {
+  "StartTime": 1678.35,
+  "EndTime": 1693.3,
+  "Value": "Heterogeneity in societies will be the rule in the twenty-first century, and failure to recognize and plan for such diversity can lead to serious crime problems."
+}, {
+  "StartTime": 1693.3,
+  "EndTime": 1697.77,
+  "Value": "Now the passage will be read for the third time."
+}, {
+  "StartTime": 1697.77,
+  "EndTime": 1701.22,
+  "Value": "Crime is increasing worldwide."
+}, {
+  "StartTime": 1701.22,
+  "EndTime": 1707.7,
+  "Value": "There is every reason to believe the trend will continue through the next few decades."
+}, {
+  "StartTime": 1707.7,
+  "EndTime": 1726.61,
+  "Value": "Crime rates have always been high in multicultural, industrialized societies such as the United States, but a new phenomenon has appeared on the world scene —rapidly rising crime rates in nations that previously reported few offences."
+}, {
+  "StartTime": 1726.61,
+  "EndTime": 1744.38,
+  "Value": "Street crimes such as robbery, rape, murder, and auto theft are clearly rising, particularly in eastern European countries such as Hungary and in western European nations such as the United Kingdom."
+}, {
+  "StartTime": 1744.38,
+  "EndTime": 1748.41,
+  "Value": "What is driving this crime explosion?"
+}, {
+  "StartTime": 1748.41,
+  "EndTime": 1751.34,
+  "Value": "There are no simple answers."
+}, {
+  "StartTime": 1751.34,
+  "EndTime": 1781.82,
+  "Value": "Still, there are certain conditions associated with rising crime: increasing heterogeneity (混杂) of populations, greater cultural pluralism, higher immigration, democratization of governments, changing national borders, greater economic growth, and the lack of accepted social ideas of right and wrong."
+}, {
+  "StartTime": 1781.82,
+  "EndTime": 1787.3,
+  "Value": "These conditions are increasingly observable around the world."
+}, {
+  "StartTime": 1787.3,
+  "EndTime": 1804.57,
+  "Value": "For instance, cultures that were previously isolated and homogeneous (同种类的), such as Japan, Denmark, and Greece, are now facing the sort of cultural variety that has been common in America for most of its history."
+}, {
+  "StartTime": 1804.57,
+  "EndTime": 1813.32,
+  "Value": "Multiculturalism can be a rewarding, enriching experience, but it can also lead to a clash of values."
+}, {
+  "StartTime": 1813.32,
+  "EndTime": 1826.23,
+  "Value": "Heterogeneity in societies will be the rule in the twenty-first century, and failure to recognize and plan for such diversity can lead to serious crime problems."
+}, {
+  "StartTime": 1826.23,
+  "EndTime": 1829.41,
+  "Value": "This is the end of Listening Comprehension."
+}, {
+  "StartTime": 1829.41,
+  "EndTime": 5429.41,
+  "Value": ""
+}]

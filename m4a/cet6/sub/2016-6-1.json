@@ -1,0 +1,749 @@
+[{
+  "StartTime": 1.32,
+  "EndTime": 5.2,
+  "Value": "College English Test Band Six"
+}, {
+  "StartTime": 5.2,
+  "EndTime": 8.82,
+  "Value": "Part Two Listening Comprehension"
+}, {
+  "StartTime": 8.82,
+  "EndTime": 10.78,
+  "Value": "Section A"
+}, {
+  "StartTime": 10.78,
+  "EndTime": 16.4,
+  "Value": "Directions: In this section, you will hear two long conversations."
+}, {
+  "StartTime": 16.4,
+  "EndTime": 20.91,
+  "Value": "At the end of each conversation, you will hear four questions."
+}, {
+  "StartTime": 20.91,
+  "EndTime": 34.81,
+  "Value": "Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 34.81,
+  "EndTime": 41.55,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 41.55,
+  "EndTime": 43.72,
+  "Value": "Conversation One"
+}, {
+  "StartTime": 43.72,
+  "EndTime": 47.63,
+  "Value": "M: So, how long have you been a market research consultant?"
+}, {
+  "StartTime": 47.63,
+  "EndTime": 51.8,
+  "Value": "W: Well, I started straight after finishing university."
+}, {
+  "StartTime": 51.8,
+  "EndTime": 53.92,
+  "Value": "M: Did you study market research?"
+}, {
+  "StartTime": 53.92,
+  "EndTime": 69.01,
+  "Value": "W: Yeah, and it really helped me to get into the industry, but I have to say that it's more important to get experience in different types of market research to find out exactly what you're interested in."
+}, {
+  "StartTime": 69.01,
+  "EndTime": 71.47,
+  "Value": "M: So what are you interested in?"
+}, {
+  "StartTime": 71.47,
+  "EndTime": 80.45,
+  "Value": "W: Well, at the moment, I specialize in quantitative advertising research, which means that I do two types of projects."
+}, {
+  "StartTime": 80.45,
+  "EndTime": 89.73,
+  "Value": "Trackers, which are ongoing projects that look at trends or customer satisfaction over a long period of time."
+}, {
+  "StartTime": 89.73,
+  "EndTime": 94.31,
+  "Value": "The only problem with trackers is that it takes up a lot of your time."
+}, {
+  "StartTime": 94.31,
+  "EndTime": 98.37,
+  "Value": "But you do build up a good relationship with the client."
+}, {
+  "StartTime": 98.37,
+  "EndTime": 103.58,
+  "Value": "I also do a couple of ad hoc jobs which are much shorter projects."
+}, {
+  "StartTime": 103.58,
+  "EndTime": 106.79,
+  "Value": "M: What exactly do you mean by ad hoc jobs?"
+}, {
+  "StartTime": 106.79,
+  "EndTime": 113.79,
+  "Value": "W: It's basically when companies need quick answers to their questions about their consumers' habits."
+}, {
+  "StartTime": 113.79,
+  "EndTime": 122.85,
+  "Value": "They just ask for one questionnaire to be sent out for example, so the time you spend on an ad hoc project tends to be fairly short."
+}, {
+  "StartTime": 122.85,
+  "EndTime": 125.49,
+  "Value": "M: Which do you prefer, trackers or ad hoc?"
+}, {
+  "StartTime": 125.49,
+  "EndTime": 132.05,
+  "Value": "W: I like doing both and in fact I need to do both at the same time to keep me from going crazy."
+}, {
+  "StartTime": 132.05,
+  "EndTime": 133.91,
+  "Value": "I need the variety."
+}, {
+  "StartTime": 133.91,
+  "EndTime": 137.99,
+  "Value": "M: Can you just explain what process you go through with a new client?"
+}, {
+  "StartTime": 137.99,
+  "EndTime": 143.73,
+  "Value": "W: Well, together we decide on the methodology and the objectives of the research."
+}, {
+  "StartTime": 143.73,
+  "EndTime": 146.19,
+  "Value": "I then design a questionnaire."
+}, {
+  "StartTime": 146.19,
+  "EndTime": 153.2,
+  "Value": "Once the interviewers have been briefed, I send the client a schedule and then they get back to me with deadlines."
+}, {
+  "StartTime": 153.2,
+  "EndTime": 159.08,
+  "Value": "Once the final charts and tables are ready, I have to check them and organize a presentation."
+}, {
+  "StartTime": 159.08,
+  "EndTime": 164.4,
+  "Value": "M: Hmm, one last question, what do you like and dislike about your job?"
+}, {
+  "StartTime": 164.4,
+  "EndTime": 172.45,
+  "Value": "W: As I said, variety is important and as for what I don't like, it has to be the checking of charts and tables."
+}, {
+  "StartTime": 172.45,
+  "EndTime": 174.31,
+  "Value": "Questions 1 to 4 are based on"
+}, {
+  "StartTime": 174.31,
+  "EndTime": 177.17,
+  "Value": "the conversation you have just heard."
+}, {
+  "StartTime": 177.17,
+  "EndTime": 194.93,
+  "Value": "1. What position does the woman hold in the company?"
+}, {
+  "StartTime": 194.93,
+  "EndTime": 212.43,
+  "Value": "2. What does the woman specialize in at the moment?"
+}, {
+  "StartTime": 212.43,
+  "EndTime": 229.98,
+  "Value": "3. What does the woman say about trackers?"
+}, {
+  "StartTime": 229.98,
+  "EndTime": 247.62,
+  "Value": "4.What does the woman dislike about her job?"
+}, {
+  "StartTime": 247.62,
+  "EndTime": 249.89,
+  "Value": "Conversation Two"
+}, {
+  "StartTime": 249.89,
+  "EndTime": 252.07,
+  "Value": "W: Hello, I'm here with Frederick."
+}, {
+  "StartTime": 252.07,
+  "EndTime": 255.44,
+  "Value": "Now Fred, you went to university in Canada?"
+}, {
+  "StartTime": 255.44,
+  "EndTime": 256.63,
+  "Value": "M: Yeah, that's right."
+}, {
+  "StartTime": 256.63,
+  "EndTime": 261.56,
+  "Value": "W: OK, and you have very strong views about universities in Canada."
+}, {
+  "StartTime": 261.56,
+  "EndTime": 263.14,
+  "Value": "Could you please explain?"
+}, {
+  "StartTime": 263.14,
+  "EndTime": 266.86,
+  "Value": "M: Well, we don't have private universities in Canada."
+}, {
+  "StartTime": 266.86,
+  "EndTime": 268.04,
+  "Value": "They're all public."
+}, {
+  "StartTime": 268.04,
+  "EndTime": 280.19,
+  "Value": "All the universities are owned by the government, so there is the Ministry of Education in charge of creating the curriculum for the universities and so there is not much room for flexibility."
+}, {
+  "StartTime": 280.19,
+  "EndTime": 285.77,
+  "Value": "Since it's a government-operated institution, things don't move very fast."
+}, {
+  "StartTime": 285.77,
+  "EndTime": 294.32,
+  "Value": "If you want something to be done, then their staff do not have so much incentive to help you because he's a worker for the government."
+}, {
+  "StartTime": 294.32,
+  "EndTime": 296.8,
+  "Value": "So I don't think it's very efficient."
+}, {
+  "StartTime": 296.8,
+  "EndTime": 303.31,
+  "Value": "However, there are certain advantages of public universities, such as the fees being free."
+}, {
+  "StartTime": 303.31,
+  "EndTime": 305.98,
+  "Value": "You don't have to pay for your education."
+}, {
+  "StartTime": 305.98,
+  "EndTime": 309.81,
+  "Value": "But the system isn't efficient, and it does not work that well."
+}, {
+  "StartTime": 309.81,
+  "EndTime": 319.71,
+  "Value": "W: Yeah, I can see your point, but in the United States we have many private universities, and I think they are large bureaucracies also."
+}, {
+  "StartTime": 319.71,
+  "EndTime": 326.62,
+  "Value": "Maybe people don't act that much differently, because it's the same thing working for a private university."
+}, {
+  "StartTime": 326.62,
+  "EndTime": 328.81,
+  "Value": "They get paid for their job."
+}, {
+  "StartTime": 328.81,
+  "EndTime": 332.79,
+  "Value": "I don't know if they're that much more motivated to help people."
+}, {
+  "StartTime": 332.79,
+  "EndTime": 341.99,
+  "Value": "Also, we have a problem in the United States that usually only wealthy kids go to the best schools and it's kind of a problem actually."
+}, {
+  "StartTime": 341.99,
+  "EndTime": 343.25,
+  "Value": "M: I agree with you."
+}, {
+  "StartTime": 343.25,
+  "EndTime": 348.65,
+  "Value": "I think it's a problem because you're not giving equal access to education to everybody."
+}, {
+  "StartTime": 348.65,
+  "EndTime": 354.71,
+  "Value": "It's not easy, but having only public universities also might not be the best solution."
+}, {
+  "StartTime": 354.71,
+  "EndTime": 360.76,
+  "Value": "Perhaps we can learn from Japan where they have a system of private and public universities."
+}, {
+  "StartTime": 360.76,
+  "EndTime": 365.09,
+  "Value": "Now, in Japan, public universities are considered to be the best."
+}, {
+  "StartTime": 365.09,
+  "EndTime": 369.22,
+  "Value": "W: Right. It's the exact opposite in the United States."
+}, {
+  "StartTime": 369.22,
+  "EndTime": 373.18,
+  "Value": "M: So, as you see, it's very hard to say which one is better."
+}, {
+  "StartTime": 373.18,
+  "EndTime": 375.88,
+  "Value": "W: Right, a good point."
+}, {
+  "StartTime": 375.88,
+  "EndTime": 377.81,
+  "Value": "Questions 5 to 8 are based on"
+}, {
+  "StartTime": 377.81,
+  "EndTime": 380.78,
+  "Value": "the conversation you have just heard."
+}, {
+  "StartTime": 380.78,
+  "EndTime": 398.27,
+  "Value": "5. What does the woman want Frederick to talk about?"
+}, {
+  "StartTime": 398.27,
+  "EndTime": 417.51,
+  "Value": "6. What does the man say about the curriculum in Canadian universities?"
+}, {
+  "StartTime": 417.51,
+  "EndTime": 434.87,
+  "Value": "7. On what point do the speakers agree?"
+}, {
+  "StartTime": 434.87,
+  "EndTime": 453.12,
+  "Value": "8. What point does the man make at the end of the conversation?"
+}, {
+  "StartTime": 453.12,
+  "EndTime": 455,
+  "Value": "Section B"
+}, {
+  "StartTime": 455,
+  "EndTime": 459.56,
+  "Value": "Directions: In this section, you will hear two passages."
+}, {
+  "StartTime": 459.56,
+  "EndTime": 464.17,
+  "Value": "At the end of each passage, you will hear three or four questions."
+}, {
+  "StartTime": 464.17,
+  "EndTime": 468.39,
+  "Value": "Both the passage and the questions will be spoken only once."
+}, {
+  "StartTime": 468.39,
+  "EndTime": 476.96,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 476.96,
+  "EndTime": 483.49,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 483.49,
+  "EndTime": 485.84,
+  "Value": "Passage One"
+}, {
+  "StartTime": 485.84,
+  "EndTime": 503.49,
+  "Value": "A recent International Labour Organization report says the deterioration of real wages around the world calls into question the true extent of an economic recovery, especially if government rescue packages are phased out too early."
+}, {
+  "StartTime": 503.49,
+  "EndTime": 512.43,
+  "Value": "The report warns the picture on wages is likely to get worse this year, despite indications of an economic rebound."
+}, {
+  "StartTime": 512.43,
+  "EndTime": 522.77,
+  "Value": "Patrick Belser, an International Labour Organization specialist, says declining wage rates are linked to the levels of unemployment."
+}, {
+  "StartTime": 522.77,
+  "EndTime": 542.19,
+  "Value": "“The quite dramatic unemployment figures, which we now see in some of the countries, strongly suggest that there will be greater pressure on wages in the future as more people will be unemployed, more people will be looking for jobs and the pressure on employers to raise wages to attract workers will decline."
+}, {
+  "StartTime": 542.19,
+  "EndTime": 557.4,
+  "Value": "So,we expect that the second part of the year will not be very good in terms of wage growth. ” The report finds more than a quarter of the countries experienced flat or falling monthly wages in real terms."
+}, {
+  "StartTime": 557.4,
+  "EndTime": 565.21,
+  "Value": "They include, the United States, Austria, Costa Rica, South Africa and Germany."
+}, {
+  "StartTime": 565.21,
+  "EndTime": 576.75,
+  "Value": "International Labour Organization economists say some nations have come up with polices to lessen the impact of lower wages during the economic crisis."
+}, {
+  "StartTime": 576.75,
+  "EndTime": 589.03,
+  "Value": "An example of these is work sharing with government subsidies. Under this scheme, the number of individual working hours is reduced in an effort to avoid layoffs."
+}, {
+  "StartTime": 589.03,
+  "EndTime": 598.17,
+  "Value": "For this scheme to work, the government must provide wage subsidies to compensate for lost pay due to the shorter hours."
+}, {
+  "StartTime": 598.17,
+  "EndTime": 600.2,
+  "Value": "Questions 9 to 11 are based on"
+}, {
+  "StartTime": 600.2,
+  "EndTime": 602.92,
+  "Value": "the passage you have just heard."
+}, {
+  "StartTime": 602.92,
+  "EndTime": 622.46,
+  "Value": "9. What is the International Labour Organization report mainly about?"
+}, {
+  "StartTime": 622.46,
+  "EndTime": 645.75,
+  "Value": "10. According to an International Labour Organization specialist, how will employers feel if there are more people looking for jobs?"
+}, {
+  "StartTime": 645.75,
+  "EndTime": 663.7,
+  "Value": "11. What does the speaker mean by the work-sharing scheme?"
+}, {
+  "StartTime": 663.7,
+  "EndTime": 665.56,
+  "Value": "Passage Two"
+}, {
+  "StartTime": 665.56,
+  "EndTime": 670.65,
+  "Value": "Is there really a magic memory pill or a herbal recall remedy?"
+}, {
+  "StartTime": 670.65,
+  "EndTime": 675.27,
+  "Value": "I have been frequently asked if these memory supplements work."
+}, {
+  "StartTime": 675.27,
+  "EndTime": 685.5,
+  "Value": "You know, one of the first things I like to tell people when they ask me about these supplements is that a lot of them are promoted as a cure for your memory."
+}, {
+  "StartTime": 685.5,
+  "EndTime": 688.36,
+  "Value": "But your memory doesn't need a cure."
+}, {
+  "StartTime": 688.36,
+  "EndTime": 691.27,
+  "Value": "What your memory needs is a good workout."
+}, {
+  "StartTime": 691.27,
+  "EndTime": 697.99,
+  "Value": "So really those supplements aren't going to give you that perfect memory in the way that they promise."
+}, {
+  "StartTime": 697.99,
+  "EndTime": 707.19,
+  "Value": "The other thing is that a lot of these supplements aren't necessarily what they claim to be, and you really have to be wary when you take any of them."
+}, {
+  "StartTime": 707.19,
+  "EndTime": 710.69,
+  "Value": "The science isn't there behind most of them."
+}, {
+  "StartTime": 710.69,
+  "EndTime": 715.74,
+  "Value": "They're not really well-regulated unless they adhere to some industry standard."
+}, {
+  "StartTime": 715.74,
+  "EndTime": 719.87,
+  "Value": "You don't really know that what they say is in there is in there."
+}, {
+  "StartTime": 719.87,
+  "EndTime": 728.34,
+  "Value": "What you must understand is that those supplements, especially in some eastern cultures, are part of a medical practice tradition."
+}, {
+  "StartTime": 728.34,
+  "EndTime": 733.07,
+  "Value": "People don't just go in a local grocery store and buy these supplements."
+}, {
+  "StartTime": 733.07,
+  "EndTime": 741.29,
+  "Value": "In fact, they are prescribed and they're given at a certain level, a dosage that is understood by a practitioner who's been trained."
+}, {
+  "StartTime": 741.29,
+  "EndTime": 745.13,
+  "Value": "And that's not really the way they're used in this country."
+}, {
+  "StartTime": 745.13,
+  "EndTime": 751.35,
+  "Value": "The other thing people do forget is that these are medicines, so they do have an impact."
+}, {
+  "StartTime": 751.35,
+  "EndTime": 767.4,
+  "Value": "A lot of times people are not really aware of the impact they have, or the fact that taking them in combination with other medications might put you at an increased risk for something that you wouldn't otherwise be countering or be at risk for."
+}, {
+  "StartTime": 767.4,
+  "EndTime": 769.86,
+  "Value": "Questions 12 to 15 are based on"
+}, {
+  "StartTime": 769.86,
+  "EndTime": 772.87,
+  "Value": "the passage you have just heard."
+}, {
+  "StartTime": 772.87,
+  "EndTime": 791.04,
+  "Value": "12. What question is frequently put to the speaker?"
+}, {
+  "StartTime": 791.04,
+  "EndTime": 810.01,
+  "Value": "13. What does the speaker say about most memory supplements?"
+}, {
+  "StartTime": 810.01,
+  "EndTime": 829.43,
+  "Value": "14. What do we learn about memory supplements in eastern cultures?"
+}, {
+  "StartTime": 829.43,
+  "EndTime": 849.13,
+  "Value": "15. What does the speaker say about memory supplements at the end?"
+}, {
+  "StartTime": 849.13,
+  "EndTime": 850.64,
+  "Value": "Section C"
+}, {
+  "StartTime": 850.64,
+  "EndTime": 859.83,
+  "Value": "Directions: In this section, you will hear three recordings of lectures or talks followed by three or four questions."
+}, {
+  "StartTime": 859.83,
+  "EndTime": 862.71,
+  "Value": "The recordings will be played only once."
+}, {
+  "StartTime": 862.71,
+  "EndTime": 871.02,
+  "Value": "After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D)."
+}, {
+  "StartTime": 871.02,
+  "EndTime": 877.46,
+  "Value": "Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre."
+}, {
+  "StartTime": 877.46,
+  "EndTime": 885.54,
+  "Value": "Recording One The negative impacts of natural disasters can be seen everywhere."
+}, {
+  "StartTime": 885.54,
+  "EndTime": 899.78,
+  "Value": "In just the past few weeks, the world has witnessed the destructive power of earthquakes in Indonesia, typhoons in the Philippines, and the destructive sea waves that struck Samoa and neighboring islands."
+}, {
+  "StartTime": 899.78,
+  "EndTime": 915.53,
+  "Value": "A study by the Center for Research on the Epidemiology of Disasters finds that, between 1980 and 2007, nearly 8, 400 natural disasters killed more than two million people."
+}, {
+  "StartTime": 915.53,
+  "EndTime": 922.98,
+  "Value": "These catastrophic events caused more than $1.5 trillion in economic losses."
+}, {
+  "StartTime": 922.98,
+  "EndTime": 933.31,
+  "Value": "U.N.weather expert Geoffrey Love says that is the bad news. “Over the last 50 years, economic losses have increased by a factor of 50."
+}, {
+  "StartTime": 933.31,
+  "EndTime": 944.33,
+  "Value": "That sounds pretty terrible, but the loss of life has decreased by a factor of 10 simply because we are getting better at warning people. We are making a difference."
+}, {
+  "StartTime": 944.33,
+  "EndTime": 947.98,
+  "Value": "Extreme events, however, will continue to occur."
+}, {
+  "StartTime": 947.98,
+  "EndTime": 967.24,
+  "Value": "But, the message is that they need not be disasters.” Love, who is director of Weather and Disaster Risk Reduction at the World Meteorological Organization, says most of the deaths and economic losses were caused by weather, climate, or water-related extremes."
+}, {
+  "StartTime": 967.24,
+  "EndTime": 975.45,
+  "Value": "These include droughts, floods, windstorms, strong tropical winds and wildfires."
+}, {
+  "StartTime": 975.45,
+  "EndTime": 978.54,
+  "Value": "He says extreme events will continue."
+}, {
+  "StartTime": 978.54,
+  "EndTime": 984.89,
+  "Value": "But, he says extreme events become disasters only when people fail to prepare for them."
+}, {
+  "StartTime": 984.89,
+  "EndTime": 986.86,
+  "Value": "“Many of the remedies are well-known."
+}, {
+  "StartTime": 986.86,
+  "EndTime": 992.12,
+  "Value": "From a planning perspective, it's pretty simple. Build better buildings."
+}, {
+  "StartTime": 992.12,
+  "EndTime": 994.89,
+  "Value": "Don't build where the hazards will destroy them."
+}, {
+  "StartTime": 994.89,
+  "EndTime": 1000.69,
+  "Value": "From an early-warning perspective, make sure the warnings go right down to the community level."
+}, {
+  "StartTime": 1000.69,
+  "EndTime": 1017.33,
+  "Value": "Build community action plans.” The World Meteorological Organization points to Cuba and Bangladesh as examples of countries that have successfully reduced the loss of life caused by natural disasters by taking preventive action."
+}, {
+  "StartTime": 1017.33,
+  "EndTime": 1024.24,
+  "Value": "It says tropical storms formerly claimed dozens, if not hundreds of lives, each year, in Cuba."
+}, {
+  "StartTime": 1024.24,
+  "EndTime": 1029.39,
+  "Value": "But, the development of an early-warning system has reversed that trend."
+}, {
+  "StartTime": 1029.39,
+  "EndTime": 1036.61,
+  "Value": "In 2008, Cuba was hit by five successive hurricanes, but only seven people were killed."
+}, {
+  "StartTime": 1036.61,
+  "EndTime": 1040.95,
+  "Value": "Bangladesh also has achieved substantial results."
+}, {
+  "StartTime": 1040.95,
+  "EndTime": 1050.16,
+  "Value": "Major storm surges in 1970 and 1991 caused the deaths of about 440,000 people."
+}, {
+  "StartTime": 1050.16,
+  "EndTime": 1060.79,
+  "Value": "Through careful preparation, the death toll from a super tropical storm in November 2007 was less than 3,500."
+}, {
+  "StartTime": 1060.79,
+  "EndTime": 1063.02,
+  "Value": "Questions 16 to 18 are based on"
+}, {
+  "StartTime": 1063.02,
+  "EndTime": 1065.81,
+  "Value": "the recording you have just heard."
+}, {
+  "StartTime": 1065.81,
+  "EndTime": 1083.14,
+  "Value": "16. What is the talk mainly about?"
+}, {
+  "StartTime": 1083.14,
+  "EndTime": 1102.56,
+  "Value": "17. How can we stop extreme events from turning into disasters?"
+}, {
+  "StartTime": 1102.56,
+  "EndTime": 1120.95,
+  "Value": "18. What does the example of Cuba serve to show?"
+}, {
+  "StartTime": 1120.95,
+  "EndTime": 1137.16,
+  "Value": "Recording Two As U.S. banks recovered with the help of the American government and the American taxpayer, President Obama held meetings with top bank executives, telling them it's time to return the favor."
+}, {
+  "StartTime": 1137.16,
+  "EndTime": 1144.22,
+  "Value": "“The way I see it—our banks now have a greater obligation to the goal of a wider recovery,”he said."
+}, {
+  "StartTime": 1144.22,
+  "EndTime": 1149.02,
+  "Value": "But the President may be giving the financial sector too much credit."
+}, {
+  "StartTime": 1149.02,
+  "EndTime": 1155.2,
+  "Value": "“It was in a free fall, and it was a very scary period.” Economist Martin Neil Baily said."
+}, {
+  "StartTime": 1155.2,
+  "EndTime": 1166.63,
+  "Value": "After the failure of Lehman Brothers, many of the world's largest banks feared the worst as the collapse of the housing bubble exposed investments in risky loans."
+}, {
+  "StartTime": 1166.63,
+  "EndTime": 1172.5,
+  "Value": "Although he says the worst is over, Baily says the banking crisis is not."
+}, {
+  "StartTime": 1172.5,
+  "EndTime": 1176.85,
+  "Value": "More than 130 U.S. banks failed in 2009."
+}, {
+  "StartTime": 1176.85,
+  "EndTime": 1201.49,
+  "Value": "He predicts high failure rates for smaller, regional banks in 2010 as Commercial Real Estate loans come due.“So there may actually be a worsening of credit availability to small-and medium-sized businesses in the next year or so.” Analysts say the biggest problem is high unemployment, which weakens demand and makes banks reluctant to lend."
+}, {
+  "StartTime": 1201.49,
+  "EndTime": 1206.43,
+  "Value": "But U.S. Bancorp chief Richard Davis sees the situation differently."
+}, {
+  "StartTime": 1206.43,
+  "EndTime": 1213.39,
+  "Value": "“We're probably more optimistic than the experts might be. With that in mind, we're putting in everything we can."
+}, {
+  "StartTime": 1213.39,
+  "EndTime": 1218.29,
+  "Value": "Lending is the coal to our engine, so we want to make more loans."
+}, {
+  "StartTime": 1218.29,
+  "EndTime": 1234.16,
+  "Value": "We have to find a way to qualify more people and not put ourselves at risk. ” While some economists predict continued recovery in the future, Baily says the only certainty is that banks are unlikely to make the same mistakes twice."
+}, {
+  "StartTime": 1234.16,
+  "EndTime": 1240.6,
+  "Value": "“You know, forecasting's become a very hazardous business so I don't want to commit myself too much."
+}, {
+  "StartTime": 1240.6,
+  "EndTime": 1260.91,
+  "Value": "I don't think we know exactly what's going to happen but it's certainly possible that we could get very slow growth over the next year or two. ” If the economy starts to shrink again, Baily says it would make a strong case for a second stimulus—something the Obama administration hopes will not be necessary."
+}, {
+  "StartTime": 1260.91,
+  "EndTime": 1263.22,
+  "Value": "Questions 19 to 22 are based"
+}, {
+  "StartTime": 1263.22,
+  "EndTime": 1266.03,
+  "Value": "on the recording you have just heard."
+}, {
+  "StartTime": 1266.03,
+  "EndTime": 1284.62,
+  "Value": "19. What does President Obama hope the banks will do?"
+}, {
+  "StartTime": 1284.62,
+  "EndTime": 1305.14,
+  "Value": "20. What is Martin Neil Baily's prediction about the financial situation in the future?"
+}, {
+  "StartTime": 1305.14,
+  "EndTime": 1326.47,
+  "Value": "21. What does U.S. Bancorp chief Richard Davis say about its future operation?"
+}, {
+  "StartTime": 1326.47,
+  "EndTime": 1347.46,
+  "Value": "22. What does Martin Neil Baily think of a second stimulus to the economy?"
+}, {
+  "StartTime": 1347.46,
+  "EndTime": 1359.37,
+  "Value": "Recording Three A new study has failed to find any conclusive evidence that lifestyle changes can prevent cognitive decline in older adults."
+}, {
+  "StartTime": 1359.37,
+  "EndTime": 1366.68,
+  "Value": "Still there are good reasons to make positive changes in how we live and what we eat as we age."
+}, {
+  "StartTime": 1366.68,
+  "EndTime": 1378.22,
+  "Value": "Cognitive decline is the loss of ability to learn new skills, or recall words, names, and faces that is most common as we age."
+}, {
+  "StartTime": 1378.22,
+  "EndTime": 1389.25,
+  "Value": "To reduce or avoid it, researchers have examined the effect of smoking, diet, brain-challenging games, exercise and other strategies."
+}, {
+  "StartTime": 1389.25,
+  "EndTime": 1402.69,
+  "Value": "Researchers at Duke University scrutinized more than 160 published studies and found an absence of strong evidence that any of these approaches can make a big difference."
+}, {
+  "StartTime": 1402.69,
+  "EndTime": 1406.31,
+  "Value": "Co-author James Burke helped design the study."
+}, {
+  "StartTime": 1406.31,
+  "EndTime": 1411.45,
+  "Value": "“In the observational studies we found that some of the B vitamins were beneficial."
+}, {
+  "StartTime": 1411.45,
+  "EndTime": 1430.08,
+  "Value": "Exercise, diet, cognitive stimulation showed some positive effects, although the evidence was not so strong that we could actually consider these firmly established.” Some previous studies have suggested that challenging your brain with mentally stimulating activities might help."
+}, {
+  "StartTime": 1430.08,
+  "EndTime": 1437.59,
+  "Value": "And Burke says that actually does seem to help, based on randomized studies— the researcher's gold standard."
+}, {
+  "StartTime": 1437.59,
+  "EndTime": 1442.57,
+  "Value": "“Cognitive stimulation is one of the areas where we did find some benefit."
+}, {
+  "StartTime": 1442.57,
+  "EndTime": 1460.72,
+  "Value": "The exact type of stimulation that an individual uses is not as important as being intellectually engaged.” The expert review also found insufficient evidence to recommend any drugs or dietary supplements that could prevent or slow cognitive decline."
+}, {
+  "StartTime": 1460.72,
+  "EndTime": 1475.76,
+  "Value": "However, given that there is at least some evidence for positive effects from some of these lifestyle changes, plus other benefits apparen'tly unrelated to cognitive decline, Burke was willing to offer some recommendations."
+}, {
+  "StartTime": 1475.76,
+  "EndTime": 1500.35,
+  "Value": "“I think that by having people adopt a healthy lifestyle, both from a medical standpoint as well as nutritional and cognitive stimulation standpoint, we can reduce the incidence of cognitive decline, which will be proof that these factors are, in fact, important. ” James Burke of Duke University is one of the authors of a study reviewing previous research on cognitive decline."
+}, {
+  "StartTime": 1500.35,
+  "EndTime": 1505.51,
+  "Value": "The paper is published online by the Annals of Internal Medicine."
+}, {
+  "StartTime": 1505.51,
+  "EndTime": 1508.29,
+  "Value": "Questions 23 to 25 are based"
+}, {
+  "StartTime": 1508.29,
+  "EndTime": 1511.27,
+  "Value": "on the recording you have just heard."
+}, {
+  "StartTime": 1511.27,
+  "EndTime": 1533.27,
+  "Value": "23.According to the speaker, what might be a symptom of cognitive decline in older adults?"
+}, {
+  "StartTime": 1533.27,
+  "EndTime": 1553.72,
+  "Value": "24. According to James Burke, what does seem to help reduce cognitive decline?"
+}, {
+  "StartTime": 1553.72,
+  "EndTime": 1573.86,
+  "Value": "25. What did James Burke recommend to reduce the incidence of cognitive decline?"
+}, {
+  "StartTime": 1573.86,
+  "EndTime": 5173.86,
+  "Value": "This is the end of listening comprehension."
+}]
