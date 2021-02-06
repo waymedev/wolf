@@ -4,7 +4,11 @@ import { Link as ReactLink } from "react-router-dom";
 
 const Links = [
   {
-    name: "Dashboard",
+    name: "Audio",
+    link: "/"
+  },
+  {
+    name: "Video",
     link: "/"
   }
 ];
@@ -42,14 +46,14 @@ function TopBar() {
                   '/resource/img/logo.png'
                 }
               /></Link>
-            {/* {Links.map((link) => (
+            {Links.map((link) => (
               <NavLink key={link.name} display={{ base: 'none', md: 'flex' }}>{link}</NavLink>
             )
-            )} */}
+            )}
           </HStack>
-          <Flex alignItems={'center'}>
+          {/* <Flex alignItems={'center'}>
             <h3>Listen What You Want</h3>
-          </Flex>
+          </Flex> */}
         </Flex>
 
       </Box>

@@ -9,8 +9,16 @@ import { useParams } from "react-router-dom";
 import axios from "axios";
 
 const Player = ({ handleTime, newTime }) => {
-
   const filename = useParams().filename
+  const cet = useParams().cet
+
+  // console.log(filename)
+
+  // if (!filename) {
+  //   filename = param
+  // }
+
+  // console.log(filename)
 
   const plyr = useRef()
   const [subtitle, setSubtitle] = useState([])
