@@ -5,11 +5,11 @@ import { Link as ReactLink } from "react-router-dom";
 const Links = [
   {
     name: "Audio",
-    link: "/"
+    link: "/audio"
   },
   {
     name: "Video",
-    link: "/"
+    link: "/video"
   }
 ];
 
@@ -20,8 +20,8 @@ const NavLink = ({ children }) => {
       py={1}
       rounded={'md'}
       _hover={{ textDecoration: 'none', bg: 'gray.400' }}
-
-      href={children.link}>
+      as={ReactLink}
+      to={children.link}>
       {children.name}
     </Link>
   )

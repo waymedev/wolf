@@ -48,7 +48,7 @@ const Player = ({ handleTime, newTime }) => {
 
   // 加载字幕
   useEffect(() => {
-    axios.get(`https://cdn.jsdelivr.net/gh/orangiest/wolf/m4a/cet4/sub/${filename}.json`)
+    axios.get(`https://cdn.jsdelivr.net/gh/orangiest/wolf/m4a/${cet}/sub/${filename}.json`)
       .then(
         res => {
           setSubtitle(res.data)
@@ -88,7 +88,7 @@ const Player = ({ handleTime, newTime }) => {
       type="audio"
       sources={[
         {
-          src: `https://minio.cwm.wiki/eng/cet4/${filename}.m4a`
+          src: `https://minio.cwm.wiki/eng/${cet}/${filename}.m4a`
         }
       ]}
       debug={false}

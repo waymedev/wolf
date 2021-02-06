@@ -21,18 +21,6 @@ function Home() {
   }, [])
 
   return (
-    // <div>
-    //   {
-    //     fileList.map((value, index) => (
-    //       <Link key={index} as={ReactLink} _hover={{ textDecoration: 'none', }} to={`/res/${value.name}`} >
-    //         <Box p={2} my={2} borderRadius="md" bg={'gray.100'}>
-    //           {value.name}
-    //         </Box>
-    //       </Link>
-    //     ))
-    //   }
-    // </div>
-
     <div>
       <TabBar cet4={cet4} cet6={cet6}></TabBar>
     </div>

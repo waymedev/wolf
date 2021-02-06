@@ -6,6 +6,9 @@ import TopBar from './components/TopBar';
 import Player from './components/Player';
 import Home from './page/Home'
 import "focus-visible/dist/focus-visible"
+import Video from './components/Video';
+import Youtube from './components/Youtube';
+import UrlForm from './components/UrlForm';
 
 
 const App = () => {
@@ -17,9 +20,21 @@ const App = () => {
           <Router>
             <TopBar ></TopBar>
             <Switch>
+              <Route path="/ytb/:id">
+                {/* <Home /> */}
+                {/* <Video></Video> */}
+                <Youtube ></Youtube>
+              </Route>
               <Route path="/res/:cet/:filename">
                 <Player />
               </Route>
+              <Route path="/audio">
+                <Home />
+              </Route>
+              <Route path="/video">
+                <UrlForm></UrlForm>
+              </Route>
+
               <Route path="/">
                 <Home />
               </Route>
