@@ -3,24 +3,25 @@ import Plyr from 'plyr-react'
 import 'plyr-react/dist/plyr.css'
 import { ChevronRightIcon } from "@chakra-ui/icons";
 import { Button, HStack, Text, Box, IconButton, Switch, Flex, Center, Container } from "@chakra-ui/react";
+import ReactPlayer from 'react-player/youtube';
 
 
 
 
 const Video = ({ videoId, subtitle }) => {
 
-
+  const url = `https://www.youtube.com/watch?v=${videoId}`
 
   const ref = useRef()
   // 获取当前时间
   const [nowTime, setNowTime] = useState(0)
-  useEffect(() => {
-    const player = ref.current.plyr
-    player.captions.toggled = true
+  // useEffect(() => {
+  //   const player = ref.current.plyr
+  //   player.captions.toggled = true
 
-    console.log(player)
-    player.on("timeupdate", () => setNowTime(player.currentTime))
-  }, [])
+  //   console.log(player)
+  //   player.on("timeupdate", () => setNowTime(player.currentTime))
+  // }, [])
 
   // 当前字幕
   const [now, setNow] = useState("")
@@ -54,9 +55,13 @@ const Video = ({ videoId, subtitle }) => {
 
 
   const dispaly = () => {
-    // console.log(now, last, next);
-    ref.current.plyr.currentTime = 10
-    console.log(ref.current.plyr);
+    // // console.log(now, last, next);
+    // ref.current.plyr.currentTime = 10
+    // console.log(ref.current.plyr);
+
+    // ref.current.getInternalPlayer().playerInfo.currentTime = 100
+    ref.current.getInternalPlayer().seekTo(100)
+    console.log(ref.current.getInternalPlayer());
   }
 
   const setCurrentTime = (time) => {
@@ -90,18 +95,30 @@ const Video = ({ videoId, subtitle }) => {
       ref={ref}
     />
   ), [])
+
+  const onProgress = progress => {
+    // console.log("123");
+    // console.log(progress)
+    setNowTime(progress.playedSeconds)
+  }
   return (
     <div>
       <Container maxW="50%" my={2} >
+        <ReactPlayer url={url}
+          onProgress={onProgress}
+          ref={ref}
+          controls="true"
+        ></ReactPlayer>
         {/* <Plyr source={videoSrc} ref={ref} /> */}
-        {reactPlayer}
+        {/* {reactPlayer} */}
         {/* <button onClick={dispaly}>Buttin</button> */}
         <HStack px={2} my={2}>
           <Button onClick={() => {
-            ref.current.plyr.currentTime = last.StartTime
+            ref.current.getInternalPlayer().seekTo(last.StartTime)
           }}>Last</Button>
           <Button onClick={() => {
-            ref.current.plyr.currentTime = next.StartTime
+            ref.current.getInternalPlayer().seekTo(next.StartTime)
+
           }}>Next</Button>
           <Button onClick={() => {
             setMarked([...marked, now])
@@ -122,7 +139,7 @@ const Video = ({ videoId, subtitle }) => {
             <Box key={index} my={2} px={3} py={1} bg={'gray.100'} borderRadius="md" boxShadow="base">
               <HStack>
                 <IconButton icon={<ChevronRightIcon></ChevronRightIcon>} onClick={() => {
-                  ref.current.plyr.currentTime = mark.StartTime
+                  ref.current.getInternalPlayer().seekTo(mark.StartTime)
                 }} />
                 <Text>{mark.Value}</Text>
               </HStack>
